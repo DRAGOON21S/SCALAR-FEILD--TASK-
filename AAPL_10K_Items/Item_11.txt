@@ -1,0 +1,428 @@
+SECTION: Item 11.    Executive Compensation
+FILING DATE: 2024-11-01
+COMPANY: Apple Inc. (AAPL)
+ACCESSION: 0000320193-24-000123
+================================================================================
+
+15
+California                                                                    94-2404110                                
+(State or other jurisdictionof incorporation or organization)                 (I.R.S. Employer Identification No.)      
+One Apple Park Way                                                                                                      
+Cupertino, California                                                95014                                              
+(Address of principal executive offices)                                      (Zip Code)
+
+26
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the Registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. ☒
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. ☐
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Act).
+
+27
+Yes  ☐     No  ☒
+The aggregate market value of the voting and non-voting stock held by non-affiliates of the Registrant, as of March 29, 2024, the last business day of the Registrant’s most recently completed second fiscal quarter, was approximately $2,628,553,000,000. Solely for purposes of this disclosure, shares of common stock held by executive officers and directors of the Registrant as of such date have been excluded because such persons may be deemed to be affiliates. This determination of executive officers and directors as affiliates is not necessarily a conclusive determination for any other purposes.
+
+35
+Page
+Part I                                                                                                                                       
+Item 1.        Business                                                                                                                     1
+Item 1A.       Risk Factors                                                                                                                 5
+Item 1B.       Unresolved Staff Comments                                                                                                   17
+Item 1C.       Cybersecurity                                                                                                               17
+Item 2.        Properties                                                                                                                  18
+Item 3.        Legal Proceedings                                                                                                           18
+Item 4.        Mine Safety Disclosures                                                                                                     18
+Part II                                                                                                                                      
+Item 5.        Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities                19
+Item 6.        [Reserved]                                                                                                                  20
+Item 7.        Management’s Discussion and Analysis of Financial Condition and Results of Operations                                       21
+Item 7A.       Quantitative and Qualitative Disclosures About Market Risk                                                                  27
+Item 8.        Financial Statements and Supplementary Data                                                                                 28
+Item 9.        Changes in and Disagreements with Accountants on Accounting and Financial Disclosure                                        51
+Item 9A.       Controls and Procedures                                                                                                     51
+Item 9B.       Other Information                                                                                                           52
+Item 9C.       Disclosure Regarding Foreign Jurisdictions that Prevent Inspections                                                         52
+Part III                                                                                                                                     
+Item 10.       Directors, Executive Officers and Corporate Governance                                                                      52
+Item 11.       Executive Compensation                                                                                                      52
+Item 12.       Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters                              52
+Item 13.       Certain Relationships and Related Transactions, and Director Independence                                                   52
+Item 14.       Principal Accountant Fees and Services                                                                                      52
+Part IV                                                                                                                                      
+Item 15.       Exhibit and Financial Statement Schedules                                                                                   53
+Item 16.       Form 10-K Summary                                                                                                           56
+
+36
+This Annual Report on Form 10-K (“Form 10-K”) contains forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995, that involve risks and uncertainties. Many of the forward-looking statements are located in Part I, Item 1 of this Form 10-K under the heading “Business” and Part II, Item 7 of this Form 10-K under the heading “Management’s Discussion and Analysis of Financial Condition and Results of Operations.” Forward-looking statements provide current expectations of future events based on certain assumptions and include any statement that does not directly relate to any historical or current fact. For example, statements in this Form 10-K regarding the potential future impact of macroeconomic conditions on the Company’s business and results of operations are forward-looking statements. Forward-looking statements can also be identified by words such as “future,” “anticipates,” “believes,” “estimates,” “expects,” “intends,” “plans,” “predicts,” “will,” “would,” “could,” “can,” “may,” and similar terms. Forward-looking statements are not guarantees of future performance and the Company’s actual results may differ significantly from the results discussed in the forward-looking statements. Factors that might cause such differences include, but are not limited to, those discussed in Part I, Item 1A of this Form 10-K under the heading “Risk Factors.” The Company assumes no obligation to revise or update any forward-looking statements for any reason, except as required by law.
+Unless otherwise stated, all information presented herein is based on the Company’s fiscal calendar, and references to particular years, quarters, months or periods refer to the Company’s fiscal years ended in September and the associated quarters, months and periods of those fiscal years. Each of the terms the “Company” and “Apple” as used herein refers collectively to Apple Inc. and its wholly owned subsidiaries, unless otherwise stated.
+
+38
+Item 1.    Business
+Company Background
+The Company designs, manufactures and markets smartphones, personal computers, tablets, wearables and accessories, and sells a variety of related services. The Company’s fiscal year is the 52- or 53-week period that ends on the last Saturday of September.
+Products
+iPhone
+iPhone® is the Company’s line of smartphones based on its iOS operating system. The iPhone line includes iPhone 16 Pro, iPhone 16, iPhone 15, iPhone 14 and iPhone SE®.
+
+48
+Business Seasonality and Product Introductions
+The Company has historically experienced higher net sales in its first quarter compared to other quarters in its fiscal year due in part to seasonal holiday demand. Additionally, new product and service introductions can significantly impact net sales, cost of sales and operating expenses. The timing of product introductions can also impact the Company’s net sales to its indirect distribution channels as these channels are filled with new inventory following a product launch, and channel inventory of an older product often declines as the launch of a newer product approaches. Net sales can also be affected when consumers and distributors anticipate a product introduction.
+Human Capital
+The Company believes that its people play an important role in its success, and strives to attract, develop and retain the best talent. The Company works to create an inclusive, safe and supportive environment for all of its team members, so that its people can do the best work of their lives. As of September 28, 2024, the Company had approximately 164,000 full-time equivalent employees.
+Compensation and Benefits
+The Company believes that compensation should be competitive and equitable, and should enable employees to share in the Company’s success. The Company recognizes its people are most likely to thrive when they have the resources to meet their needs and the time and support to succeed in their professional and personal lives. In support of this, the Company offers a wide variety of benefits for employees around the world, including health, wellness and time away.
+Growth and Development
+The Company invests in resources to help its people develop and achieve their career goals. The Company offers programs through Apple University on leadership, management and influence, as well as Apple culture and values. Team members can also take advantage of online classes for business, technical and personal development, as well as learning opportunities to support their well-being.
+Workplace Practices and Policies
+The Company is an equal opportunity employer committed to inclusion and diversity and to providing a workplace free of harassment or discrimination.
+
+51
+Item 1A.    Risk Factors
+The Company’s business, reputation, results of operations, financial condition and stock price can be affected by a number of factors, whether currently known or unknown, including those described below. When any one or more of these risks materialize from time to time, the Company’s business, reputation, results of operations, financial condition and stock price can be materially and adversely affected.
+Because of the following factors, as well as other factors affecting the Company’s results of operations and financial condition, past financial performance should not be considered to be a reliable indicator of future performance, and investors should not use historical trends to anticipate results or trends in future periods. This discussion of risk factors contains forward-looking statements.
+This section should be read in conjunction with Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and the consolidated financial statements and accompanying notes in Part II, Item 8, “Financial Statements and Supplementary Data” of this Form 10-K.
+Macroeconomic and Industry Risks
+The Company’s operations and performance depend significantly on global and regional economic conditions and adverse economic conditions can materially adversely affect the Company’s business, results of operations and financial condition.
+The Company has international operations with sales outside the U.S. representing a majority of the Company’s total net sales. In addition, the Company’s global supply chain is large and complex and a majority of the Company’s supplier facilities, including manufacturing and assembly sites, are located outside the U.S. As a result, the Company’s operations and performance depend significantly on global and regional economic conditions.
+Adverse macroeconomic conditions, including slow growth or recession, high unemployment, inflation, tighter credit, higher interest rates, and currency fluctuations, can adversely impact consumer confidence and spending and materially adversely affect demand for the Company’s products and services. In addition, consumer confidence and spending can be materially adversely affected in response to changes in fiscal and monetary policy, financial market volatility, declines in income or asset values, and other economic factors.
+In addition to an adverse impact on demand for the Company’s products and services, uncertainty about, or a decline in, global or regional economic conditions can have a significant impact on the Company’s suppliers, contract manufacturers, logistics providers, distributors, cellular network carriers and other channel partners, and developers. Potential outcomes include financial instability; inability to obtain credit to finance business operations; and insolvency.
+Adverse economic conditions can also lead to increased credit and collectibility risk on the Company’s trade receivables; the failure of derivative counterparties and other financial institutions; limitations on the Company’s ability to issue new debt; reduced liquidity; and declines in the fair values of the Company’s financial instruments. These and other impacts can materially adversely affect the Company’s business, results of operations, financial condition and stock price.
+Apple Inc. | 2024 Form 10-K | 5
+
+
+The Company’s business can be impacted by political events, trade and other international disputes, geopolitical tensions, conflict, terrorism, natural disasters, public health issues, industrial accidents and other business interruptions.
+Political events, trade and other international disputes, geopolitical tensions, conflict, terrorism, natural disasters, public health issues, industrial accidents and other business interruptions can have a material adverse effect on the Company and its customers, employees, suppliers, contract manufacturers, logistics providers, distributors, cellular network carriers and other channel partners.
+The Company has a large, global business with sales outside the U.S. representing a majority of the Company’s total net sales, and the Company believes that it generally benefits from growth in international trade. Substantially all of the Company’s manufacturing is performed in whole or in part by outsourcing partners located primarily in China mainland, India, Japan, South Korea, Taiwan and Vietnam. Restrictions on international trade, such as tariffs and other controls on imports or exports of goods, technology or data, can materially adversely affect the Company’s business and supply chain. The impact can be particularly significant if these restrictive measures apply to countries and regions where the Company derives a significant portion of its revenues and/or has significant supply chain operations. Restrictive measures can increase the cost of the Company’s products and the components and raw materials that go into them, and can require the Company to take various actions, including changing suppliers, restructuring business relationships and operations, and ceasing to offer and distribute affected products, services and third-party applications to its customers. Changing the Company’s business and supply chain in accordance with new or changed restrictions on international trade can be expensive, time-consuming and disruptive to the Company’s operations. Such restrictions can be announced with little or no advance notice, which can create uncertainty, and the Company may not be able to effectively mitigate all adverse impacts from such measures. For example, tensions between governments, including the U.S. and China, have in the past led to tariffs and other restrictions affecting the Company’s business. If disputes and conflicts further escalate in the future, actions by governments in response could be significantly more severe and restrictive and could materially adversely affect the Company’s business.
+Many of the Company’s operations and facilities, as well as critical business operations of the Company’s suppliers and contract manufacturers, are in locations that are prone to earthquakes and other natural disasters. Global climate change is resulting in certain types of natural disasters and extreme weather occurring more frequently or with more intense effects. In addition, the Company’s and its suppliers’ operations and facilities are subject to the risk of interruption by fire, power shortages, nuclear power plant accidents and other industrial accidents, terrorist attacks and other hostile acts, ransomware and other cybersecurity attacks, labor disputes, public health issues and other events beyond the Company’s control. For example, global supply chains can be highly concentrated and geopolitical tensions or conflict could result in significant disruptions.
+Such events can make it difficult or impossible for the Company to manufacture and deliver products to its customers, create delays and inefficiencies in the Company’s supply and manufacturing chain, result in slowdowns and outages to the Company’s service offerings, increase the Company’s costs, and negatively impact consumer spending and demand in affected areas.
+The Company’s operations are also subject to the risks of industrial accidents at its suppliers and contract manufacturers. While the Company’s suppliers are required to maintain safe working environments and operations, an industrial accident could occur and could result in serious injuries or loss of life, disruption to the Company’s business, and harm to the Company’s reputation. Major public health issues, including pandemics such as the COVID-19 pandemic, have adversely affected, and could in the future materially adversely affect, the Company due to their impact on the global economy and demand for consumer products; the imposition of protective public safety measures, such as stringent employee travel restrictions and limitations on freight services and the movement of products between regions; and disruptions in the Company’s operations, supply chain and sales and distribution channels, resulting in interruptions to the supply of current products and offering of existing services, and delays in production ramps of new products and development of new services.
+Following any interruption to its business, the Company can require substantial recovery time, experience significant expenditures to resume operations, and lose significant sales. Because the Company relies on single or limited sources for the supply and manufacture of many critical components, a business interruption affecting such sources would exacerbate any negative consequences to the Company. While the Company maintains insurance coverage for certain types of losses, such insurance coverage may be insufficient to cover all losses that may arise.
+Apple Inc. | 2024 Form 10-K | 6
+
+
+Global markets for the Company’s products and services are highly competitive and subject to rapid technological change, and the Company may be unable to compete effectively in these markets.
+The Company’s products and services are offered in highly competitive global markets characterized by aggressive price competition and resulting downward pressure on gross margins, frequent introduction of new products and services, short product life cycles, evolving industry standards, continual improvement in product price and performance characteristics, rapid adoption of technological advancements by competitors, and price sensitivity on the part of consumers and businesses.
+The Company’s ability to compete successfully depends heavily on ensuring the continuing and timely introduction of innovative new products, services and technologies to the marketplace. The Company designs and develops nearly the entire solution for its products, including the hardware, operating system, numerous software applications and related services. As a result, the Company must make significant investments in R&D. There can be no assurance these investments will achieve expected returns, and the Company may not be able to develop and market new products and services successfully.
+The Company currently holds a significant number of patents, trademarks and copyrights and has registered, and applied to register, additional patents, trademarks and copyrights. In contrast, many of the Company’s competitors seek to compete primarily through aggressive pricing and very low cost structures, and by imitating the Company’s products and infringing on its intellectual property. Effective intellectual property protection is not consistently available in every country in which the Company operates. If the Company is unable to continue to develop and sell innovative new products with attractive margins or if competitors infringe on the Company’s intellectual property, the Company’s ability to maintain a competitive advantage could be materially adversely affected.
+The Company has a minority market share in the global smartphone, personal computer and tablet markets. The Company faces substantial competition in these markets from companies that have significant technical, marketing, distribution and other resources, as well as established hardware, software and digital content supplier relationships. In addition, some of the Company’s competitors have broader product lines, lower-priced products and a larger installed base of active devices. Competition has been particularly intense as competitors have aggressively cut prices and lowered product margins. Certain competitors have the resources, experience or cost structures to provide products at little or no profit or even at a loss. Some of the markets in which the Company competes have from time to time experienced little to no growth or contracted overall.
+Additionally, the Company faces significant competition as competitors imitate the Company’s product features and applications within their products or collaborate to offer solutions that are more competitive than those they currently offer. The Company also expects competition to intensify as competitors imitate the Company’s approach to providing components seamlessly within their offerings or work collaboratively to offer integrated solutions.
+The Company’s services also face substantial competition, including from companies that have significant resources and experience and have established service offerings with large customer bases. The Company competes with business models that provide content to users for free. The Company also competes with illegitimate means to obtain third-party digital content and applications.
+The Company’s business, results of operations and financial condition depend substantially on the Company’s ability to continually improve its products and services to maintain their functional and design advantages. There can be no assurance the Company will be able to continue to provide products and services that compete effectively.
+Business Risks
+To remain competitive and stimulate customer demand, the Company must successfully manage frequent introductions and transitions of products and services.
+Due to the highly volatile and competitive nature of the markets and industries in which the Company competes, the Company must continually introduce new products, services and technologies, enhance existing products and services, effectively stimulate customer demand for new and upgraded products and services, and successfully manage the transition to these new and upgraded products and services. The success of new product and service introductions depends on a number of factors, including timely and successful development, market acceptance, the Company’s ability to manage the risks associated with new technologies and production ramp-up issues, the availability of application software or other third-party support for the Company’s products and services, the effective management of purchase commitments and inventory levels in line with anticipated product demand, the availability of products in appropriate quantities and at expected costs to meet anticipated demand, and the risk that new products and services may have quality or other defects or deficiencies. New products, services and technologies may replace or supersede existing offerings and may produce lower revenues and lower profit margins, which can materially adversely impact the Company’s business, results of operations and financial condition. There can be no assurance the Company will successfully manage future introductions and transitions of products and services.
+Apple Inc. | 2024 Form 10-K | 7
+
+
+The Company depends on component and product manufacturing and logistical services provided by outsourcing partners, many of which are located outside of the U.S.
+Substantially all of the Company’s manufacturing is performed in whole or in part by outsourcing partners located primarily in China mainland, India, Japan, South Korea, Taiwan and Vietnam, and a significant concentration of this manufacturing is currently performed by a small number of outsourcing partners, often in single locations. The Company has also outsourced much of its transportation and logistics management. While these arrangements can lower operating costs, they also reduce the Company’s direct control over production and distribution. Such diminished control has from time to time and may in the future have an adverse effect on the quality or quantity of products manufactured or services provided, or adversely affect the Company’s flexibility to respond to changing conditions. Although arrangements with these partners may contain provisions for product defect expense reimbursement, the Company generally remains responsible to the consumer for warranty and out-of-warranty service in the event of product defects and experiences unanticipated product defect liabilities from time to time. While the Company relies on its partners to adhere to its supplier code of conduct, violations of the supplier code of conduct occur from time to time and can materially adversely affect the Company’s business, reputation, results of operations and financial condition.
+The Company relies on single-source outsourcing partners in the U.S., Asia and Europe to supply and manufacture many components, and on outsourcing partners primarily located in Asia, for final assembly of substantially all of the Company’s hardware products. Any failure of these partners to perform can have a negative impact on the Company’s cost or supply of components or finished goods. In addition, manufacturing or logistics in these locations or transit to final destinations can be disrupted for a variety of reasons, including natural and man-made disasters, information technology system failures, commercial disputes, economic, business, labor, environmental, public health or political issues, trade and other international disputes, geopolitical tensions, or conflict.
+The Company has invested in manufacturing process equipment, much of which is held at certain of its outsourcing partners, and has made prepayments to certain of its suppliers associated with long-term supply agreements. While these arrangements help ensure the supply of components and finished goods, if these outsourcing partners or suppliers experience severe financial problems or other disruptions in their business, such continued supply can be disrupted or terminated, and the recoverability of manufacturing process equipment or prepayments can be negatively impacted.
+Changes or additions to the Company’s supply chain require considerable time and resources and involve significant risks and uncertainties, including exposure to additional regulatory and operational risks.
+
+55
+Apple Inc. | 2024 Form 10-K | 9
+
+
+The Company’s future performance depends in part on support from third-party software developers.
+The Company believes decisions by customers to purchase its hardware products depend in part on the availability of third-party software applications and services. There can be no assurance third-party developers will continue to develop and maintain software applications and services for the Company’s products. If third-party software applications and services cease to be developed and maintained for the Company’s products, customers may choose not to buy the Company’s products.
+The Company believes the availability of third-party software applications and services for its products depends in part on the developers’ perception and analysis of the relative benefits of developing, maintaining and upgrading such software and services for the Company’s products compared to competitors’ platforms, such as Android for smartphones and tablets, Windows for personal computers and tablets, and PlayStation, Nintendo and Xbox for gaming platforms. This analysis may be based on factors such as the market position of the Company and its products, the anticipated revenue that may be generated, expected future growth of product sales, and the costs of developing such applications and services.
+The Company’s minority market share in the global smartphone, personal computer and tablet markets can make developers less inclined to develop or upgrade software for the Company’s products and more inclined to devote their resources to developing and upgrading software for competitors’ products with larger market share. When developers focus their efforts on these competing platforms, the availability and quality of applications for the Company’s devices can suffer.
+The Company relies on the continued availability and development of compelling and innovative software applications for its products. The Company’s products and operating systems are subject to rapid technological change, and when third-party developers are unable to or choose not to keep up with this pace of change, their applications can fail to take advantage of these changes to deliver improved customer experiences, can operate incorrectly, and can result in dissatisfied customers and lower customer demand for the Company’s products.
+The Company distributes third-party applications for its products through the App Store. For the vast majority of applications, developers keep all of the revenue they generate on the App Store. Where applicable, the Company retains a commission from sales of applications and sales of digital services or goods initiated within an application. From time to time, the Company has made changes to its products and services, including taking actions in response to litigation, competition, market conditions and legal and regulatory requirements, and expects to make further business changes in the future. For example, in the U.S., the Company has implemented changes to how developers communicate with consumers within apps on the U.S. storefront of the iOS and iPadOS App Store regarding alternative purchasing mechanisms. The Company has also implemented changes to iOS, iPadOS, the App Store and Safari® in the European Union (“EU”) as it seeks to comply with the Digital Markets Act (the “DMA”), including new business terms and alternative fee structures for iOS and iPadOS apps, alternative methods of distribution for iOS and iPadOS apps, alternative payment processing for apps across the Company’s operating systems, and additional tools and application programming interfaces (“APIs”) for developers. Changes to the Company’s products and services could materially adversely affect the Company’s business, results of operations and financial condition, including if such business changes result in reduced App Store or other sales, reductions in the rate of the commission that the Company retains on such sales, or if the rate of the commission is otherwise narrowed in scope or eliminated.
+Failure to obtain or create digital content that appeals to the Company’s customers, or to make such content available on commercially reasonable terms, could have a material adverse impact on the Company’s business, results of operations and financial condition.
+The Company contracts with numerous third parties to offer their digital content to customers. This includes the right to sell, or offer subscriptions to, third-party content, as well as the right to incorporate specific content into the Company’s own services. The licensing or other distribution arrangements for this content can be for relatively short time periods and do not guarantee the continuation or renewal of these arrangements on commercially reasonable terms, or at all. Some third-party content providers and distributors currently or in the future may offer competing products and services, and can take actions to make it difficult or impossible for the Company to license or otherwise distribute their content. Other content owners, providers or distributors may seek to limit the Company’s access to, or increase the cost of, such content. The Company may be unable to continue to offer a wide variety of content at commercially reasonable prices with acceptable usage rules.
+The Company also produces its own digital content, which can be costly to produce due to intense and increasing competition for talent, content and subscribers, and may fail to appeal to the Company’s customers.
+Some third-party digital content providers require the Company to provide digital rights management and other security solutions. If requirements change, the Company may have to develop or license new technology to provide these solutions. There can be no assurance the Company will be able to develop or license such solutions at a reasonable cost and in a timely manner.
+Apple Inc. | 2024 Form 10-K | 10
+
+
+The Company’s success depends largely on the talents and efforts of its team members, the continued service and availability of highly skilled employees, including key personnel, and the Company’s ability to nurture its distinctive and inclusive culture.
+Much of the Company’s future success depends on the talents and efforts of its team members and the continued availability and service of key personnel, including its Chief Executive Officer, executive team and other highly skilled employees. Experienced personnel in the technology industry are in high demand and competition for their talents is intense, especially in Silicon Valley, where most of the Company’s key personnel are located. In addition to intense competition for talent, workforce dynamics are constantly evolving. If the Company does not manage changing workforce dynamics effectively, it could materially adversely affect the Company’s culture, reputation and operational flexibility.
+The Company believes that its distinctive and inclusive culture is a significant driver of its success. If the Company is unable to nurture its culture, it could materially adversely affect the Company’s ability to recruit and retain the highly skilled employees who are critical to its success, and could otherwise materially adversely affect the Company’s business, reputation, results of operations and financial condition.
+
+69
+Item 2.    Properties
+The Company’s headquarters is located in Cupertino, California. As of September 28, 2024, the Company owned or leased facilities and land for corporate functions, R&D, data centers, retail and other purposes at locations throughout the U.S. and in various places outside the U.S. The Company believes its existing facilities and equipment, which are used by all reportable segments, are in good operating condition and are suitable for the conduct of its business.
+
+70
+Item 3.    Legal Proceedings
+Digital Markets Act Investigations
+On March 25, 2024, the Commission announced that it had opened two formal noncompliance investigations against the Company under the DMA. The Commission’s investigations concern (1) Article 5(4) of the DMA, which relates to how developers may communicate and promote offers to end users for apps distributed through the App Store as well as how developers may conclude contracts with those end users; and (2) Article 6(3) of the DMA, which relates to default settings, uninstallation of apps, and a web browser choice screen on iOS. On June 24, 2024, the Commission announced its preliminary findings in the Article 5(4) investigation alleging that the Company’s App Store rules are in breach of the DMA and announced that it had opened a third formal investigation against the Company regarding whether the Company’s new contractual requirements for third-party app developers and app marketplaces may violate the DMA. If the Commission makes a final determination that there has been a violation, it can issue a cease and desist order and may impose fines up to 10% of the Company’s annual worldwide net sales. Although any decision by the Commission can be appealed to the General Court of the EU, the effectiveness of the Commission’s order would apply immediately while the appeal is pending, unless a stay of the order is granted. The Company believes that it complies with the DMA and has continued to make changes to its compliance plan in response to feedback and engagement with the Commission.
+Department of Justice Lawsuit
+On March 21, 2024, the U.S. Department of Justice (the “DOJ”) and a number of state and district attorneys general filed a civil antitrust lawsuit in the U.S. District Court for the District of New Jersey against the Company alleging monopolization or attempted monopolization in the markets for “performance smartphones” and “smartphones” in violation of U.S. antitrust laws. The DOJ is seeking equitable relief to redress the alleged anticompetitive behavior. In addition, various civil litigation matters have been filed in state and federal courts in the U.S. alleging similar violations of U.S. antitrust laws and seeking monetary damages and other nonmonetary relief. The Company believes it has substantial defenses and intends to vigorously defend itself.
+Epic Games
+Epic Games, Inc. (“Epic”) filed a lawsuit in the U.S. District Court for the Northern District of California (the “California District Court”) against the Company alleging violations of federal and state antitrust laws and California’s unfair competition law based upon the Company’s operation of its App Store. The California District Court found that certain provisions of the Company’s App Store Review Guidelines violate California’s unfair competition law and issued an injunction enjoining the Company from prohibiting developers from including in their apps external links that direct customers to purchasing mechanisms other than Apple in-app purchasing. The injunction applies to apps on the U.S. storefront of the iOS and iPadOS App Store. On January 16, 2024, the Company implemented a plan to comply with the injunction and filed a statement of compliance with the California District Court. A motion by Epic disputing the Company’s compliance plan and seeking to enforce the injunction, which the Company has opposed, is pending before the California District Court. On September 30, 2024, the Company filed a motion with the California District Court to narrow or vacate the injunction. The Company believes it has substantial defenses and intends to vigorously defend itself.
+Other Legal Proceedings
+The Company is subject to other legal proceedings and claims that have not been fully resolved and that have arisen in the ordinary course of business. The Company settled certain matters during the fourth quarter of 2024 that did not individually or in the aggregate have a material impact on the Company’s financial condition or operating results. The outcome of litigation is inherently uncertain. If one or more legal matters were resolved against the Company in a reporting period for amounts above management’s expectations, the Company’s financial condition and operating results for that reporting period could be materially adversely affected.
+
+71
+Item 4.    Mine Safety Disclosures
+
+75
+Item 5.    Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+
+84
+Item 6.    [Reserved]
+Apple Inc. | 2024 Form 10-K | 20
+
+85
+Item 7.    Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion should be read in conjunction with the consolidated financial statements and accompanying notes included in Part II, Item 8 of this Form 10-K. This Item generally discusses 2024 and 2023 items and year-to-year comparisons between 2024 and 2023. Discussions of 2022 items and year-to-year comparisons between 2023 and 2022 are not included, and can be found in “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Part II, Item 7 of the Company’s Annual Report on Form 10-K for the fiscal year ended September 30, 2023.
+Product, Service and Software Announcements
+The Company announces new product, service and software offerings at various times during the year. Significant announcements during fiscal year 2024 included the following:
+
+113
+The Company’s effective tax rate for 2024 was higher than the statutory federal income tax rate due primarily to a one-time income tax charge of $10.2 billion, net, related to the State Aid Decision (refer to Note 7, “Income Taxes” in the Notes to Consolidated Financial Statements in Part II, Item 8 of this Form 10-K) and state income taxes, partially offset by a lower effective tax rate on foreign earnings, the impact of the U.S. federal R&D credit, and tax benefits from share-based compensation.
+The Company’s effective tax rate for 2024 was higher compared to 2023 due primarily to a one-time income tax charge of $10.2 billion, net, related to the State Aid Decision, a higher effective tax rate on foreign earnings and lower tax benefits from share-based compensation.
+
+118
+Income Taxes
+In December 2023, the Financial Accounting Standards Board (the “FASB”) issued Accounting Standards Update (“ASU”) No. 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures (“ASU 2023-09”), which will require the Company to disclose specified additional information in its income tax rate reconciliation and provide additional information for reconciling items that meet a quantitative threshold. ASU 2023-09 will also require the Company to disaggregate its income taxes paid disclosure by federal, state and foreign taxes, with further disaggregation required for significant individual jurisdictions. The Company will adopt ASU 2023-09 in its fourth quarter of 2026 using a prospective transition method.
+Segment Reporting
+In November 2023, the FASB issued ASU No. 2023-07, Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures (“ASU 2023-07”), which will require the Company to disclose segment expenses that are significant and regularly provided to the Company’s chief operating decision maker (“CODM”). In addition, ASU 2023-07 will require the Company to disclose the title and position of its CODM and how the CODM uses segment profit or loss information in assessing segment performance and deciding how to allocate resources. The Company will adopt ASU 2023-07 in its fourth quarter of 2025 using a retrospective transition method.
+Critical Accounting Estimates
+The preparation of financial statements and related disclosures in conformity with U.S. generally accepted accounting principles (“GAAP”) and the Company’s discussion and analysis of its financial condition and operating results require the Company’s management to make judgments, assumptions and estimates that affect the amounts reported. Note 1, “Summary of Significant Accounting Policies” of the Notes to Consolidated Financial Statements in Part II, Item 8 of this Form 10-K describes the significant accounting policies and methods used in the preparation of the Company’s consolidated financial statements. Management bases its estimates on historical experience and on various other assumptions it believes to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities.
+Uncertain Tax Positions
+The Company is subject to income taxes in the U.S. and numerous foreign jurisdictions. The evaluation of the Company’s uncertain tax positions involves significant judgment in the interpretation and application of GAAP and complex domestic and international tax laws, including the TCJA and the allocation of international taxation rights between countries. Although management believes the Company’s reserves are reasonable, no assurance can be given that the final outcome of these uncertainties will not be different from that reflected in the Company’s reserves. Reserves are adjusted considering changing facts and circumstances, such as the closing of a tax examination. Resolution of these uncertainties in a manner inconsistent with management’s expectations could have a material impact on the Company’s financial condition and operating results.
+Legal and Other Contingencies
+The Company is subject to various legal proceedings and claims that arise in the ordinary course of business, the outcomes of which are inherently uncertain. The Company records a liability when it is probable that a loss has been incurred and the amount is reasonably estimable, the determination of which requires significant judgment. Resolution of legal matters in a manner inconsistent with management’s expectations could have a material impact on the Company’s financial condition and operating results.
+Apple Inc. | 2024 Form 10-K | 26
+
+122
+Item 8.    Financial Statements and Supplementary Data
+
+143
+Years ended
+                                                                                   September 28,                 September 30,                 September 24,
+                                                                                            2024                          2023                          2022
+Total shareholders’ equity, beginning balances                                    $62,146                       $50,672                       $63,090       
+Common stock and additional paid-in capital:                                                                                                                
+Beginning balances                                                                 73,812                        64,849                        57,365       
+Common stock issued                                                                 1,423                         1,346                         1,175       
+Common stock withheld related to net share settlement of equity awards            (3,993)                       (3,521)                       (2,971)       
+Share-based compensation                                                           12,034                        11,138                         9,280       
+Ending balances                                                                    83,276                        73,812                        64,849       
+Retained earnings/(Accumulated deficit):                                                                                                                    
+Beginning balances                                                                  (214)                       (3,068)                         5,562       
+Net income                                                                         93,736                        96,995                        99,803       
+Dividends and dividend equivalents declared                                      (15,218)                      (14,996)                      (14,793)       
+Common stock withheld related to net share settlement of equity awards            (1,612)                       (2,099)                       (3,454)       
+Common stock repurchased                                                         (95,846)                      (77,046)                      (90,186)       
+Ending balances                                                                  (19,154)                         (214)                       (3,068)       
+Accumulated other comprehensive income/(loss):                                                                                                              
+Beginning balances                                                               (11,452)                      (11,109)          163                        
+Other comprehensive income/(loss)                                                   4,280                         (343)                      (11,272)       
+Ending balances                                                                   (7,172)                      (11,452)                      (11,109)       
+Total shareholders’ equity, ending balances                                       $56,950                       $62,146                       $50,672       
+Dividends and dividend equivalents declared per share or RSU                        $0.98                         $0.94                         $0.90
+
+148
+Years ended
+                                                                                                     September 28,                 September 30,                 September 24,
+                                                                                                              2024                          2023                          2022
+Cash, cash equivalents, and restricted cash and cash equivalents, beginning balances                $30,737                       $24,977                       $35,929       
+Operating activities:                                                                                                                                                         
+Net income                                                                                           93,736                        96,995                        99,803       
+Adjustments to reconcile net income to cash generated by operating activities:                                                                                                
+Depreciation and amortization                                                                        11,445                        11,519                        11,104       
+Share-based compensation expense                                                                     11,688                        10,833                         9,038       
+Other                                                                                               (2,266)                       (2,227)                         1,006       
+Changes in operating assets and liabilities:                                                                                                                                  
+Accounts receivable, net                                                                            (3,788)                       (1,688)                       (1,823)       
+Vendor non-trade receivables                                                                        (1,356)                         1,271                       (7,520)       
+Inventories                                                                                         (1,046)                       (1,618)                         1,484       
+Other current and non-current assets                                                               (11,731)                       (5,684)                       (6,499)       
+Accounts payable                                                                                      6,020                       (1,889)                         9,448       
+Other current and non-current liabilities                                                            15,552                         3,031                         6,110       
+Cash generated by operating activities                                                              118,254                       110,543                       122,151       
+Investing activities:                                                                                                                                                         
+Purchases of marketable securities                                                                 (48,656)                      (29,513)                      (76,923)       
+Proceeds from maturities of marketable securities                                                    51,211                        39,686                        29,917       
+Proceeds from sales of marketable securities                                                         11,135                         5,828                        37,446       
+Payments for acquisition of property, plant and equipment                                           (9,447)                      (10,959)                      (10,708)       
+Other                                                                                               (1,308)                       (1,337)                       (2,086)       
+Cash generated by/(used in) investing activities                                                      2,935                         3,705                      (22,354)       
+Financing activities:                                                                                                                                                         
+Payments for taxes related to net share settlement of equity awards                                 (5,441)                       (5,431)                       (6,223)       
+Payments for dividends and dividend equivalents                                                    (15,234)                      (15,025)                      (14,841)       
+Repurchases of common stock                                                                        (94,949)                      (77,550)                      (89,402)       
+Proceeds from issuance of term debt, net                                                                  —                         5,228                         5,465       
+Repayments of term debt                                                                             (9,958)                      (11,151)                       (9,543)       
+Proceeds from/(Repayments of) commercial paper, net                                                   3,960                       (3,978)                         3,955       
+Other                                                                                                 (361)                         (581)                         (160)       
+Cash used in financing activities                                                                 (121,983)                     (108,488)                     (110,749)       
+Increase/(Decrease) in cash, cash equivalents, and restricted cash and cash equivalents               (794)                         5,760                      (10,952)       
+Cash, cash equivalents, and restricted cash and cash equivalents, ending balances                   $29,943                       $30,737                       $24,977       
+Supplemental cash flow disclosure:                                                                                                                                            
+Cash paid for income taxes, net                                                                     $26,102                       $18,679                       $19,573
+
+153
+Note 1 – Summary of Significant Accounting Policies
+Basis of Presentation and Preparation
+The consolidated financial statements include the accounts of Apple Inc. and its wholly owned subsidiaries. The preparation of these consolidated financial statements and accompanying notes in conformity with GAAP requires the use of management estimates. Certain prior period amounts in the consolidated financial statements and accompanying notes have been reclassified to conform to the current period’s presentation.
+The Company’s fiscal year is the 52- or 53-week period that ends on the last Saturday of September. An additional week is included in the first fiscal quarter every five or six years to realign the Company’s fiscal quarters with calendar quarters, which occurred in the first fiscal quarter of 2023. The Company’s fiscal years 2024 and 2022 spanned 52 weeks each, whereas fiscal year 2023 spanned 53 weeks. Unless otherwise stated, references to particular years, quarters, months and periods refer to the Company’s fiscal years ended in September and the associated quarters, months and periods of those fiscal years.
+Revenue
+The Company records revenue net of taxes collected from customers that are remitted to governmental authorities.
+Share-Based Compensation
+The Company recognizes share-based compensation expense on a straight-line basis for its estimate of equity awards that will ultimately vest.
+
+224
+Note 11 – Share-Based Compensation
+
+225
+2022 Employee Stock Plan
+The Apple Inc. 2022 Employee Stock Plan (the “2022 Plan”) is a shareholder-approved plan that provides for broad-based equity grants to employees, including executive officers, and permits the granting of RSUs, stock grants, performance-based awards, stock options and stock appreciation rights. RSUs granted under the 2022 Plan generally vest over four years, based on continued employment, and are settled upon vesting in shares of the Company’s common stock on a one-for-one basis. All RSUs granted under the 2022 Plan have dividend equivalent rights, which entitle holders of RSUs to the same dividend value per share as holders of common stock. A maximum of approximately 1.3 billion shares were authorized for issuance pursuant to 2022 Plan awards at the time the plan was approved on March 4, 2022.
+2014 Employee Stock Plan
+The Apple Inc. 2014 Employee Stock Plan, as amended and restated (the “2014 Plan”), is a shareholder-approved plan that provided for broad-based equity grants to employees, including executive officers. The 2014 Plan permitted the granting of the same types of equity awards with substantially the same terms as the 2022 Plan. The 2014 Plan also permitted the granting of cash bonus awards. In the third quarter of 2022, the Company terminated the authority to grant new awards under the 2014 Plan.
+Apple Inc. | 2024 Form 10-K | 44
+
+228
+The fair value as of the respective vesting dates of RSUs was $15.8 billion, $15.9 billion and $18.2 billion for 2024, 2023 and 2022, respectively. The majority of RSUs that vested in 2024, 2023 and 2022 were net share settled such that the Company withheld shares with a value equivalent to the employees’ obligation for the applicable income and other employment taxes, and remitted cash to the appropriate taxing authorities. The total shares withheld were approximately 31 million, 37 million and 41 million for 2024, 2023 and 2022, respectively, and were based on the value of the RSUs on their respective vesting dates as determined by the Company’s closing stock price. Total payments to taxing authorities for employees’ tax obligations were $5.6 billion in both 2024 and 2023 and $6.4 billion in 2022.
+Share-Based Compensation
+The following table shows share-based compensation expense and the related income tax benefit included in the Consolidated Statements of Operations for 2024, 2023 and 2022 (in millions):
+
+229
+2024                                                                                  2023                      2022                   
+Share-based compensation expense                                         $11,688                   $10,833                    $9,038   
+Income tax benefit related to share-based compensation expense          $(3,350)                  $(3,421)                  $(4,002)
+
+230
+As of September 28, 2024, the total unrecognized compensation cost related to outstanding RSUs was $19.4 billion, which the Company expects to recognize over a weighted-average period of 2.4 years.
+
+241
+(1)Includes general and administrative compensation costs, various nonrecurring charges, and other separately managed costs.
+The following tables show net sales for 2024, 2023 and 2022 and long-lived assets as of September 28, 2024 and September 30, 2023 for countries that individually accounted for 10% or more of the respective totals, as well as aggregate amounts for the remaining countries (in millions):
+
+260
+Item 9.    Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+None.
+
+261
+Item 9A.    Controls and Procedures
+Evaluation of Disclosure Controls and Procedures
+Based on an evaluation under the supervision and with the participation of the Company’s management, the Company’s principal executive officer and principal financial officer have concluded that the Company’s disclosure controls and procedures as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act were effective as of September 28, 2024 to provide reasonable assurance that information required to be disclosed by the Company in reports that it files or submits under the Exchange Act is (i) recorded, processed, summarized and reported within the time periods specified in the SEC rules and forms and (ii) accumulated and communicated to the Company’s management, including its principal executive officer and principal financial officer, as appropriate to allow timely decisions regarding required disclosure.
+Inherent Limitations over Internal Controls
+The Company’s internal control over financial reporting is designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with GAAP. The Company’s internal control over financial reporting includes those policies and procedures that:
+
+262
+(i)pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the Company’s assets;
+(ii)provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with GAAP, and that the Company’s receipts and expenditures are being made only in accordance with authorizations of the Company’s management and directors; and
+(iii)provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the Company’s assets that could have a material effect on the financial statements.
+Management, including the Company’s Chief Executive Officer and Chief Financial Officer, does not expect that the Company’s internal controls will prevent or detect all errors and all fraud. A control system, no matter how well designed and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Further, the design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of internal controls can provide absolute assurance that all control issues and instances of fraud, if any, have been detected. Also, any evaluation of the effectiveness of controls in future periods are subject to the risk that those internal controls may become inadequate because of changes in business conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+263
+Management’s Annual Report on Internal Control over Financial Reporting
+The Company’s management is responsible for establishing and maintaining adequate internal control over financial reporting (as defined in Rule 13a-15(f) under the Exchange Act). Management conducted an assessment of the effectiveness of the Company’s internal control over financial reporting based on the criteria set forth in Internal Control – Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework). Based on the Company’s assessment, management has concluded that its internal control over financial reporting was effective as of September 28, 2024 to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements in accordance with GAAP. The Company’s independent registered public accounting firm, Ernst & Young LLP, has issued an audit report on the Company’s internal control over financial reporting, which appears in Part II, Item 8 of this Form 10-K.
+Changes in Internal Control over Financial Reporting
+There were no changes in the Company’s internal control over financial reporting during the fourth quarter of 2024, which were identified in connection with management’s evaluation required by paragraph (d) of Rules 13a-15 and 15d-15 under the Exchange Act, that have materially affected, or are reasonably likely to materially affect, the Company’s internal control over financial reporting.
+Apple Inc. | 2024 Form 10-K | 51
+
+268
+Item 10.    Directors, Executive Officers and Corporate Governance
+The Company has an insider trading policy governing the purchase, sale and other dispositions of the Company’s securities that applies to all Company personnel, including directors, officers, employees, and other covered persons. The Company also follows procedures for the repurchase of its securities. The Company believes that its insider trading policy and repurchase procedures are reasonably designed to promote compliance with insider trading laws, rules and regulations, and listing standards applicable to the Company. A copy of the Company’s insider trading policy is filed as Exhibit 19.1 to this Form 10-K.
+The remaining information required by this Item will be included in the Company’s definitive proxy statement to be filed with the SEC within 120 days after September 28, 2024, in connection with the solicitation of proxies for the Company’s 2025 annual meeting of shareholders (the “2025 Proxy Statement”), and is incorporated herein by reference.
+
+269
+Item 11.    Executive Compensation
+
+270
+The information required by this Item will be included in the 2025 Proxy Statement, and is incorporated herein by reference.
+
+271
+Item 12.    Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+
+272
+The information required by this Item will be included in the 2025 Proxy Statement, and is incorporated herein by reference.
+
+273
+Item 13.    Certain Relationships and Related Transactions, and Director Independence
+
+274
+The information required by this Item will be included in the 2025 Proxy Statement, and is incorporated herein by reference.
+
+275
+Item 14.    Principal Accountant Fees and Services
+
+276
+The information required by this Item will be included in the 2025 Proxy Statement, and is incorporated herein by reference.
+
+279
+Item 15.    Exhibit and Financial Statement Schedules
+
+284
+(3)Exhibits required by Item 601 of Regulation S-K (1)
+
+289
+Incorporated by Reference
+    Exhibit Number   Exhibit Description                                                                                                                                                                                                                                  Form                    Exhibit                        Filing Date/
+                                                                                                                                                                                                                                                                                                                              Period End Date
+              4.28   Officer’s Certificate of the Registrant, dated as of May 10, 2023, including forms of global notes representing the 4.421% Notes due 2026, 4.000% Notes due 2028, 4.150% Notes due 2030, 4.300% Notes due 2033 and 4.850% Notes due 2053.             8-K                        4.1                             5/10/23
+             4.29*   Apple Inc. Deferred Compensation Plan.                                                                                                                                                                                                                S-8                        4.1                             8/23/18
+             10.1*   Apple Inc. Employee Stock Purchase Plan, as amended and restated as of March 10, 2015.                                                                                                                                                                8-K                       10.1                             3/13/15
+             10.2*   Form of Indemnification Agreement between the Registrant and each director and executive officer of the Registrant.                                                                                                                                  10-Q                       10.2                             6/27/09
+             10.3*   Apple Inc. Non-Employee Director Stock Plan, as amended November 9, 2021.                                                                                                                                                                            10-Q                       10.1                            12/25/21
+             10.4*   Apple Inc. 2014 Employee Stock Plan, as amended and restated as of October 1, 2017.                                                                                                                                                                  10-K                       10.8                             9/30/17
+             10.5*   Form of Restricted Stock Unit Award Agreement under 2014 Employee Stock Plan effective as of September 26, 2017.                                                                                                                                     10-K                      10.20                             9/30/17
+             10.6*   Form of Restricted Stock Unit Award Agreement under Non-Employee Director Stock Plan effective as of February 13, 2018.                                                                                                                              10-Q                       10.2                             3/31/18
+             10.7*   Form of Restricted Stock Unit Award Agreement under 2014 Employee Stock Plan effective as of August 21, 2018.                                                                                                                                        10-K                      10.17                             9/29/18
+             10.8*   Form of Restricted Stock Unit Award Agreement under 2014 Employee Stock Plan effective as of September 29, 2019.                                                                                                                                     10-K                      10.15                             9/28/19
+             10.9*   Form of Restricted Stock Unit Award Agreement under 2014 Employee Stock Plan effective as of August 18, 2020.                                                                                                                                        10-K                      10.16                             9/26/20
+            10.10*   Form of Performance Award Agreement under 2014 Employee Stock Plan effective as of August 18, 2020.                                                                                                                                                  10-K                      10.17                             9/26/20
+            10.11*   Form of CEO Restricted Stock Unit Award Agreement under 2014 Employee Stock Plan effective as of September 27, 2020.                                                                                                                                 10-Q                       10.1                            12/26/20
+            10.12*   Form of CEO Performance Award Agreement under 2014 Employee Stock Plan effective as of September 27, 2020.                                                                                                                                           10-Q                       10.2                            12/26/20
+            10.13*   Apple Inc. 2022 Employee Stock Plan.                                                                                                                                                                                                                  8-K                       10.1                              3/4/22
+            10.14*   Form of Restricted Stock Unit Award Agreement under 2022 Employee Stock Plan effective as of March 4, 2022.                                                                                                                                           8-K                       10.2                              3/4/22
+            10.15*   Form of Performance Award Agreement under 2022 Employee Stock Plan effective as of March 4, 2022.                                                                                                                                                     8-K                       10.3                              3/4/22
+            10.16*   Apple Inc. Executive Cash Incentive Plan.                                                                                                                                                                                                             8-K                       10.1                             8/19/22
+            10.17*   Form of CEO Restricted Stock Unit Award Agreement under 2022 Employee Stock Plan effective as of September 25, 2022.                                                                                                                                 10-Q                       10.1                            12/31/22
+            10.18*   Form of CEO Performance Award Agreement under 2022 Employee Stock Plan effective as of September 25, 2022.                                                                                                                                           10-Q                       10.2                            12/31/22
+        10.19*, **   Form of Restricted Stock Unit Award Agreement under 2022 Employee Stock Plan effective as of September 29, 2024.                                                                                                                                                                                                        
+        10.20*, **   Form of Performance Award Agreement under 2022 Employee Stock Plan effective as of September 29, 2024.                                                                                                                                                                                                                  
+        10.21*, **   Form of CEO Restricted Stock Unit Award Agreement under 2022 Employee Stock Plan effective as of September 29, 2024.                                                                                                                                                                                                    
+        10.22*, **   Form of CEO Performance Award Agreement under 2022 Employee Stock Plan effective as of September 29, 2024.                                                                                                                                                                                                              
+            19.1**   Insider Trading Policy                                                                                                                                                                                                                                                                                                  
+            21.1**   Subsidiaries of the Registrant.                                                                                                                                                                                                                                                                                         
+            23.1**   Consent of Independent Registered Public Accounting Firm.                                                                                                                                                                                                                                                               
+            24.1**   Power of Attorney (included on the Signatures page of this Annual Report on Form 10-K).                                                                                                                                                                                                                                 
+            31.1**   Rule 13a-14(a) / 15d-14(a) Certification of Chief Executive Officer.                                                                                                                                                                                                                                                    
+            31.2**   Rule 13a-14(a) / 15d-14(a) Certification of Chief Financial Officer.                                                                                                                                                                                                                                                    
+           32.1***   Section 1350 Certifications of Chief Executive Officer and Chief Financial Officer.                                                                                                                                                                                                                                     
+         97.1*, **   Rule 10D-1 Recovery Policy
+
+291
+Incorporated by Reference                                            
+    Exhibit Number   Exhibit Description                                                                                                                                                                                   Form                    Exhibit                    Filing Date/         
+                                                                                                                                                                                                                                                                              Period End Date      
+             101**   Inline XBRL Document Set for the consolidated financial statements and accompanying notes in Part II, Item 8, “Financial Statements and Supplementary Data” of this Annual Report on Form 10-K.                                                                               
+             104**   Inline XBRL for the cover page of this Annual Report on Form 10-K, included in the Exhibit 101 Inline XBRL Document Set.
+
+293
+Item 16.    Form 10-K Summary
+None.
+
+298
+Name                          Title                                                 Date                 
+/s/ Timothy D. Cook           Chief Executive Officer and Director                  November 1, 2024     
+                              (Principal Executive Officer)                                              
+TIMOTHY D. COOK                                                                  
+/s/ Luca Maestri              Senior Vice President, Chief Financial Officer        November 1, 2024     
+                              (Principal Financial Officer)                                              
+LUCA MAESTRI                                                                     
+/s/ Chris Kondo               Senior Director of Corporate Accounting               November 1, 2024     
+                              (Principal Accounting Officer)                                             
+CHRIS KONDO                                                                      
+/s/ Wanda Austin              Director                                              November 1, 2024     
+WANDA AUSTIN                                                                     
+/s/ Alex Gorsky               Director                                              November 1, 2024     
+ALEX GORSKY                                                                      
+/s/ Andrea Jung               Director                                              November 1, 2024     
+ANDREA JUNG                                                                      
+/s/ Arthur D. Levinson        Director and Chair of the Board                       November 1, 2024     
+ARTHUR D. LEVINSON                                                               
+/s/ Monica Lozano             Director                                              November 1, 2024     
+MONICA LOZANO                                                                    
+/s/ Ronald D. Sugar           Director                                              November 1, 2024     
+RONALD D. SUGAR                                                                  
+/s/ Susan L. Wagner           Director                                              November 1, 2024     
+SUSAN L. WAGNER

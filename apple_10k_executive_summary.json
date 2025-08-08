@@ -1,0 +1,25 @@
+{
+  "company": "Apple Inc.",
+  "filing_type": "10-K",
+  "key_products": [
+    "iPhone",
+    "Mac",
+    "iPad",
+    "Services",
+    "Wearables",
+    "geographic_segments"
+  ],
+  "total_sections_analyzed": 18,
+  "key_financial_highlights": [
+    "$4.1 billion",
+    "$10.9 billion",
+    "$669 million",
+    "$538 million",
+    "$110 billion"
+  ],
+  "top_risk_factors": [
+    "Risk Factors\nThe Company’s business, reputation, results of operations, financial condition and stock price can be affected by a\nnumber of factors, whether currently known or unknown, including those ",
+    "Restrictions on international trade, such as tariffs\nand other controls on imports or exports of goods, technology or data, can materially adversely affect the\nCompany’s business and supply chain",
+    "Such restrictions can be announced with little or no advance notice, which\ncan create uncertainty, and the Company may not be able to effectively mitigate all adverse impacts from such\nmeasures"
+  ]
+}

@@ -1,0 +1,267 @@
+# SEC Filings MongoDB Pipeline Configuration
+
+# MongoDB Settings
+mongodb:
+  uri: mongodb://localhost:27017/
+  database: sec-filling-1
+  collections:
+    documents: documents
+    chunks: chunks
+    financial_metrics: financial_metrics
+    relationships: relationships
+    embeddings_cache: embeddings_cache
+  
+  # Connection pool settings
+  connection:
+    max_pool_size: 100
+    min_pool_size: 10
+    connect_timeout_ms: 10000
+    server_selection_timeout_ms: 5000
+
+# SEC Edgar Settings
+edgar:
+  # Rate limiting
+  rate_limit:
+    requests_per_second: 9
+    delay_between_requests: 1  # seconds
+    max_retries: 3
+    retry_delay: 5  # seconds
+  
+  # Filing types to process
+  filing_types:
+    - 10-K
+    # - 10-Q
+    # - 8-K
+    # - DEF 14A
+  
+  # Default companies to process
+  default_tickers:
+    - AAPL
+    - MSFT
+    # - GOOGL
+    # - AMZN
+    # - TSLA
+  
+  # Years to process
+  years:
+    - 2024
+    - 2023
+    # - 2022
+
+# Processing Settings
+processing:
+  # Chunk settings
+  chunk:
+    max_text_length: 5000  # characters
+    min_text_length: 100   # characters
+    overlap: 200           # characters overlap between chunks
+  
+  # Section extraction
+  sections:
+    # Items to extract (10-K)
+    items_10k:
+      - item: "1"
+        name: "Business"
+        patterns: ["business", "overview", "description of business"]
+      - item: "1A"
+        name: "Risk Factors"
+        patterns: ["risk factors"]
+      - item: "1B"
+        name: "Unresolved Staff Comments"
+        patterns: ["unresolved staff comments"]
+      - item: "1C"
+        name: "Cybersecurity"
+        patterns: ["cybersecurity"]
+      - item: "2"
+        name: "Properties"
+        patterns: ["properties"]
+      - item: "3"
+        name: "Legal Proceedings"
+        patterns: ["legal proceedings"]
+      - item: "4"
+        name: "Mine Safety Disclosures"
+        patterns: ["mine safety"]
+      - item: "5"
+        name: "Market for Registrant's Common Equity"
+        patterns: ["market for registrant"]
+      - item: "6"
+        name: "Reserved"
+        patterns: ["reserved", "selected financial"]
+      - item: "7"
+        name: "Management's Discussion and Analysis"
+        patterns: ["management discussion", "md&a"]
+      - item: "7A"
+        name: "Quantitative and Qualitative Disclosures"
+        patterns: ["quantitative and qualitative"]
+      - item: "8"
+        name: "Financial Statements"
+        patterns: ["financial statements"]
+      - item: "9"
+        name: "Changes in and Disagreements"
+        patterns: ["changes in and disagreements"]
+      - item: "9A"
+        name: "Controls and Procedures"
+        patterns: ["controls and procedures"]
+      - item: "9B"
+        name: "Other Information"
+        patterns: ["other information"]
+      - item: "9C"
+        name: "Disclosure Regarding Foreign Jurisdictions"
+        patterns: ["disclosure regarding"]
+      - item: "10"
+        name: "Directors and Executive Officers"
+        patterns: ["directors", "executive officers"]
+      - item: "11"
+        name: "Executive Compensation"
+        patterns: ["executive compensation"]
+      - item: "12"
+        name: "Security Ownership"
+        patterns: ["security ownership"]
+      - item: "13"
+        name: "Certain Relationships"
+        patterns: ["certain relationships"]
+      - item: "14"
+        name: "Principal Accountant Fees"
+        patterns: ["principal accountant"]
+      - item: "15"
+        name: "Exhibits and Financial Statement Schedules"
+        patterns: ["exhibits", "financial statement"]
+
+# XBRL Processing
+xbrl:
+  enabled: true
+  
+  # Financial metrics to extract
+  metrics:
+    income_statement:
+      - revenue
+      - net_income
+      - operating_income
+      - gross_profit
+      - earnings_per_share
+    
+    balance_sheet:
+      - total_assets
+      - total_liabilities
+      - shareholders_equity
+      - current_assets
+      - current_liabilities
+    
+    cash_flow:
+      - operating_cash_flow
+      - investing_cash_flow
+      - financing_cash_flow
+      - free_cash_flow
+
+# Embeddings Settings
+embeddings:
+  enabled: true
+  model: sentence-transformers/all-MiniLM-L6-v2
+  dimension: 384
+  batch_size: 100
+  
+  # Caching
+  cache:
+    enabled: true
+    ttl: 86400  # seconds (24 hours)
+
+# Search Settings
+search:
+  # Text search
+  text_search:
+    enabled: true
+    min_score: 0.5
+    max_results: 100
+  
+  # Vector search
+  vector_search:
+    enabled: true
+    min_similarity: 0.3
+    max_results: 50
+
+# Logging Settings
+logging:
+  level: INFO  # DEBUG, INFO, WARNING, ERROR, CRITICAL
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  
+  # File logging
+  file:
+    enabled: true
+    path: logs/pipeline.log
+    max_size: 10485760  # 10MB
+    backup_count: 5
+  
+  # Console logging
+  console:
+    enabled: true
+    colorize: true
+
+# Performance Settings
+performance:
+  # Batch processing
+  batch_size: 100
+  max_workers: 4
+  
+  # Memory management
+  max_memory_usage: 4096  # MB
+  gc_threshold: 1000      # Run garbage collection after N operations
+
+# Data Quality
+quality:
+  # Validation rules
+  validation:
+    min_chunk_words: 50
+    max_chunk_words: 2000
+    require_embeddings: false
+    require_xbrl: false
+  
+  # Deduplication
+  deduplication:
+    enabled: true
+    similarity_threshold: 0.95
+
+# Export Settings
+export:
+  formats:
+    - json
+    - csv
+    # - parquet
+  
+  output_dir: ./output
+  
+  # Compression
+  compression:
+    enabled: true
+    format: gzip
+
+# Notification Settings
+notifications:
+  enabled: false
+  
+  # Email notifications
+  email:
+    enabled: false
+    smtp_server: smtp.gmail.com
+    smtp_port: 587
+    from_address: sec-pipeline@example.com
+    to_addresses:
+      - admin@example.com
+  
+  # Slack notifications
+  slack:
+    enabled: false
+    webhook_url: https://hooks.slack.com/services/YOUR/WEBHOOK/URL
+
+# Development Settings
+development:
+  debug: false
+  dry_run: false  # Process without saving to database
+  sample_size: 10  # Process only N documents in dev mode
+  
+  # Testing
+  test:
+    enabled: true
+    test_tickers:
+      - AAPL
+    test_years:
+      - 2024

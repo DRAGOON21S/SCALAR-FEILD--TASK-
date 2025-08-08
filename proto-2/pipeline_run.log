@@ -1,0 +1,110 @@
+2025-08-07 17:07:12,746 - INFO - ============================================================
+2025-08-07 17:07:12,746 - INFO - SEC FILINGS PIPELINE - STARTING
+2025-08-07 17:07:12,747 - INFO - ============================================================
+2025-08-07 17:07:12,747 - INFO - Tickers: AAPL
+2025-08-07 17:07:12,747 - INFO - Years: 2024
+2025-08-07 17:07:12,747 - INFO - 
+2025-08-07 17:07:12,747 - INFO - Step 1: Checking MongoDB connection...
+2025-08-07 17:07:14,406 - INFO - 
+Step 2: Running data ingestion...
+2025-08-07 17:07:14,409 - ERROR - Data ingestion failed
+2025-08-07 17:08:45,763 - INFO - ============================================================
+2025-08-07 17:08:45,763 - INFO - SEC FILINGS PIPELINE - STARTING
+2025-08-07 17:08:45,763 - INFO - ============================================================
+2025-08-07 17:08:45,764 - INFO - Tickers: AAPL
+2025-08-07 17:08:45,764 - INFO - Years: 2024
+2025-08-07 17:08:45,764 - INFO - 
+2025-08-07 17:08:45,764 - INFO - Step 1: Checking MongoDB connection...
+2025-08-07 17:08:45,957 - INFO - 
+Step 2: Running data ingestion...
+2025-08-07 17:08:48,261 - INFO -   Processing AAPL...
+2025-08-07 17:08:48,261 - ERROR - Error fetching company tickers from [https://www.sec.gov/include/ticker.txt]: User-Agent identity is not set
+2025-08-07 17:08:48,262 - ERROR - Error fetching company tickers from [https://www.sec.gov/files/company_tickers.json]: User-Agent identity is not set
+2025-08-07 17:08:50,282 - INFO -      Documents: 0
+2025-08-07 17:08:50,282 - INFO -      Chunks: 0
+2025-08-07 17:08:50,282 - INFO -      Metrics: 0
+2025-08-07 17:08:50,282 - INFO - 
+Step 3: Verifying data...
+2025-08-07 17:08:50,284 - WARNING - Data verification showed issues
+2025-08-07 17:08:50,284 - INFO - 
+============================================================
+2025-08-07 17:08:50,285 - INFO - PIPELINE EXECUTION REPORT
+2025-08-07 17:08:50,285 - INFO - ============================================================
+2025-08-07 17:08:50,285 - INFO - 
+Execution Time: 0:00:04.521563
+2025-08-07 17:08:50,285 - INFO - 
+Steps Completed (2):
+2025-08-07 17:08:50,287 - INFO - 
+Errors Encountered (1):
+2025-08-07 17:08:50,289 - INFO - 
+============================================================
+2025-08-07 17:08:50,289 - INFO - USEFUL COMMANDS
+2025-08-07 17:08:50,289 - INFO - ============================================================
+2025-08-07 17:08:50,289 - INFO - 
+Query data:
+2025-08-07 17:08:50,289 - INFO -   python mongodb_query_interface.py
+2025-08-07 17:08:50,289 - INFO - 
+Run tests:
+2025-08-07 17:08:50,289 - INFO -   python test_verification.py
+2025-08-07 17:08:50,289 - INFO - 
+Export data:
+2025-08-07 17:08:50,290 - INFO -   python data_export_utilities.py --format excel
+2025-08-07 17:08:50,290 - INFO - 
+Start API:
+2025-08-07 17:08:50,290 - INFO -   python fastapi_server.py
+2025-08-07 17:08:50,290 - INFO - 
+Start dashboard:
+2025-08-07 17:08:50,290 - INFO -   streamlit run visualization_dashboard.py
+2025-08-07 17:08:50,290 - INFO - 
+Connect to MongoDB:
+2025-08-07 17:08:50,290 - INFO -   mongosh sec_filings_db
+2025-08-07 17:09:35,330 - INFO - ============================================================
+2025-08-07 17:09:35,330 - INFO - SEC FILINGS PIPELINE - STARTING
+2025-08-07 17:09:35,330 - INFO - ============================================================
+2025-08-07 17:09:35,330 - INFO - Tickers: AAPL
+2025-08-07 17:09:35,331 - INFO - Years: 2024
+2025-08-07 17:09:35,331 - INFO - 
+2025-08-07 17:09:35,331 - INFO - Step 1: Checking MongoDB connection...
+2025-08-07 17:09:35,498 - INFO - 
+Step 2: Running data ingestion...
+2025-08-07 17:09:36,571 - INFO -   Processing AAPL...
+2025-08-07 17:09:36,572 - ERROR - Error fetching company tickers from [https://www.sec.gov/include/ticker.txt]: User-Agent identity is not set
+2025-08-07 17:09:36,572 - ERROR - Error fetching company tickers from [https://www.sec.gov/files/company_tickers.json]: User-Agent identity is not set
+2025-08-07 17:09:38,578 - INFO -      Documents: 0
+2025-08-07 17:09:38,578 - INFO -      Chunks: 0
+2025-08-07 17:09:38,578 - INFO -      Metrics: 0
+2025-08-07 17:09:38,579 - INFO - 
+Step 3: Verifying data...
+2025-08-07 17:09:38,581 - WARNING - Data verification showed issues
+2025-08-07 17:09:38,581 - INFO - 
+============================================================
+2025-08-07 17:09:38,581 - INFO - PIPELINE EXECUTION REPORT
+2025-08-07 17:09:38,581 - INFO - ============================================================
+2025-08-07 17:09:38,581 - INFO - 
+Execution Time: 0:00:03.250998
+2025-08-07 17:09:38,581 - INFO - 
+Steps Completed (2):
+2025-08-07 17:09:38,584 - INFO - 
+Errors Encountered (1):
+2025-08-07 17:09:38,585 - INFO - 
+============================================================
+2025-08-07 17:09:38,585 - INFO - USEFUL COMMANDS
+2025-08-07 17:09:38,586 - INFO - ============================================================
+2025-08-07 17:09:38,586 - INFO - 
+Query data:
+2025-08-07 17:09:38,586 - INFO -   python mongodb_query_interface.py
+2025-08-07 17:09:38,586 - INFO - 
+Run tests:
+2025-08-07 17:09:38,586 - INFO -   python test_verification.py
+2025-08-07 17:09:38,586 - INFO - 
+Export data:
+2025-08-07 17:09:38,586 - INFO -   python data_export_utilities.py --format excel
+2025-08-07 17:09:38,586 - INFO - 
+Start API:
+2025-08-07 17:09:38,586 - INFO -   python fastapi_server.py
+2025-08-07 17:09:38,586 - INFO - 
+Start dashboard:
+2025-08-07 17:09:38,587 - INFO -   streamlit run visualization_dashboard.py
+2025-08-07 17:09:38,587 - INFO - 
+Connect to MongoDB:
+2025-08-07 17:09:38,587 - INFO -   mongosh sec_filings_db
