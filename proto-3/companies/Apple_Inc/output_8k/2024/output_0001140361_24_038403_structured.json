@@ -1,0 +1,27 @@
+{
+  "Apple Inc.": {
+    "2024": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.03 - Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year": {
+              "content": "On August 20, 2024, the Board of Directors of Apple Inc. (“Apple”) approved and adopted amended and restated bylaws (the “Amended and Restated Bylaws”), which became effective the same day, to revise procedural mechanics and disclosure requirements applicable to shareholder nominations of directors and submissions of proposals regarding other business at shareholder meetings, including to define certain terms, clarify or limit the scope of information and disclosures required regarding proposing shareholders, proposed nominees, and other related persons, and make certain ministerial and conforming changes. The foregoing description is a summary and is qualified in its entirety by reference to the full text of the Amended and Restated Bylaws, a copy of which is attached as Exhibit 3.2 hereto and is incorporated by reference herein.",
+              "subsections": {}
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits.",
+              "subsections": {
+                "Exhibits_List": "Exhibit 3.2: Amended and Restated Bylaws of Apple Inc., effective as of August 20, 2024. Exhibit 104: Inline XBRL for the cover page of this Current Report on Form 8-K."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Apple Inc.": {
+    "2025": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "On May 12, 2025, Apple Inc. (“Apple”) consummated the issuance and sale of $1,500,000,000 aggregate principal amount of its 4.000% Notes due 2028 (the “2028 Notes”), $1,000,000,000 aggregate principal amount of its 4.200% Notes due 2030 (the “2030 Notes”), $1,000,000,000 aggregate principal amount of its 4.500% Notes due 2032 (the “2032 Notes”) and $1,000,000,000 aggregate principal amount of its 4.750% Notes due 2035 (the “2035 Notes” and, together with the 2028 Notes, the 2030 Notes, and the 2032 Notes, the “Notes”), pursuant to an underwriting agreement dated May 5, 2025. The Notes are being issued pursuant to an indenture, dated as of November 1, 2024, and an officer’s certificate, dated May 12, 2025. The Notes will be Apple’s senior unsecured obligations and will rank equally with Apple’s other unsecured and unsubordinated debt.",
+              "subsections": {
+                "note_details": "Issuance and sale of: $1,500,000,000 of 4.000% Notes due 2028; $1,000,000,000 of 4.200% Notes due 2030; $1,000,000,000 of 4.500% Notes due 2032; and $1,000,000,000 of 4.750% Notes due 2035.",
+                "underwriting_agreement": "The sale was conducted pursuant to an underwriting agreement dated May 5, 2025, among Apple and Goldman Sachs & Co. LLC, Barclays Capital Inc., BofA Securities, Inc. and J.P. Morgan Securities LLC, as representatives of the several underwriters named therein.",
+                "governing_documents": "The Notes are being issued pursuant to an indenture, dated November 1, 2024, between Apple and The Bank of New York Mellon Trust Company, N.A., as trustee, and an officer’s certificate, dated May 12, 2025, establishing the terms of the Notes. The issuance is also pursuant to Apple’s Registration Statement on Form S-3 (Reg. No. 333-282937) filed on November 1, 2024.",
+                "payment_and_maturity_terms": "Interest on all Notes will be paid semi-annually in arrears on May 12 and November 12 of each year, beginning on November 12, 2025. The 2028 Notes will mature on May 12, 2028. The 2030 Notes will mature on May 12, 2030. The 2032 Notes will mature on May 12, 2032. The 2035 Notes will mature on May 12, 2035.",
+                "note_ranking": "The Notes are senior unsecured obligations and will rank equally with Apple’s other unsecured and unsubordinated debt from time to time outstanding.",
+                "reference_to_exhibits": "The description of the Notes is qualified by the Underwriting Agreement (Exhibit 1.1), the Indenture (filed as Exhibit 4.1 to the Registration Statement), and the Officer’s Certificate (including forms of the Notes, Exhibits 4.1-4.5). An opinion on the legality of the Notes is filed as Exhibit 5.1, with a related consent as Exhibit 23.1."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits.",
+              "subsections": {
+                "exhibit_list": "Exhibit 1.1: Underwriting Agreement, dated May 5, 2025.\nExhibit 4.1: Officer’s Certificate of Apple Inc., dated May 12, 2025.\nExhibit 4.2: Form of Global Note representing the 2028 Notes (included in Exhibit 4.1).\nExhibit 4.3: Form of Global Note representing the 2030 Notes (included in Exhibit 4.1).\nExhibit 4.4: Form of Global Note representing the 2032 Notes (included in Exhibit 4.1).\nExhibit 4.5: Form of Global Note representing the 2035 Notes (included in Exhibit 4.1).\nExhibit 5.1: Opinion of Latham & Watkins LLP.\nExhibit 23.1: Consent of Latham & Watkins LLP (included in Exhibit 5.1).\nExhibit 104: Inline XBRL for the cover page of this Current Report on Form 8-K."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

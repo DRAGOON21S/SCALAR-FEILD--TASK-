@@ -1,0 +1,26 @@
+{
+  "Apple Inc.": {
+    "2024": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.07 - Submission of Matters to a Vote of Security Holders": {
+              "content": "The 2024 Annual Meeting of Shareholders (the “Annual Meeting”) of Apple Inc. (“Apple”) was held on February 28, 2024. At the Annual Meeting, Apple’s shareholders voted on the following eight proposals and cast their votes as described below.",
+              "subsections": {
+                "Proposal 1: Election of Directors": "The individuals listed below were elected at the Annual Meeting to serve as directors of Apple until the next annual meeting of shareholders and until their successors are duly elected and qualified:\n\nDirector Nominee | For | Against | Abstained | Broker Non-Vote\n--- | --- | --- | --- | ---\nWanda Austin | 9,071,238,739 | 41,808,115 | 20,441,053 | 3,275,055,901\nTim Cook | 8,981,334,503 | 138,150,021 | 14,003,383 | 3,275,055,901\nAlex Gorsky | 8,952,997,553 | 160,822,837 | 19,667,517 | 3,275,055,901\nAndrea Jung | 8,629,655,897 | 484,800,970 | 19,031,040 | 3,275,055,901\nArt Levinson | 8,552,669,663 | 561,437,085 | 19,381,159 | 3,275,055,901\nMonica Lozano | 9,039,170,194 | 74,381,943 | 19,935,770 | 3,275,055,901\nRon Sugar | 8,787,482,632 | 325,339,831 | 20,665,444 | 3,275,055,901\nSue Wagner | 8,957,887,476 | 155,887,705 | 19,712,726 | 3,275,055,901",
+                "Proposal 2: Ratification of Independent Registered Public Accounting Firm": "A management proposal to ratify the appointment of Ernst & Young LLP as Apple’s independent registered public accounting firm for fiscal year 2024 was approved.\n\nFor: 12,211,115,276\nAgainst: 164,034,315\nAbstained: 33,394,217",
+                "Proposal 3: Advisory Resolution to Approve Executive Compensation": "An advisory resolution to approve executive compensation was approved.\n\nFor: 8,385,653,963\nAgainst: 702,309,882\nAbstained: 45,524,062\nBroker Non-Vote: 3,275,055,901",
+                "Proposal 4: Shareholder Proposal - EEO Policy Risk Report": "A shareholder proposal entitled “EEO Policy Risk Report” was not approved.\n\nFor: 116,754,721\nAgainst: 8,911,884,765\nAbstained: 104,848,421\nBroker Non-Vote: 3,275,055,901",
+                "Proposal 5: Shareholder Proposal - Report on Ensuring Respect for Civil Liberties": "A shareholder proposal entitled “Report on Ensuring Respect for Civil Liberties” was not approved.\n\nFor: 164,816,396\nAgainst: 8,853,955,511\nAbstained: 114,716,000\nBroker Non-Vote: 3,275,055,901",
+                "Proposal 6: Shareholder Proposal - Racial and Gender Pay Gaps": "A shareholder proposal entitled “Racial and Gender Pay Gaps” was not approved.\n\nFor: 2,817,465,452\nAgainst: 6,248,518,245\nAbstained: 67,504,210\nBroker Non-Vote: 3,275,055,901",
+                "Proposal 7: Shareholder Proposal - Report on the Use of AI": "A shareholder proposal requesting a report on the use of AI was not approved.\n\nFor: 3,333,209,334\nAgainst: 5,549,219,868\nAbstained: 251,058,705\nBroker Non-Vote: 3,275,055,901",
+                "Proposal 8: Shareholder Proposal - Congruency Report on Privacy and Human Rights": "A shareholder proposal entitled “Congruency Report on Privacy and Human Rights” was not approved.\n\nFor: 147,994,563\nAgainst: 8,879,045,656\nAbstained: 106,447,688\nBroker Non-Vote: 3,275,055,901"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Apple Inc.": {
+    "2021": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.07 - Submission of Matters to a Vote of Security Holders": {
+              "content": "The Annual Meeting of Shareholders of Apple Inc. was held on February 23, 2021. At the Annual Meeting, Apple’s shareholders voted on the following five proposals and cast their votes as described below.",
+              "subsections": {
+                "Proposal 1: Election of Directors": "The individuals listed below were elected at the Annual Meeting to serve as directors of Apple until the next annual meeting of shareholders and until their successors are duly elected and qualified:\n\nDirector          | For             | Against       | Abstained    | Broker Non-Vote\n------------------|-----------------|---------------|--------------|----------------\nJames Bell        | 9,708,866,652   | 72,111,065    | 29,746,366   | 3,536,704,458\nTim Cook          | 9,634,029,153   | 160,024,782   | 16,670,148   | 3,536,704,458\nAl Gore           | 9,186,546,702   | 601,015,496   | 23,161,885   | 3,536,704,458\nAndrea Jung       | 9,065,855,420   | 717,239,408   | 27,629,255   | 3,536,704,458\nArt Levinson      | 9,230,840,902   | 551,935,547   | 27,947,634   | 3,536,704,458\nMonica Lozano     | 9,722,139,317   | 59,330,799    | 29,253,967   | 3,536,704,458\nRon Sugar         | 8,885,188,331   | 894,011,726   | 31,524,026   | 3,536,704,458\nSue Wagner        | 9,590,064,988   | 192,080,034   | 28,579,061   | 3,536,704,458",
+                "Proposal 2: Ratification of Independent Registered Public Accounting Firm": "A management proposal to ratify the appointment of Ernst & Young LLP as Apple’s independent registered public accounting firm for 2021 was approved.\n\nFor: 13,148,792,411\nAgainst: 153,657,833\nAbstained: 44,978,297",
+                "Proposal 3: Advisory Vote to Approve Executive Compensation": "An advisory resolution to approve executive compensation was approved.\n\nFor: 9,254,006,580\nAgainst: 499,113,309\nAbstained: 57,604,194\nBroker Non-Vote: 3,536,704,458",
+                "Proposal 4: Shareholder Proposal on Proxy Access Amendments": "A shareholder proposal entitled “Shareholder Proxy Access Amendments” was not approved.\n\nFor: 3,320,476,647\nAgainst: 6,394,730,252\nAbstained: 95,517,184\nBroker Non-Vote: 3,536,704,458",
+                "Proposal 5: Shareholder Proposal to Improve Executive Compensation Program": "A shareholder proposal entitled “Shareholder Proposal to Improve Executive Compensation Program” was not approved.\n\nFor: 539,512,386\nAgainst: 9,141,454,196\nAbstained: 129,757,501\nBroker Non-Vote: 3,536,704,458"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

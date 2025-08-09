@@ -1,0 +1,25 @@
+{
+  "Apple Inc.": {
+    "2025": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.07 - Submission of Matters to a Vote of Security Holders": {
+              "content": "The 2025 Annual Meeting of Shareholders (the “Annual Meeting”) of Apple Inc. (“Apple”) was held on February 25, 2025. At the Annual Meeting, Apple’s shareholders voted on the following seven proposals and cast their votes as described below.",
+              "subsections": {
+                "Proposal 1: Election of Directors": "The individuals listed below were elected at the Annual Meeting to serve as directors of Apple until the next annual meeting of shareholders and until their successors are duly elected and qualified:\n\nDirector          | For           | Against       | Abstained    | Broker Non-Vote\n------------------|---------------|---------------|--------------|----------------\nWanda Austin      | 9,072,076,816 | 40,131,307    | 29,197,385   | 3,038,264,304\nTim Cook          | 8,970,310,928 | 153,141,693   | 17,952,887   | 3,038,264,304\nAlex Gorsky       | 8,946,626,018 | 165,324,875   | 29,454,615   | 3,038,264,304\nAndrea Jung       | 8,546,796,776 | 565,487,160   | 29,121,572   | 3,038,264,304\nArt Levinson      | 8,479,896,928 | 633,590,301   | 27,918,279   | 3,038,264,304\nMonica Lozano     | 9,024,832,308 | 87,408,524    | 29,164,676   | 3,038,264,304\nRon Sugar         | 8,632,486,843 | 478,710,182   | 30,208,483   | 3,038,264,304\nSue Wagner        | 8,744,107,302 | 368,677,410   | 28,620,796   | 3,038,264,304",
+                "Proposal 2: Ratification of Independent Registered Public Accounting Firm": "A management proposal to ratify the appointment of Ernst & Young LLP as Apple’s independent registered public accounting firm for fiscal year 2025 was approved.\n\nFor: 11,910,666,249\nAgainst: 221,074,424\nAbstained: 47,929,139",
+                "Proposal 3: Advisory Vote to Approve Executive Compensation": "An advisory resolution to approve executive compensation was approved.\n\nFor: 8,397,138,183\nAgainst: 691,312,529\nAbstained: 52,954,796\nBroker Non-Vote: 3,038,264,304",
+                "Proposal 4: Shareholder Proposal on Ethical AI Data Acquisition and Usage": "A shareholder proposal entitled “Report on Ethical AI Data Acquisition and Usage” was not approved.\n\nFor: 1,041,899,819\nAgainst: 7,963,197,675\nAbstained: 136,308,014\nBroker Non-Vote: 3,038,264,304",
+                "Proposal 5: Shareholder Proposal on Child Sex Abuse Material-Identifying Software & User Privacy": "A shareholder proposal entitled “Report on Costs and Benefits of Child Sex Abuse Material-Identifying Software & User Privacy” was not approved.\n\nFor: 802,117,145\nAgainst: 8,198,486,901\nAbstained: 140,801,462\nBroker Non-Vote: 3,038,264,304",
+                "Proposal 6: Shareholder Proposal to Cease DEI Efforts": "A shareholder proposal entitled “Request to Cease DEI Efforts” was not approved.\n\nFor: 210,451,697\nAgainst: 8,843,175,086\nAbstained: 87,778,725\nBroker Non-Vote: 3,038,264,304",
+                "Proposal 7: Shareholder Proposal on Charitable Giving": "A shareholder proposal entitled “Report on Charitable Giving” was not approved.\n\nFor: 169,119,141\nAgainst: 8,884,470,350\nAbstained: 87,816,017\nBroker Non-Vote: 3,038,264,304"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

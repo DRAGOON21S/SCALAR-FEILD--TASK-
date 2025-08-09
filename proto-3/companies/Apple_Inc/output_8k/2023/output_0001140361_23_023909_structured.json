@@ -1,0 +1,42 @@
+{
+  "Apple Inc.": {
+    "2023": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "On May 10, 2023, Apple Inc. (“Apple”) consummated the issuance and sale of several series of Notes pursuant to an underwriting agreement dated May 8, 2023. The Notes are being issued pursuant to an indenture, dated as of October 28, 2021, and an officer’s certificate, dated May 10, 2023, establishing the terms of each series. The Notes are being issued pursuant to Apple’s Registration Statement on Form S-3 filed on October 28, 2021 (Reg. No. 333-260578).",
+              "subsections": {
+                "note_details": "The issuance includes: $1,000,000,000 aggregate principal amount of 4.421% Notes due 2026 (the “2026 Notes”); $1,500,000,000 aggregate principal amount of 4.000% Notes due 2028 (the “2028 Notes”); $500,000,000 aggregate principal amount of 4.150% Notes due 2030 (the “2030 Notes”); $1,000,000,000 aggregate principal amount of 4.300% Notes due 2033 (the “2033 Notes”); and $1,250,000,000 aggregate principal amount of 4.850% Notes due 2053 (the “2053 Notes”).",
+                "interest_payment_terms": "Interest on the 2026 Notes will be paid semi-annually in arrears on May 8 and November 8 of each year, beginning on November 8, 2023. Interest on the 2028 Notes, the 2030 Notes, the 2033 Notes and the 2053 Notes will be paid semi-annually in arrears on May 10 and November 10 of each year, beginning on November 10, 2023.",
+                "maturity_dates": "The 2026 Notes will mature on May 8, 2026. The 2028 Notes will mature on May 10, 2028. The 2030 Notes will mature on May 10, 2030. The 2033 Notes will mature on May 10, 2033. The 2053 Notes will mature on May 10, 2053.",
+                "note_ranking": "The Notes will be Apple’s senior unsecured obligations and will rank equally with Apple’s other unsecured and unsubordinated debt from time to time outstanding.",
+                "document_references": "The foregoing description of the Notes and related agreements is qualified in its entirety by the terms of the Underwriting Agreement, the Indenture and the Officer’s Certificate (including the forms of the Notes). Apple is furnishing the Underwriting Agreement and the Officer’s Certificate (including the forms of the Notes) attached hereto as Exhibits 1.1 and 4.1 through 4.6, respectively. The Indenture is filed as Exhibit 4.1 to the Registration Statement. An opinion regarding the legality of the Notes is filed as Exhibit 5.1, and a consent relating to the incorporation of such opinion is filed as Exhibit 23.1."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits.",
+              "subsections": {
+                "Exhibit 1.1": "Underwriting Agreement, dated May 8, 2023, among Apple Inc. and Goldman Sachs & Co. LLC, Barclays Capital Inc. and J.P. Morgan Securities LLC, as representatives of the several underwriters named therein",
+                "Exhibit 4.1": "Officer’s Certificate of Apple Inc., dated May 10, 2023",
+                "Exhibit 4.2": "Form of Global Note representing the 2026 Notes (included in Exhibit 4.1)",
+                "Exhibit 4.3": "Form of Global Note representing the 2028 Notes (included in Exhibit 4.1)",
+                "Exhibit 4.4": "Form of Global Note representing the 2030 Notes (included in Exhibit 4.1)",
+                "Exhibit 4.5": "Form of Global Note representing the 2033 Notes (included in Exhibit 4.1)",
+                "Exhibit 4.6": "Form of Global Note representing the 2053 Notes (included in Exhibit 4.1)",
+                "Exhibit 5.1": "Opinion of Latham & Watkins LLP",
+                "Exhibit 23.1": "Consent of Latham & Watkins LLP (included in the opinion filed as Exhibit 5.1)",
+                "Exhibit 104": "Inline XBRL for the cover page of this Current Report on Form 8‑K."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

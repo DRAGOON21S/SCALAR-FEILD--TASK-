@@ -1,0 +1,27 @@
+{
+  "Apple Inc.": {
+    "2023": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.07 - Submission of Matters to a Vote of Security Holders": {
+              "content": "The 2023 Annual Meeting of Shareholders (the “Annual Meeting”) of Apple Inc. (“Apple”) was held on March 10, 2023. At the Annual Meeting, Apple’s shareholders voted on the following nine proposals and cast their votes as described below.",
+              "subsections": {
+                "Proposal 1: Election of Directors": "The individuals listed below were elected at the Annual Meeting to serve as directors of Apple until the next annual meeting of shareholders and until their successors are duly elected and qualified.\n\nDirector          | For           | Against       | Abstained    | Broker Non-Vote\n------------------|---------------|---------------|--------------|----------------\nJames Bell        | 9,465,679,895 | 66,756,373    | 27,788,697   | 3,199,709,505\nTim Cook          | 9,384,013,653 | 154,755,524   | 21,455,788   | 3,199,709,505\nAl Gore           | 8,717,788,168 | 754,211,726   | 88,225,071   | 3,199,709,505\nAlex Gorsky       | 9,345,154,817 | 185,107,464   | 29,962,684   | 3,199,709,505\nAndrea Jung       | 8,886,421,911 | 638,629,879   | 35,173,175   | 3,199,709,505\nArt Levinson      | 8,982,747,341 | 549,024,146   | 28,453,478   | 3,199,709,505\nMonica Lozano     | 9,470,339,256 | 61,625,010    | 28,260,699   | 3,199,709,505\nRon Sugar         | 8,935,381,470 | 595,179,126   | 29,664,369   | 3,199,709,505\nSue Wagner        | 9,172,832,824 | 360,662,024   | 26,730,117   | 3,199,709,505",
+                "Proposal 2: Ratification of Independent Registered Public Accounting Firm": "A management proposal to ratify the appointment of Ernst & Young LLP as Apple’s independent registered public accounting firm for fiscal year 2023 was approved.\n\nFor           | Against     | Abstained\n--------------|-------------|------------\n12,569,833,138| 154,378,601 | 35,722,731",
+                "Proposal 3: Advisory Resolution to Approve Executive Compensation": "An advisory resolution to approve executive compensation was approved.\n\nFor           | Against       | Abstained  | Broker Non-Vote\n--------------|---------------|------------|----------------\n8,450,622,819 | 1,037,238,044 | 72,364,102 | 3,199,709,505",
+                "Proposal 4: Advisory Vote on the Frequency of Advisory Votes on Executive Compensation": "A majority of shareholders voted for 1 Year on an advisory vote on the frequency of advisory votes on executive compensation.\n\n1 Year        | 2 Years    | 3 Years     | Abstained\n--------------|------------|-------------|------------\n9,373,118,972 | 30,603,953 | 122,956,354 | 33,545,686\n\nBased on these results, and consistent with the recommendation of Apple’s board of directors (the “Board”), the Board has determined that Apple will hold an advisory vote on executive compensation every year.",
+                "Proposal 5: Shareholder Proposal - Civil Rights and Non-Discrimination Audit": "A shareholder proposal entitled “Civil Rights and Non-Discrimination Audit Proposal” was not approved.\n\nFor         | Against       | Abstained   | Broker Non-Vote\n------------|---------------|-------------|----------------\n132,449,397 | 9,322,879,571 | 104,895,997 | 3,199,709,505",
+                "Proposal 6: Shareholder Proposal - Communist China Audit": "A shareholder proposal entitled “Communist China Audit” was not approved.\n\nFor         | Against       | Abstained   | Broker Non-Vote\n------------|---------------|-------------|----------------\n413,232,649 | 9,001,346,586 | 145,645,730 | 3,199,709,505",
+                "Proposal 7: Shareholder Proposal on Board Policy for Communication with Shareholder Proponents": "A shareholder proposal on Board policy for communication with shareholder proponents was not approved.\n\nFor         | Against       | Abstained  | Broker Non-Vote\n------------|---------------|------------|----------------\n611,602,995 | 8,865,309,276 | 83,312,694 | 3,199,709,505",
+                "Proposal 8: Shareholder Proposal - Racial and Gender Pay Gaps": "A shareholder proposal entitled “Racial and Gender Pay Gaps” was not approved.\n\nFor           | Against       | Abstained   | Broker Non-Vote\n--------------|---------------|-------------|----------------\n3,186,369,941 | 6,227,476,677 | 146,378,347 | 3,199,709,505",
+                "Proposal 9: Shareholder Proposal - Shareholder Proxy Access Amendments": "A shareholder proposal entitled “Shareholder Proxy Access Amendments” was not approved.\n\nFor           | Against       | Abstained  | Broker Non-Vote\n--------------|---------------|------------|----------------\n2,934,328,973 | 6,535,240,600 | 90,655,392 | 3,199,709,505"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

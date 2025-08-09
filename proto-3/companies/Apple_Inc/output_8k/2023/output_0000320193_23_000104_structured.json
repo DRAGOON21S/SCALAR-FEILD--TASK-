@@ -1,0 +1,29 @@
+{
+  "Apple Inc.": {
+    "2023": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 2 - Financial Information": {
+          "ITEMS": {
+            "Item 2.02 - Results of Operations and Financial Condition": {
+              "content": "On November 2, 2023, Apple Inc. (“Apple”) issued a press release regarding Apple’s financial results for its fourth fiscal quarter ended September 30, 2023. A copy of Apple’s press release is attached hereto as Exhibit 99.1.",
+              "subsections": {
+                "Filing_Status": "The information contained in this Current Report shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits.",
+              "subsections": {
+                "Exhibits_List": "Exhibit 99.1: Press release issued by Apple Inc. on November 2, 2023.\nExhibit 104: Inline XBRL for the cover page of this Current Report on Form 8-K."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
