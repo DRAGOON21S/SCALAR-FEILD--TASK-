@@ -1,0 +1,414 @@
+{
+  "NVIDIA CORP": {
+    "2020": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 2 - Financial Information": {
+          "ITEMS": {
+            "Item 2.02 - Results of Operations and Financial Condition": {
+              "content": "On November 18, 2020, NVIDIA Corporation, or the Company, issued a press release announcing its results for the quarter ended October 25, 2020. The press release is attached as Exhibit 99.1 and is incorporated herein by reference. Attached hereto as Exhibit 99.2 and incorporated by reference herein is financial information and commentary by Colette M. Kress, Executive Vice President and Chief Financial Officer of the Company, regarding results of the quarter ended October 25, 2020, or the CFO Commentary. The CFO Commentary will be posted to http://investor.nvidia.com immediately after the filing of this Current Report. The press release and CFO Commentary are furnished and shall not be deemed \"filed\" for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or subject to the liabilities of that Section or Sections 11 and 12(a)(2) of the Securities Act of 1933, as amended. The information in this Current Report shall not be incorporated by reference in any filing with the U.S. Securities and Exchange Commission made by the Company, whether made before or after the date hereof, regardless of any general incorporation language in such filing.",
+              "subsections": {}
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "This section lists the exhibits included with this Current Report on Form 8-K.",
+              "subsections": {
+                "(d) Exhibits": "Exhibit Number 2.1: Share Purchase Agreement, dated September 13, 2020, by and among NVIDIA, NVIDIA Holdings, Arm, SoftBank, and Vision Fund*\nExhibit Number 99.1: Joint Press Release of NVIDIA, SoftBank and Arm, dated September 13, 2020\nExhibit Number 99.2: Investor Presentation, dated September 13, 2020\nExhibit Number 104: The cover page of this Current Report on Form 8-K, formatted in inline XBRL (included as Exhibit 101)\n*Certain exhibits and schedules have been omitted in accordance with Regulation S-K Item 601(a)(5). NVIDIA agrees to supplementally furnish to the SEC a copy of any omitted exhibits or schedules upon request of the SEC."
+              }
+            }
+          }
+        },
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.02 - Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers": {
+              "content": "On November 9, 2020, Aarti Shah was appointed to the Board of Directors of NVIDIA Corporation (the “Board”).",
+              "subsections": {
+                "compensatory_arrangements": "In connection with her appointment to the Board, Ms. Shah was granted pursuant to our 2007 Amended and Restated Equity Incentive Plan (the “2007 Plan”): (a) an initial equity grant of 426 restricted stock units, vesting approximately semi-annually over three years commencing November 9, 2020, and (b) a pro-rated annual equity grant of 401 restricted stock units, which will vest in full on May 19, 2021. Additionally, she was granted a pro-rated annual cash retainer of $42,300, payable starting on November 9, 2020. The 2007 Plan is filed as Exhibit 10.1 to our Current Report on Form 8-K (File No. 0-23985) filed with the Securities and Exchange Commission on June 15, 2020.",
+                "indemnity_agreement": "In addition, we have entered into an indemnity agreement with Ms. Shah in connection with her service as a member of the Board. The form of indemnity agreement is filed as Exhibit 10.1 to our Current Report on Form 8-K (File No. 0-23985) filed with the Securities and Exchange Commission on March 7, 2006."
+              }
+            }
+          }
+        },
+        "Section 1 - Registrant's Business and Operations": {
+          "ITEMS": {
+            "Item 1.01 - Entry into a Material Definitive Agreement": {
+              "content": "On September 13, 2020, NVIDIA Corporation, a Delaware corporation (“NVIDIA”), entered into a Share Purchase Agreement (the “Purchase Agreement”) with NVIDIA International Holdings Inc., a Delaware corporation and a wholly owned subsidiary of NVIDIA (“NVIDIA Holdings”), Arm Limited, a company organized under the laws of England & Wales (“Arm”), SoftBank Group Capital Limited, a company organized under the laws of England & Wales (“SoftBank”), and SVF Holdco (UK) Limited, a company organized under the laws of England & Wales (“Vision Fund”, and together with SoftBank, the “Sellers”). The Purchase Agreement and the Share Purchase have been approved by the respective boards of directors or equivalent governing bodies of NVIDIA, NVIDIA Holdings, Arm and each of the Sellers.",
+              "subsections": {
+                "Transaction Overview": "The Purchase Agreement provides that, upon the terms and subject to the conditions set forth in the Purchase Agreement, NVIDIA or its designee will acquire, from the Sellers, all of the allotted and issued ordinary shares of Arm of a par value of £0.001 (the “Share Purchase”) in a transaction valued at $40 billion. As consideration for the Share Purchase, NVIDIA will (i) pay the Sellers and Arm $2 billion in cash (the “Signing Consideration”) upon the signing of the Purchase Agreement as an advance on the consideration for the Share Purchase and as consideration for an intellectual property license from Arm to NVIDIA; (ii) pay the Sellers $10 billion in cash (subject to certain deductions and adjustments) at the closing of the Share Purchase (the “Closing”); (iii) issue to the Sellers 44.3 million shares of NVIDIA’s common stock, par value $0.001 (“NVIDIA Stock”), at the Closing with an aggregate value of $21.5 billion, as determined by the average daily closing price of NVIDIA Stock for the 30 trading days ending one trading day prior to the date of the Purchase Agreement; (iv) pay to the Sellers earn out payments of up to $5 billion in cash or up to 10.3 million shares of NVIDIA Stock (as determined by the average daily closing price of NVIDIA Stock for the 30 trading days ending one trading day prior to the date of the Purchase Agreement), contingent on the achievement of certain financial performance targets for Arm during the fiscal period beginning April 1, 2021 and ending March 31, 2022 and (v) issue restricted stock units covering NVIDIA Stock with an aggregate value not to exceed $1.5 billion to employees of Arm following the Closing, in each case in accordance with the terms of the Purchase Agreement.",
+                "Covenants, Representations and Warranties and Indemnities": "Each of NVIDIA, NVIDIA Holdings, Arm and the Sellers have made customary representations, warranties and covenants in the Purchase Agreement. Arm and the Sellers have made covenants, among others, relating to a reorganization and distribution of Arm’s IoT Services Group and certain other specified assets and liabilities and the conduct of Arm’s business in the ordinary course prior to the Closing. Each of NVIDIA, the Sellers and Arm have agreed in the Purchase Agreement to use their reasonable best efforts to obtain all required governmental and regulatory consents and approvals subject to certain limitations. In addition, the Purchase Agreement provides that, subject to certain negotiated limitations and survival periods, NVIDIA and the Sellers will indemnify each other for breaches of these representations, warranties and covenants and for certain other matters. At the Closing, NVIDIA and the Sellers will enter into an investor rights agreement, pursuant to which, among other things, the Sellers will be subject to certain rights and restrictions relating to the shares of NVIDIA Stock issued as consideration for the Share Purchase.",
+                "Conditions to the Share Purchase": "The Closing of the Share Purchase is subject to certain conditions, including, among others, (a) the absence of laws, orders, decrees, judgments and injunctions by any governmental entity of competent jurisdiction preventing the completion of the Share Purchase or that make the completion of the Share Purchase illegal, (b) the receipt of specified governmental and regulatory consents and approvals and expiration of any mandatory waiting period related thereto, (c) subject to certain exceptions, the accuracy of representations and warranties with respect to Arm, NVIDIA, NVIDIA Holdings and the Sellers, (d) compliance in all material respects by Arm, NVIDIA, NVIDIA Holdings and the Sellers with their respective covenants contained in the Purchase Agreement, (e) the implementation by Arm of the reorganizations described above, and (f) certification by Arm and the Sellers of Arm’s compliance with certain undertakings given by Arm to The Panel on Takeovers and Mergers of the United Kingdom. The Share Purchase is not subject to a financing condition.",
+                "Termination Rights": "The Purchase Agreement contains certain termination rights by either NVIDIA or the Sellers, including if the Share Purchase is not consummated by September 13, 2021, which date may be extended by three months on four consecutive occasions if, on the applicable date, certain conditions to Closing have not been satisfied. If the Purchase Agreement is terminated under certain circumstances, the Sellers will refund a portion of the Signing Consideration to NVIDIA.",
+                "Disclaimer on Agreement Terms": "The foregoing description of the Purchase Agreement is qualified in its entirety by reference to the full text of the Purchase Agreement, a copy of which is filed as Exhibit 2.1 hereto. The Purchase Agreement contains representations, warranties and covenants that the respective parties made to each other as of the date of such agreement or other specific dates. The assertions embodied in those representations, warranties and covenants were made for purposes of the contract among the respective parties and are subject to important qualifications and limitations agreed to by the parties in connection with negotiating such agreement. The Purchase Agreement has been attached to provide investors with information regarding its terms. It is not intended to provide any other factual information about NVIDIA, NVIDIA Holdings, Arm or the Sellers. Investors should not rely on the representations, warranties, covenants and agreements, or any descriptions thereof, as characterizations of the actual state of facts or condition of any party to the Purchase Agreement. Information concerning the subject matter of the representations and warranties and other terms may change after the date of the Purchase Agreement, which subsequent information may or may not be fully reflected in NVIDIA’s public disclosures."
+              }
+            }
+          }
+        },
+        "Section 7 - Regulation FD": {
+          "ITEMS": {
+            "Item 7.01 - Regulation FD Disclosure": {
+              "content": "On September 13, 2020, NVIDIA, SoftBank and Arm issued a joint press release related to their entry into the Purchase Agreement, a copy of which is furnished as Exhibit 99.1. On September 13, 2020, NVIDIA published an investor presentation regarding the transaction, a copy of which is furnished as Exhibit 99.2. The information in this Item 7.01 and Exhibits 99.1 and 99.2 are furnished and shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or subject to the liabilities of that Section or Sections 11 and 12(a)(2) of the Securities Act of 1933, as amended. The information in this Current Report shall not be incorporated by reference in any filing with the SEC made by NVIDIA, whether made before or after the date hereof, regardless of any general incorporation language in such filing.",
+              "subsections": {
+                "Safe Harbor for Forward-looking Statements": "All statements included or incorporated by reference in this communication, other than statements or characterizations of historical fact, are forward-looking statements. These can often be identified by words such as “anticipates,” “expects,” “intends,” “plans,” “believes,” “seeks,” “estimates,” “may,” “will,” “should,” or similar expressions. Statements as to the proposed Share Purchase, including benefits of the transaction, timing, price, and closing conditions, are forward-looking statements subject to risks and uncertainties. Many factors could cause actual future events to differ materially, including: the risk that the transaction may not be completed in a timely manner or at all; uncertainties as to the timing and satisfaction of conditions, including regulatory approvals; the potential for regulatory authorities to require divestitures or other concessions; the occurrence of any event that could give rise to the termination of the Purchase Agreement; the effect of the announcement on business relationships and operating results; delays or increased costs in integrating Arm’s technology; failure to realize expected financial benefits and synergies; challenges and expenses associated with integration; litigation or regulatory restrictions; unanticipated restructuring costs or undisclosed liabilities; failure to retain key personnel and customers; risks related to diverting management’s attention; lack of third-party support for the combined company’s products; negative actions by competitors; adverse reactions to business relationships; the effects of the COVID-19 pandemic; negative changes in general economic conditions; and other risks described in NVIDIA’s filings with the SEC on Forms 10-K, 10-Q, and 8-K. These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and, except as required by law, NVIDIA disclaims any obligation to update them."
+              }
+            }
+          }
+        }
+      }
+    },
+    "2021": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 2 - Financial Information": {
+          "ITEMS": {
+            "Item 2.02 - Results of Operations and Financial Condition": {
+              "content": "On November 17, 2021, NVIDIA Corporation, or the Company, issued a press release announcing its results for the quarter ended October 31, 2021. The press release is attached as Exhibit 99.1 and is incorporated herein by reference. Attached hereto as Exhibit 99.2 and incorporated by reference herein is financial information and commentary by Colette M. Kress, Executive Vice President and Chief Financial Officer of the Company, regarding results of the quarter ended October 31, 2021, or the CFO Commentary. The CFO Commentary will be posted to http://investor.nvidia.com immediately after the filing of this Current Report.",
+              "subsections": {
+                "filing_status": "The press release and CFO Commentary are furnished and shall not be deemed \"filed\" for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or subject to the liabilities of that Section or Sections 11 and 12(a)(2) of the Securities Act of 1933, as amended. The information in this Current Report shall not be incorporated by reference in any filing with the U.S. Securities and Exchange Commission made by the Company, whether made before or after the date hereof, regardless of any general incorporation language in such filing."
+              }
+            },
+            "Item 2.03 - Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant": {
+              "content": "The information set forth in Item 1.01 above is hereby incorporated by reference into this Item 2.03, insofar as it relates to the creation of a direct financial obligation.",
+              "subsections": {}
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "List of exhibits filed with this Current Report on Form 8-K.",
+              "subsections": {
+                "Exhibits": "1.1 - Underwriting Agreement, dated as of June 14, 2021, by and among the Company and Morgan Stanley & Co. LLC, as representative of the several underwriters.\n4.1 - Indenture, dated as of September 16, 2016, by and between the Company and Wells Fargo Bank, National Association, as Trustee (filed as Exhibit 4.1 to NVIDIA Corporation’s Current Report on Form 8-K filed on September 16, 2016 (File No. 000-23985), and incorporated by reference herein).\n4.2 - Officers’ Certificate, dated as of June 16, 2021.\n4.3 - Form of 2023 Note (included in Exhibit 4.2).\n4.4 - Form of 2024 Note (included in Exhibit 4.2).\n4.5 - Form of 2028 Note (included in Exhibit 4.2).\n4.6 - Form of 2031 Note (included in Exhibit 4.2).\n5.1 - Opinion of Cooley LLP regarding the validity of the Notes.\n23.1 - Consent of Cooley LLP (included in Exhibit 5.1).\n104 - Cover Page Interactive Data File (embedded within the Inline XBRL document)."
+              }
+            }
+          }
+        },
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.02 - Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers": {
+              "content": "On March 15, 2021, the Compensation Committee of the Board of Directors of NVIDIA Corporation, or the Company, adopted the Variable Compensation Plan for Fiscal Year 2022, or the 2022 Plan, which provides eligible executive officers the opportunity to earn a variable cash payment based on the level of achievement by the Company of certain corporate performance goals, or the Performance Goals, during fiscal year 2022. The Company operates on a fiscal year ending on the last Sunday in January and designates its fiscal year by the year in which that fiscal year ends. Fiscal year 2022 refers to the Company’s fiscal year ending January 30, 2022.",
+              "subsections": {
+                "Performance_Goals_and_Eligibility": "The Compensation Committee has set the Performance Goals for fiscal year 2022 based upon the achievement of specified fiscal year 2022 revenue and has established threshold, base operating plan, and stretch operating plan levels. An eligible participant’s variable cash compensation under the 2022 Plan will be based on the achievement by the Company of the Performance Goals in fiscal year 2022. Unless otherwise determined by the Compensation Committee, a participant must remain an employee through the payment date under the 2022 Plan to be eligible to earn an award.",
+                "Named_Executive_Officer_Awards": "The following table sets forth the respective target award opportunities for base operating plan achievement for the Company’s named executive officers under the 2022 Plan:\n\nNamed Executive Officer: Jen-Hsun Huang, President and Chief Executive Officer\nTarget Award Opportunity for Base Operating Plan Achievement: $2,000,000\nTarget Award Opportunity for Base Operating Plan Achievement as a % of Fiscal Year 2022 Base Salary: 200%\n\nNamed Executive Officer: Colette M. Kress, Executive Vice President and Chief Financial Officer\nTarget Award Opportunity for Base Operating Plan Achievement: $300,000\nTarget Award Opportunity for Base Operating Plan Achievement as a % of Fiscal Year 2022 Base Salary: 33%\n\nNamed Executive Officer: Ajay K. Puri, Executive Vice President, Worldwide Field Operations\nTarget Award Opportunity for Base Operating Plan Achievement: $650,000\nTarget Award Opportunity for Base Operating Plan Achievement as a % of Fiscal Year 2022 Base Salary: 68%\n\nNamed Executive Officer: Debora Shoquist, Executive Vice President, Operations\nTarget Award Opportunity for Base Operating Plan Achievement: $250,000\nTarget Award Opportunity for Base Operating Plan Achievement as a % of Fiscal Year 2022 Base Salary: 29%\n\nNamed Executive Officer: Timothy S. Teter, Executive Vice President, General Counsel and Secretary\nTarget Award Opportunity for Base Operating Plan Achievement: $250,000\nTarget Award Opportunity for Base Operating Plan Achievement as a % of Fiscal Year 2022 Base Salary: 29%",
+                "Reference_to_Exhibit": "The foregoing description is subject to, and qualified in its entirety by, the 2022 Plan, which is filed with this report as Exhibit 10.1 and is incorporated herein by reference."
+              }
+            },
+            "Item 5.03 - Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year": {
+              "content": "",
+              "subsections": {
+                "Amendment to Certificate of Incorporation": "On June 3, 2021, at the 2021 Annual Meeting of Stockholders of NVIDIA Corporation, or the 2021 Annual Meeting, our stockholders approved an amendment to our Amended and Restated Certificate of Incorporation, or the Amendment, to increase the number of authorized shares of common stock from 2 billion to 4 billion. The Amendment, which was filed with the Secretary of State of the State of Delaware on June 4, 2021, is filed as Exhibit 3.1 to this Current Report on Form 8-K."
+              }
+            },
+            "Item 5.07 - Submission of Matters to a Vote of Security Holders": {
+              "content": "On June 3, 2021, at the 2021 Annual Meeting, the following proposals were adopted by the margin indicated. Proxies for the 2021 Annual Meeting were solicited pursuant to Section 14(a) of the Securities Exchange Act of 1934, as amended, and there was no solicitation in opposition of management’s solicitation.",
+              "subsections": {
+                "Proposal 1: Election of Directors": "Stockholders approved the election of each of our thirteen (13) directors to serve for a one-year term until our 2022 Annual Meeting of Stockholders. The results of the voting were as follows:\n\na. Robert K. Burgess\nNumber of shares For: 420,596,553\nNumber of shares Withheld: 1,779,414\nNumber of shares Abstaining: 2,941,599\nNumber of Broker Non-Votes: 70,546,857\n\nb. Tench Coxe\nNumber of shares For: 410,255,042\nNumber of shares Withheld: 9,706,472\nNumber of shares Abstaining: 5,356,052\nNumber of Broker Non-Votes: 70,546,857\n\nc. John O. Dabiri\nNumber of shares For: 421,550,236\nNumber of shares Withheld: 1,091,854\nNumber of shares Abstaining: 2,675,476\nNumber of Broker Non-Votes: 70,546,857\n\nd. Persis S. Drell\nNumber of shares For: 420,006,508\nNumber of shares Withheld: 1,878,898\nNumber of shares Abstaining: 3,432,160\nNumber of Broker Non-Votes: 70,546,857\n\ne. Jen-Hsun Huang\nNumber of shares For: 419,866,452\nNumber of shares Withheld: 2,416,779\nNumber of shares Abstaining: 3,034,335\nNumber of Broker Non-Votes: 70,546,857\n\nf. Dawn Hudson\nNumber of shares For: 421,036,593\nNumber of shares Withheld: 1,668,906\nNumber of shares Abstaining: 2,612,067\nNumber of Broker Non-Votes: 70,546,857\n\ng. Harvey C. Jones\nNumber of shares For: 394,798,323\nNumber of shares Withheld: 24,482,410\nNumber of shares Abstaining: 6,036,833\nNumber of Broker Non-Votes: 70,546,857\n\nh. Michael G. McCaffery\nNumber of shares For: 421,031,980\nNumber of shares Withheld: 1,606,723\nNumber of shares Abstaining: 2,678,863\nNumber of Broker Non-Votes: 70,546,857\n\ni. Stephen C. Neal\nNumber of shares For: 417,133,291\nNumber of shares Withheld: 4,867,874\nNumber of shares Abstaining: 3,316,401\nNumber of Broker Non-Votes: 70,546,857\n\nj. Mark L. Perry\nNumber of shares For: 396,451,645\nNumber of shares Withheld: 22,995,645\nNumber of shares Abstaining: 5,870,276\nNumber of Broker Non-Votes: 70,546,857\n\nk. A. Brooke Seawell\nNumber of shares For: 403,897,070\nNumber of shares Withheld: 16,021,659\nNumber of shares Abstaining: 5,398,837\nNumber of Broker Non-Votes: 70,546,857\n\nl. Aarti Shah\nNumber of shares For: 421,918,802\nNumber of shares Withheld: 752,205\nNumber of shares Abstaining: 2,646,559\nNumber of Broker Non-Votes: 70,546,857\n\nm. Mark A. Stevens\nNumber of shares For: 403,821,782\nNumber of shares Withheld: 15,449,272\nNumber of shares Abstaining: 6,046,512\nNumber of Broker Non-Votes: 70,546,857",
+                "Proposal 2: Advisory Vote on Executive Compensation": "Stockholders approved, on an advisory basis, the compensation of our named executive officers as disclosed in our definitive proxy statement for the 2021 Annual Meeting filed with the Securities and Exchange Commission on April 23, 2021. The results of the voting were as follows:\nNumber of shares For: 403,579,177\nNumber of shares Against: 18,867,902\nNumber of shares Abstaining: 2,870,487\nNumber of Broker Non-Votes: 70,546,857",
+                "Proposal 3: Ratification of Independent Registered Accounting Firm": "Stockholders approved the ratification of the appointment of PricewaterhouseCoopers LLP as our independent registered accounting firm for our fiscal year ending January 30, 2022. The results of the voting were as follows:\nNumber of shares For: 488,145,649\nNumber of shares Against: 5,075,065\nNumber of shares Abstaining: 2,643,709\nNumber of Broker Non-Votes: —",
+                "Proposal 4: Approval of Amendment to Certificate of Incorporation": "Stockholders approved the Amendment. The results of the voting were as follows:\nNumber of shares For: 473,734,960\nNumber of shares Against: 19,186,243\nNumber of shares Abstaining: 2,943,220\nNumber of Broker Non-Votes: —"
+              }
+            }
+          }
+        },
+        "Section 7 - Regulation FD": {
+          "ITEMS": {
+            "Item 7.01 - Regulation FD Disclosure": {
+              "content": "On June 28, 2021, NVIDIA Corporation, or the Company, completed a simplification of its corporate structure by repatriating the economic rights of certain non-U.S. intellectual property to the United States via domestication of a foreign subsidiary, or the Domestication. In connection with the Domestication, the Company is updating its tax rate outlook for the second quarter of fiscal 2022 as follows:",
+              "subsections": {
+                "updated_tax_outlook": "GAAP and non-GAAP tax rates are both expected to be 13 percent, plus or minus 1 percent, excluding any discrete items, up from 10 percent, plus or minus 1 percent, provided in our prior outlook. GAAP discrete items include one-time tax impacts from the Domestication and excess tax benefits or deficiencies related to stock-based compensation, which are expected to generate variability on a quarter-by-quarter basis.",
+                "discrete_tax_impact": "The discrete tax impact from the Domestication in the second quarter of fiscal 2022 is expected to be a benefit of approximately $250 million to $300 million.",
+                "filing_status": "The information in this Item 7.01 is furnished and shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or subject to the liabilities of that Section or Sections 11 and 12(a)(2) of the Securities Act of 1933, as amended. The information in this Current Report shall not be incorporated by reference in any filing with the U.S. Securities and Exchange Commission made by the Company, whether made before or after the date hereof, regardless of any general incorporation language in such filing."
+              }
+            }
+          }
+        },
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "As described above, on June 28, 2021, the Company completed the Domestication, which more closely aligns the Company’s corporate structure to its operating structure in accordance with the Organization for Economic Cooperation and Development’s Base Erosion and Profit Sharing conclusions and changes to U.S. and European tax laws.",
+              "subsections": {}
+            }
+          }
+        },
+        "Section 1 - Registrant's Business and Operations": {
+          "ITEMS": {
+            "Item 1.01 - Entry into a Material Definitive Agreement": {
+              "content": "On June 14, 2021, NVIDIA Corporation entered into an underwriting agreement to issue and sell $5.0 billion aggregate principal amount of unsecured notes. The terms of the Notes are governed by an indenture dated September 16, 2016, as supplemented by an Officers’ Certificate dated June 16, 2021.",
+              "subsections": {
+                "Underwriting Agreement": "On June 14, 2021, the Company entered into an Underwriting Agreement with Morgan Stanley & Co. LLC, as representative of the underwriters, to issue and sell $5.0 billion aggregate principal amount of unsecured notes, consisting of: $1.25 billion of 0.309% notes due 2023 (the 2023 Notes), $1.25 billion of 0.584% notes due 2024 (the 2024 Notes), $1.25 billion of 1.550% notes due 2028 (the 2028 Notes), and $1.25 billion of 2.000% notes due 2031 (the 2031 Notes). The Underwriting Agreement includes customary representations, warranties, conditions, covenants, and an agreement to indemnify the Underwriters. The net proceeds from the offering were approximately $4.98 billion, after deducting underwriting discounts and estimated offering expenses. The Company intends to use the net proceeds for general corporate purposes, which may include repayment of indebtedness. The offering was made pursuant to the Company’s Registration Statement on Form S-3 (File No. 333-237390).",
+                "Indenture": "The terms of the Notes are governed by an indenture, dated September 16, 2016 (the Base Indenture), between the Company and Wells Fargo Bank, National Association (the Trustee), as supplemented by an Officers’ Certificate, dated as of June 16, 2021. The 2023 Notes will mature on June 15, 2023, the 2024 Notes on June 14, 2024, the 2028 Notes on June 15, 2028, and the 2031 Notes on June 15, 2031. Interest on the 2024 Notes is payable on June 14 and December 14 of each year, beginning December 14, 2021. Interest on all other series is payable on June 15 and December 15 of each year, beginning December 15, 2021. The Company may redeem the Notes prior to maturity at redemption prices that include a make-whole premium, with certain exceptions. The Indenture includes covenants limiting the Company’s ability to create liens, enter into sale and leaseback transactions, or merge or sell all assets, subject to exceptions. In the event of a change of control and a credit downgrade, the Company will be required to offer to repurchase the Notes at 101% of the principal amount plus accrued interest. The Notes are the Company’s unsecured senior obligations.",
+                "Disclaimer on Agreements": "The agreements included as exhibits are to provide information regarding their terms and are not intended to provide other factual disclosure. They may contain representations and warranties made for the benefit of the parties to the agreement, may be qualified by non-public disclosures, may apply different standards of materiality, and were made only as of the specified date. They may not describe the actual state of affairs at any time."
+              }
+            }
+          }
+        }
+      }
+    },
+    "2022": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 1 - Registrant's Business and Operations": {
+          "ITEMS": {
+            "Item 1.02 - Termination of a Material Definitive Agreement": {
+              "content": "On February 8, 2022, NVIDIA Corporation (the “Company”), SoftBank Group Capital Limited (“SoftBank”) and SVF Holdco (UK) Limited (together with SoftBank, the “Sellers”) mutually terminated the Share Purchase Agreement (the “Purchase Agreement”), dated as of September 13, 2020, by and among the Company, NVIDIA International Holdings Inc., the Sellers and Arm Limited. The material terms of the Purchase Agreement were previously disclosed on a Form 8-K filed by the Company with the U.S. Securities and Exchange Commission on September 14, 2020. The parties agreed to terminate the Purchase Agreement because of significant regulatory challenges preventing the consummation of the transaction. In accordance with the terms of the Purchase Agreement, the Sellers will retain the $1.25 billion prepaid by the Company, and the Company will retain its 20-year Arm license. The Company intends to record a $1.36 billion charge in the first quarter of fiscal year 2023, inclusive of the $1.25 billion prepayment provided at signing, due to the termination of the Purchase Agreement.",
+              "subsections": {
+                "agreement_termination": "On February 8, 2022, NVIDIA Corporation (the “Company”), SoftBank Group Capital Limited (“SoftBank”) and SVF Holdco (UK) Limited (together with SoftBank, the “Sellers”) mutually terminated the Share Purchase Agreement (the “Purchase Agreement”), dated as of September 13, 2020, by and among the Company, NVIDIA International Holdings Inc., the Sellers and Arm Limited.",
+                "reason_for_termination": "The parties agreed to terminate the Purchase Agreement because of significant regulatory challenges preventing the consummation of the transaction.",
+                "financial_implications": "In accordance with the terms of the Purchase Agreement, the Sellers will retain the $1.25 billion prepaid by the Company, and the Company will retain its 20-year Arm license. The Company intends to record a $1.36 billion charge in the first quarter of fiscal year 2023, inclusive of the $1.25 billion prepayment provided at signing, due to the termination of the Purchase Agreement.",
+                "prior_disclosure_reference": "The material terms of the Purchase Agreement were previously disclosed on a Form 8-K filed by the Company with the U.S. Securities and Exchange Commission on September 14, 2020."
+              }
+            }
+          }
+        },
+        "Section 2 - Financial Information": {
+          "ITEMS": {
+            "Item 2.02 - Results of Operations and Financial Condition": {
+              "content": "On November 16, 2022, NVIDIA Corporation, or the Company, issued a press release announcing its results for the quarter ended October 30, 2022. The press release is attached as Exhibit 99.1 and is incorporated herein by reference. Attached hereto as Exhibit 99.2 and incorporated by reference herein is financial information and commentary by Colette M. Kress, Executive Vice President and Chief Financial Officer of the Company, regarding results of the quarter ended October 30, 2022, or the CFO Commentary. The CFO Commentary will be posted to http://investor.nvidia.com immediately after the filing of this Current Report. The press release and CFO Commentary are furnished and shall not be deemed \"filed\" for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or subject to the liabilities of that Section or Sections 11 and 12(a)(2) of the Securities Act of 1933, as amended. The information in this Current Report shall not be incorporated by reference in any filing with the U.S. Securities and Exchange Commission made by the Company, whether made before or after the date hereof, regardless of any general incorporation language in such filing.",
+              "subsections": {
+                "announcement_details": "On November 16, 2022, NVIDIA Corporation issued a press release (Exhibit 99.1) and financial commentary by the CFO (Exhibit 99.2) announcing its results for the quarter ended October 30, 2022.",
+                "legal_disclaimer": "The press release and CFO Commentary are furnished and shall not be deemed \"filed\" for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or subject to the liabilities of that Section or Sections 11 and 12(a)(2) of the Securities Act of 1933, as amended. The information shall not be incorporated by reference in any filing with the U.S. Securities and Exchange Commission."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits",
+              "subsections": {
+                "exhibits_list": "Exhibit 99.1: Press Release, dated November 16, 2022, entitled \"NVIDIA Announces Financial Results for Third Quarter Fiscal 2023\".\nExhibit 99.2: CFO Commentary on Third Quarter Fiscal 2023 Results.\nExhibit 104: The cover page of this Current Report on Form 8-K, formatted in inline XBRL (included as Exhibit 101)."
+              }
+            }
+          }
+        },
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.02 - Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers": {
+              "content": "On June 2, 2022, at the 2022 Annual Meeting of Stockholders of NVIDIA Corporation, or the 2022 Annual Meeting, our stockholders approved an amendment and restatement of our Amended and Restated 2007 Equity Incentive Plan, or the 2007 Plan, to increase the available share reserve by 51,500,000 shares as described in our definitive proxy statement for the 2022 Annual Meeting filed with the Securities and Exchange Commission on April 19, 2022, or the Proxy Statement. The 2007 Plan previously had been approved, subject to stockholder approval, by the Compensation Committee of the Board of Directors of NVIDIA Corporation. A summary of the 2007 Plan is set forth in our Proxy Statement. That summary and the foregoing description of the 2007 Plan are qualified in their entirety by reference to the text of the 2007 Plan, which is filed as Exhibit 10.1 to this Current Report on Form 8-K.",
+              "subsections": {
+                "Amendment and Restatement of Amended and Restated 2007 Equity Incentive Plan": "On June 2, 2022, at the 2022 Annual Meeting of Stockholders of NVIDIA Corporation, stockholders approved an amendment and restatement of the Amended and Restated 2007 Equity Incentive Plan to increase the available share reserve by 51,500,000 shares."
+              }
+            },
+            "Item 5.03 - Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year": {
+              "content": "On June 2, 2022, at the 2022 Annual Meeting, our stockholders approved an amendment to our Restated Certificate of Incorporation, or the Amendment, to increase the number of authorized shares of common stock from 4 billion to 8 billion. The Amendment, which was filed with the Secretary of State of the State of Delaware on June 6, 2022, is filed as Exhibit 3.1 to this Current Report on Form 8-K.",
+              "subsections": {
+                "Amendment to Certificate of Incorporation": "On June 2, 2022, stockholders approved an amendment to the Restated Certificate of Incorporation to increase the number of authorized shares of common stock from 4 billion to 8 billion. The amendment was filed with the Secretary of State of the State of Delaware on June 6, 2022."
+              }
+            },
+            "Item 5.07 - Submission of Matters to a Vote of Security Holders": {
+              "content": "On June 2, 2022, at the 2022 Annual Meeting, the following proposals were adopted by the margin indicated. Proxies for the 2022 Annual Meeting were solicited pursuant to Section 14(a) of the Securities Exchange Act of 1934, as amended, and there was no solicitation in opposition of management’s solicitation.",
+              "subsections": {
+                "Proposal 1: Election of Directors": "Stockholders approved the election of each of our thirteen (13) directors to serve for a one-year term until our 2023 Annual Meeting of Stockholders. The results of the voting were as follows:\na. Robert K. Burgess - For: 1,557,656,916, Against: 25,355,663, Abstaining: 3,017,685, Broker Non-Votes: 363,931,578\nb. Tench Coxe - For: 1,464,863,119, Against: 118,067,881, Abstaining: 3,099,264, Broker Non-Votes: 363,931,578\nc. John O. Dabiri - For: 1,572,940,318, Against: 9,906,378, Abstaining: 3,183,568, Broker Non-Votes: 363,931,578\nd. Persis S. Drell - For: 1,537,139,500, Against: 43,074,541, Abstaining: 5,816,223, Broker Non-Votes: 363,931,578\ne. Jen-Hsun Huang - For: 1,558,030,069, Against: 25,750,474, Abstaining: 2,249,721, Broker Non-Votes: 363,931,578\nf. Dawn Hudson - For: 1,559,460,807, Against: 23,762,969, Abstaining: 2,806,488, Broker Non-Votes: 363,931,578\ng. Harvey C. Jones - For: 1,318,082,151, Against: 254,092,161, Abstaining: 13,855,952, Broker Non-Votes: 363,931,578\nh. Michael G. McCaffery - For: 1,572,269,568, Against: 10,468,897, Abstaining: 3,291,799, Broker Non-Votes: 363,931,578\ni. Stephen C. Neal - For: 1,519,848,673, Against: 60,331,533, Abstaining: 5,850,058, Broker Non-Votes: 363,931,578\nj. Mark L. Perry - For: 1,377,526,033, Against: 202,714,371, Abstaining: 5,789,860, Broker Non-Votes: 363,931,578\nk. A. Brooke Seawell - For: 1,428,618,970, Against: 154,322,851, Abstaining: 3,088,443, Broker Non-Votes: 363,931,578\nl. Aarti Shah - For: 1,574,048,777, Against: 8,864,157, Abstaining: 3,117,330, Broker Non-Votes: 363,931,578\nm. Mark A. Stevens - For: 1,451,553,368, Against: 128,685,619, Abstaining: 5,791,277, Broker Non-Votes: 363,931,578",
+                "Proposal 2: Advisory Vote on Executive Compensation": "Stockholders approved, on an advisory basis, the compensation of our named executive officers as disclosed in the Proxy Statement. The results of the voting were as follows: For: 1,470,420,627, Against: 106,301,854, Abstaining: 9,307,783, Broker Non-Votes: 363,931,578",
+                "Proposal 3: Ratification of Independent Registered Accounting Firm": "Stockholders approved the ratification of the appointment of PricewaterhouseCoopers LLP as our independent registered accounting firm for our fiscal year ending January 29, 2023. The results of the voting were as follows: For: 1,923,274,578, Against: 23,850,761, Abstaining: 2,836,503, Broker Non-Votes: —",
+                "Proposal 4: Approval of Amendment to Certificate of Incorporation": "Stockholders approved the Amendment. The results of the voting were as follows: For: 1,883,628,707, Against: 62,614,633, Abstaining: 3,718,502, Broker Non-Votes: —",
+                "Proposal 5: Approval of the 2007 Equity Incentive Plan": "Stockholders approved the 2007 Plan. The results of the voting were as follows: For: 1,497,320,046, Against: 85,756,953, Abstaining: 2,953,265, Broker Non-Votes: 363,931,578"
+              }
+            }
+          }
+        },
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "The U.S. government has authorized exports, reexports, and in-country transfers needed to continue NVIDIA Corporation’s, or the Company’s, development of H100 integrated circuits after the Company filed its Current Report on Form 8-K with the U.S. Securities and Exchange Commission on August 31, 2022. The authorization also allows the Company to perform exports needed to provide support for U.S. customers of A100 through March 1, 2023. Additionally, the U.S. government authorized A100 and H100 order fulfillment and logistics through the Company’s Hong Kong facility through September 1, 2023.",
+              "subsections": {
+                "h100_development_authorization": "The U.S. government has authorized exports, reexports, and in-country transfers needed to continue NVIDIA Corporation’s, or the Company’s, development of H100 integrated circuits after the Company filed its Current Report on Form 8-K with the U.S. Securities and Exchange Commission on August 31, 2022.",
+                "a100_support_authorization": "The authorization also allows the Company to perform exports needed to provide support for U.S. customers of A100 through March 1, 2023.",
+                "hong_kong_logistics_authorization": "Additionally, the U.S. government authorized A100 and H100 order fulfillment and logistics through the Company’s Hong Kong facility through September 1, 2023."
+              }
+            }
+          }
+        }
+      }
+    },
+    "2023": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 2 - Financial Information": {
+          "ITEMS": {
+            "Item 2.02 - Results of Operations and Financial Condition": {
+              "content": "On November 21, 2023, NVIDIA Corporation, or the Company, issued a press release announcing its results for the quarter ended October 29, 2023. The press release is attached as Exhibit 99.1 and is incorporated herein by reference. Attached hereto as Exhibit 99.2 and incorporated by reference herein is financial information and commentary by Colette M. Kress, Executive Vice President and Chief Financial Officer of the Company, regarding results of the quarter ended October 29, 2023, or the CFO Commentary. The CFO Commentary will be posted to http://investor.nvidia.com immediately after the filing of this Current Report.",
+              "subsections": {
+                "filing_status": "The press release and CFO Commentary are furnished and shall not be deemed \"filed\" for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or subject to the liabilities of that Section or Sections 11 and 12(a)(2) of the Securities Act of 1933, as amended. The information in this Current Report shall not be incorporated by reference in any filing with the U.S. Securities and Exchange Commission made by the Company, whether made before or after the date hereof, regardless of any general incorporation language in such filing."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits",
+              "subsections": {
+                "exhibits_list": "Exhibit 99.1: Press Release, dated November 21, 2023, entitled \"NVIDIA Announces Financial Results for Third Quarter Fiscal 2024\".\nExhibit 99.2: CFO Commentary on Third Quarter Fiscal 2024 Results.\nExhibit 104: The cover page of this Current Report on Form 8-K, formatted in inline XBRL (included as Exhibit 101)."
+              }
+            }
+          }
+        },
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.02 - Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers": {
+              "content": "On July 24, 2023, the Board of Directors of NVIDIA Corporation appointed Melissa Lora as a member of the Board, increasing the number of directors from thirteen to fourteen.",
+              "subsections": {
+                "appointment_details": "On July 24, 2023, the Board of Directors, or the Board, of NVIDIA Corporation appointed Melissa Lora as a member of the Board and the number of directors constituting the full Board was increased from thirteen to fourteen. Ms. Lora was also appointed to serve as a member of the Audit Committee of the Board.",
+                "compensatory_arrangements": "In connection with her appointment to the Board, Ms. Lora was granted pursuant to our Amended and Restated 2007 Equity Incentive Plan, or the 2007 Plan: (a) an initial equity grant of 587 restricted stock units, vesting approximately semi-annually over three years commencing July 24, 2023, and (b) a pro-rated annual equity grant of 590 restricted stock units, of which 265 will vest on November 15, 2023 and 325 will vest on May 15, 2024. Additionally, she was granted a pro-rated annual cash retainer of $77,250, payable starting on July 24, 2023. The 2007 Plan is filed as Exhibit 10.2 to our Annual Report on Form 10-K filed with the Securities and Exchange Commission, or the SEC, on February 24, 2023.",
+                "indemnity_agreement": "In addition, we have entered into an indemnity agreement with Ms. Lora in connection with her service as a member of the Board. The form of indemnity agreement is filed as Exhibit 10.1 to our Current Report on Form 8-K filed with the SEC on March 7, 2006."
+              }
+            },
+            "Item 5.03 - Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year": {
+              "content": "On March 2, 2023, the Board of the Company amended and restated the Company’s Bylaws (the Restated Bylaws), which became effective immediately upon adoption by the Board.",
+              "subsections": {
+                "summary_of_amendments": "The Restated Bylaws update procedural mechanics and disclosure requirements for stockholder nominations and proposals, including: requiring additional background information and disclosures regarding proposing stockholders and nominees; requiring a stockholder submitting a nomination to represent their intent to solicit proxies under Rule 14a-19 and provide evidence of compliance; requiring disclosures in a stockholder's notice to be updated as of the record date and five business days prior to the meeting; stipulating that if a stockholder fails to comply with Rule 14a-19 requirements, their nominees will be disregarded; and requiring stockholders soliciting proxies to use a proxy card color other than white, which is reserved for the Board.",
+                "reference_to_exhibit": "The foregoing summary of the amendments effected by the Restated Bylaws does not purport to be complete and is qualified in its entirety by reference to the complete text of the Restated Bylaws, a copy of which is filed as Exhibit 3.1 hereto and incorporated herein by reference."
+              }
+            },
+            "Item 5.07 - Submission of Matters to a Vote of Security Holders": {
+              "content": "On June 22, 2023, at the 2023 Annual Meeting of Stockholders of NVIDIA Corporation, or the 2023 Annual Meeting, the following proposals were adopted by the margin indicated. Proxies for the 2023 Annual Meeting were solicited pursuant to Section 14(a) of the Securities Exchange Act of 1934, as amended, and there was no solicitation in opposition of management’s solicitation.",
+              "subsections": {
+                "1. Election of Directors": "Stockholders approved the election of each of our thirteen (13) director nominees to hold office until the 2024 Annual Meeting of Stockholders of NVIDIA Corporation and until his or her successor is elected or appointed. The results of the voting were as follows:\n\na. Robert K. Burgess\nNumber of shares For: 1,625,854,250\nNumber of shares Against: 55,516,966\nNumber of shares Abstaining: 2,085,730\nNumber of Broker Non-Votes: 286,066,136\n\nb. Tench Coxe\nNumber of shares For: 1,541,282,586\nNumber of shares Against: 140,103,871\nNumber of shares Abstaining: 2,070,489\nNumber of Broker Non-Votes: 286,066,136\n\nc. John O. Dabiri\nNumber of shares For: 1,651,249,399\nNumber of shares Against: 30,122,052\nNumber of shares Abstaining: 2,085,495\nNumber of Broker Non-Votes: 286,066,136\n\nd. Persis S. Drell\nNumber of shares For: 1,623,178,165\nNumber of shares Against: 58,242,340\nNumber of shares Abstaining: 2,036,441\nNumber of Broker Non-Votes: 286,066,136\n\ne. Jen-Hsun Huang\nNumber of shares For: 1,647,312,653\nNumber of shares Against: 32,866,873\nNumber of shares Abstaining: 3,277,420\nNumber of Broker Non-Votes: 286,066,136\n\nf. Dawn Hudson\nNumber of shares For: 1,630,929,129\nNumber of shares Against: 50,515,840\nNumber of shares Abstaining: 2,011,977\nNumber of Broker Non-Votes: 286,066,136\n\ng. Harvey C. Jones\nNumber of shares For: 1,485,702,770\nNumber of shares Against: 195,712,370\nNumber of shares Abstaining: 2,041,806\nNumber of Broker Non-Votes: 286,066,136\n\nh. Michael G. McCaffery\nNumber of shares For: 1,666,592,304\nNumber of shares Against: 14,686,036\nNumber of shares Abstaining: 2,178,606\nNumber of Broker Non-Votes: 286,066,136\n\ni. Stephen C. Neal\nNumber of shares For: 1,500,500,287\nNumber of shares Against: 180,807,940\nNumber of shares Abstaining: 2,148,719\nNumber of Broker Non-Votes: 286,066,136\n\nj. Mark L. Perry\nNumber of shares For: 1,506,459,534\nNumber of shares Against: 174,857,324\nNumber of shares Abstaining: 2,140,088\nNumber of Broker Non-Votes: 286,066,136\n\nk. A. Brooke Seawell\nNumber of shares For: 1,527,924,819\nNumber of shares Against: 152,477,701\nNumber of shares Abstaining: 3,054,426\nNumber of Broker Non-Votes: 286,066,136\n\nl. Aarti Shah\nNumber of shares For: 1,676,241,988\nNumber of shares Against: 5,161,064\nNumber of shares Abstaining: 2,053,894\nNumber of Broker Non-Votes: 286,066,136\n\nm. Mark A. Stevens\nNumber of shares For: 1,562,037,938\nNumber of shares Against: 119,338,471\nNumber of shares Abstaining: 2,080,537\nNumber of Broker Non-Votes: 286,066,136",
+                "2. Advisory Vote on Executive Compensation": "Stockholders approved, on an advisory basis, the compensation of our named executive officers as disclosed in our definitive proxy statement for the 2023 Annual Meeting filed with the Securities and Exchange Commission on May 8, 2023. The results of the voting were as follows:\nNumber of shares For: 1,544,447,439\nNumber of shares Against: 123,717,725\nNumber of shares Abstaining: 15,291,782\nNumber of Broker Non-Votes: 286,066,136",
+                "3. Advisory Vote on Frequency of Executive Compensation Vote": "Stockholders approved, on an advisory basis, the frequency of holding an advisory vote on the compensation of our named executive officers. The results of the voting were as follows:\nNumber of shares for 1 Year: 1,664,241,344\nNumber of shares for 2 Years: 2,062,943\nNumber of shares for 3 Years: 14,923,601\nNumber of shares Abstaining: 2,229,058\nNumber of Broker Non-Votes: 286,066,136\n\nBased on the voting results, we have determined to provide for an annual advisory vote on the compensation of our named executive officers.",
+                "4. Ratification of Independent Registered Accounting Firm": "Stockholders approved the ratification of the selection of PricewaterhouseCoopers LLP as our independent registered accounting firm for our fiscal year ending January 28, 2024. The results of the voting were as follows:\nNumber of shares For: 1,938,914,100\nNumber of shares Against: 28,443,041\nNumber of shares Abstaining: 2,165,941\nNumber of Broker Non-Votes: —"
+              }
+            }
+          }
+        },
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "On October 23, 2023, the United States Government informed NVIDIA Corporation, or the Company, that the licensing requirements of the interim final rule entitled “Implementation of Additional Export Controls: Certain Advanced Computing Items; Supercomputer and Semiconductor End Use; Updates and Corrections”, dated October 18, 2023, applicable to products having a “total processing performance” of 4800 or more and designed or marketed for datacenters, is effective immediately, impacting shipments of the Company’s A100, A800, H100, H800, and L40S products. These licensing requirements were originally to be effective after a 30-day period, as first described in the Company's Current Report on Form 8-K filed with the U.S. Securities and Exchange Commission on October 17, 2023. Given the strength of demand for the Company’s products worldwide, the Company does not anticipate that the accelerated timing of the licensing requirements will have a near-term meaningful impact on its financial results.",
+              "subsections": {
+                "forward_looking_statements": "Certain statements in this Current Report on Form 8-K including statements regarding the near-term impact of the accelerated timing of licensing requirements on the Company’s financial results are forward-looking statements that are subject to risks and uncertainties that could cause results to be materially different than expectations. Important factors that could cause actual results to differ materially include: global economic conditions; our reliance on third parties to manufacture, assemble, package and test our products; the impact of technological development and competition; development of new products and technologies or enhancements to our existing product and technologies; market acceptance of our products or our partners’ products; design, manufacturing or software defects; changes in consumer preferences or demands; changes in industry standards and interfaces; unexpected loss of performance of our products or technologies when integrated into systems; as well as other factors detailed from time to time in the most recent reports NVIDIA files with the Securities and Exchange Commission, or SEC, including, but not limited to, its annual report on Form 10-K and quarterly reports on Form 10-Q. Copies of reports filed with the SEC are posted on the company’s website and are available from NVIDIA without charge. These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and, except as required by law, NVIDIA disclaims any obligation to update these forward-looking statements to reflect future events or circumstances."
+              }
+            }
+          }
+        }
+      }
+    },
+    "2024": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 2 - Financial Information": {
+          "ITEMS": {
+            "Item 2.02 - Results of Operations and Financial Condition": {
+              "content": "On November 20, 2024, NVIDIA Corporation, or the Company, issued a press release announcing its results for the quarter ended October 27, 2024. The press release is attached as Exhibit 99.1 and is incorporated herein by reference. Attached hereto as Exhibit 99.2 and incorporated by reference herein is financial information and commentary by Colette M. Kress, Executive Vice President and Chief Financial Officer of the Company, regarding results for the quarter ended October 27, 2024, or the CFO Commentary. The CFO Commentary will be posted to https://investor.nvidia.com immediately after the filing of this Current Report. The press release and CFO Commentary are furnished and shall not be deemed \"filed\" for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or subject to the liabilities of that Section or Sections 11 and 12(a)(2) of the Securities Act of 1933, as amended. The information in this Current Report shall not be incorporated by reference in any filing with the U.S. Securities and Exchange Commission made by the Company, whether made before or after the date hereof, regardless of any general incorporation language in such filing.",
+              "subsections": {
+                "announcement_details": "On November 20, 2024, NVIDIA Corporation, or the Company, issued a press release announcing its results for the quarter ended October 27, 2024. The press release is attached as Exhibit 99.1 and is incorporated herein by reference.",
+                "cfo_commentary": "Attached hereto as Exhibit 99.2 and incorporated by reference herein is financial information and commentary by Colette M. Kress, Executive Vice President and Chief Financial Officer of the Company, regarding results for the quarter ended October 27, 2024, or the CFO Commentary. The CFO Commentary will be posted to https://investor.nvidia.com immediately after the filing of this Current Report.",
+                "filing_status": "The press release and CFO Commentary are furnished and shall not be deemed \"filed\" for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or subject to the liabilities of that Section or Sections 11 and 12(a)(2) of the Securities Act of 1933, as amended. The information in this Current Report shall not be incorporated by reference in any filing with the U.S. Securities and Exchange Commission made by the Company, whether made before or after the date hereof, regardless of any general incorporation language in such filing."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits",
+              "subsections": {
+                "exhibit_99.1": "Press Release, dated November 20, 2024, entitled \"NVIDIA Announces Financial Results for Third Quarter Fiscal 2025\"",
+                "exhibit_99.2": "CFO Commentary on Third Quarter Fiscal 2025 Results",
+                "exhibit_104": "The cover page of this Current Report on Form 8-K, formatted in inline XBRL (included as Exhibit 101)"
+              }
+            }
+          }
+        },
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.02 - Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers": {
+              "content": "On November 7, 2024, the Board of Directors of NVIDIA Corporation appointed Ellen Ochoa as a new member of the Board.",
+              "subsections": {
+                "appointment_of_director": "On November 7, 2024, the Board of Directors appointed Ellen Ochoa as a member of the Board. Concurrently, the number of directors constituting the full Board was increased from twelve to thirteen. Dr. Ochoa is expected to be appointed to serve as a member of the Nominating and Corporate Governance Committee of the Board.",
+                "compensatory_arrangements": "In connection with her appointment, Dr. Ochoa will be granted compensation pursuant to the Amended and Restated 2007 Equity Incentive Plan. This includes: (a) an initial equity grant of 1,848 restricted stock units, vesting approximately semi-annually over three years, and (b) a pro-rated annual equity grant of 1,321 restricted stock units, all of which will vest on May 21, 2025. Additionally, she was granted a pro-rated annual cash retainer of $53,800, payable starting on November 7, 2024.",
+                "indemnity_agreement": "The company has entered into an indemnity agreement with Dr. Ochoa in connection with her service as a member of the Board. The form of indemnity agreement is filed as Exhibit 10.1 to the company's Current Report on Form 8-K filed with the SEC on March 7, 2006."
+              }
+            },
+            "Item 5.03 - Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year": {
+              "content": "On May 22, 2024, NVIDIA Corporation, or the Company, announced a ten-for-one forward stock split, or the Stock Split, of the Company’s issued common stock to be effected through the filing of an amendment to the Company's Restated Certificate of Incorporation, or the Amendment, with the Secretary of the State of Delaware.",
+              "subsections": {
+                "amendment_to_certificate_of_incorporation": "The Company filed the Amendment to effect the Stock Split and proportionately increase the number of shares of the Company’s authorized common stock from 8 billion to 80 billion. The Amendment, which became effective at 4:01 p.m. Eastern Time on June 7, 2024, is filed as Exhibit 3.1 to this Current Report on Form 8-K.",
+                "trading_commencement": "Trading is expected to commence on a split-adjusted basis at market open on June 10, 2024."
+              }
+            },
+            "Item 5.07 - Submission of Matters to a Vote of Security Holders": {
+              "content": "On June 26, 2024, at the 2024 Annual Meeting of Stockholders of NVIDIA Corporation, or the 2024 Annual Meeting, the following proposals were adopted by the margin indicated. The record date for the 2024 Annual Meeting was April 29, 2024, which preceded the date of our ten-for-one forward stock split effected on June 7, 2024, and therefore the final voting results reported below are on a pre-stock split basis.",
+              "subsections": {
+                "Proposal 1: Election of Directors": "Stockholders approved the election of each of our twelve (12) director nominees to hold office until the 2025 Annual Meeting of Stockholders of NVIDIA Corporation and until his or her successor is elected or appointed. The results of the voting were as follows:\n\na. Robert K. Burgess\nNumber of shares For: 1,599,856,381\nNumber of shares Against: 53,876,854\nNumber of shares Abstaining: 2,656,440\nNumber of Broker Non-Votes: 293,416,473\n\nb. Tench Coxe\nNumber of shares For: 1,527,721,849\nNumber of shares Against: 126,000,023\nNumber of shares Abstaining: 2,667,803\nNumber of Broker Non-Votes: 293,416,473\n\nc. John O. Dabiri\nNumber of shares For: 1,637,066,126\nNumber of shares Against: 16,466,076\nNumber of shares Abstaining: 2,857,473\nNumber of Broker Non-Votes: 293,416,473\n\nd. Persis S. Drell\nNumber of shares For: 1,605,895,970\nNumber of shares Against: 47,832,005\nNumber of shares Abstaining: 2,661,700\nNumber of Broker Non-Votes: 293,416,473\n\ne. Jen-Hsun Huang\nNumber of shares For: 1,631,633,636\nNumber of shares Against: 22,473,582\nNumber of shares Abstaining: 2,282,457\nNumber of Broker Non-Votes: 293,416,473\n\nf. Dawn Hudson\nNumber of shares For: 1,603,616,438\nNumber of shares Against: 50,087,714\nNumber of shares Abstaining: 2,685,523\nNumber of Broker Non-Votes: 293,416,473\n\ng. Harvey C. Jones\nNumber of shares For: 1,491,812,333\nNumber of shares Against: 161,876,590\nNumber of shares Abstaining: 2,700,752\nNumber of Broker Non-Votes: 293,416,473\n\nh. Melissa B. Lora\nNumber of shares For: 1,652,017,772\nNumber of shares Against: 1,577,647\nNumber of shares Abstaining: 2,794,256\nNumber of Broker Non-Votes: 293,416,473\n\ni. Stephen C. Neal\nNumber of shares For: 1,557,130,163\nNumber of shares Against: 96,431,434\nNumber of shares Abstaining: 2,828,078\nNumber of Broker Non-Votes: 293,416,473\n\nj. A. Brooke Seawell\nNumber of shares For: 1,513,081,313\nNumber of shares Against: 140,288,480\nNumber of shares Abstaining: 3,019,882\nNumber of Broker Non-Votes: 293,416,473\n\nk. Aarti Shah\nNumber of shares For: 1,525,607,990\nNumber of shares Against: 127,858,107\nNumber of shares Abstaining: 2,923,578\nNumber of Broker Non-Votes: 293,416,473\n\nl. Mark A. Stevens\nNumber of shares For: 1,558,109,486\nNumber of shares Against: 95,535,352\nNumber of shares Abstaining: 2,744,837\nNumber of Broker Non-Votes: 293,416,473",
+                "Proposal 2: Advisory Vote on Executive Compensation": "Stockholders approved, on an advisory basis, the compensation of our named executive officers as disclosed in our definitive proxy statement for the 2024 Annual Meeting filed with the Securities and Exchange Commission on May 14, 2024. The results of the voting were as follows:\nNumber of shares For: 1,527,356,698\nNumber of shares Against: 121,555,544\nNumber of shares Abstaining: 7,477,433\nNumber of Broker Non-Votes: 293,416,473",
+                "Proposal 3: Ratification of Independent Registered Accounting Firm": "Stockholders approved the ratification of the selection of PricewaterhouseCoopers LLP as our independent registered accounting firm for our fiscal year ending January 26, 2025. The results of the voting were as follows:\nNumber of shares For: 1,879,767,350\nNumber of shares Against: 67,627,481\nNumber of shares Abstaining: 2,411,317\nNumber of Broker Non-Votes: —",
+                "Proposal 4: Advisory Vote on Supermajority Voting Provisions": "Stockholders approved, on an advisory basis, a stockholder proposal to replace the supermajority voting provisions in our charter and bylaws with a simple majority voting standard. The results of the voting were as follows:\nNumber of shares For: 1,466,504,471\nNumber of shares Against: 143,103,694\nNumber of shares Abstaining: 40,088,907\nNumber of Broker Non-Votes: 293,416,473\n\n* In addition, there were 6,692,603 shares present, represented by proxy and entitled to vote on this proposal for which no voting directions were indicated. As our Board of Directors elected to make no recommendation with respect to this proposal, the proxyholders did not vote these shares on this proposal."
+              }
+            }
+          }
+        },
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "On May 22, 2024, the Company announced a ten-for-one forward stock split and an increase in its quarterly cash dividend.",
+              "subsections": {
+                "Stock Split": "The Company announced a ten-for-one forward stock split of its issued common stock, to be effected through an amendment to the Company's Restated Certificate of Incorporation. Each record holder of common stock as of the close of market on Thursday, June 6, 2024 will receive nine additional shares of common stock, to be distributed after the close of market on Friday, June 7, 2024. Trading is expected to commence on a split-adjusted basis at market open on Monday, June 10, 2024.",
+                "Dividend Increase": "The Company increased its quarterly cash dividend by 150 percent from $0.04 per share to $0.10 per share of common stock. The increased dividend is equivalent to $0.01 per share on a post-Stock Split basis and will be paid on Friday, June 28, 2024, to all shareholders of record on Tuesday, June 11, 2024."
+              }
+            }
+          }
+        }
+      }
+    },
+    "2025": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "On April 9, 2025, the U.S. government, or USG, informed NVIDIA Corporation, or the Company, that the USG requires a license for export to China (including Hong Kong and Macau) and D:5 countries, or to companies headquartered or with an ultimate parent therein, of the Company’s H20 integrated circuits and any other circuits achieving the H20’s memory bandwidth, interconnect bandwidth, or combination thereof. The USG indicated that the license requirement addresses the risk that the covered products may be used in, or diverted to, a supercomputer in China. On April 14, 2025, the USG informed the Company that the license requirement will be in effect for the indefinite future.",
+              "subsections": {
+                "Financial Impact": "The Company’s first quarter of fiscal year 2026 ends on April 27, 2025. First quarter results are expected to include up to approximately $5.5 billion of charges associated with H20 products for inventory, purchase commitments, and related reserves.",
+                "Forward-Looking Statements": "Certain statements in this Current Report on Form 8-K including statements regarding the USG’s intentions and the impact of the license requirement on the Company’s first quarter financial results are forward-looking statements that are subject to risks and uncertainties that could cause results to be materially different than expectations. Important factors that could cause actual results to differ materially include: global economic conditions; our reliance on third parties to manufacture, assemble, package and test our products; the impact of technological development and competition; development of new products and technologies or enhancements to our existing product and technologies; market acceptance of our products or our partners’ products; design, manufacturing or software defects; changes in consumer preferences or demands; changes in industry standards and interfaces; unexpected loss of performance of our products or technologies when integrated into systems; as well as other factors detailed from time to time in the most recent reports NVIDIA files with the Securities and Exchange Commission, or SEC, including, but not limited to, its annual report on Form 10-K and quarterly reports on Form 10-Q. Copies of reports filed with the SEC are posted on the company’s website and are available from NVIDIA without charge. These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and, except as required by law, NVIDIA disclaims any obligation to update these forward-looking statements to reflect future events or circumstances."
+              }
+            }
+          }
+        },
+        "Section 2 - Financial Information": {
+          "ITEMS": {
+            "Item 2.02 - Results of Operations and Financial Condition": {
+              "content": "On May 28, 2025, NVIDIA Corporation, or the Company, issued a press release announcing its results for the quarter ended April 27, 2025. The press release is attached as Exhibit 99.1 and is incorporated herein by reference. Attached hereto as Exhibit 99.2 and incorporated by reference herein is financial information and commentary by Colette M. Kress, Executive Vice President and Chief Financial Officer of the Company, regarding results for the quarter ended April 27, 2025, or the CFO Commentary. The CFO Commentary will be posted to https://investor.nvidia.com immediately after the filing of this Current Report.",
+              "subsections": {
+                "Filing Status": "The press release and CFO Commentary are furnished and shall not be deemed \"filed\" for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or subject to the liabilities of that Section or Sections 11 and 12(a)(2) of the Securities Act of 1933, as amended. The information in this Current Report shall not be incorporated by reference in any filing with the U.S. Securities and Exchange Commission made by the Company, whether made before or after the date hereof, regardless of any general incorporation language in such filing."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits",
+              "subsections": {
+                "Exhibits List": "Exhibit 99.1: Press Release, dated May 28, 2025, entitled \"NVIDIA Announces Financial Results for First Quarter Fiscal 2026\"\nExhibit 99.2: CFO Commentary on First Quarter Fiscal 2026 Results\nExhibit 104: The cover page of this Current Report on Form 8-K, formatted in inline XBRL (included as Exhibit 101)"
+              }
+            }
+          }
+        },
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.02 - Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers": {
+              "content": "(b) On July 31, 2025, Ellen Ochoa resigned from the Board of Directors, or the Board, of NVIDIA Corporation, or the Company, including as a member of the Nominating and Corporate Governance Committee of the Board, effective immediately. Dr. Ochoa’s resignation is for personal reasons and not because of any disagreement with the Company on any matter relating to the Company’s operations, policies or practices.",
+              "subsections": {}
+            },
+            "Item 5.07 - Submission of Matters to a Vote of Security Holders": {
+              "content": "On June 25, 2025, at the 2025 Annual Meeting of Stockholders of NVIDIA Corporation, or the 2025 Annual Meeting, the following proposals were adopted or rejected by the margin indicated.",
+              "subsections": {
+                "Proposal 1: Election of Directors": "Stockholders approved the election of each of our thirteen (13) director nominees to hold office until the 2026 Annual Meeting of Stockholders of NVIDIA Corporation and until his or her successor is elected or appointed. The results of the voting were as follows:\na. Robert K. Burgess\nNumber of shares For: 15,376,382,668\nNumber of shares Against: 797,228,237\nNumber of shares Abstaining: 19,476,750\nNumber of Broker Non-Votes: 3,206,621,218\n\nb. Tench Coxe\nNumber of shares For: 15,134,235,302\nNumber of shares Against: 1,035,844,234\nNumber of shares Abstaining: 23,008,119\nNumber of Broker Non-Votes: 3,206,621,218\n\nc. John O. Dabiri\nNumber of shares For: 16,025,518,593\nNumber of shares Against: 146,347,846\nNumber of shares Abstaining: 21,221,216\nNumber of Broker Non-Votes: 3,206,621,218\n\nd. Persis S. Drell\nNumber of shares For: 16,014,366,254\nNumber of shares Against: 159,022,874\nNumber of shares Abstaining: 19,698,527\nNumber of Broker Non-Votes: 3,206,621,218\n\ne. Jen-Hsun Huang\nNumber of shares For: 15,928,933,962\nNumber of shares Against: 247,104,111\nNumber of shares Abstaining: 17,049,582\nNumber of Broker Non-Votes: 3,206,621,218\n\nf. Dawn Hudson\nNumber of shares For: 15,303,708,611\nNumber of shares Against: 868,132,528\nNumber of shares Abstaining: 21,246,516\nNumber of Broker Non-Votes: 3,206,621,218\n\ng. Harvey C. Jones\nNumber of shares For: 14,971,033,849\nNumber of shares Against: 1,198,658,803\nNumber of shares Abstaining: 23,395,003\nNumber of Broker Non-Votes: 3,206,621,218\n\nh. Melissa B. Lora\nNumber of shares For: 16,115,516,875\nNumber of shares Against: 58,214,776\nNumber of shares Abstaining: 19,356,004\nNumber of Broker Non-Votes: 3,206,621,218\n\ni. Stephen C. Neal\nNumber of shares For: 15,279,631,336\nNumber of shares Against: 890,540,427\nNumber of shares Abstaining: 22,915,892\nNumber of Broker Non-Votes: 3,206,621,218\n\nj. Ellen Ochoa\nNumber of shares For: 16,043,704,383\nNumber of shares Against: 129,880,202\nNumber of shares Abstaining: 19,503,070\nNumber of Broker Non-Votes: 3,206,621,218\n\nk. A. Brooke Seawell\nNumber of shares For: 15,153,296,756\nNumber of shares Against: 1,016,658,974\nNumber of shares Abstaining: 23,131,925\nNumber of Broker Non-Votes: 3,206,621,218\n\nl. Aarti Shah\nNumber of shares For: 14,964,534,690\nNumber of shares Against: 1,208,585,561\nNumber of shares Abstaining: 19,967,404\nNumber of Broker Non-Votes: 3,206,621,218\n\nm. Mark A. Stevens\nNumber of shares For: 15,325,129,515\nNumber of shares Against: 848,364,367\nNumber of shares Abstaining: 19,593,773\nNumber of Broker Non-Votes: 3,206,621,218",
+                "Proposal 2: Advisory Vote on Executive Compensation": "Stockholders approved, on an advisory basis, the compensation of our named executive officers as disclosed in our definitive proxy statement on Schedule 14A for the 2025 Annual Meeting filed with the Securities and Exchange Commission on May 13, 2025. The results of the voting were as follows:\nNumber of shares For: 14,806,756,684\nNumber of shares Against: 1,320,594,290\nNumber of shares Abstaining: 65,736,681\nNumber of Broker Non-Votes: 3,206,621,218",
+                "Proposal 3: Ratification of Accounting Firm": "Stockholders approved the ratification of the selection of PricewaterhouseCoopers LLP as our independent registered accounting firm for our fiscal year ending January 25, 2026. The results of the voting were as follows:\nNumber of shares For: 18,450,994,715\nNumber of shares Against: 925,798,285\nNumber of shares Abstaining: 22,915,873\nNumber of Broker Non-Votes: —",
+                "Proposal 4: Amendment to Certificate of Incorporation (Supermajority Provisions)": "Stockholders did not approve an amendment and restatement of the Certificate of Incorporation of NVIDIA Corporation to remove all supermajority provisions. Approval of this proposal required at least 66 2/3% of the outstanding shares of our common stock. The results of the voting were as follows:\nNumber of shares For: 16,018,866,893\nNumber of shares Against: 152,574,185\nNumber of shares Abstaining: 21,646,577\nNumber of Broker Non-Votes: 3,206,621,218",
+                "Proposal 5: Non-binding Proposal to Eliminate Holding Period for Special Meetings": "Stockholders did not approve the non-binding stockholder proposal to eliminate the holding period requirement to call a special stockholder meeting. The results of the voting were as follows:\nNumber of shares For: 1,097,803,015\nNumber of shares Against: 15,054,650,161\nNumber of shares Abstaining: 40,634,479\nNumber of Broker Non-Votes: 3,206,621,218",
+                "Proposal 6: Non-binding Proposal for Director Election Resignation Policy": "Stockholders did not approve the non-binding stockholder proposal to request the adoption of a new director election resignation governance policy. The results of the voting were as follows:\nNumber of shares For: 2,866,965,630\nNumber of shares Against: 13,251,838,014\nNumber of shares Abstaining: 74,284,011\nNumber of Broker Non-Votes: 3,206,621,218",
+                "Proposal 7: Non-binding Proposal to Modify Workforce Data Reporting": "Stockholders did not approve the non-binding stockholder proposal to modify existing reporting on workforce data. The results of the voting were as follows:\nNumber of shares For: 2,914,847,654\nNumber of shares Against: 13,087,513,955\nNumber of shares Abstaining: 190,726,046\nNumber of Broker Non-Votes: 3,206,621,218"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
