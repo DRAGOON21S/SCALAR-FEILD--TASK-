@@ -1,0 +1,27 @@
+{
+  "total_files_found": 2,
+  "successfully_processed": 2,
+  "failed_to_process": 0,
+  "success_rate": 100.0,
+  "processed_files": [
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Apple_Inc\\2021\\10-Q\\output_0000320193_21_000010.txt",
+      "company": "Apple_Inc",
+      "quarter": "Q2",
+      "year": "2021",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Apple_Inc\\python_output_10q\\Q2_2021\\output_0000320193_21_000010_Q2_2021_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Apple_Inc\\2021\\10-Q\\output_0000320193_21_000056.txt",
+      "company": "Apple_Inc",
+      "quarter": "Q2",
+      "year": "2021",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Apple_Inc\\python_output_10q\\Q2_2021\\output_0000320193_21_000056_Q2_2021_structured.json",
+      "status": "success"
+    }
+  ],
+  "failed_files": [],
+  "processing_date": "2025-08-10T19:50:14.065875",
+  "companies_directory": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies"
+}

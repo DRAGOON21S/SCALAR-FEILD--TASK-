@@ -1,0 +1,35 @@
+Item 6. Exhibits
+Exhibit      Exhibit Description
+Number       Apple Inc. Non-Employee Director Stock     Incorporated by Reference               Filing Date/
+10.1*, **    Plan, as amended November 9, 2021.         Form                         Exhibit    Period End Date
+Rule 13a-14(a) / 15d-14(a)
+31.1**       Certification of Chief Executive
+Officer.
+Rule 13a-14(a) / 15d-14(a)
+31.2**       Certification of Chief Financial
+Officer.
+Section 1350 Certifications of Chief
+32.1***      Executive Officer and Chief Financial
+Officer.
+Inline XBRL Document Set for the
+condensed consolidated financial
+101**        statements and accompanying notes in
+Part I, Item 1, “Financial Statements”
+of this Quarterly Report on Form 10-Q.
+Inline XBRL for the cover page of this
+104**        Quarterly Report on Form 10-Q, included
+in the Exhibit 101 Inline XBRL Document
+Set.
+* Indicates management contract or compensatory plan or arrangement.
+** Filed herewith.
+*** Furnished herewith.
+Apple Inc. | Q1 2022 Form 10-Q | 22
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to
+be signed on its behalf by the undersigned thereunto duly authorized.
+January 27, 2022    Apple Inc.
+By:           /s/ Luca Maestri
+Luca Maestri
+Senior Vice President,
+Chief Financial Officer
+Apple Inc. | Q1 2022 Form 10-Q | 23

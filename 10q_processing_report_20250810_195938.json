@@ -1,0 +1,1083 @@
+{
+  "total_files_found": 134,
+  "successfully_processed": 134,
+  "failed_to_process": 0,
+  "success_rate": 100.0,
+  "processed_files": [
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Apple_Inc\\2021\\10-Q\\output_0000320193_21_000010.txt",
+      "company": "Apple_Inc",
+      "quarter": "Q2",
+      "year": "2021",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Apple_Inc\\python_output_10q\\Q2_2021\\output_0000320193_21_000010_Q2_2021_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Apple_Inc\\2021\\10-Q\\output_0000320193_21_000056.txt",
+      "company": "Apple_Inc",
+      "quarter": "Q2",
+      "year": "2021",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Apple_Inc\\python_output_10q\\Q2_2021\\output_0000320193_21_000056_Q2_2021_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Apple_Inc\\2021\\10-Q\\output_0000320193_21_000065.txt",
+      "company": "Apple_Inc",
+      "quarter": "Q2",
+      "year": "2021",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Apple_Inc\\python_output_10q\\Q2_2021\\output_0000320193_21_000065_Q2_2021_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Apple_Inc\\2022\\10-Q\\output_0000320193_22_000007.txt",
+      "company": "Apple_Inc",
+      "quarter": "Q2",
+      "year": "2022",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Apple_Inc\\python_output_10q\\Q2_2022\\output_0000320193_22_000007_Q2_2022_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Apple_Inc\\2022\\10-Q\\output_0000320193_22_000059.txt",
+      "company": "Apple_Inc",
+      "quarter": "Q2",
+      "year": "2022",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Apple_Inc\\python_output_10q\\Q2_2022\\output_0000320193_22_000059_Q2_2022_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Apple_Inc\\2022\\10-Q\\output_0000320193_22_000070.txt",
+      "company": "Apple_Inc",
+      "quarter": "Q2",
+      "year": "2022",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Apple_Inc\\python_output_10q\\Q2_2022\\output_0000320193_22_000070_Q2_2022_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Apple_Inc\\2023\\10-Q\\output_0000320193_23_000006.txt",
+      "company": "Apple_Inc",
+      "quarter": "Q2",
+      "year": "2023",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Apple_Inc\\python_output_10q\\Q2_2023\\output_0000320193_23_000006_Q2_2023_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Apple_Inc\\2023\\10-Q\\output_0000320193_23_000064.txt",
+      "company": "Apple_Inc",
+      "quarter": "Q2",
+      "year": "2023",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Apple_Inc\\python_output_10q\\Q2_2023\\output_0000320193_23_000064_Q2_2023_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Apple_Inc\\2023\\10-Q\\output_0000320193_23_000077.txt",
+      "company": "Apple_Inc",
+      "quarter": "Q2",
+      "year": "2023",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Apple_Inc\\python_output_10q\\Q2_2023\\output_0000320193_23_000077_Q2_2023_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Apple_Inc\\2024\\10-Q\\output_0000320193_24_000006.txt",
+      "company": "Apple_Inc",
+      "quarter": "Q2",
+      "year": "2024",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Apple_Inc\\python_output_10q\\Q2_2024\\output_0000320193_24_000006_Q2_2024_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Apple_Inc\\2024\\10-Q\\output_0000320193_24_000069.txt",
+      "company": "Apple_Inc",
+      "quarter": "Q2",
+      "year": "2024",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Apple_Inc\\python_output_10q\\Q2_2024\\output_0000320193_24_000069_Q2_2024_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Apple_Inc\\2024\\10-Q\\output_0000320193_24_000081.txt",
+      "company": "Apple_Inc",
+      "quarter": "Q2",
+      "year": "2024",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Apple_Inc\\python_output_10q\\Q2_2024\\output_0000320193_24_000081_Q2_2024_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Apple_Inc\\2025\\10-Q\\output_0000320193_25_000008.txt",
+      "company": "Apple_Inc",
+      "quarter": "Q2",
+      "year": "2025",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Apple_Inc\\python_output_10q\\Q2_2025\\output_0000320193_25_000008_Q2_2025_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Apple_Inc\\2025\\10-Q\\output_0000320193_25_000057.txt",
+      "company": "Apple_Inc",
+      "quarter": "Q2",
+      "year": "2025",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Apple_Inc\\python_output_10q\\Q2_2025\\output_0000320193_25_000057_Q2_2025_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Apple_Inc\\2025\\10-Q\\output_0000320193_25_000073.txt",
+      "company": "Apple_Inc",
+      "quarter": "Q2",
+      "year": "2025",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Apple_Inc\\python_output_10q\\Q2_2025\\output_0000320193_25_000073_Q2_2025_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\DoorDash_Inc\\2021\\10-Q\\output_0001628280_21_010313.txt",
+      "company": "DoorDash_Inc",
+      "quarter": "Q2",
+      "year": "2021",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\DoorDash_Inc\\python_output_10q\\Q2_2021\\output_0001628280_21_010313_Q2_2021_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\DoorDash_Inc\\2021\\10-Q\\output_0001628280_21_016985.txt",
+      "company": "DoorDash_Inc",
+      "quarter": "Q2",
+      "year": "2021",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\DoorDash_Inc\\python_output_10q\\Q2_2021\\output_0001628280_21_016985_Q2_2021_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\DoorDash_Inc\\2021\\10-Q\\output_0001628280_21_022884.txt",
+      "company": "DoorDash_Inc",
+      "quarter": "Q2",
+      "year": "2021",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\DoorDash_Inc\\python_output_10q\\Q2_2021\\output_0001628280_21_022884_Q2_2021_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\DoorDash_Inc\\2022\\10-Q\\output_0001628280_22_013038.txt",
+      "company": "DoorDash_Inc",
+      "quarter": "Q2",
+      "year": "2022",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\DoorDash_Inc\\python_output_10q\\Q2_2022\\output_0001628280_22_013038_Q2_2022_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\DoorDash_Inc\\2022\\10-Q\\output_0001628280_22_021372.txt",
+      "company": "DoorDash_Inc",
+      "quarter": "Q2",
+      "year": "2022",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\DoorDash_Inc\\python_output_10q\\Q2_2022\\output_0001628280_22_021372_Q2_2022_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\DoorDash_Inc\\2022\\10-Q\\output_0001628280_22_028457.txt",
+      "company": "DoorDash_Inc",
+      "quarter": "Q2",
+      "year": "2022",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\DoorDash_Inc\\python_output_10q\\Q2_2022\\output_0001628280_22_028457_Q2_2022_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\DoorDash_Inc\\2023\\10-Q\\output_0001628280_23_016140.txt",
+      "company": "DoorDash_Inc",
+      "quarter": "Q2",
+      "year": "2023",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\DoorDash_Inc\\python_output_10q\\Q2_2023\\output_0001628280_23_016140_Q2_2023_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\DoorDash_Inc\\2023\\10-Q\\output_0001628280_23_026756.txt",
+      "company": "DoorDash_Inc",
+      "quarter": "Q2",
+      "year": "2023",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\DoorDash_Inc\\python_output_10q\\Q2_2023\\output_0001628280_23_026756_Q2_2023_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\DoorDash_Inc\\2023\\10-Q\\output_0001628280_23_035973.txt",
+      "company": "DoorDash_Inc",
+      "quarter": "Q2",
+      "year": "2023",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\DoorDash_Inc\\python_output_10q\\Q2_2023\\output_0001628280_23_035973_Q2_2023_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\DoorDash_Inc\\2024\\10-Q\\output_0001628280_24_019605.txt",
+      "company": "DoorDash_Inc",
+      "quarter": "Q2",
+      "year": "2024",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\DoorDash_Inc\\python_output_10q\\Q2_2024\\output_0001628280_24_019605_Q2_2024_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\DoorDash_Inc\\2024\\10-Q\\output_0001628280_24_034131.txt",
+      "company": "DoorDash_Inc",
+      "quarter": "Q2",
+      "year": "2024",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\DoorDash_Inc\\python_output_10q\\Q2_2024\\output_0001628280_24_034131_Q2_2024_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\DoorDash_Inc\\2024\\10-Q\\output_0001628280_24_044312.txt",
+      "company": "DoorDash_Inc",
+      "quarter": "Q2",
+      "year": "2024",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\DoorDash_Inc\\python_output_10q\\Q2_2024\\output_0001628280_24_044312_Q2_2024_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\DoorDash_Inc\\2025\\10-Q\\output_0001628280_25_023171.txt",
+      "company": "DoorDash_Inc",
+      "quarter": "Q2",
+      "year": "2025",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\DoorDash_Inc\\python_output_10q\\Q2_2025\\output_0001628280_25_023171_Q2_2025_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\DoorDash_Inc\\2025\\10-Q\\output_0001792789_25_000012.txt",
+      "company": "DoorDash_Inc",
+      "quarter": "Q2",
+      "year": "2025",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\DoorDash_Inc\\python_output_10q\\Q2_2025\\output_0001792789_25_000012_Q2_2025_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JOHNSON_&_JOHNSON\\2020\\10-Q\\output_0000200406_20_000056.txt",
+      "company": "JOHNSON_&_JOHNSON",
+      "quarter": "Q2",
+      "year": "2020",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JOHNSON_&_JOHNSON\\python_output_10q\\Q2_2020\\output_0000200406_20_000056_Q2_2020_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JOHNSON_&_JOHNSON\\2021\\10-Q\\output_0000200406_21_000036.txt",
+      "company": "JOHNSON_&_JOHNSON",
+      "quarter": "Q2",
+      "year": "2021",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JOHNSON_&_JOHNSON\\python_output_10q\\Q2_2021\\output_0000200406_21_000036_Q2_2021_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JOHNSON_&_JOHNSON\\2021\\10-Q\\output_0000200406_21_000057.txt",
+      "company": "JOHNSON_&_JOHNSON",
+      "quarter": "Q2",
+      "year": "2021",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JOHNSON_&_JOHNSON\\python_output_10q\\Q2_2021\\output_0000200406_21_000057_Q2_2021_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JOHNSON_&_JOHNSON\\2021\\10-Q\\output_0000200406_21_000070.txt",
+      "company": "JOHNSON_&_JOHNSON",
+      "quarter": "Q2",
+      "year": "2021",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JOHNSON_&_JOHNSON\\python_output_10q\\Q2_2021\\output_0000200406_21_000070_Q2_2021_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JOHNSON_&_JOHNSON\\2022\\10-Q\\output_0000200406_22_000048.txt",
+      "company": "JOHNSON_&_JOHNSON",
+      "quarter": "Q2",
+      "year": "2022",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JOHNSON_&_JOHNSON\\python_output_10q\\Q2_2022\\output_0000200406_22_000048_Q2_2022_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JOHNSON_&_JOHNSON\\2022\\10-Q\\output_0000200406_22_000071.txt",
+      "company": "JOHNSON_&_JOHNSON",
+      "quarter": "Q2",
+      "year": "2022",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JOHNSON_&_JOHNSON\\python_output_10q\\Q2_2022\\output_0000200406_22_000071_Q2_2022_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JOHNSON_&_JOHNSON\\2022\\10-Q\\output_0000200406_22_000086.txt",
+      "company": "JOHNSON_&_JOHNSON",
+      "quarter": "Q2",
+      "year": "2022",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JOHNSON_&_JOHNSON\\python_output_10q\\Q2_2022\\output_0000200406_22_000086_Q2_2022_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JOHNSON_&_JOHNSON\\2023\\10-Q\\output_0000200406_23_000056.txt",
+      "company": "JOHNSON_&_JOHNSON",
+      "quarter": "Q2",
+      "year": "2023",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JOHNSON_&_JOHNSON\\python_output_10q\\Q2_2023\\output_0000200406_23_000056_Q2_2023_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JOHNSON_&_JOHNSON\\2023\\10-Q\\output_0000200406_23_000082.txt",
+      "company": "JOHNSON_&_JOHNSON",
+      "quarter": "Q2",
+      "year": "2023",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JOHNSON_&_JOHNSON\\python_output_10q\\Q2_2023\\output_0000200406_23_000082_Q2_2023_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JOHNSON_&_JOHNSON\\2023\\10-Q\\output_0000200406_23_000102.txt",
+      "company": "JOHNSON_&_JOHNSON",
+      "quarter": "Q2",
+      "year": "2023",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JOHNSON_&_JOHNSON\\python_output_10q\\Q2_2023\\output_0000200406_23_000102_Q2_2023_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JOHNSON_&_JOHNSON\\2024\\10-Q\\output_0000200406_24_000049.txt",
+      "company": "JOHNSON_&_JOHNSON",
+      "quarter": "Q2",
+      "year": "2024",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JOHNSON_&_JOHNSON\\python_output_10q\\Q2_2024\\output_0000200406_24_000049_Q2_2024_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JOHNSON_&_JOHNSON\\2024\\10-Q\\output_0000200406_24_000075.txt",
+      "company": "JOHNSON_&_JOHNSON",
+      "quarter": "Q2",
+      "year": "2024",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JOHNSON_&_JOHNSON\\python_output_10q\\Q2_2024\\output_0000200406_24_000075_Q2_2024_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JOHNSON_&_JOHNSON\\2024\\10-Q\\output_0000200406_24_000096.txt",
+      "company": "JOHNSON_&_JOHNSON",
+      "quarter": "Q2",
+      "year": "2024",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JOHNSON_&_JOHNSON\\python_output_10q\\Q2_2024\\output_0000200406_24_000096_Q2_2024_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JOHNSON_&_JOHNSON\\2025\\10-Q\\output_0000200406_25_000119.txt",
+      "company": "JOHNSON_&_JOHNSON",
+      "quarter": "Q2",
+      "year": "2025",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JOHNSON_&_JOHNSON\\python_output_10q\\Q2_2025\\output_0000200406_25_000119_Q2_2025_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JOHNSON_&_JOHNSON\\2025\\10-Q\\output_0000200406_25_000178.txt",
+      "company": "JOHNSON_&_JOHNSON",
+      "quarter": "Q2",
+      "year": "2025",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JOHNSON_&_JOHNSON\\python_output_10q\\Q2_2025\\output_0000200406_25_000178_Q2_2025_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JPMORGAN_CHASE_&_CO\\2020\\10-Q\\output_0000019617_20_000438.txt",
+      "company": "JPMORGAN_CHASE_&_CO",
+      "quarter": "Q2",
+      "year": "2020",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JPMORGAN_CHASE_&_CO\\python_output_10q\\Q2_2020\\output_0000019617_20_000438_Q2_2020_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JPMORGAN_CHASE_&_CO\\2021\\10-Q\\output_0000019617_21_000292.txt",
+      "company": "JPMORGAN_CHASE_&_CO",
+      "quarter": "Q2",
+      "year": "2021",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JPMORGAN_CHASE_&_CO\\python_output_10q\\Q2_2021\\output_0000019617_21_000292_Q2_2021_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JPMORGAN_CHASE_&_CO\\2021\\10-Q\\output_0000019617_21_000373.txt",
+      "company": "JPMORGAN_CHASE_&_CO",
+      "quarter": "Q2",
+      "year": "2021",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JPMORGAN_CHASE_&_CO\\python_output_10q\\Q2_2021\\output_0000019617_21_000373_Q2_2021_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JPMORGAN_CHASE_&_CO\\2021\\10-Q\\output_0000019617_21_000458.txt",
+      "company": "JPMORGAN_CHASE_&_CO",
+      "quarter": "Q2",
+      "year": "2021",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JPMORGAN_CHASE_&_CO\\python_output_10q\\Q2_2021\\output_0000019617_21_000458_Q2_2021_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JPMORGAN_CHASE_&_CO\\2022\\10-Q\\output_0000019617_22_000319.txt",
+      "company": "JPMORGAN_CHASE_&_CO",
+      "quarter": "Q2",
+      "year": "2022",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JPMORGAN_CHASE_&_CO\\python_output_10q\\Q2_2022\\output_0000019617_22_000319_Q2_2022_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JPMORGAN_CHASE_&_CO\\2022\\10-Q\\output_0000019617_22_000422.txt",
+      "company": "JPMORGAN_CHASE_&_CO",
+      "quarter": "Q2",
+      "year": "2022",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JPMORGAN_CHASE_&_CO\\python_output_10q\\Q2_2022\\output_0000019617_22_000422_Q2_2022_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JPMORGAN_CHASE_&_CO\\2022\\10-Q\\output_0000019617_22_000492.txt",
+      "company": "JPMORGAN_CHASE_&_CO",
+      "quarter": "Q2",
+      "year": "2022",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JPMORGAN_CHASE_&_CO\\python_output_10q\\Q2_2022\\output_0000019617_22_000492_Q2_2022_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JPMORGAN_CHASE_&_CO\\2023\\10-Q\\output_0000019617_23_000310.txt",
+      "company": "JPMORGAN_CHASE_&_CO",
+      "quarter": "Q2",
+      "year": "2023",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JPMORGAN_CHASE_&_CO\\python_output_10q\\Q2_2023\\output_0000019617_23_000310_Q2_2023_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JPMORGAN_CHASE_&_CO\\2023\\10-Q\\output_0000019617_23_000432.txt",
+      "company": "JPMORGAN_CHASE_&_CO",
+      "quarter": "Q2",
+      "year": "2023",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JPMORGAN_CHASE_&_CO\\python_output_10q\\Q2_2023\\output_0000019617_23_000432_Q2_2023_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JPMORGAN_CHASE_&_CO\\2023\\10-Q\\output_0000019617_23_000524.txt",
+      "company": "JPMORGAN_CHASE_&_CO",
+      "quarter": "Q2",
+      "year": "2023",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JPMORGAN_CHASE_&_CO\\python_output_10q\\Q2_2023\\output_0000019617_23_000524_Q2_2023_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JPMORGAN_CHASE_&_CO\\2024\\10-Q\\output_0000019617_24_000326.txt",
+      "company": "JPMORGAN_CHASE_&_CO",
+      "quarter": "Q2",
+      "year": "2024",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JPMORGAN_CHASE_&_CO\\python_output_10q\\Q2_2024\\output_0000019617_24_000326_Q2_2024_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JPMORGAN_CHASE_&_CO\\2024\\10-Q\\output_0000019617_24_000453.txt",
+      "company": "JPMORGAN_CHASE_&_CO",
+      "quarter": "Q2",
+      "year": "2024",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JPMORGAN_CHASE_&_CO\\python_output_10q\\Q2_2024\\output_0000019617_24_000453_Q2_2024_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JPMORGAN_CHASE_&_CO\\2024\\10-Q\\output_0000019617_24_000611.txt",
+      "company": "JPMORGAN_CHASE_&_CO",
+      "quarter": "Q2",
+      "year": "2024",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JPMORGAN_CHASE_&_CO\\python_output_10q\\Q2_2024\\output_0000019617_24_000611_Q2_2024_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JPMORGAN_CHASE_&_CO\\2025\\10-Q\\output_0000019617_25_000421.txt",
+      "company": "JPMORGAN_CHASE_&_CO",
+      "quarter": "Q2",
+      "year": "2025",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JPMORGAN_CHASE_&_CO\\python_output_10q\\Q2_2025\\output_0000019617_25_000421_Q2_2025_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JPMORGAN_CHASE_&_CO\\2025\\10-Q\\output_0000019617_25_000615.txt",
+      "company": "JPMORGAN_CHASE_&_CO",
+      "quarter": "Q2",
+      "year": "2025",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\JPMORGAN_CHASE_&_CO\\python_output_10q\\Q2_2025\\output_0000019617_25_000615_Q2_2025_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Meta_Platforms_Inc\\2020\\10-Q\\output_0001326801_20_000084.txt",
+      "company": "Meta_Platforms_Inc",
+      "quarter": "Q2",
+      "year": "2020",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Meta_Platforms_Inc\\python_output_10q\\Q2_2020\\output_0001326801_20_000084_Q2_2020_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Meta_Platforms_Inc\\2021\\10-Q\\output_0001326801_21_000033.txt",
+      "company": "Meta_Platforms_Inc",
+      "quarter": "Q2",
+      "year": "2021",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Meta_Platforms_Inc\\python_output_10q\\Q2_2021\\output_0001326801_21_000033_Q2_2021_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Meta_Platforms_Inc\\2021\\10-Q\\output_0001326801_21_000049.txt",
+      "company": "Meta_Platforms_Inc",
+      "quarter": "Q2",
+      "year": "2021",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Meta_Platforms_Inc\\python_output_10q\\Q2_2021\\output_0001326801_21_000049_Q2_2021_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Meta_Platforms_Inc\\2021\\10-Q\\output_0001326801_21_000065.txt",
+      "company": "Meta_Platforms_Inc",
+      "quarter": "Q2",
+      "year": "2021",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Meta_Platforms_Inc\\python_output_10q\\Q2_2021\\output_0001326801_21_000065_Q2_2021_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Meta_Platforms_Inc\\2022\\10-Q\\output_0001326801_22_000057.txt",
+      "company": "Meta_Platforms_Inc",
+      "quarter": "Q2",
+      "year": "2022",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Meta_Platforms_Inc\\python_output_10q\\Q2_2022\\output_0001326801_22_000057_Q2_2022_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Meta_Platforms_Inc\\2022\\10-Q\\output_0001326801_22_000082.txt",
+      "company": "Meta_Platforms_Inc",
+      "quarter": "Q2",
+      "year": "2022",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Meta_Platforms_Inc\\python_output_10q\\Q2_2022\\output_0001326801_22_000082_Q2_2022_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Meta_Platforms_Inc\\2022\\10-Q\\output_0001326801_22_000108.txt",
+      "company": "Meta_Platforms_Inc",
+      "quarter": "Q2",
+      "year": "2022",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Meta_Platforms_Inc\\python_output_10q\\Q2_2022\\output_0001326801_22_000108_Q2_2022_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Meta_Platforms_Inc\\2023\\10-Q\\output_0001326801_23_000067.txt",
+      "company": "Meta_Platforms_Inc",
+      "quarter": "Q2",
+      "year": "2023",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Meta_Platforms_Inc\\python_output_10q\\Q2_2023\\output_0001326801_23_000067_Q2_2023_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Meta_Platforms_Inc\\2023\\10-Q\\output_0001326801_23_000093.txt",
+      "company": "Meta_Platforms_Inc",
+      "quarter": "Q2",
+      "year": "2023",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Meta_Platforms_Inc\\python_output_10q\\Q2_2023\\output_0001326801_23_000093_Q2_2023_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Meta_Platforms_Inc\\2023\\10-Q\\output_0001326801_23_000103.txt",
+      "company": "Meta_Platforms_Inc",
+      "quarter": "Q2",
+      "year": "2023",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Meta_Platforms_Inc\\python_output_10q\\Q2_2023\\output_0001326801_23_000103_Q2_2023_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Meta_Platforms_Inc\\2024\\10-Q\\output_0001326801_24_000049.txt",
+      "company": "Meta_Platforms_Inc",
+      "quarter": "Q2",
+      "year": "2024",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Meta_Platforms_Inc\\python_output_10q\\Q2_2024\\output_0001326801_24_000049_Q2_2024_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Meta_Platforms_Inc\\2024\\10-Q\\output_0001326801_24_000069.txt",
+      "company": "Meta_Platforms_Inc",
+      "quarter": "Q2",
+      "year": "2024",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Meta_Platforms_Inc\\python_output_10q\\Q2_2024\\output_0001326801_24_000069_Q2_2024_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Meta_Platforms_Inc\\2024\\10-Q\\output_0001326801_24_000081.txt",
+      "company": "Meta_Platforms_Inc",
+      "quarter": "Q2",
+      "year": "2024",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Meta_Platforms_Inc\\python_output_10q\\Q2_2024\\output_0001326801_24_000081_Q2_2024_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Meta_Platforms_Inc\\2025\\10-Q\\output_0001326801_25_000054.txt",
+      "company": "Meta_Platforms_Inc",
+      "quarter": "Q2",
+      "year": "2025",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Meta_Platforms_Inc\\python_output_10q\\Q2_2025\\output_0001326801_25_000054_Q2_2025_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Meta_Platforms_Inc\\2025\\10-Q\\output_0001628280_25_036791.txt",
+      "company": "Meta_Platforms_Inc",
+      "quarter": "Q2",
+      "year": "2025",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Meta_Platforms_Inc\\python_output_10q\\Q2_2025\\output_0001628280_25_036791_Q2_2025_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\MICROSOFT_CORP\\2020\\10-Q\\output_0001564590_20_047996.txt",
+      "company": "MICROSOFT_CORP",
+      "quarter": "Q2",
+      "year": "2020",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\MICROSOFT_CORP\\python_output_10q\\Q2_2020\\output_0001564590_20_047996_Q2_2020_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\MICROSOFT_CORP\\2021\\10-Q\\output_0001564590_21_002316.txt",
+      "company": "MICROSOFT_CORP",
+      "quarter": "Q2",
+      "year": "2021",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\MICROSOFT_CORP\\python_output_10q\\Q2_2021\\output_0001564590_21_002316_Q2_2021_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\MICROSOFT_CORP\\2021\\10-Q\\output_0001564590_21_020891.txt",
+      "company": "MICROSOFT_CORP",
+      "quarter": "Q2",
+      "year": "2021",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\MICROSOFT_CORP\\python_output_10q\\Q2_2021\\output_0001564590_21_020891_Q2_2021_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\MICROSOFT_CORP\\2021\\10-Q\\output_0001564590_21_051992.txt",
+      "company": "MICROSOFT_CORP",
+      "quarter": "Q2",
+      "year": "2021",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\MICROSOFT_CORP\\python_output_10q\\Q2_2021\\output_0001564590_21_051992_Q2_2021_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\MICROSOFT_CORP\\2022\\10-Q\\output_0001564590_22_002324.txt",
+      "company": "MICROSOFT_CORP",
+      "quarter": "Q2",
+      "year": "2022",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\MICROSOFT_CORP\\python_output_10q\\Q2_2022\\output_0001564590_22_002324_Q2_2022_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\MICROSOFT_CORP\\2022\\10-Q\\output_0001564590_22_015675.txt",
+      "company": "MICROSOFT_CORP",
+      "quarter": "Q2",
+      "year": "2022",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\MICROSOFT_CORP\\python_output_10q\\Q2_2022\\output_0001564590_22_015675_Q2_2022_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\MICROSOFT_CORP\\2022\\10-Q\\output_0001564590_22_035087.txt",
+      "company": "MICROSOFT_CORP",
+      "quarter": "Q2",
+      "year": "2022",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\MICROSOFT_CORP\\python_output_10q\\Q2_2022\\output_0001564590_22_035087_Q2_2022_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\MICROSOFT_CORP\\2023\\10-Q\\output_0000950170_23_014423.txt",
+      "company": "MICROSOFT_CORP",
+      "quarter": "Q2",
+      "year": "2023",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\MICROSOFT_CORP\\python_output_10q\\Q2_2023\\output_0000950170_23_014423_Q2_2023_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\MICROSOFT_CORP\\2023\\10-Q\\output_0000950170_23_054855.txt",
+      "company": "MICROSOFT_CORP",
+      "quarter": "Q2",
+      "year": "2023",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\MICROSOFT_CORP\\python_output_10q\\Q2_2023\\output_0000950170_23_054855_Q2_2023_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\MICROSOFT_CORP\\2023\\10-Q\\output_0001564590_23_000733.txt",
+      "company": "MICROSOFT_CORP",
+      "quarter": "Q2",
+      "year": "2023",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\MICROSOFT_CORP\\python_output_10q\\Q2_2023\\output_0001564590_23_000733_Q2_2023_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\MICROSOFT_CORP\\2024\\10-Q\\output_0000950170_24_008814.txt",
+      "company": "MICROSOFT_CORP",
+      "quarter": "Q2",
+      "year": "2024",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\MICROSOFT_CORP\\python_output_10q\\Q2_2024\\output_0000950170_24_008814_Q2_2024_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\MICROSOFT_CORP\\2024\\10-Q\\output_0000950170_24_048288.txt",
+      "company": "MICROSOFT_CORP",
+      "quarter": "Q2",
+      "year": "2024",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\MICROSOFT_CORP\\python_output_10q\\Q2_2024\\output_0000950170_24_048288_Q2_2024_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\MICROSOFT_CORP\\2024\\10-Q\\output_0000950170_24_118967.txt",
+      "company": "MICROSOFT_CORP",
+      "quarter": "Q2",
+      "year": "2024",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\MICROSOFT_CORP\\python_output_10q\\Q2_2024\\output_0000950170_24_118967_Q2_2024_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\MICROSOFT_CORP\\2025\\10-Q\\output_0000950170_25_010491.txt",
+      "company": "MICROSOFT_CORP",
+      "quarter": "Q2",
+      "year": "2025",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\MICROSOFT_CORP\\python_output_10q\\Q2_2025\\output_0000950170_25_010491_Q2_2025_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\MICROSOFT_CORP\\2025\\10-Q\\output_0000950170_25_061046.txt",
+      "company": "MICROSOFT_CORP",
+      "quarter": "Q2",
+      "year": "2025",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\MICROSOFT_CORP\\python_output_10q\\Q2_2025\\output_0000950170_25_061046_Q2_2025_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\NVIDIA_CORP\\2020\\10-Q\\output_0001045810_20_000147.txt",
+      "company": "NVIDIA_CORP",
+      "quarter": "Q2",
+      "year": "2020",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\NVIDIA_CORP\\python_output_10q\\Q2_2020\\output_0001045810_20_000147_Q2_2020_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\NVIDIA_CORP\\2020\\10-Q\\output_0001045810_20_000189.txt",
+      "company": "NVIDIA_CORP",
+      "quarter": "Q2",
+      "year": "2020",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\NVIDIA_CORP\\python_output_10q\\Q2_2020\\output_0001045810_20_000189_Q2_2020_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\NVIDIA_CORP\\2021\\10-Q\\output_0001045810_21_000064.txt",
+      "company": "NVIDIA_CORP",
+      "quarter": "Q2",
+      "year": "2021",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\NVIDIA_CORP\\python_output_10q\\Q2_2021\\output_0001045810_21_000064_Q2_2021_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\NVIDIA_CORP\\2021\\10-Q\\output_0001045810_21_000131.txt",
+      "company": "NVIDIA_CORP",
+      "quarter": "Q2",
+      "year": "2021",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\NVIDIA_CORP\\python_output_10q\\Q2_2021\\output_0001045810_21_000131_Q2_2021_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\NVIDIA_CORP\\2021\\10-Q\\output_0001045810_21_000163.txt",
+      "company": "NVIDIA_CORP",
+      "quarter": "Q2",
+      "year": "2021",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\NVIDIA_CORP\\python_output_10q\\Q2_2021\\output_0001045810_21_000163_Q2_2021_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\NVIDIA_CORP\\2022\\10-Q\\output_0001045810_22_000079.txt",
+      "company": "NVIDIA_CORP",
+      "quarter": "Q2",
+      "year": "2022",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\NVIDIA_CORP\\python_output_10q\\Q2_2022\\output_0001045810_22_000079_Q2_2022_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\NVIDIA_CORP\\2022\\10-Q\\output_0001045810_22_000147.txt",
+      "company": "NVIDIA_CORP",
+      "quarter": "Q2",
+      "year": "2022",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\NVIDIA_CORP\\python_output_10q\\Q2_2022\\output_0001045810_22_000147_Q2_2022_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\NVIDIA_CORP\\2022\\10-Q\\output_0001045810_22_000166.txt",
+      "company": "NVIDIA_CORP",
+      "quarter": "Q2",
+      "year": "2022",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\NVIDIA_CORP\\python_output_10q\\Q2_2022\\output_0001045810_22_000166_Q2_2022_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\NVIDIA_CORP\\2023\\10-Q\\output_0001045810_23_000093.txt",
+      "company": "NVIDIA_CORP",
+      "quarter": "Q2",
+      "year": "2023",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\NVIDIA_CORP\\python_output_10q\\Q2_2023\\output_0001045810_23_000093_Q2_2023_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\NVIDIA_CORP\\2023\\10-Q\\output_0001045810_23_000175.txt",
+      "company": "NVIDIA_CORP",
+      "quarter": "Q2",
+      "year": "2023",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\NVIDIA_CORP\\python_output_10q\\Q2_2023\\output_0001045810_23_000175_Q2_2023_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\NVIDIA_CORP\\2023\\10-Q\\output_0001045810_23_000227.txt",
+      "company": "NVIDIA_CORP",
+      "quarter": "Q2",
+      "year": "2023",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\NVIDIA_CORP\\python_output_10q\\Q2_2023\\output_0001045810_23_000227_Q2_2023_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\NVIDIA_CORP\\2024\\10-Q\\output_0001045810_24_000124.txt",
+      "company": "NVIDIA_CORP",
+      "quarter": "Q2",
+      "year": "2024",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\NVIDIA_CORP\\python_output_10q\\Q2_2024\\output_0001045810_24_000124_Q2_2024_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\NVIDIA_CORP\\2024\\10-Q\\output_0001045810_24_000264.txt",
+      "company": "NVIDIA_CORP",
+      "quarter": "Q2",
+      "year": "2024",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\NVIDIA_CORP\\python_output_10q\\Q2_2024\\output_0001045810_24_000264_Q2_2024_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\NVIDIA_CORP\\2024\\10-Q\\output_0001045810_24_000316.txt",
+      "company": "NVIDIA_CORP",
+      "quarter": "Q2",
+      "year": "2024",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\NVIDIA_CORP\\python_output_10q\\Q2_2024\\output_0001045810_24_000316_Q2_2024_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\NVIDIA_CORP\\2025\\10-Q\\output_0001045810_25_000116.txt",
+      "company": "NVIDIA_CORP",
+      "quarter": "Q2",
+      "year": "2025",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\NVIDIA_CORP\\python_output_10q\\Q2_2025\\output_0001045810_25_000116_Q2_2025_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\ROKU_INC\\2020\\10-Q\\output_0001564590_20_051937.txt",
+      "company": "ROKU_INC",
+      "quarter": "Q2",
+      "year": "2020",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\ROKU_INC\\python_output_10q\\Q2_2020\\output_0001564590_20_051937_Q2_2020_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\ROKU_INC\\2021\\10-Q\\output_0001564590_21_025558.txt",
+      "company": "ROKU_INC",
+      "quarter": "Q2",
+      "year": "2021",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\ROKU_INC\\python_output_10q\\Q2_2021\\output_0001564590_21_025558_Q2_2021_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\ROKU_INC\\2021\\10-Q\\output_0001564590_21_041648.txt",
+      "company": "ROKU_INC",
+      "quarter": "Q2",
+      "year": "2021",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\ROKU_INC\\python_output_10q\\Q2_2021\\output_0001564590_21_041648_Q2_2021_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\ROKU_INC\\2021\\10-Q\\output_0001564590_21_054545.txt",
+      "company": "ROKU_INC",
+      "quarter": "Q2",
+      "year": "2021",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\ROKU_INC\\python_output_10q\\Q2_2021\\output_0001564590_21_054545_Q2_2021_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\ROKU_INC\\2022\\10-Q\\output_0001428439_22_000016.txt",
+      "company": "ROKU_INC",
+      "quarter": "Q2",
+      "year": "2022",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\ROKU_INC\\python_output_10q\\Q2_2022\\output_0001428439_22_000016_Q2_2022_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\ROKU_INC\\2022\\10-Q\\output_0001428439_22_000026.txt",
+      "company": "ROKU_INC",
+      "quarter": "Q2",
+      "year": "2022",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\ROKU_INC\\python_output_10q\\Q2_2022\\output_0001428439_22_000026_Q2_2022_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\ROKU_INC\\2022\\10-Q\\output_0001428439_22_000036.txt",
+      "company": "ROKU_INC",
+      "quarter": "Q2",
+      "year": "2022",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\ROKU_INC\\python_output_10q\\Q2_2022\\output_0001428439_22_000036_Q2_2022_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\ROKU_INC\\2023\\10-Q\\output_0001428439_23_000017.txt",
+      "company": "ROKU_INC",
+      "quarter": "Q2",
+      "year": "2023",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\ROKU_INC\\python_output_10q\\Q2_2023\\output_0001428439_23_000017_Q2_2023_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\ROKU_INC\\2023\\10-Q\\output_0001428439_23_000028.txt",
+      "company": "ROKU_INC",
+      "quarter": "Q2",
+      "year": "2023",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\ROKU_INC\\python_output_10q\\Q2_2023\\output_0001428439_23_000028_Q2_2023_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\ROKU_INC\\2023\\10-Q\\output_0001428439_23_000041.txt",
+      "company": "ROKU_INC",
+      "quarter": "Q2",
+      "year": "2023",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\ROKU_INC\\python_output_10q\\Q2_2023\\output_0001428439_23_000041_Q2_2023_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\ROKU_INC\\2024\\10-Q\\output_0001428439_24_000019.txt",
+      "company": "ROKU_INC",
+      "quarter": "Q2",
+      "year": "2024",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\ROKU_INC\\python_output_10q\\Q2_2024\\output_0001428439_24_000019_Q2_2024_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\ROKU_INC\\2024\\10-Q\\output_0001428439_24_000034.txt",
+      "company": "ROKU_INC",
+      "quarter": "Q2",
+      "year": "2024",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\ROKU_INC\\python_output_10q\\Q2_2024\\output_0001428439_24_000034_Q2_2024_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\ROKU_INC\\2024\\10-Q\\output_0001428439_24_000042.txt",
+      "company": "ROKU_INC",
+      "quarter": "Q2",
+      "year": "2024",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\ROKU_INC\\python_output_10q\\Q2_2024\\output_0001428439_24_000042_Q2_2024_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\ROKU_INC\\2025\\10-Q\\output_0001428439_25_000017.txt",
+      "company": "ROKU_INC",
+      "quarter": "Q2",
+      "year": "2025",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\ROKU_INC\\python_output_10q\\Q2_2025\\output_0001428439_25_000017_Q2_2025_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\ROKU_INC\\2025\\10-Q\\output_0001428439_25_000040.txt",
+      "company": "ROKU_INC",
+      "quarter": "Q2",
+      "year": "2025",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\ROKU_INC\\python_output_10q\\Q2_2025\\output_0001428439_25_000040_Q2_2025_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Zoom_Communications_Inc\\2020\\10-Q\\output_0001585521_20_000238.txt",
+      "company": "Zoom_Communications_Inc",
+      "quarter": "Q2",
+      "year": "2020",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Zoom_Communications_Inc\\python_output_10q\\Q2_2020\\output_0001585521_20_000238_Q2_2020_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Zoom_Communications_Inc\\2020\\10-Q\\output_0001585521_20_000299.txt",
+      "company": "Zoom_Communications_Inc",
+      "quarter": "Q2",
+      "year": "2020",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Zoom_Communications_Inc\\python_output_10q\\Q2_2020\\output_0001585521_20_000299_Q2_2020_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Zoom_Communications_Inc\\2021\\10-Q\\output_0001585521_21_000131.txt",
+      "company": "Zoom_Communications_Inc",
+      "quarter": "Q2",
+      "year": "2021",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Zoom_Communications_Inc\\python_output_10q\\Q2_2021\\output_0001585521_21_000131_Q2_2021_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Zoom_Communications_Inc\\2021\\10-Q\\output_0001585521_21_000235.txt",
+      "company": "Zoom_Communications_Inc",
+      "quarter": "Q2",
+      "year": "2021",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Zoom_Communications_Inc\\python_output_10q\\Q2_2021\\output_0001585521_21_000235_Q2_2021_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Zoom_Communications_Inc\\2021\\10-Q\\output_0001585521_21_000295.txt",
+      "company": "Zoom_Communications_Inc",
+      "quarter": "Q2",
+      "year": "2021",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Zoom_Communications_Inc\\python_output_10q\\Q2_2021\\output_0001585521_21_000295_Q2_2021_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Zoom_Communications_Inc\\2022\\10-Q\\output_0001585521_22_000106.txt",
+      "company": "Zoom_Communications_Inc",
+      "quarter": "Q2",
+      "year": "2022",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Zoom_Communications_Inc\\python_output_10q\\Q2_2022\\output_0001585521_22_000106_Q2_2022_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Zoom_Communications_Inc\\2022\\10-Q\\output_0001585521_22_000180.txt",
+      "company": "Zoom_Communications_Inc",
+      "quarter": "Q2",
+      "year": "2022",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Zoom_Communications_Inc\\python_output_10q\\Q2_2022\\output_0001585521_22_000180_Q2_2022_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Zoom_Communications_Inc\\2022\\10-Q\\output_0001585521_22_000213.txt",
+      "company": "Zoom_Communications_Inc",
+      "quarter": "Q2",
+      "year": "2022",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Zoom_Communications_Inc\\python_output_10q\\Q2_2022\\output_0001585521_22_000213_Q2_2022_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Zoom_Communications_Inc\\2023\\10-Q\\output_0001585521_23_000128.txt",
+      "company": "Zoom_Communications_Inc",
+      "quarter": "Q2",
+      "year": "2023",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Zoom_Communications_Inc\\python_output_10q\\Q2_2023\\output_0001585521_23_000128_Q2_2023_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Zoom_Communications_Inc\\2023\\10-Q\\output_0001585521_23_000194.txt",
+      "company": "Zoom_Communications_Inc",
+      "quarter": "Q2",
+      "year": "2023",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Zoom_Communications_Inc\\python_output_10q\\Q2_2023\\output_0001585521_23_000194_Q2_2023_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Zoom_Communications_Inc\\2023\\10-Q\\output_0001585521_23_000249.txt",
+      "company": "Zoom_Communications_Inc",
+      "quarter": "Q2",
+      "year": "2023",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Zoom_Communications_Inc\\python_output_10q\\Q2_2023\\output_0001585521_23_000249_Q2_2023_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Zoom_Communications_Inc\\2024\\10-Q\\output_0001585521_24_000094.txt",
+      "company": "Zoom_Communications_Inc",
+      "quarter": "Q2",
+      "year": "2024",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Zoom_Communications_Inc\\python_output_10q\\Q2_2024\\output_0001585521_24_000094_Q2_2024_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Zoom_Communications_Inc\\2024\\10-Q\\output_0001585521_24_000181.txt",
+      "company": "Zoom_Communications_Inc",
+      "quarter": "Q2",
+      "year": "2024",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Zoom_Communications_Inc\\python_output_10q\\Q2_2024\\output_0001585521_24_000181_Q2_2024_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Zoom_Communications_Inc\\2024\\10-Q\\output_0001585521_24_000260.txt",
+      "company": "Zoom_Communications_Inc",
+      "quarter": "Q2",
+      "year": "2024",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Zoom_Communications_Inc\\python_output_10q\\Q2_2024\\output_0001585521_24_000260_Q2_2024_structured.json",
+      "status": "success"
+    },
+    {
+      "input_file": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Zoom_Communications_Inc\\2025\\10-Q\\output_0001585521_25_000090.txt",
+      "company": "Zoom_Communications_Inc",
+      "quarter": "Q2",
+      "year": "2025",
+      "json_output": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies\\Zoom_Communications_Inc\\python_output_10q\\Q2_2025\\output_0001585521_25_000090_Q2_2025_structured.json",
+      "status": "success"
+    }
+  ],
+  "failed_files": [],
+  "processing_date": "2025-08-10T19:59:38.451695",
+  "companies_directory": "C:\\Users\\shrey\\Desktop\\ScalerField-Quant\\proto-3\\companies"
+}

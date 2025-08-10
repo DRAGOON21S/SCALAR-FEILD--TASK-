@@ -1,0 +1,4 @@
+2025-08-10 19:55:55,386 - INFO - Starting Auto 10-Q Processing - Log file: 10q_processing_20250810_195555.log
+2025-08-10 19:55:55,386 - INFO - 🔍 Searching for 10-Q files in: C:\Users\shrey\Desktop\ScalerField-Quant\companies
+2025-08-10 19:55:55,386 - ERROR - Companies directory not found: C:\Users\shrey\Desktop\ScalerField-Quant\companies
+2025-08-10 19:55:55,387 - WARNING - No 10-Q filing files found!

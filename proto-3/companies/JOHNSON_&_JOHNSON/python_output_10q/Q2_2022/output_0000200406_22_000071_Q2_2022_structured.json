@@ -1,0 +1,29 @@
+{
+  "company_name": "JOHNSON & JOHNSON",
+  "filing_type": "10-Q",
+  "quarter": "Q2",
+  "year": "2022",
+  "created_date": "2025-08-10T19:59:34.114355",
+  "source_file": "output_0000200406_22_000071.txt",
+  "validation": {
+    "structure_compliance": "partial",
+    "missing_standard_items": [],
+    "non_standard_items": [],
+    "total_expected_items": 11,
+    "total_found_items": 0
+  },
+  "parts": [],
+  "summary": {
+    "total_parts": 0,
+    "total_sections": 0,
+    "part_i_sections": 0,
+    "part_ii_sections": 0,
+    "filing_period": "Q2 2022",
+    "processing_timestamp": "2025-08-10T19:59:34.115488",
+    "sec_form_type": "10-Q",
+    "structure_notes": {
+      "part_i": "Financial Information (Items 1-4)",
+      "part_ii": "Other Information (Items 1, 1A, 2-6)"
+    }
+  }
+}

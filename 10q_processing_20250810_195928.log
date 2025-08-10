@@ -1,0 +1,1407 @@
+2025-08-10 19:59:28,701 - INFO - Starting Auto 10-Q Processing - Log file: 10q_processing_20250810_195928.log
+2025-08-10 19:59:28,701 - INFO - 🔍 Searching for 10-Q files in: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies
+2025-08-10 19:59:28,702 - INFO -   📁 Scanning company: Apple_Inc
+2025-08-10 19:59:28,702 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Apple_Inc\2021\10-Q
+2025-08-10 19:59:28,702 - INFO -       📄 Found filing: output_0000320193_21_000010.txt
+2025-08-10 19:59:28,703 - INFO -       📄 Found filing: output_0000320193_21_000056.txt
+2025-08-10 19:59:28,704 - INFO -       📄 Found filing: output_0000320193_21_000065.txt
+2025-08-10 19:59:28,705 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Apple_Inc\2022\10-Q
+2025-08-10 19:59:28,705 - INFO -       📄 Found filing: output_0000320193_22_000007.txt
+2025-08-10 19:59:28,705 - INFO -       📄 Found filing: output_0000320193_22_000059.txt
+2025-08-10 19:59:28,705 - INFO -       📄 Found filing: output_0000320193_22_000070.txt
+2025-08-10 19:59:28,706 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Apple_Inc\2023\10-Q
+2025-08-10 19:59:28,706 - INFO -       📄 Found filing: output_0000320193_23_000006.txt
+2025-08-10 19:59:28,706 - INFO -       📄 Found filing: output_0000320193_23_000064.txt
+2025-08-10 19:59:28,706 - INFO -       📄 Found filing: output_0000320193_23_000077.txt
+2025-08-10 19:59:28,706 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Apple_Inc\2024\10-Q
+2025-08-10 19:59:28,707 - INFO -       📄 Found filing: output_0000320193_24_000006.txt
+2025-08-10 19:59:28,707 - INFO -       📄 Found filing: output_0000320193_24_000069.txt
+2025-08-10 19:59:28,707 - INFO -       📄 Found filing: output_0000320193_24_000081.txt
+2025-08-10 19:59:28,707 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Apple_Inc\2025\10-Q
+2025-08-10 19:59:28,708 - INFO -       📄 Found filing: output_0000320193_25_000008.txt
+2025-08-10 19:59:28,708 - INFO -       📄 Found filing: output_0000320193_25_000057.txt
+2025-08-10 19:59:28,708 - INFO -       📄 Found filing: output_0000320193_25_000073.txt
+2025-08-10 19:59:28,713 - INFO -   📁 Scanning company: DoorDash_Inc
+2025-08-10 19:59:28,713 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\DoorDash_Inc\2021\10-Q
+2025-08-10 19:59:28,714 - INFO -       📄 Found filing: output_0001628280_21_010313.txt
+2025-08-10 19:59:28,714 - INFO -       📄 Found filing: output_0001628280_21_016985.txt
+2025-08-10 19:59:28,714 - INFO -       📄 Found filing: output_0001628280_21_022884.txt
+2025-08-10 19:59:28,715 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\DoorDash_Inc\2022\10-Q
+2025-08-10 19:59:28,715 - INFO -       📄 Found filing: output_0001628280_22_013038.txt
+2025-08-10 19:59:28,715 - INFO -       📄 Found filing: output_0001628280_22_021372.txt
+2025-08-10 19:59:28,715 - INFO -       📄 Found filing: output_0001628280_22_028457.txt
+2025-08-10 19:59:28,716 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\DoorDash_Inc\2023\10-Q
+2025-08-10 19:59:28,716 - INFO -       📄 Found filing: output_0001628280_23_016140.txt
+2025-08-10 19:59:28,716 - INFO -       📄 Found filing: output_0001628280_23_026756.txt
+2025-08-10 19:59:28,717 - INFO -       📄 Found filing: output_0001628280_23_035973.txt
+2025-08-10 19:59:28,717 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\DoorDash_Inc\2024\10-Q
+2025-08-10 19:59:28,717 - INFO -       📄 Found filing: output_0001628280_24_019605.txt
+2025-08-10 19:59:28,717 - INFO -       📄 Found filing: output_0001628280_24_034131.txt
+2025-08-10 19:59:28,717 - INFO -       📄 Found filing: output_0001628280_24_044312.txt
+2025-08-10 19:59:28,718 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\DoorDash_Inc\2025\10-Q
+2025-08-10 19:59:28,718 - INFO -       📄 Found filing: output_0001628280_25_023171.txt
+2025-08-10 19:59:28,718 - INFO -       📄 Found filing: output_0001792789_25_000012.txt
+2025-08-10 19:59:28,727 - INFO -   📁 Scanning company: JOHNSON_&_JOHNSON
+2025-08-10 19:59:28,728 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JOHNSON_&_JOHNSON\2020\10-Q
+2025-08-10 19:59:28,728 - INFO -       📄 Found filing: output_0000200406_20_000056.txt
+2025-08-10 19:59:28,728 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JOHNSON_&_JOHNSON\2021\10-Q
+2025-08-10 19:59:28,729 - INFO -       📄 Found filing: output_0000200406_21_000036.txt
+2025-08-10 19:59:28,729 - INFO -       📄 Found filing: output_0000200406_21_000057.txt
+2025-08-10 19:59:28,729 - INFO -       📄 Found filing: output_0000200406_21_000070.txt
+2025-08-10 19:59:28,729 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JOHNSON_&_JOHNSON\2022\10-Q
+2025-08-10 19:59:28,729 - INFO -       📄 Found filing: output_0000200406_22_000048.txt
+2025-08-10 19:59:28,730 - INFO -       📄 Found filing: output_0000200406_22_000071.txt
+2025-08-10 19:59:28,730 - INFO -       📄 Found filing: output_0000200406_22_000086.txt
+2025-08-10 19:59:28,730 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JOHNSON_&_JOHNSON\2023\10-Q
+2025-08-10 19:59:28,730 - INFO -       📄 Found filing: output_0000200406_23_000056.txt
+2025-08-10 19:59:28,730 - INFO -       📄 Found filing: output_0000200406_23_000082.txt
+2025-08-10 19:59:28,731 - INFO -       📄 Found filing: output_0000200406_23_000102.txt
+2025-08-10 19:59:28,731 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JOHNSON_&_JOHNSON\2024\10-Q
+2025-08-10 19:59:28,731 - INFO -       📄 Found filing: output_0000200406_24_000049.txt
+2025-08-10 19:59:28,731 - INFO -       📄 Found filing: output_0000200406_24_000075.txt
+2025-08-10 19:59:28,731 - INFO -       📄 Found filing: output_0000200406_24_000096.txt
+2025-08-10 19:59:28,731 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JOHNSON_&_JOHNSON\2025\10-Q
+2025-08-10 19:59:28,732 - INFO -       📄 Found filing: output_0000200406_25_000119.txt
+2025-08-10 19:59:28,732 - INFO -       📄 Found filing: output_0000200406_25_000178.txt
+2025-08-10 19:59:28,737 - INFO -   📁 Scanning company: JPMORGAN_CHASE_&_CO
+2025-08-10 19:59:28,738 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JPMORGAN_CHASE_&_CO\2020\10-Q
+2025-08-10 19:59:28,738 - INFO -       📄 Found filing: output_0000019617_20_000438.txt
+2025-08-10 19:59:28,739 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JPMORGAN_CHASE_&_CO\2021\10-Q
+2025-08-10 19:59:28,739 - INFO -       📄 Found filing: output_0000019617_21_000292.txt
+2025-08-10 19:59:28,739 - INFO -       📄 Found filing: output_0000019617_21_000373.txt
+2025-08-10 19:59:28,739 - INFO -       📄 Found filing: output_0000019617_21_000458.txt
+2025-08-10 19:59:28,740 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JPMORGAN_CHASE_&_CO\2022\10-Q
+2025-08-10 19:59:28,740 - INFO -       📄 Found filing: output_0000019617_22_000319.txt
+2025-08-10 19:59:28,740 - INFO -       📄 Found filing: output_0000019617_22_000422.txt
+2025-08-10 19:59:28,740 - INFO -       📄 Found filing: output_0000019617_22_000492.txt
+2025-08-10 19:59:28,740 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JPMORGAN_CHASE_&_CO\2023\10-Q
+2025-08-10 19:59:28,741 - INFO -       📄 Found filing: output_0000019617_23_000310.txt
+2025-08-10 19:59:28,741 - INFO -       📄 Found filing: output_0000019617_23_000432.txt
+2025-08-10 19:59:28,741 - INFO -       📄 Found filing: output_0000019617_23_000524.txt
+2025-08-10 19:59:28,741 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JPMORGAN_CHASE_&_CO\2024\10-Q
+2025-08-10 19:59:28,742 - INFO -       📄 Found filing: output_0000019617_24_000326.txt
+2025-08-10 19:59:28,742 - INFO -       📄 Found filing: output_0000019617_24_000453.txt
+2025-08-10 19:59:28,742 - INFO -       📄 Found filing: output_0000019617_24_000611.txt
+2025-08-10 19:59:28,742 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JPMORGAN_CHASE_&_CO\2025\10-Q
+2025-08-10 19:59:28,742 - INFO -       📄 Found filing: output_0000019617_25_000421.txt
+2025-08-10 19:59:28,742 - INFO -       📄 Found filing: output_0000019617_25_000615.txt
+2025-08-10 19:59:28,753 - INFO -   📁 Scanning company: Meta_Platforms_Inc
+2025-08-10 19:59:28,754 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Meta_Platforms_Inc\2020\10-Q
+2025-08-10 19:59:28,754 - INFO -       📄 Found filing: output_0001326801_20_000084.txt
+2025-08-10 19:59:28,754 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Meta_Platforms_Inc\2021\10-Q
+2025-08-10 19:59:28,755 - INFO -       📄 Found filing: output_0001326801_21_000033.txt
+2025-08-10 19:59:28,755 - INFO -       📄 Found filing: output_0001326801_21_000049.txt
+2025-08-10 19:59:28,755 - INFO -       📄 Found filing: output_0001326801_21_000065.txt
+2025-08-10 19:59:28,755 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Meta_Platforms_Inc\2022\10-Q
+2025-08-10 19:59:28,755 - INFO -       📄 Found filing: output_0001326801_22_000057.txt
+2025-08-10 19:59:28,755 - INFO -       📄 Found filing: output_0001326801_22_000082.txt
+2025-08-10 19:59:28,756 - INFO -       📄 Found filing: output_0001326801_22_000108.txt
+2025-08-10 19:59:28,756 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Meta_Platforms_Inc\2023\10-Q
+2025-08-10 19:59:28,756 - INFO -       📄 Found filing: output_0001326801_23_000067.txt
+2025-08-10 19:59:28,756 - INFO -       📄 Found filing: output_0001326801_23_000093.txt
+2025-08-10 19:59:28,756 - INFO -       📄 Found filing: output_0001326801_23_000103.txt
+2025-08-10 19:59:28,756 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Meta_Platforms_Inc\2024\10-Q
+2025-08-10 19:59:28,757 - INFO -       📄 Found filing: output_0001326801_24_000049.txt
+2025-08-10 19:59:28,757 - INFO -       📄 Found filing: output_0001326801_24_000069.txt
+2025-08-10 19:59:28,757 - INFO -       📄 Found filing: output_0001326801_24_000081.txt
+2025-08-10 19:59:28,757 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Meta_Platforms_Inc\2025\10-Q
+2025-08-10 19:59:28,757 - INFO -       📄 Found filing: output_0001326801_25_000054.txt
+2025-08-10 19:59:28,757 - INFO -       📄 Found filing: output_0001628280_25_036791.txt
+2025-08-10 19:59:28,766 - INFO -   📁 Scanning company: MICROSOFT_CORP
+2025-08-10 19:59:28,767 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\MICROSOFT_CORP\2020\10-Q
+2025-08-10 19:59:28,767 - INFO -       📄 Found filing: output_0001564590_20_047996.txt
+2025-08-10 19:59:28,767 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\MICROSOFT_CORP\2021\10-Q
+2025-08-10 19:59:28,768 - INFO -       📄 Found filing: output_0001564590_21_002316.txt
+2025-08-10 19:59:28,768 - INFO -       📄 Found filing: output_0001564590_21_020891.txt
+2025-08-10 19:59:28,768 - INFO -       📄 Found filing: output_0001564590_21_051992.txt
+2025-08-10 19:59:28,768 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\MICROSOFT_CORP\2022\10-Q
+2025-08-10 19:59:28,769 - INFO -       📄 Found filing: output_0001564590_22_002324.txt
+2025-08-10 19:59:28,769 - INFO -       📄 Found filing: output_0001564590_22_015675.txt
+2025-08-10 19:59:28,769 - INFO -       📄 Found filing: output_0001564590_22_035087.txt
+2025-08-10 19:59:28,769 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\MICROSOFT_CORP\2023\10-Q
+2025-08-10 19:59:28,769 - INFO -       📄 Found filing: output_0000950170_23_014423.txt
+2025-08-10 19:59:28,770 - INFO -       📄 Found filing: output_0000950170_23_054855.txt
+2025-08-10 19:59:28,770 - INFO -       📄 Found filing: output_0001564590_23_000733.txt
+2025-08-10 19:59:28,770 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\MICROSOFT_CORP\2024\10-Q
+2025-08-10 19:59:28,770 - INFO -       📄 Found filing: output_0000950170_24_008814.txt
+2025-08-10 19:59:28,770 - INFO -       📄 Found filing: output_0000950170_24_048288.txt
+2025-08-10 19:59:28,770 - INFO -       📄 Found filing: output_0000950170_24_118967.txt
+2025-08-10 19:59:28,770 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\MICROSOFT_CORP\2025\10-Q
+2025-08-10 19:59:28,771 - INFO -       📄 Found filing: output_0000950170_25_010491.txt
+2025-08-10 19:59:28,771 - INFO -       📄 Found filing: output_0000950170_25_061046.txt
+2025-08-10 19:59:28,780 - INFO -   📁 Scanning company: NVIDIA_CORP
+2025-08-10 19:59:28,780 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\NVIDIA_CORP\2020\10-Q
+2025-08-10 19:59:28,781 - INFO -       📄 Found filing: output_0001045810_20_000147.txt
+2025-08-10 19:59:28,781 - INFO -       📄 Found filing: output_0001045810_20_000189.txt
+2025-08-10 19:59:28,781 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\NVIDIA_CORP\2021\10-Q
+2025-08-10 19:59:28,782 - INFO -       📄 Found filing: output_0001045810_21_000064.txt
+2025-08-10 19:59:28,782 - INFO -       📄 Found filing: output_0001045810_21_000131.txt
+2025-08-10 19:59:28,782 - INFO -       📄 Found filing: output_0001045810_21_000163.txt
+2025-08-10 19:59:28,782 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\NVIDIA_CORP\2022\10-Q
+2025-08-10 19:59:28,782 - INFO -       📄 Found filing: output_0001045810_22_000079.txt
+2025-08-10 19:59:28,783 - INFO -       📄 Found filing: output_0001045810_22_000147.txt
+2025-08-10 19:59:28,783 - INFO -       📄 Found filing: output_0001045810_22_000166.txt
+2025-08-10 19:59:28,783 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\NVIDIA_CORP\2023\10-Q
+2025-08-10 19:59:28,783 - INFO -       📄 Found filing: output_0001045810_23_000093.txt
+2025-08-10 19:59:28,783 - INFO -       📄 Found filing: output_0001045810_23_000175.txt
+2025-08-10 19:59:28,783 - INFO -       📄 Found filing: output_0001045810_23_000227.txt
+2025-08-10 19:59:28,783 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\NVIDIA_CORP\2024\10-Q
+2025-08-10 19:59:28,783 - INFO -       📄 Found filing: output_0001045810_24_000124.txt
+2025-08-10 19:59:28,784 - INFO -       📄 Found filing: output_0001045810_24_000264.txt
+2025-08-10 19:59:28,784 - INFO -       📄 Found filing: output_0001045810_24_000316.txt
+2025-08-10 19:59:28,784 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\NVIDIA_CORP\2025\10-Q
+2025-08-10 19:59:28,784 - INFO -       📄 Found filing: output_0001045810_25_000116.txt
+2025-08-10 19:59:28,792 - INFO -   📁 Scanning company: ROKU_INC
+2025-08-10 19:59:28,792 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\ROKU_INC\2020\10-Q
+2025-08-10 19:59:28,793 - INFO -       📄 Found filing: output_0001564590_20_051937.txt
+2025-08-10 19:59:28,793 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\ROKU_INC\2021\10-Q
+2025-08-10 19:59:28,794 - INFO -       📄 Found filing: output_0001564590_21_025558.txt
+2025-08-10 19:59:28,794 - INFO -       📄 Found filing: output_0001564590_21_041648.txt
+2025-08-10 19:59:28,794 - INFO -       📄 Found filing: output_0001564590_21_054545.txt
+2025-08-10 19:59:28,794 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\ROKU_INC\2022\10-Q
+2025-08-10 19:59:28,794 - INFO -       📄 Found filing: output_0001428439_22_000016.txt
+2025-08-10 19:59:28,795 - INFO -       📄 Found filing: output_0001428439_22_000026.txt
+2025-08-10 19:59:28,795 - INFO -       📄 Found filing: output_0001428439_22_000036.txt
+2025-08-10 19:59:28,795 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\ROKU_INC\2023\10-Q
+2025-08-10 19:59:28,795 - INFO -       📄 Found filing: output_0001428439_23_000017.txt
+2025-08-10 19:59:28,795 - INFO -       📄 Found filing: output_0001428439_23_000028.txt
+2025-08-10 19:59:28,795 - INFO -       📄 Found filing: output_0001428439_23_000041.txt
+2025-08-10 19:59:28,795 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\ROKU_INC\2024\10-Q
+2025-08-10 19:59:28,796 - INFO -       📄 Found filing: output_0001428439_24_000019.txt
+2025-08-10 19:59:28,796 - INFO -       📄 Found filing: output_0001428439_24_000034.txt
+2025-08-10 19:59:28,796 - INFO -       📄 Found filing: output_0001428439_24_000042.txt
+2025-08-10 19:59:28,796 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\ROKU_INC\2025\10-Q
+2025-08-10 19:59:28,796 - INFO -       📄 Found filing: output_0001428439_25_000017.txt
+2025-08-10 19:59:28,797 - INFO -       📄 Found filing: output_0001428439_25_000040.txt
+2025-08-10 19:59:28,803 - INFO -   📁 Scanning company: UNITEDHEALTH_GROUP_INC
+2025-08-10 19:59:28,808 - INFO -   📁 Scanning company: Zoom_Communications_Inc
+2025-08-10 19:59:28,808 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Zoom_Communications_Inc\2020\10-Q
+2025-08-10 19:59:28,809 - INFO -       📄 Found filing: output_0001585521_20_000238.txt
+2025-08-10 19:59:28,809 - INFO -       📄 Found filing: output_0001585521_20_000299.txt
+2025-08-10 19:59:28,809 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Zoom_Communications_Inc\2021\10-Q
+2025-08-10 19:59:28,810 - INFO -       📄 Found filing: output_0001585521_21_000131.txt
+2025-08-10 19:59:28,810 - INFO -       📄 Found filing: output_0001585521_21_000235.txt
+2025-08-10 19:59:28,810 - INFO -       📄 Found filing: output_0001585521_21_000295.txt
+2025-08-10 19:59:28,810 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Zoom_Communications_Inc\2022\10-Q
+2025-08-10 19:59:28,811 - INFO -       📄 Found filing: output_0001585521_22_000106.txt
+2025-08-10 19:59:28,811 - INFO -       📄 Found filing: output_0001585521_22_000180.txt
+2025-08-10 19:59:28,811 - INFO -       📄 Found filing: output_0001585521_22_000213.txt
+2025-08-10 19:59:28,811 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Zoom_Communications_Inc\2023\10-Q
+2025-08-10 19:59:28,812 - INFO -       📄 Found filing: output_0001585521_23_000128.txt
+2025-08-10 19:59:28,812 - INFO -       📄 Found filing: output_0001585521_23_000194.txt
+2025-08-10 19:59:28,812 - INFO -       📄 Found filing: output_0001585521_23_000249.txt
+2025-08-10 19:59:28,812 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Zoom_Communications_Inc\2024\10-Q
+2025-08-10 19:59:28,813 - INFO -       📄 Found filing: output_0001585521_24_000094.txt
+2025-08-10 19:59:28,813 - INFO -       📄 Found filing: output_0001585521_24_000181.txt
+2025-08-10 19:59:28,813 - INFO -       📄 Found filing: output_0001585521_24_000260.txt
+2025-08-10 19:59:28,813 - INFO -     📂 Found 10-Q directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Zoom_Communications_Inc\2025\10-Q
+2025-08-10 19:59:28,813 - INFO -       📄 Found filing: output_0001585521_25_000090.txt
+2025-08-10 19:59:28,821 - INFO - ✅ Found 134 10-Q filing files total
+2025-08-10 19:59:28,821 - INFO - 🚀 Starting to process 134 10-Q filing files
+2025-08-10 19:59:28,821 - INFO - ================================================================================
+2025-08-10 19:59:28,821 - INFO - 
+📊 Progress: 1/134
+2025-08-10 19:59:28,821 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:28,822 - INFO - 📄 Processing: output_0000320193_21_000010.txt
+2025-08-10 19:59:28,822 - INFO -    🏢 Company: Apple_Inc
+2025-08-10 19:59:28,822 - INFO -    📅 Period: Q2 2021
+2025-08-10 19:59:28,923 - INFO - ✅ Successfully processed: output_0000320193_21_000010.txt
+2025-08-10 19:59:28,924 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Apple_Inc\python_output_10q\Q2_2021\output_0000320193_21_000010_Q2_2021_structured.json
+2025-08-10 19:59:28,924 - INFO - ✅ File 1/134 completed successfully
+2025-08-10 19:59:28,924 - INFO - 
+📊 Progress: 2/134
+2025-08-10 19:59:28,924 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:28,924 - INFO - 📄 Processing: output_0000320193_21_000056.txt
+2025-08-10 19:59:28,925 - INFO -    🏢 Company: Apple_Inc
+2025-08-10 19:59:28,925 - INFO -    📅 Period: Q2 2021
+2025-08-10 19:59:29,007 - INFO - ✅ Successfully processed: output_0000320193_21_000056.txt
+2025-08-10 19:59:29,008 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Apple_Inc\python_output_10q\Q2_2021\output_0000320193_21_000056_Q2_2021_structured.json
+2025-08-10 19:59:29,008 - INFO - ✅ File 2/134 completed successfully
+2025-08-10 19:59:29,008 - INFO - 
+📊 Progress: 3/134
+2025-08-10 19:59:29,008 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:29,009 - INFO - 📄 Processing: output_0000320193_21_000065.txt
+2025-08-10 19:59:29,009 - INFO -    🏢 Company: Apple_Inc
+2025-08-10 19:59:29,009 - INFO -    📅 Period: Q2 2021
+2025-08-10 19:59:29,205 - INFO - ✅ Successfully processed: output_0000320193_21_000065.txt
+2025-08-10 19:59:29,205 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Apple_Inc\python_output_10q\Q2_2021\output_0000320193_21_000065_Q2_2021_structured.json
+2025-08-10 19:59:29,205 - INFO - ✅ File 3/134 completed successfully
+2025-08-10 19:59:29,205 - INFO - 
+📊 Progress: 4/134
+2025-08-10 19:59:29,205 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:29,206 - INFO - 📄 Processing: output_0000320193_22_000007.txt
+2025-08-10 19:59:29,206 - INFO -    🏢 Company: Apple_Inc
+2025-08-10 19:59:29,206 - INFO -    📅 Period: Q2 2022
+2025-08-10 19:59:29,306 - INFO - ✅ Successfully processed: output_0000320193_22_000007.txt
+2025-08-10 19:59:29,306 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Apple_Inc\python_output_10q\Q2_2022\output_0000320193_22_000007_Q2_2022_structured.json
+2025-08-10 19:59:29,306 - INFO - ✅ File 4/134 completed successfully
+2025-08-10 19:59:29,306 - INFO - 
+📊 Progress: 5/134
+2025-08-10 19:59:29,306 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:29,306 - INFO - 📄 Processing: output_0000320193_22_000059.txt
+2025-08-10 19:59:29,307 - INFO -    🏢 Company: Apple_Inc
+2025-08-10 19:59:29,307 - INFO -    📅 Period: Q2 2022
+2025-08-10 19:59:29,424 - INFO - ✅ Successfully processed: output_0000320193_22_000059.txt
+2025-08-10 19:59:29,424 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Apple_Inc\python_output_10q\Q2_2022\output_0000320193_22_000059_Q2_2022_structured.json
+2025-08-10 19:59:29,425 - INFO - ✅ File 5/134 completed successfully
+2025-08-10 19:59:29,425 - INFO - 
+📊 Progress: 6/134
+2025-08-10 19:59:29,425 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:29,425 - INFO - 📄 Processing: output_0000320193_22_000070.txt
+2025-08-10 19:59:29,426 - INFO -    🏢 Company: Apple_Inc
+2025-08-10 19:59:29,426 - INFO -    📅 Period: Q2 2022
+2025-08-10 19:59:29,583 - INFO - ✅ Successfully processed: output_0000320193_22_000070.txt
+2025-08-10 19:59:29,584 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Apple_Inc\python_output_10q\Q2_2022\output_0000320193_22_000070_Q2_2022_structured.json
+2025-08-10 19:59:29,584 - INFO - ✅ File 6/134 completed successfully
+2025-08-10 19:59:29,584 - INFO - 
+📊 Progress: 7/134
+2025-08-10 19:59:29,584 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:29,584 - INFO - 📄 Processing: output_0000320193_23_000006.txt
+2025-08-10 19:59:29,585 - INFO -    🏢 Company: Apple_Inc
+2025-08-10 19:59:29,585 - INFO -    📅 Period: Q2 2023
+2025-08-10 19:59:29,751 - INFO - ✅ Successfully processed: output_0000320193_23_000006.txt
+2025-08-10 19:59:29,751 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Apple_Inc\python_output_10q\Q2_2023\output_0000320193_23_000006_Q2_2023_structured.json
+2025-08-10 19:59:29,751 - INFO - ✅ File 7/134 completed successfully
+2025-08-10 19:59:29,751 - INFO - 
+📊 Progress: 8/134
+2025-08-10 19:59:29,751 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:29,752 - INFO - 📄 Processing: output_0000320193_23_000064.txt
+2025-08-10 19:59:29,752 - INFO -    🏢 Company: Apple_Inc
+2025-08-10 19:59:29,752 - INFO -    📅 Period: Q2 2023
+2025-08-10 19:59:29,897 - INFO - ✅ Successfully processed: output_0000320193_23_000064.txt
+2025-08-10 19:59:29,897 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Apple_Inc\python_output_10q\Q2_2023\output_0000320193_23_000064_Q2_2023_structured.json
+2025-08-10 19:59:29,897 - INFO - ✅ File 8/134 completed successfully
+2025-08-10 19:59:29,897 - INFO - 
+📊 Progress: 9/134
+2025-08-10 19:59:29,898 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:29,898 - INFO - 📄 Processing: output_0000320193_23_000077.txt
+2025-08-10 19:59:29,898 - INFO -    🏢 Company: Apple_Inc
+2025-08-10 19:59:29,898 - INFO -    📅 Period: Q2 2023
+2025-08-10 19:59:30,065 - INFO - ✅ Successfully processed: output_0000320193_23_000077.txt
+2025-08-10 19:59:30,065 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Apple_Inc\python_output_10q\Q2_2023\output_0000320193_23_000077_Q2_2023_structured.json
+2025-08-10 19:59:30,065 - INFO - ✅ File 9/134 completed successfully
+2025-08-10 19:59:30,065 - INFO - 
+📊 Progress: 10/134
+2025-08-10 19:59:30,065 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:30,065 - INFO - 📄 Processing: output_0000320193_24_000006.txt
+2025-08-10 19:59:30,066 - INFO -    🏢 Company: Apple_Inc
+2025-08-10 19:59:30,066 - INFO -    📅 Period: Q2 2024
+2025-08-10 19:59:30,228 - INFO - ✅ Successfully processed: output_0000320193_24_000006.txt
+2025-08-10 19:59:30,228 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Apple_Inc\python_output_10q\Q2_2024\output_0000320193_24_000006_Q2_2024_structured.json
+2025-08-10 19:59:30,229 - INFO - ✅ File 10/134 completed successfully
+2025-08-10 19:59:30,229 - INFO - 
+📊 Progress: 11/134
+2025-08-10 19:59:30,229 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:30,229 - INFO - 📄 Processing: output_0000320193_24_000069.txt
+2025-08-10 19:59:30,229 - INFO -    🏢 Company: Apple_Inc
+2025-08-10 19:59:30,229 - INFO -    📅 Period: Q2 2024
+2025-08-10 19:59:30,387 - INFO - ✅ Successfully processed: output_0000320193_24_000069.txt
+2025-08-10 19:59:30,388 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Apple_Inc\python_output_10q\Q2_2024\output_0000320193_24_000069_Q2_2024_structured.json
+2025-08-10 19:59:30,388 - INFO - ✅ File 11/134 completed successfully
+2025-08-10 19:59:30,388 - INFO - 
+📊 Progress: 12/134
+2025-08-10 19:59:30,388 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:30,388 - INFO - 📄 Processing: output_0000320193_24_000081.txt
+2025-08-10 19:59:30,388 - INFO -    🏢 Company: Apple_Inc
+2025-08-10 19:59:30,388 - INFO -    📅 Period: Q2 2024
+2025-08-10 19:59:30,550 - INFO - ✅ Successfully processed: output_0000320193_24_000081.txt
+2025-08-10 19:59:30,550 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Apple_Inc\python_output_10q\Q2_2024\output_0000320193_24_000081_Q2_2024_structured.json
+2025-08-10 19:59:30,550 - INFO - ✅ File 12/134 completed successfully
+2025-08-10 19:59:30,550 - INFO - 
+📊 Progress: 13/134
+2025-08-10 19:59:30,550 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:30,551 - INFO - 📄 Processing: output_0000320193_25_000008.txt
+2025-08-10 19:59:30,551 - INFO -    🏢 Company: Apple_Inc
+2025-08-10 19:59:30,551 - INFO -    📅 Period: Q2 2025
+2025-08-10 19:59:30,717 - INFO - ✅ Successfully processed: output_0000320193_25_000008.txt
+2025-08-10 19:59:30,717 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Apple_Inc\python_output_10q\Q2_2025\output_0000320193_25_000008_Q2_2025_structured.json
+2025-08-10 19:59:30,717 - INFO - ✅ File 13/134 completed successfully
+2025-08-10 19:59:30,718 - INFO - 
+📊 Progress: 14/134
+2025-08-10 19:59:30,718 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:30,718 - INFO - 📄 Processing: output_0000320193_25_000057.txt
+2025-08-10 19:59:30,718 - INFO -    🏢 Company: Apple_Inc
+2025-08-10 19:59:30,718 - INFO -    📅 Period: Q2 2025
+2025-08-10 19:59:30,886 - INFO - ✅ Successfully processed: output_0000320193_25_000057.txt
+2025-08-10 19:59:30,886 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Apple_Inc\python_output_10q\Q2_2025\output_0000320193_25_000057_Q2_2025_structured.json
+2025-08-10 19:59:30,886 - INFO - ✅ File 14/134 completed successfully
+2025-08-10 19:59:30,886 - INFO - 
+📊 Progress: 15/134
+2025-08-10 19:59:30,887 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:30,887 - INFO - 📄 Processing: output_0000320193_25_000073.txt
+2025-08-10 19:59:30,887 - INFO -    🏢 Company: Apple_Inc
+2025-08-10 19:59:30,887 - INFO -    📅 Period: Q2 2025
+2025-08-10 19:59:31,059 - INFO - ✅ Successfully processed: output_0000320193_25_000073.txt
+2025-08-10 19:59:31,059 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Apple_Inc\python_output_10q\Q2_2025\output_0000320193_25_000073_Q2_2025_structured.json
+2025-08-10 19:59:31,060 - INFO - ✅ File 15/134 completed successfully
+2025-08-10 19:59:31,060 - INFO - 
+📊 Progress: 16/134
+2025-08-10 19:59:31,060 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:31,060 - INFO - 📄 Processing: output_0001628280_21_010313.txt
+2025-08-10 19:59:31,060 - INFO -    🏢 Company: DoorDash_Inc
+2025-08-10 19:59:31,060 - INFO -    📅 Period: Q2 2021
+2025-08-10 19:59:31,264 - INFO - ✅ Successfully processed: output_0001628280_21_010313.txt
+2025-08-10 19:59:31,264 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\DoorDash_Inc\python_output_10q\Q2_2021\output_0001628280_21_010313_Q2_2021_structured.json
+2025-08-10 19:59:31,265 - INFO - ✅ File 16/134 completed successfully
+2025-08-10 19:59:31,265 - INFO - 
+📊 Progress: 17/134
+2025-08-10 19:59:31,265 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:31,265 - INFO - 📄 Processing: output_0001628280_21_016985.txt
+2025-08-10 19:59:31,265 - INFO -    🏢 Company: DoorDash_Inc
+2025-08-10 19:59:31,266 - INFO -    📅 Period: Q2 2021
+2025-08-10 19:59:31,459 - INFO - ✅ Successfully processed: output_0001628280_21_016985.txt
+2025-08-10 19:59:31,460 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\DoorDash_Inc\python_output_10q\Q2_2021\output_0001628280_21_016985_Q2_2021_structured.json
+2025-08-10 19:59:31,460 - INFO - ✅ File 17/134 completed successfully
+2025-08-10 19:59:31,460 - INFO - 
+📊 Progress: 18/134
+2025-08-10 19:59:31,460 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:31,460 - INFO - 📄 Processing: output_0001628280_21_022884.txt
+2025-08-10 19:59:31,460 - INFO -    🏢 Company: DoorDash_Inc
+2025-08-10 19:59:31,461 - INFO -    📅 Period: Q2 2021
+2025-08-10 19:59:31,643 - INFO - ✅ Successfully processed: output_0001628280_21_022884.txt
+2025-08-10 19:59:31,643 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\DoorDash_Inc\python_output_10q\Q2_2021\output_0001628280_21_022884_Q2_2021_structured.json
+2025-08-10 19:59:31,643 - INFO - ✅ File 18/134 completed successfully
+2025-08-10 19:59:31,643 - INFO - 
+📊 Progress: 19/134
+2025-08-10 19:59:31,644 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:31,644 - INFO - 📄 Processing: output_0001628280_22_013038.txt
+2025-08-10 19:59:31,644 - INFO -    🏢 Company: DoorDash_Inc
+2025-08-10 19:59:31,644 - INFO -    📅 Period: Q2 2022
+2025-08-10 19:59:31,836 - INFO - ✅ Successfully processed: output_0001628280_22_013038.txt
+2025-08-10 19:59:31,836 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\DoorDash_Inc\python_output_10q\Q2_2022\output_0001628280_22_013038_Q2_2022_structured.json
+2025-08-10 19:59:31,836 - INFO - ✅ File 19/134 completed successfully
+2025-08-10 19:59:31,837 - INFO - 
+📊 Progress: 20/134
+2025-08-10 19:59:31,837 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:31,837 - INFO - 📄 Processing: output_0001628280_22_021372.txt
+2025-08-10 19:59:31,837 - INFO -    🏢 Company: DoorDash_Inc
+2025-08-10 19:59:31,837 - INFO -    📅 Period: Q2 2022
+2025-08-10 19:59:32,024 - INFO - ✅ Successfully processed: output_0001628280_22_021372.txt
+2025-08-10 19:59:32,024 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\DoorDash_Inc\python_output_10q\Q2_2022\output_0001628280_22_021372_Q2_2022_structured.json
+2025-08-10 19:59:32,025 - INFO - ✅ File 20/134 completed successfully
+2025-08-10 19:59:32,025 - INFO - 
+📊 Progress: 21/134
+2025-08-10 19:59:32,025 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:32,025 - INFO - 📄 Processing: output_0001628280_22_028457.txt
+2025-08-10 19:59:32,025 - INFO -    🏢 Company: DoorDash_Inc
+2025-08-10 19:59:32,026 - INFO -    📅 Period: Q2 2022
+2025-08-10 19:59:32,230 - INFO - ✅ Successfully processed: output_0001628280_22_028457.txt
+2025-08-10 19:59:32,230 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\DoorDash_Inc\python_output_10q\Q2_2022\output_0001628280_22_028457_Q2_2022_structured.json
+2025-08-10 19:59:32,230 - INFO - ✅ File 21/134 completed successfully
+2025-08-10 19:59:32,230 - INFO - 
+📊 Progress: 22/134
+2025-08-10 19:59:32,231 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:32,231 - INFO - 📄 Processing: output_0001628280_23_016140.txt
+2025-08-10 19:59:32,231 - INFO -    🏢 Company: DoorDash_Inc
+2025-08-10 19:59:32,231 - INFO -    📅 Period: Q2 2023
+2025-08-10 19:59:32,426 - INFO - ✅ Successfully processed: output_0001628280_23_016140.txt
+2025-08-10 19:59:32,427 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\DoorDash_Inc\python_output_10q\Q2_2023\output_0001628280_23_016140_Q2_2023_structured.json
+2025-08-10 19:59:32,427 - INFO - ✅ File 22/134 completed successfully
+2025-08-10 19:59:32,427 - INFO - 
+📊 Progress: 23/134
+2025-08-10 19:59:32,427 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:32,428 - INFO - 📄 Processing: output_0001628280_23_026756.txt
+2025-08-10 19:59:32,428 - INFO -    🏢 Company: DoorDash_Inc
+2025-08-10 19:59:32,428 - INFO -    📅 Period: Q2 2023
+2025-08-10 19:59:32,625 - INFO - ✅ Successfully processed: output_0001628280_23_026756.txt
+2025-08-10 19:59:32,625 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\DoorDash_Inc\python_output_10q\Q2_2023\output_0001628280_23_026756_Q2_2023_structured.json
+2025-08-10 19:59:32,626 - INFO - ✅ File 23/134 completed successfully
+2025-08-10 19:59:32,626 - INFO - 
+📊 Progress: 24/134
+2025-08-10 19:59:32,626 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:32,626 - INFO - 📄 Processing: output_0001628280_23_035973.txt
+2025-08-10 19:59:32,626 - INFO -    🏢 Company: DoorDash_Inc
+2025-08-10 19:59:32,626 - INFO -    📅 Period: Q2 2023
+2025-08-10 19:59:32,820 - INFO - ✅ Successfully processed: output_0001628280_23_035973.txt
+2025-08-10 19:59:32,820 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\DoorDash_Inc\python_output_10q\Q2_2023\output_0001628280_23_035973_Q2_2023_structured.json
+2025-08-10 19:59:32,821 - INFO - ✅ File 24/134 completed successfully
+2025-08-10 19:59:32,821 - INFO - 
+📊 Progress: 25/134
+2025-08-10 19:59:32,821 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:32,821 - INFO - 📄 Processing: output_0001628280_24_019605.txt
+2025-08-10 19:59:32,822 - INFO -    🏢 Company: DoorDash_Inc
+2025-08-10 19:59:32,822 - INFO -    📅 Period: Q2 2024
+2025-08-10 19:59:33,016 - INFO - ✅ Successfully processed: output_0001628280_24_019605.txt
+2025-08-10 19:59:33,016 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\DoorDash_Inc\python_output_10q\Q2_2024\output_0001628280_24_019605_Q2_2024_structured.json
+2025-08-10 19:59:33,017 - INFO - ✅ File 25/134 completed successfully
+2025-08-10 19:59:33,017 - INFO - 
+📊 Progress: 26/134
+2025-08-10 19:59:33,017 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:33,017 - INFO - 📄 Processing: output_0001628280_24_034131.txt
+2025-08-10 19:59:33,017 - INFO -    🏢 Company: DoorDash_Inc
+2025-08-10 19:59:33,018 - INFO -    📅 Period: Q2 2024
+2025-08-10 19:59:33,207 - INFO - ✅ Successfully processed: output_0001628280_24_034131.txt
+2025-08-10 19:59:33,207 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\DoorDash_Inc\python_output_10q\Q2_2024\output_0001628280_24_034131_Q2_2024_structured.json
+2025-08-10 19:59:33,207 - INFO - ✅ File 26/134 completed successfully
+2025-08-10 19:59:33,207 - INFO - 
+📊 Progress: 27/134
+2025-08-10 19:59:33,208 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:33,208 - INFO - 📄 Processing: output_0001628280_24_044312.txt
+2025-08-10 19:59:33,208 - INFO -    🏢 Company: DoorDash_Inc
+2025-08-10 19:59:33,208 - INFO -    📅 Period: Q2 2024
+2025-08-10 19:59:33,406 - INFO - ✅ Successfully processed: output_0001628280_24_044312.txt
+2025-08-10 19:59:33,406 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\DoorDash_Inc\python_output_10q\Q2_2024\output_0001628280_24_044312_Q2_2024_structured.json
+2025-08-10 19:59:33,407 - INFO - ✅ File 27/134 completed successfully
+2025-08-10 19:59:33,407 - INFO - 
+📊 Progress: 28/134
+2025-08-10 19:59:33,407 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:33,407 - INFO - 📄 Processing: output_0001628280_25_023171.txt
+2025-08-10 19:59:33,408 - INFO -    🏢 Company: DoorDash_Inc
+2025-08-10 19:59:33,408 - INFO -    📅 Period: Q2 2025
+2025-08-10 19:59:33,603 - INFO - ✅ Successfully processed: output_0001628280_25_023171.txt
+2025-08-10 19:59:33,603 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\DoorDash_Inc\python_output_10q\Q2_2025\output_0001628280_25_023171_Q2_2025_structured.json
+2025-08-10 19:59:33,603 - INFO - ✅ File 28/134 completed successfully
+2025-08-10 19:59:33,603 - INFO - 
+📊 Progress: 29/134
+2025-08-10 19:59:33,603 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:33,603 - INFO - 📄 Processing: output_0001792789_25_000012.txt
+2025-08-10 19:59:33,604 - INFO -    🏢 Company: DoorDash_Inc
+2025-08-10 19:59:33,604 - INFO -    📅 Period: Q2 2025
+2025-08-10 19:59:33,800 - INFO - ✅ Successfully processed: output_0001792789_25_000012.txt
+2025-08-10 19:59:33,801 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\DoorDash_Inc\python_output_10q\Q2_2025\output_0001792789_25_000012_Q2_2025_structured.json
+2025-08-10 19:59:33,801 - INFO - ✅ File 29/134 completed successfully
+2025-08-10 19:59:33,801 - INFO - 
+📊 Progress: 30/134
+2025-08-10 19:59:33,801 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:33,801 - INFO - 📄 Processing: output_0000200406_20_000056.txt
+2025-08-10 19:59:33,802 - INFO -    🏢 Company: JOHNSON_&_JOHNSON
+2025-08-10 19:59:33,802 - INFO -    📅 Period: Q2 2020
+2025-08-10 19:59:33,876 - INFO - ✅ Successfully processed: output_0000200406_20_000056.txt
+2025-08-10 19:59:33,876 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JOHNSON_&_JOHNSON\python_output_10q\Q2_2020\output_0000200406_20_000056_Q2_2020_structured.json
+2025-08-10 19:59:33,876 - INFO - ✅ File 30/134 completed successfully
+2025-08-10 19:59:33,876 - INFO - 
+📊 Progress: 31/134
+2025-08-10 19:59:33,877 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:33,877 - INFO - 📄 Processing: output_0000200406_21_000036.txt
+2025-08-10 19:59:33,877 - INFO -    🏢 Company: JOHNSON_&_JOHNSON
+2025-08-10 19:59:33,877 - INFO -    📅 Period: Q2 2021
+2025-08-10 19:59:33,924 - INFO - ✅ Successfully processed: output_0000200406_21_000036.txt
+2025-08-10 19:59:33,924 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JOHNSON_&_JOHNSON\python_output_10q\Q2_2021\output_0000200406_21_000036_Q2_2021_structured.json
+2025-08-10 19:59:33,924 - INFO - ✅ File 31/134 completed successfully
+2025-08-10 19:59:33,924 - INFO - 
+📊 Progress: 32/134
+2025-08-10 19:59:33,924 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:33,924 - INFO - 📄 Processing: output_0000200406_21_000057.txt
+2025-08-10 19:59:33,925 - INFO -    🏢 Company: JOHNSON_&_JOHNSON
+2025-08-10 19:59:33,925 - INFO -    📅 Period: Q2 2021
+2025-08-10 19:59:33,976 - INFO - ✅ Successfully processed: output_0000200406_21_000057.txt
+2025-08-10 19:59:33,976 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JOHNSON_&_JOHNSON\python_output_10q\Q2_2021\output_0000200406_21_000057_Q2_2021_structured.json
+2025-08-10 19:59:33,976 - INFO - ✅ File 32/134 completed successfully
+2025-08-10 19:59:33,976 - INFO - 
+📊 Progress: 33/134
+2025-08-10 19:59:33,976 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:33,976 - INFO - 📄 Processing: output_0000200406_21_000070.txt
+2025-08-10 19:59:33,977 - INFO -    🏢 Company: JOHNSON_&_JOHNSON
+2025-08-10 19:59:33,977 - INFO -    📅 Period: Q2 2021
+2025-08-10 19:59:34,024 - INFO - ✅ Successfully processed: output_0000200406_21_000070.txt
+2025-08-10 19:59:34,024 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JOHNSON_&_JOHNSON\python_output_10q\Q2_2021\output_0000200406_21_000070_Q2_2021_structured.json
+2025-08-10 19:59:34,024 - INFO - ✅ File 33/134 completed successfully
+2025-08-10 19:59:34,025 - INFO - 
+📊 Progress: 34/134
+2025-08-10 19:59:34,025 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:34,025 - INFO - 📄 Processing: output_0000200406_22_000048.txt
+2025-08-10 19:59:34,025 - INFO -    🏢 Company: JOHNSON_&_JOHNSON
+2025-08-10 19:59:34,025 - INFO -    📅 Period: Q2 2022
+2025-08-10 19:59:34,070 - INFO - ✅ Successfully processed: output_0000200406_22_000048.txt
+2025-08-10 19:59:34,070 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JOHNSON_&_JOHNSON\python_output_10q\Q2_2022\output_0000200406_22_000048_Q2_2022_structured.json
+2025-08-10 19:59:34,070 - INFO - ✅ File 34/134 completed successfully
+2025-08-10 19:59:34,070 - INFO - 
+📊 Progress: 35/134
+2025-08-10 19:59:34,071 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:34,071 - INFO - 📄 Processing: output_0000200406_22_000071.txt
+2025-08-10 19:59:34,071 - INFO -    🏢 Company: JOHNSON_&_JOHNSON
+2025-08-10 19:59:34,071 - INFO -    📅 Period: Q2 2022
+2025-08-10 19:59:34,118 - INFO - ✅ Successfully processed: output_0000200406_22_000071.txt
+2025-08-10 19:59:34,118 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JOHNSON_&_JOHNSON\python_output_10q\Q2_2022\output_0000200406_22_000071_Q2_2022_structured.json
+2025-08-10 19:59:34,118 - INFO - ✅ File 35/134 completed successfully
+2025-08-10 19:59:34,118 - INFO - 
+📊 Progress: 36/134
+2025-08-10 19:59:34,119 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:34,119 - INFO - 📄 Processing: output_0000200406_22_000086.txt
+2025-08-10 19:59:34,119 - INFO -    🏢 Company: JOHNSON_&_JOHNSON
+2025-08-10 19:59:34,119 - INFO -    📅 Period: Q2 2022
+2025-08-10 19:59:34,170 - INFO - ✅ Successfully processed: output_0000200406_22_000086.txt
+2025-08-10 19:59:34,170 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JOHNSON_&_JOHNSON\python_output_10q\Q2_2022\output_0000200406_22_000086_Q2_2022_structured.json
+2025-08-10 19:59:34,170 - INFO - ✅ File 36/134 completed successfully
+2025-08-10 19:59:34,170 - INFO - 
+📊 Progress: 37/134
+2025-08-10 19:59:34,171 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:34,171 - INFO - 📄 Processing: output_0000200406_23_000056.txt
+2025-08-10 19:59:34,171 - INFO -    🏢 Company: JOHNSON_&_JOHNSON
+2025-08-10 19:59:34,171 - INFO -    📅 Period: Q2 2023
+2025-08-10 19:59:34,214 - INFO - ✅ Successfully processed: output_0000200406_23_000056.txt
+2025-08-10 19:59:34,214 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JOHNSON_&_JOHNSON\python_output_10q\Q2_2023\output_0000200406_23_000056_Q2_2023_structured.json
+2025-08-10 19:59:34,214 - INFO - ✅ File 37/134 completed successfully
+2025-08-10 19:59:34,214 - INFO - 
+📊 Progress: 38/134
+2025-08-10 19:59:34,214 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:34,214 - INFO - 📄 Processing: output_0000200406_23_000082.txt
+2025-08-10 19:59:34,215 - INFO -    🏢 Company: JOHNSON_&_JOHNSON
+2025-08-10 19:59:34,215 - INFO -    📅 Period: Q2 2023
+2025-08-10 19:59:34,263 - INFO - ✅ Successfully processed: output_0000200406_23_000082.txt
+2025-08-10 19:59:34,263 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JOHNSON_&_JOHNSON\python_output_10q\Q2_2023\output_0000200406_23_000082_Q2_2023_structured.json
+2025-08-10 19:59:34,263 - INFO - ✅ File 38/134 completed successfully
+2025-08-10 19:59:34,263 - INFO - 
+📊 Progress: 39/134
+2025-08-10 19:59:34,264 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:34,264 - INFO - 📄 Processing: output_0000200406_23_000102.txt
+2025-08-10 19:59:34,264 - INFO -    🏢 Company: JOHNSON_&_JOHNSON
+2025-08-10 19:59:34,264 - INFO -    📅 Period: Q2 2023
+2025-08-10 19:59:34,312 - INFO - ✅ Successfully processed: output_0000200406_23_000102.txt
+2025-08-10 19:59:34,312 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JOHNSON_&_JOHNSON\python_output_10q\Q2_2023\output_0000200406_23_000102_Q2_2023_structured.json
+2025-08-10 19:59:34,312 - INFO - ✅ File 39/134 completed successfully
+2025-08-10 19:59:34,312 - INFO - 
+📊 Progress: 40/134
+2025-08-10 19:59:34,312 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:34,313 - INFO - 📄 Processing: output_0000200406_24_000049.txt
+2025-08-10 19:59:34,313 - INFO -    🏢 Company: JOHNSON_&_JOHNSON
+2025-08-10 19:59:34,313 - INFO -    📅 Period: Q2 2024
+2025-08-10 19:59:34,496 - INFO - ✅ Successfully processed: output_0000200406_24_000049.txt
+2025-08-10 19:59:34,497 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JOHNSON_&_JOHNSON\python_output_10q\Q2_2024\output_0000200406_24_000049_Q2_2024_structured.json
+2025-08-10 19:59:34,497 - INFO - ✅ File 40/134 completed successfully
+2025-08-10 19:59:34,497 - INFO - 
+📊 Progress: 41/134
+2025-08-10 19:59:34,497 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:34,497 - INFO - 📄 Processing: output_0000200406_24_000075.txt
+2025-08-10 19:59:34,498 - INFO -    🏢 Company: JOHNSON_&_JOHNSON
+2025-08-10 19:59:34,498 - INFO -    📅 Period: Q2 2024
+2025-08-10 19:59:34,686 - INFO - ✅ Successfully processed: output_0000200406_24_000075.txt
+2025-08-10 19:59:34,686 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JOHNSON_&_JOHNSON\python_output_10q\Q2_2024\output_0000200406_24_000075_Q2_2024_structured.json
+2025-08-10 19:59:34,686 - INFO - ✅ File 41/134 completed successfully
+2025-08-10 19:59:34,686 - INFO - 
+📊 Progress: 42/134
+2025-08-10 19:59:34,686 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:34,687 - INFO - 📄 Processing: output_0000200406_24_000096.txt
+2025-08-10 19:59:34,687 - INFO -    🏢 Company: JOHNSON_&_JOHNSON
+2025-08-10 19:59:34,687 - INFO -    📅 Period: Q2 2024
+2025-08-10 19:59:34,870 - INFO - ✅ Successfully processed: output_0000200406_24_000096.txt
+2025-08-10 19:59:34,871 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JOHNSON_&_JOHNSON\python_output_10q\Q2_2024\output_0000200406_24_000096_Q2_2024_structured.json
+2025-08-10 19:59:34,871 - INFO - ✅ File 42/134 completed successfully
+2025-08-10 19:59:34,871 - INFO - 
+📊 Progress: 43/134
+2025-08-10 19:59:34,871 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:34,871 - INFO - 📄 Processing: output_0000200406_25_000119.txt
+2025-08-10 19:59:34,871 - INFO -    🏢 Company: JOHNSON_&_JOHNSON
+2025-08-10 19:59:34,871 - INFO -    📅 Period: Q2 2025
+2025-08-10 19:59:35,057 - INFO - ✅ Successfully processed: output_0000200406_25_000119.txt
+2025-08-10 19:59:35,057 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JOHNSON_&_JOHNSON\python_output_10q\Q2_2025\output_0000200406_25_000119_Q2_2025_structured.json
+2025-08-10 19:59:35,057 - INFO - ✅ File 43/134 completed successfully
+2025-08-10 19:59:35,057 - INFO - 
+📊 Progress: 44/134
+2025-08-10 19:59:35,057 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:35,057 - INFO - 📄 Processing: output_0000200406_25_000178.txt
+2025-08-10 19:59:35,057 - INFO -    🏢 Company: JOHNSON_&_JOHNSON
+2025-08-10 19:59:35,057 - INFO -    📅 Period: Q2 2025
+2025-08-10 19:59:35,250 - INFO - ✅ Successfully processed: output_0000200406_25_000178.txt
+2025-08-10 19:59:35,250 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JOHNSON_&_JOHNSON\python_output_10q\Q2_2025\output_0000200406_25_000178_Q2_2025_structured.json
+2025-08-10 19:59:35,250 - INFO - ✅ File 44/134 completed successfully
+2025-08-10 19:59:35,251 - INFO - 
+📊 Progress: 45/134
+2025-08-10 19:59:35,251 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:35,251 - INFO - 📄 Processing: output_0000019617_20_000438.txt
+2025-08-10 19:59:35,251 - INFO -    🏢 Company: JPMORGAN_CHASE_&_CO
+2025-08-10 19:59:35,251 - INFO -    📅 Period: Q2 2020
+2025-08-10 19:59:35,284 - INFO - ✅ Successfully processed: output_0000019617_20_000438.txt
+2025-08-10 19:59:35,284 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JPMORGAN_CHASE_&_CO\python_output_10q\Q2_2020\output_0000019617_20_000438_Q2_2020_structured.json
+2025-08-10 19:59:35,284 - INFO - ✅ File 45/134 completed successfully
+2025-08-10 19:59:35,284 - INFO - 
+📊 Progress: 46/134
+2025-08-10 19:59:35,284 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:35,284 - INFO - 📄 Processing: output_0000019617_21_000292.txt
+2025-08-10 19:59:35,284 - INFO -    🏢 Company: JPMORGAN_CHASE_&_CO
+2025-08-10 19:59:35,284 - INFO -    📅 Period: Q2 2021
+2025-08-10 19:59:35,312 - INFO - ✅ Successfully processed: output_0000019617_21_000292.txt
+2025-08-10 19:59:35,312 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JPMORGAN_CHASE_&_CO\python_output_10q\Q2_2021\output_0000019617_21_000292_Q2_2021_structured.json
+2025-08-10 19:59:35,312 - INFO - ✅ File 46/134 completed successfully
+2025-08-10 19:59:35,312 - INFO - 
+📊 Progress: 47/134
+2025-08-10 19:59:35,312 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:35,313 - INFO - 📄 Processing: output_0000019617_21_000373.txt
+2025-08-10 19:59:35,313 - INFO -    🏢 Company: JPMORGAN_CHASE_&_CO
+2025-08-10 19:59:35,313 - INFO -    📅 Period: Q2 2021
+2025-08-10 19:59:35,344 - INFO - ✅ Successfully processed: output_0000019617_21_000373.txt
+2025-08-10 19:59:35,344 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JPMORGAN_CHASE_&_CO\python_output_10q\Q2_2021\output_0000019617_21_000373_Q2_2021_structured.json
+2025-08-10 19:59:35,344 - INFO - ✅ File 47/134 completed successfully
+2025-08-10 19:59:35,345 - INFO - 
+📊 Progress: 48/134
+2025-08-10 19:59:35,345 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:35,345 - INFO - 📄 Processing: output_0000019617_21_000458.txt
+2025-08-10 19:59:35,345 - INFO -    🏢 Company: JPMORGAN_CHASE_&_CO
+2025-08-10 19:59:35,345 - INFO -    📅 Period: Q2 2021
+2025-08-10 19:59:35,376 - INFO - ✅ Successfully processed: output_0000019617_21_000458.txt
+2025-08-10 19:59:35,376 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JPMORGAN_CHASE_&_CO\python_output_10q\Q2_2021\output_0000019617_21_000458_Q2_2021_structured.json
+2025-08-10 19:59:35,377 - INFO - ✅ File 48/134 completed successfully
+2025-08-10 19:59:35,377 - INFO - 
+📊 Progress: 49/134
+2025-08-10 19:59:35,377 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:35,377 - INFO - 📄 Processing: output_0000019617_22_000319.txt
+2025-08-10 19:59:35,377 - INFO -    🏢 Company: JPMORGAN_CHASE_&_CO
+2025-08-10 19:59:35,377 - INFO -    📅 Period: Q2 2022
+2025-08-10 19:59:35,406 - INFO - ✅ Successfully processed: output_0000019617_22_000319.txt
+2025-08-10 19:59:35,407 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JPMORGAN_CHASE_&_CO\python_output_10q\Q2_2022\output_0000019617_22_000319_Q2_2022_structured.json
+2025-08-10 19:59:35,407 - INFO - ✅ File 49/134 completed successfully
+2025-08-10 19:59:35,407 - INFO - 
+📊 Progress: 50/134
+2025-08-10 19:59:35,407 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:35,407 - INFO - 📄 Processing: output_0000019617_22_000422.txt
+2025-08-10 19:59:35,407 - INFO -    🏢 Company: JPMORGAN_CHASE_&_CO
+2025-08-10 19:59:35,407 - INFO -    📅 Period: Q2 2022
+2025-08-10 19:59:35,437 - INFO - ✅ Successfully processed: output_0000019617_22_000422.txt
+2025-08-10 19:59:35,437 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JPMORGAN_CHASE_&_CO\python_output_10q\Q2_2022\output_0000019617_22_000422_Q2_2022_structured.json
+2025-08-10 19:59:35,438 - INFO - ✅ File 50/134 completed successfully
+2025-08-10 19:59:35,438 - INFO - 
+📊 Progress: 51/134
+2025-08-10 19:59:35,438 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:35,438 - INFO - 📄 Processing: output_0000019617_22_000492.txt
+2025-08-10 19:59:35,438 - INFO -    🏢 Company: JPMORGAN_CHASE_&_CO
+2025-08-10 19:59:35,438 - INFO -    📅 Period: Q2 2022
+2025-08-10 19:59:35,470 - INFO - ✅ Successfully processed: output_0000019617_22_000492.txt
+2025-08-10 19:59:35,470 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JPMORGAN_CHASE_&_CO\python_output_10q\Q2_2022\output_0000019617_22_000492_Q2_2022_structured.json
+2025-08-10 19:59:35,470 - INFO - ✅ File 51/134 completed successfully
+2025-08-10 19:59:35,470 - INFO - 
+📊 Progress: 52/134
+2025-08-10 19:59:35,470 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:35,470 - INFO - 📄 Processing: output_0000019617_23_000310.txt
+2025-08-10 19:59:35,470 - INFO -    🏢 Company: JPMORGAN_CHASE_&_CO
+2025-08-10 19:59:35,470 - INFO -    📅 Period: Q2 2023
+2025-08-10 19:59:35,502 - INFO - ✅ Successfully processed: output_0000019617_23_000310.txt
+2025-08-10 19:59:35,502 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JPMORGAN_CHASE_&_CO\python_output_10q\Q2_2023\output_0000019617_23_000310_Q2_2023_structured.json
+2025-08-10 19:59:35,502 - INFO - ✅ File 52/134 completed successfully
+2025-08-10 19:59:35,502 - INFO - 
+📊 Progress: 53/134
+2025-08-10 19:59:35,502 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:35,503 - INFO - 📄 Processing: output_0000019617_23_000432.txt
+2025-08-10 19:59:35,503 - INFO -    🏢 Company: JPMORGAN_CHASE_&_CO
+2025-08-10 19:59:35,503 - INFO -    📅 Period: Q2 2023
+2025-08-10 19:59:35,537 - INFO - ✅ Successfully processed: output_0000019617_23_000432.txt
+2025-08-10 19:59:35,537 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JPMORGAN_CHASE_&_CO\python_output_10q\Q2_2023\output_0000019617_23_000432_Q2_2023_structured.json
+2025-08-10 19:59:35,537 - INFO - ✅ File 53/134 completed successfully
+2025-08-10 19:59:35,537 - INFO - 
+📊 Progress: 54/134
+2025-08-10 19:59:35,537 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:35,537 - INFO - 📄 Processing: output_0000019617_23_000524.txt
+2025-08-10 19:59:35,538 - INFO -    🏢 Company: JPMORGAN_CHASE_&_CO
+2025-08-10 19:59:35,538 - INFO -    📅 Period: Q2 2023
+2025-08-10 19:59:35,571 - INFO - ✅ Successfully processed: output_0000019617_23_000524.txt
+2025-08-10 19:59:35,572 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JPMORGAN_CHASE_&_CO\python_output_10q\Q2_2023\output_0000019617_23_000524_Q2_2023_structured.json
+2025-08-10 19:59:35,572 - INFO - ✅ File 54/134 completed successfully
+2025-08-10 19:59:35,572 - INFO - 
+📊 Progress: 55/134
+2025-08-10 19:59:35,572 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:35,572 - INFO - 📄 Processing: output_0000019617_24_000326.txt
+2025-08-10 19:59:35,572 - INFO -    🏢 Company: JPMORGAN_CHASE_&_CO
+2025-08-10 19:59:35,572 - INFO -    📅 Period: Q2 2024
+2025-08-10 19:59:35,604 - INFO - ✅ Successfully processed: output_0000019617_24_000326.txt
+2025-08-10 19:59:35,604 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JPMORGAN_CHASE_&_CO\python_output_10q\Q2_2024\output_0000019617_24_000326_Q2_2024_structured.json
+2025-08-10 19:59:35,605 - INFO - ✅ File 55/134 completed successfully
+2025-08-10 19:59:35,605 - INFO - 
+📊 Progress: 56/134
+2025-08-10 19:59:35,605 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:35,605 - INFO - 📄 Processing: output_0000019617_24_000453.txt
+2025-08-10 19:59:35,605 - INFO -    🏢 Company: JPMORGAN_CHASE_&_CO
+2025-08-10 19:59:35,605 - INFO -    📅 Period: Q2 2024
+2025-08-10 19:59:35,638 - INFO - ✅ Successfully processed: output_0000019617_24_000453.txt
+2025-08-10 19:59:35,638 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JPMORGAN_CHASE_&_CO\python_output_10q\Q2_2024\output_0000019617_24_000453_Q2_2024_structured.json
+2025-08-10 19:59:35,638 - INFO - ✅ File 56/134 completed successfully
+2025-08-10 19:59:35,639 - INFO - 
+📊 Progress: 57/134
+2025-08-10 19:59:35,639 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:35,639 - INFO - 📄 Processing: output_0000019617_24_000611.txt
+2025-08-10 19:59:35,639 - INFO -    🏢 Company: JPMORGAN_CHASE_&_CO
+2025-08-10 19:59:35,639 - INFO -    📅 Period: Q2 2024
+2025-08-10 19:59:35,670 - INFO - ✅ Successfully processed: output_0000019617_24_000611.txt
+2025-08-10 19:59:35,670 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JPMORGAN_CHASE_&_CO\python_output_10q\Q2_2024\output_0000019617_24_000611_Q2_2024_structured.json
+2025-08-10 19:59:35,671 - INFO - ✅ File 57/134 completed successfully
+2025-08-10 19:59:35,671 - INFO - 
+📊 Progress: 58/134
+2025-08-10 19:59:35,671 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:35,671 - INFO - 📄 Processing: output_0000019617_25_000421.txt
+2025-08-10 19:59:35,671 - INFO -    🏢 Company: JPMORGAN_CHASE_&_CO
+2025-08-10 19:59:35,671 - INFO -    📅 Period: Q2 2025
+2025-08-10 19:59:35,877 - INFO - ✅ Successfully processed: output_0000019617_25_000421.txt
+2025-08-10 19:59:35,877 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JPMORGAN_CHASE_&_CO\python_output_10q\Q2_2025\output_0000019617_25_000421_Q2_2025_structured.json
+2025-08-10 19:59:35,877 - INFO - ✅ File 58/134 completed successfully
+2025-08-10 19:59:35,877 - INFO - 
+📊 Progress: 59/134
+2025-08-10 19:59:35,877 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:35,877 - INFO - 📄 Processing: output_0000019617_25_000615.txt
+2025-08-10 19:59:35,878 - INFO -    🏢 Company: JPMORGAN_CHASE_&_CO
+2025-08-10 19:59:35,878 - INFO -    📅 Period: Q2 2025
+2025-08-10 19:59:36,114 - INFO - ✅ Successfully processed: output_0000019617_25_000615.txt
+2025-08-10 19:59:36,114 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JPMORGAN_CHASE_&_CO\python_output_10q\Q2_2025\output_0000019617_25_000615_Q2_2025_structured.json
+2025-08-10 19:59:36,114 - INFO - ✅ File 59/134 completed successfully
+2025-08-10 19:59:36,114 - INFO - 
+📊 Progress: 60/134
+2025-08-10 19:59:36,114 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:36,115 - INFO - 📄 Processing: output_0001326801_20_000084.txt
+2025-08-10 19:59:36,115 - INFO -    🏢 Company: Meta_Platforms_Inc
+2025-08-10 19:59:36,115 - INFO -    📅 Period: Q2 2020
+2025-08-10 19:59:36,153 - INFO - ✅ Successfully processed: output_0001326801_20_000084.txt
+2025-08-10 19:59:36,154 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Meta_Platforms_Inc\python_output_10q\Q2_2020\output_0001326801_20_000084_Q2_2020_structured.json
+2025-08-10 19:59:36,154 - INFO - ✅ File 60/134 completed successfully
+2025-08-10 19:59:36,154 - INFO - 
+📊 Progress: 61/134
+2025-08-10 19:59:36,154 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:36,154 - INFO - 📄 Processing: output_0001326801_21_000033.txt
+2025-08-10 19:59:36,154 - INFO -    🏢 Company: Meta_Platforms_Inc
+2025-08-10 19:59:36,154 - INFO -    📅 Period: Q2 2021
+2025-08-10 19:59:36,192 - INFO - ✅ Successfully processed: output_0001326801_21_000033.txt
+2025-08-10 19:59:36,192 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Meta_Platforms_Inc\python_output_10q\Q2_2021\output_0001326801_21_000033_Q2_2021_structured.json
+2025-08-10 19:59:36,192 - INFO - ✅ File 61/134 completed successfully
+2025-08-10 19:59:36,192 - INFO - 
+📊 Progress: 62/134
+2025-08-10 19:59:36,193 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:36,193 - INFO - 📄 Processing: output_0001326801_21_000049.txt
+2025-08-10 19:59:36,193 - INFO -    🏢 Company: Meta_Platforms_Inc
+2025-08-10 19:59:36,193 - INFO -    📅 Period: Q2 2021
+2025-08-10 19:59:36,231 - INFO - ✅ Successfully processed: output_0001326801_21_000049.txt
+2025-08-10 19:59:36,231 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Meta_Platforms_Inc\python_output_10q\Q2_2021\output_0001326801_21_000049_Q2_2021_structured.json
+2025-08-10 19:59:36,231 - INFO - ✅ File 62/134 completed successfully
+2025-08-10 19:59:36,231 - INFO - 
+📊 Progress: 63/134
+2025-08-10 19:59:36,232 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:36,232 - INFO - 📄 Processing: output_0001326801_21_000065.txt
+2025-08-10 19:59:36,232 - INFO -    🏢 Company: Meta_Platforms_Inc
+2025-08-10 19:59:36,232 - INFO -    📅 Period: Q2 2021
+2025-08-10 19:59:36,270 - INFO - ✅ Successfully processed: output_0001326801_21_000065.txt
+2025-08-10 19:59:36,270 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Meta_Platforms_Inc\python_output_10q\Q2_2021\output_0001326801_21_000065_Q2_2021_structured.json
+2025-08-10 19:59:36,270 - INFO - ✅ File 63/134 completed successfully
+2025-08-10 19:59:36,270 - INFO - 
+📊 Progress: 64/134
+2025-08-10 19:59:36,270 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:36,271 - INFO - 📄 Processing: output_0001326801_22_000057.txt
+2025-08-10 19:59:36,271 - INFO -    🏢 Company: Meta_Platforms_Inc
+2025-08-10 19:59:36,271 - INFO -    📅 Period: Q2 2022
+2025-08-10 19:59:36,309 - INFO - ✅ Successfully processed: output_0001326801_22_000057.txt
+2025-08-10 19:59:36,309 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Meta_Platforms_Inc\python_output_10q\Q2_2022\output_0001326801_22_000057_Q2_2022_structured.json
+2025-08-10 19:59:36,309 - INFO - ✅ File 64/134 completed successfully
+2025-08-10 19:59:36,309 - INFO - 
+📊 Progress: 65/134
+2025-08-10 19:59:36,310 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:36,310 - INFO - 📄 Processing: output_0001326801_22_000082.txt
+2025-08-10 19:59:36,310 - INFO -    🏢 Company: Meta_Platforms_Inc
+2025-08-10 19:59:36,310 - INFO -    📅 Period: Q2 2022
+2025-08-10 19:59:36,347 - INFO - ✅ Successfully processed: output_0001326801_22_000082.txt
+2025-08-10 19:59:36,347 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Meta_Platforms_Inc\python_output_10q\Q2_2022\output_0001326801_22_000082_Q2_2022_structured.json
+2025-08-10 19:59:36,348 - INFO - ✅ File 65/134 completed successfully
+2025-08-10 19:59:36,348 - INFO - 
+📊 Progress: 66/134
+2025-08-10 19:59:36,348 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:36,348 - INFO - 📄 Processing: output_0001326801_22_000108.txt
+2025-08-10 19:59:36,348 - INFO -    🏢 Company: Meta_Platforms_Inc
+2025-08-10 19:59:36,348 - INFO -    📅 Period: Q2 2022
+2025-08-10 19:59:36,387 - INFO - ✅ Successfully processed: output_0001326801_22_000108.txt
+2025-08-10 19:59:36,387 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Meta_Platforms_Inc\python_output_10q\Q2_2022\output_0001326801_22_000108_Q2_2022_structured.json
+2025-08-10 19:59:36,388 - INFO - ✅ File 66/134 completed successfully
+2025-08-10 19:59:36,388 - INFO - 
+📊 Progress: 67/134
+2025-08-10 19:59:36,388 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:36,388 - INFO - 📄 Processing: output_0001326801_23_000067.txt
+2025-08-10 19:59:36,388 - INFO -    🏢 Company: Meta_Platforms_Inc
+2025-08-10 19:59:36,388 - INFO -    📅 Period: Q2 2023
+2025-08-10 19:59:36,426 - INFO - ✅ Successfully processed: output_0001326801_23_000067.txt
+2025-08-10 19:59:36,426 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Meta_Platforms_Inc\python_output_10q\Q2_2023\output_0001326801_23_000067_Q2_2023_structured.json
+2025-08-10 19:59:36,426 - INFO - ✅ File 67/134 completed successfully
+2025-08-10 19:59:36,426 - INFO - 
+📊 Progress: 68/134
+2025-08-10 19:59:36,426 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:36,427 - INFO - 📄 Processing: output_0001326801_23_000093.txt
+2025-08-10 19:59:36,427 - INFO -    🏢 Company: Meta_Platforms_Inc
+2025-08-10 19:59:36,427 - INFO -    📅 Period: Q2 2023
+2025-08-10 19:59:36,465 - INFO - ✅ Successfully processed: output_0001326801_23_000093.txt
+2025-08-10 19:59:36,465 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Meta_Platforms_Inc\python_output_10q\Q2_2023\output_0001326801_23_000093_Q2_2023_structured.json
+2025-08-10 19:59:36,465 - INFO - ✅ File 68/134 completed successfully
+2025-08-10 19:59:36,465 - INFO - 
+📊 Progress: 69/134
+2025-08-10 19:59:36,465 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:36,466 - INFO - 📄 Processing: output_0001326801_23_000103.txt
+2025-08-10 19:59:36,466 - INFO -    🏢 Company: Meta_Platforms_Inc
+2025-08-10 19:59:36,466 - INFO -    📅 Period: Q2 2023
+2025-08-10 19:59:36,501 - INFO - ✅ Successfully processed: output_0001326801_23_000103.txt
+2025-08-10 19:59:36,501 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Meta_Platforms_Inc\python_output_10q\Q2_2023\output_0001326801_23_000103_Q2_2023_structured.json
+2025-08-10 19:59:36,501 - INFO - ✅ File 69/134 completed successfully
+2025-08-10 19:59:36,501 - INFO - 
+📊 Progress: 70/134
+2025-08-10 19:59:36,501 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:36,501 - INFO - 📄 Processing: output_0001326801_24_000049.txt
+2025-08-10 19:59:36,501 - INFO -    🏢 Company: Meta_Platforms_Inc
+2025-08-10 19:59:36,501 - INFO -    📅 Period: Q2 2024
+2025-08-10 19:59:36,534 - INFO - ✅ Successfully processed: output_0001326801_24_000049.txt
+2025-08-10 19:59:36,534 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Meta_Platforms_Inc\python_output_10q\Q2_2024\output_0001326801_24_000049_Q2_2024_structured.json
+2025-08-10 19:59:36,534 - INFO - ✅ File 70/134 completed successfully
+2025-08-10 19:59:36,535 - INFO - 
+📊 Progress: 71/134
+2025-08-10 19:59:36,535 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:36,535 - INFO - 📄 Processing: output_0001326801_24_000069.txt
+2025-08-10 19:59:36,535 - INFO -    🏢 Company: Meta_Platforms_Inc
+2025-08-10 19:59:36,535 - INFO -    📅 Period: Q2 2024
+2025-08-10 19:59:36,568 - INFO - ✅ Successfully processed: output_0001326801_24_000069.txt
+2025-08-10 19:59:36,568 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Meta_Platforms_Inc\python_output_10q\Q2_2024\output_0001326801_24_000069_Q2_2024_structured.json
+2025-08-10 19:59:36,569 - INFO - ✅ File 71/134 completed successfully
+2025-08-10 19:59:36,569 - INFO - 
+📊 Progress: 72/134
+2025-08-10 19:59:36,569 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:36,569 - INFO - 📄 Processing: output_0001326801_24_000081.txt
+2025-08-10 19:59:36,569 - INFO -    🏢 Company: Meta_Platforms_Inc
+2025-08-10 19:59:36,569 - INFO -    📅 Period: Q2 2024
+2025-08-10 19:59:36,600 - INFO - ✅ Successfully processed: output_0001326801_24_000081.txt
+2025-08-10 19:59:36,601 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Meta_Platforms_Inc\python_output_10q\Q2_2024\output_0001326801_24_000081_Q2_2024_structured.json
+2025-08-10 19:59:36,601 - INFO - ✅ File 72/134 completed successfully
+2025-08-10 19:59:36,601 - INFO - 
+📊 Progress: 73/134
+2025-08-10 19:59:36,601 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:36,601 - INFO - 📄 Processing: output_0001326801_25_000054.txt
+2025-08-10 19:59:36,601 - INFO -    🏢 Company: Meta_Platforms_Inc
+2025-08-10 19:59:36,601 - INFO -    📅 Period: Q2 2025
+2025-08-10 19:59:36,635 - INFO - ✅ Successfully processed: output_0001326801_25_000054.txt
+2025-08-10 19:59:36,635 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Meta_Platforms_Inc\python_output_10q\Q2_2025\output_0001326801_25_000054_Q2_2025_structured.json
+2025-08-10 19:59:36,635 - INFO - ✅ File 73/134 completed successfully
+2025-08-10 19:59:36,635 - INFO - 
+📊 Progress: 74/134
+2025-08-10 19:59:36,635 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:36,635 - INFO - 📄 Processing: output_0001628280_25_036791.txt
+2025-08-10 19:59:36,636 - INFO -    🏢 Company: Meta_Platforms_Inc
+2025-08-10 19:59:36,636 - INFO -    📅 Period: Q2 2025
+2025-08-10 19:59:36,670 - INFO - ✅ Successfully processed: output_0001628280_25_036791.txt
+2025-08-10 19:59:36,671 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Meta_Platforms_Inc\python_output_10q\Q2_2025\output_0001628280_25_036791_Q2_2025_structured.json
+2025-08-10 19:59:36,671 - INFO - ✅ File 74/134 completed successfully
+2025-08-10 19:59:36,671 - INFO - 
+📊 Progress: 75/134
+2025-08-10 19:59:36,671 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:36,671 - INFO - 📄 Processing: output_0001564590_20_047996.txt
+2025-08-10 19:59:36,671 - INFO -    🏢 Company: MICROSOFT_CORP
+2025-08-10 19:59:36,671 - INFO -    📅 Period: Q2 2020
+2025-08-10 19:59:36,706 - INFO - ✅ Successfully processed: output_0001564590_20_047996.txt
+2025-08-10 19:59:36,706 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\MICROSOFT_CORP\python_output_10q\Q2_2020\output_0001564590_20_047996_Q2_2020_structured.json
+2025-08-10 19:59:36,706 - INFO - ✅ File 75/134 completed successfully
+2025-08-10 19:59:36,706 - INFO - 
+📊 Progress: 76/134
+2025-08-10 19:59:36,706 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:36,707 - INFO - 📄 Processing: output_0001564590_21_002316.txt
+2025-08-10 19:59:36,707 - INFO -    🏢 Company: MICROSOFT_CORP
+2025-08-10 19:59:36,707 - INFO -    📅 Period: Q2 2021
+2025-08-10 19:59:36,743 - INFO - ✅ Successfully processed: output_0001564590_21_002316.txt
+2025-08-10 19:59:36,744 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\MICROSOFT_CORP\python_output_10q\Q2_2021\output_0001564590_21_002316_Q2_2021_structured.json
+2025-08-10 19:59:36,744 - INFO - ✅ File 76/134 completed successfully
+2025-08-10 19:59:36,744 - INFO - 
+📊 Progress: 77/134
+2025-08-10 19:59:36,744 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:36,744 - INFO - 📄 Processing: output_0001564590_21_020891.txt
+2025-08-10 19:59:36,744 - INFO -    🏢 Company: MICROSOFT_CORP
+2025-08-10 19:59:36,744 - INFO -    📅 Period: Q2 2021
+2025-08-10 19:59:36,777 - INFO - ✅ Successfully processed: output_0001564590_21_020891.txt
+2025-08-10 19:59:36,778 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\MICROSOFT_CORP\python_output_10q\Q2_2021\output_0001564590_21_020891_Q2_2021_structured.json
+2025-08-10 19:59:36,778 - INFO - ✅ File 77/134 completed successfully
+2025-08-10 19:59:36,778 - INFO - 
+📊 Progress: 78/134
+2025-08-10 19:59:36,778 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:36,778 - INFO - 📄 Processing: output_0001564590_21_051992.txt
+2025-08-10 19:59:36,778 - INFO -    🏢 Company: MICROSOFT_CORP
+2025-08-10 19:59:36,779 - INFO -    📅 Period: Q2 2021
+2025-08-10 19:59:36,815 - INFO - ✅ Successfully processed: output_0001564590_21_051992.txt
+2025-08-10 19:59:36,815 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\MICROSOFT_CORP\python_output_10q\Q2_2021\output_0001564590_21_051992_Q2_2021_structured.json
+2025-08-10 19:59:36,815 - INFO - ✅ File 78/134 completed successfully
+2025-08-10 19:59:36,815 - INFO - 
+📊 Progress: 79/134
+2025-08-10 19:59:36,816 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:36,816 - INFO - 📄 Processing: output_0001564590_22_002324.txt
+2025-08-10 19:59:36,816 - INFO -    🏢 Company: MICROSOFT_CORP
+2025-08-10 19:59:36,816 - INFO -    📅 Period: Q2 2022
+2025-08-10 19:59:36,851 - INFO - ✅ Successfully processed: output_0001564590_22_002324.txt
+2025-08-10 19:59:36,851 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\MICROSOFT_CORP\python_output_10q\Q2_2022\output_0001564590_22_002324_Q2_2022_structured.json
+2025-08-10 19:59:36,851 - INFO - ✅ File 79/134 completed successfully
+2025-08-10 19:59:36,851 - INFO - 
+📊 Progress: 80/134
+2025-08-10 19:59:36,851 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:36,852 - INFO - 📄 Processing: output_0001564590_22_015675.txt
+2025-08-10 19:59:36,852 - INFO -    🏢 Company: MICROSOFT_CORP
+2025-08-10 19:59:36,852 - INFO -    📅 Period: Q2 2022
+2025-08-10 19:59:36,894 - INFO - ✅ Successfully processed: output_0001564590_22_015675.txt
+2025-08-10 19:59:36,894 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\MICROSOFT_CORP\python_output_10q\Q2_2022\output_0001564590_22_015675_Q2_2022_structured.json
+2025-08-10 19:59:36,894 - INFO - ✅ File 80/134 completed successfully
+2025-08-10 19:59:36,894 - INFO - 
+📊 Progress: 81/134
+2025-08-10 19:59:36,895 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:36,895 - INFO - 📄 Processing: output_0001564590_22_035087.txt
+2025-08-10 19:59:36,895 - INFO -    🏢 Company: MICROSOFT_CORP
+2025-08-10 19:59:36,895 - INFO -    📅 Period: Q2 2022
+2025-08-10 19:59:36,929 - INFO - ✅ Successfully processed: output_0001564590_22_035087.txt
+2025-08-10 19:59:36,929 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\MICROSOFT_CORP\python_output_10q\Q2_2022\output_0001564590_22_035087_Q2_2022_structured.json
+2025-08-10 19:59:36,929 - INFO - ✅ File 81/134 completed successfully
+2025-08-10 19:59:36,929 - INFO - 
+📊 Progress: 82/134
+2025-08-10 19:59:36,930 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:36,930 - INFO - 📄 Processing: output_0000950170_23_014423.txt
+2025-08-10 19:59:36,930 - INFO -    🏢 Company: MICROSOFT_CORP
+2025-08-10 19:59:36,930 - INFO -    📅 Period: Q2 2023
+2025-08-10 19:59:36,970 - INFO - ✅ Successfully processed: output_0000950170_23_014423.txt
+2025-08-10 19:59:36,970 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\MICROSOFT_CORP\python_output_10q\Q2_2023\output_0000950170_23_014423_Q2_2023_structured.json
+2025-08-10 19:59:36,971 - INFO - ✅ File 82/134 completed successfully
+2025-08-10 19:59:36,971 - INFO - 
+📊 Progress: 83/134
+2025-08-10 19:59:36,971 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:36,971 - INFO - 📄 Processing: output_0000950170_23_054855.txt
+2025-08-10 19:59:36,972 - INFO -    🏢 Company: MICROSOFT_CORP
+2025-08-10 19:59:36,972 - INFO -    📅 Period: Q2 2023
+2025-08-10 19:59:37,002 - INFO - ✅ Successfully processed: output_0000950170_23_054855.txt
+2025-08-10 19:59:37,002 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\MICROSOFT_CORP\python_output_10q\Q2_2023\output_0000950170_23_054855_Q2_2023_structured.json
+2025-08-10 19:59:37,002 - INFO - ✅ File 83/134 completed successfully
+2025-08-10 19:59:37,003 - INFO - 
+📊 Progress: 84/134
+2025-08-10 19:59:37,003 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:37,003 - INFO - 📄 Processing: output_0001564590_23_000733.txt
+2025-08-10 19:59:37,003 - INFO -    🏢 Company: MICROSOFT_CORP
+2025-08-10 19:59:37,003 - INFO -    📅 Period: Q2 2023
+2025-08-10 19:59:37,040 - INFO - ✅ Successfully processed: output_0001564590_23_000733.txt
+2025-08-10 19:59:37,040 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\MICROSOFT_CORP\python_output_10q\Q2_2023\output_0001564590_23_000733_Q2_2023_structured.json
+2025-08-10 19:59:37,040 - INFO - ✅ File 84/134 completed successfully
+2025-08-10 19:59:37,041 - INFO - 
+📊 Progress: 85/134
+2025-08-10 19:59:37,041 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:37,041 - INFO - 📄 Processing: output_0000950170_24_008814.txt
+2025-08-10 19:59:37,041 - INFO -    🏢 Company: MICROSOFT_CORP
+2025-08-10 19:59:37,041 - INFO -    📅 Period: Q2 2024
+2025-08-10 19:59:37,073 - INFO - ✅ Successfully processed: output_0000950170_24_008814.txt
+2025-08-10 19:59:37,073 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\MICROSOFT_CORP\python_output_10q\Q2_2024\output_0000950170_24_008814_Q2_2024_structured.json
+2025-08-10 19:59:37,073 - INFO - ✅ File 85/134 completed successfully
+2025-08-10 19:59:37,073 - INFO - 
+📊 Progress: 86/134
+2025-08-10 19:59:37,073 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:37,074 - INFO - 📄 Processing: output_0000950170_24_048288.txt
+2025-08-10 19:59:37,074 - INFO -    🏢 Company: MICROSOFT_CORP
+2025-08-10 19:59:37,074 - INFO -    📅 Period: Q2 2024
+2025-08-10 19:59:37,109 - INFO - ✅ Successfully processed: output_0000950170_24_048288.txt
+2025-08-10 19:59:37,109 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\MICROSOFT_CORP\python_output_10q\Q2_2024\output_0000950170_24_048288_Q2_2024_structured.json
+2025-08-10 19:59:37,109 - INFO - ✅ File 86/134 completed successfully
+2025-08-10 19:59:37,109 - INFO - 
+📊 Progress: 87/134
+2025-08-10 19:59:37,109 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:37,110 - INFO - 📄 Processing: output_0000950170_24_118967.txt
+2025-08-10 19:59:37,110 - INFO -    🏢 Company: MICROSOFT_CORP
+2025-08-10 19:59:37,110 - INFO -    📅 Period: Q2 2024
+2025-08-10 19:59:37,139 - INFO - ✅ Successfully processed: output_0000950170_24_118967.txt
+2025-08-10 19:59:37,139 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\MICROSOFT_CORP\python_output_10q\Q2_2024\output_0000950170_24_118967_Q2_2024_structured.json
+2025-08-10 19:59:37,139 - INFO - ✅ File 87/134 completed successfully
+2025-08-10 19:59:37,139 - INFO - 
+📊 Progress: 88/134
+2025-08-10 19:59:37,139 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:37,140 - INFO - 📄 Processing: output_0000950170_25_010491.txt
+2025-08-10 19:59:37,140 - INFO -    🏢 Company: MICROSOFT_CORP
+2025-08-10 19:59:37,140 - INFO -    📅 Period: Q2 2025
+2025-08-10 19:59:37,169 - INFO - ✅ Successfully processed: output_0000950170_25_010491.txt
+2025-08-10 19:59:37,169 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\MICROSOFT_CORP\python_output_10q\Q2_2025\output_0000950170_25_010491_Q2_2025_structured.json
+2025-08-10 19:59:37,170 - INFO - ✅ File 88/134 completed successfully
+2025-08-10 19:59:37,170 - INFO - 
+📊 Progress: 89/134
+2025-08-10 19:59:37,170 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:37,170 - INFO - 📄 Processing: output_0000950170_25_061046.txt
+2025-08-10 19:59:37,170 - INFO -    🏢 Company: MICROSOFT_CORP
+2025-08-10 19:59:37,171 - INFO -    📅 Period: Q2 2025
+2025-08-10 19:59:37,203 - INFO - ✅ Successfully processed: output_0000950170_25_061046.txt
+2025-08-10 19:59:37,203 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\MICROSOFT_CORP\python_output_10q\Q2_2025\output_0000950170_25_061046_Q2_2025_structured.json
+2025-08-10 19:59:37,203 - INFO - ✅ File 89/134 completed successfully
+2025-08-10 19:59:37,203 - INFO - 
+📊 Progress: 90/134
+2025-08-10 19:59:37,204 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:37,204 - INFO - 📄 Processing: output_0001045810_20_000147.txt
+2025-08-10 19:59:37,204 - INFO -    🏢 Company: NVIDIA_CORP
+2025-08-10 19:59:37,204 - INFO -    📅 Period: Q2 2020
+2025-08-10 19:59:37,237 - INFO - ✅ Successfully processed: output_0001045810_20_000147.txt
+2025-08-10 19:59:37,238 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\NVIDIA_CORP\python_output_10q\Q2_2020\output_0001045810_20_000147_Q2_2020_structured.json
+2025-08-10 19:59:37,238 - INFO - ✅ File 90/134 completed successfully
+2025-08-10 19:59:37,238 - INFO - 
+📊 Progress: 91/134
+2025-08-10 19:59:37,238 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:37,238 - INFO - 📄 Processing: output_0001045810_20_000189.txt
+2025-08-10 19:59:37,239 - INFO -    🏢 Company: NVIDIA_CORP
+2025-08-10 19:59:37,239 - INFO -    📅 Period: Q2 2020
+2025-08-10 19:59:37,268 - INFO - ✅ Successfully processed: output_0001045810_20_000189.txt
+2025-08-10 19:59:37,268 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\NVIDIA_CORP\python_output_10q\Q2_2020\output_0001045810_20_000189_Q2_2020_structured.json
+2025-08-10 19:59:37,268 - INFO - ✅ File 91/134 completed successfully
+2025-08-10 19:59:37,268 - INFO - 
+📊 Progress: 92/134
+2025-08-10 19:59:37,269 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:37,269 - INFO - 📄 Processing: output_0001045810_21_000064.txt
+2025-08-10 19:59:37,269 - INFO -    🏢 Company: NVIDIA_CORP
+2025-08-10 19:59:37,269 - INFO -    📅 Period: Q2 2021
+2025-08-10 19:59:37,298 - INFO - ✅ Successfully processed: output_0001045810_21_000064.txt
+2025-08-10 19:59:37,298 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\NVIDIA_CORP\python_output_10q\Q2_2021\output_0001045810_21_000064_Q2_2021_structured.json
+2025-08-10 19:59:37,298 - INFO - ✅ File 92/134 completed successfully
+2025-08-10 19:59:37,298 - INFO - 
+📊 Progress: 93/134
+2025-08-10 19:59:37,298 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:37,299 - INFO - 📄 Processing: output_0001045810_21_000131.txt
+2025-08-10 19:59:37,299 - INFO -    🏢 Company: NVIDIA_CORP
+2025-08-10 19:59:37,299 - INFO -    📅 Period: Q2 2021
+2025-08-10 19:59:37,328 - INFO - ✅ Successfully processed: output_0001045810_21_000131.txt
+2025-08-10 19:59:37,328 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\NVIDIA_CORP\python_output_10q\Q2_2021\output_0001045810_21_000131_Q2_2021_structured.json
+2025-08-10 19:59:37,328 - INFO - ✅ File 93/134 completed successfully
+2025-08-10 19:59:37,328 - INFO - 
+📊 Progress: 94/134
+2025-08-10 19:59:37,328 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:37,329 - INFO - 📄 Processing: output_0001045810_21_000163.txt
+2025-08-10 19:59:37,329 - INFO -    🏢 Company: NVIDIA_CORP
+2025-08-10 19:59:37,329 - INFO -    📅 Period: Q2 2021
+2025-08-10 19:59:37,361 - INFO - ✅ Successfully processed: output_0001045810_21_000163.txt
+2025-08-10 19:59:37,361 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\NVIDIA_CORP\python_output_10q\Q2_2021\output_0001045810_21_000163_Q2_2021_structured.json
+2025-08-10 19:59:37,362 - INFO - ✅ File 94/134 completed successfully
+2025-08-10 19:59:37,362 - INFO - 
+📊 Progress: 95/134
+2025-08-10 19:59:37,362 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:37,362 - INFO - 📄 Processing: output_0001045810_22_000079.txt
+2025-08-10 19:59:37,362 - INFO -    🏢 Company: NVIDIA_CORP
+2025-08-10 19:59:37,362 - INFO -    📅 Period: Q2 2022
+2025-08-10 19:59:37,388 - INFO - ✅ Successfully processed: output_0001045810_22_000079.txt
+2025-08-10 19:59:37,389 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\NVIDIA_CORP\python_output_10q\Q2_2022\output_0001045810_22_000079_Q2_2022_structured.json
+2025-08-10 19:59:37,389 - INFO - ✅ File 95/134 completed successfully
+2025-08-10 19:59:37,389 - INFO - 
+📊 Progress: 96/134
+2025-08-10 19:59:37,389 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:37,389 - INFO - 📄 Processing: output_0001045810_22_000147.txt
+2025-08-10 19:59:37,389 - INFO -    🏢 Company: NVIDIA_CORP
+2025-08-10 19:59:37,390 - INFO -    📅 Period: Q2 2022
+2025-08-10 19:59:37,420 - INFO - ✅ Successfully processed: output_0001045810_22_000147.txt
+2025-08-10 19:59:37,420 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\NVIDIA_CORP\python_output_10q\Q2_2022\output_0001045810_22_000147_Q2_2022_structured.json
+2025-08-10 19:59:37,420 - INFO - ✅ File 96/134 completed successfully
+2025-08-10 19:59:37,420 - INFO - 
+📊 Progress: 97/134
+2025-08-10 19:59:37,420 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:37,421 - INFO - 📄 Processing: output_0001045810_22_000166.txt
+2025-08-10 19:59:37,421 - INFO -    🏢 Company: NVIDIA_CORP
+2025-08-10 19:59:37,421 - INFO -    📅 Period: Q2 2022
+2025-08-10 19:59:37,451 - INFO - ✅ Successfully processed: output_0001045810_22_000166.txt
+2025-08-10 19:59:37,451 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\NVIDIA_CORP\python_output_10q\Q2_2022\output_0001045810_22_000166_Q2_2022_structured.json
+2025-08-10 19:59:37,451 - INFO - ✅ File 97/134 completed successfully
+2025-08-10 19:59:37,452 - INFO - 
+📊 Progress: 98/134
+2025-08-10 19:59:37,452 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:37,452 - INFO - 📄 Processing: output_0001045810_23_000093.txt
+2025-08-10 19:59:37,452 - INFO -    🏢 Company: NVIDIA_CORP
+2025-08-10 19:59:37,452 - INFO -    📅 Period: Q2 2023
+2025-08-10 19:59:37,482 - INFO - ✅ Successfully processed: output_0001045810_23_000093.txt
+2025-08-10 19:59:37,483 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\NVIDIA_CORP\python_output_10q\Q2_2023\output_0001045810_23_000093_Q2_2023_structured.json
+2025-08-10 19:59:37,483 - INFO - ✅ File 98/134 completed successfully
+2025-08-10 19:59:37,483 - INFO - 
+📊 Progress: 99/134
+2025-08-10 19:59:37,483 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:37,483 - INFO - 📄 Processing: output_0001045810_23_000175.txt
+2025-08-10 19:59:37,483 - INFO -    🏢 Company: NVIDIA_CORP
+2025-08-10 19:59:37,484 - INFO -    📅 Period: Q2 2023
+2025-08-10 19:59:37,512 - INFO - ✅ Successfully processed: output_0001045810_23_000175.txt
+2025-08-10 19:59:37,513 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\NVIDIA_CORP\python_output_10q\Q2_2023\output_0001045810_23_000175_Q2_2023_structured.json
+2025-08-10 19:59:37,513 - INFO - ✅ File 99/134 completed successfully
+2025-08-10 19:59:37,513 - INFO - 
+📊 Progress: 100/134
+2025-08-10 19:59:37,513 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:37,513 - INFO - 📄 Processing: output_0001045810_23_000227.txt
+2025-08-10 19:59:37,514 - INFO -    🏢 Company: NVIDIA_CORP
+2025-08-10 19:59:37,514 - INFO -    📅 Period: Q2 2023
+2025-08-10 19:59:37,544 - INFO - ✅ Successfully processed: output_0001045810_23_000227.txt
+2025-08-10 19:59:37,544 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\NVIDIA_CORP\python_output_10q\Q2_2023\output_0001045810_23_000227_Q2_2023_structured.json
+2025-08-10 19:59:37,545 - INFO - ✅ File 100/134 completed successfully
+2025-08-10 19:59:37,545 - INFO - 
+📊 Progress: 101/134
+2025-08-10 19:59:37,545 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:37,545 - INFO - 📄 Processing: output_0001045810_24_000124.txt
+2025-08-10 19:59:37,545 - INFO -    🏢 Company: NVIDIA_CORP
+2025-08-10 19:59:37,545 - INFO -    📅 Period: Q2 2024
+2025-08-10 19:59:37,575 - INFO - ✅ Successfully processed: output_0001045810_24_000124.txt
+2025-08-10 19:59:37,576 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\NVIDIA_CORP\python_output_10q\Q2_2024\output_0001045810_24_000124_Q2_2024_structured.json
+2025-08-10 19:59:37,576 - INFO - ✅ File 101/134 completed successfully
+2025-08-10 19:59:37,576 - INFO - 
+📊 Progress: 102/134
+2025-08-10 19:59:37,576 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:37,576 - INFO - 📄 Processing: output_0001045810_24_000264.txt
+2025-08-10 19:59:37,576 - INFO -    🏢 Company: NVIDIA_CORP
+2025-08-10 19:59:37,576 - INFO -    📅 Period: Q2 2024
+2025-08-10 19:59:37,607 - INFO - ✅ Successfully processed: output_0001045810_24_000264.txt
+2025-08-10 19:59:37,607 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\NVIDIA_CORP\python_output_10q\Q2_2024\output_0001045810_24_000264_Q2_2024_structured.json
+2025-08-10 19:59:37,607 - INFO - ✅ File 102/134 completed successfully
+2025-08-10 19:59:37,607 - INFO - 
+📊 Progress: 103/134
+2025-08-10 19:59:37,608 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:37,608 - INFO - 📄 Processing: output_0001045810_24_000316.txt
+2025-08-10 19:59:37,608 - INFO -    🏢 Company: NVIDIA_CORP
+2025-08-10 19:59:37,608 - INFO -    📅 Period: Q2 2024
+2025-08-10 19:59:37,640 - INFO - ✅ Successfully processed: output_0001045810_24_000316.txt
+2025-08-10 19:59:37,640 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\NVIDIA_CORP\python_output_10q\Q2_2024\output_0001045810_24_000316_Q2_2024_structured.json
+2025-08-10 19:59:37,640 - INFO - ✅ File 103/134 completed successfully
+2025-08-10 19:59:37,640 - INFO - 
+📊 Progress: 104/134
+2025-08-10 19:59:37,640 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:37,640 - INFO - 📄 Processing: output_0001045810_25_000116.txt
+2025-08-10 19:59:37,641 - INFO -    🏢 Company: NVIDIA_CORP
+2025-08-10 19:59:37,641 - INFO -    📅 Period: Q2 2025
+2025-08-10 19:59:37,667 - INFO - ✅ Successfully processed: output_0001045810_25_000116.txt
+2025-08-10 19:59:37,668 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\NVIDIA_CORP\python_output_10q\Q2_2025\output_0001045810_25_000116_Q2_2025_structured.json
+2025-08-10 19:59:37,668 - INFO - ✅ File 104/134 completed successfully
+2025-08-10 19:59:37,668 - INFO - 
+📊 Progress: 105/134
+2025-08-10 19:59:37,668 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:37,668 - INFO - 📄 Processing: output_0001564590_20_051937.txt
+2025-08-10 19:59:37,668 - INFO -    🏢 Company: ROKU_INC
+2025-08-10 19:59:37,669 - INFO -    📅 Period: Q2 2020
+2025-08-10 19:59:37,696 - INFO - ✅ Successfully processed: output_0001564590_20_051937.txt
+2025-08-10 19:59:37,696 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\ROKU_INC\python_output_10q\Q2_2020\output_0001564590_20_051937_Q2_2020_structured.json
+2025-08-10 19:59:37,697 - INFO - ✅ File 105/134 completed successfully
+2025-08-10 19:59:37,697 - INFO - 
+📊 Progress: 106/134
+2025-08-10 19:59:37,697 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:37,697 - INFO - 📄 Processing: output_0001564590_21_025558.txt
+2025-08-10 19:59:37,697 - INFO -    🏢 Company: ROKU_INC
+2025-08-10 19:59:37,697 - INFO -    📅 Period: Q2 2021
+2025-08-10 19:59:37,726 - INFO - ✅ Successfully processed: output_0001564590_21_025558.txt
+2025-08-10 19:59:37,726 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\ROKU_INC\python_output_10q\Q2_2021\output_0001564590_21_025558_Q2_2021_structured.json
+2025-08-10 19:59:37,727 - INFO - ✅ File 106/134 completed successfully
+2025-08-10 19:59:37,727 - INFO - 
+📊 Progress: 107/134
+2025-08-10 19:59:37,727 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:37,727 - INFO - 📄 Processing: output_0001564590_21_041648.txt
+2025-08-10 19:59:37,727 - INFO -    🏢 Company: ROKU_INC
+2025-08-10 19:59:37,727 - INFO -    📅 Period: Q2 2021
+2025-08-10 19:59:37,756 - INFO - ✅ Successfully processed: output_0001564590_21_041648.txt
+2025-08-10 19:59:37,756 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\ROKU_INC\python_output_10q\Q2_2021\output_0001564590_21_041648_Q2_2021_structured.json
+2025-08-10 19:59:37,756 - INFO - ✅ File 107/134 completed successfully
+2025-08-10 19:59:37,756 - INFO - 
+📊 Progress: 108/134
+2025-08-10 19:59:37,757 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:37,757 - INFO - 📄 Processing: output_0001564590_21_054545.txt
+2025-08-10 19:59:37,757 - INFO -    🏢 Company: ROKU_INC
+2025-08-10 19:59:37,757 - INFO -    📅 Period: Q2 2021
+2025-08-10 19:59:37,781 - INFO - ✅ Successfully processed: output_0001564590_21_054545.txt
+2025-08-10 19:59:37,781 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\ROKU_INC\python_output_10q\Q2_2021\output_0001564590_21_054545_Q2_2021_structured.json
+2025-08-10 19:59:37,781 - INFO - ✅ File 108/134 completed successfully
+2025-08-10 19:59:37,782 - INFO - 
+📊 Progress: 109/134
+2025-08-10 19:59:37,782 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:37,782 - INFO - 📄 Processing: output_0001428439_22_000016.txt
+2025-08-10 19:59:37,782 - INFO -    🏢 Company: ROKU_INC
+2025-08-10 19:59:37,782 - INFO -    📅 Period: Q2 2022
+2025-08-10 19:59:37,808 - INFO - ✅ Successfully processed: output_0001428439_22_000016.txt
+2025-08-10 19:59:37,808 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\ROKU_INC\python_output_10q\Q2_2022\output_0001428439_22_000016_Q2_2022_structured.json
+2025-08-10 19:59:37,808 - INFO - ✅ File 109/134 completed successfully
+2025-08-10 19:59:37,808 - INFO - 
+📊 Progress: 110/134
+2025-08-10 19:59:37,808 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:37,808 - INFO - 📄 Processing: output_0001428439_22_000026.txt
+2025-08-10 19:59:37,809 - INFO -    🏢 Company: ROKU_INC
+2025-08-10 19:59:37,809 - INFO -    📅 Period: Q2 2022
+2025-08-10 19:59:37,834 - INFO - ✅ Successfully processed: output_0001428439_22_000026.txt
+2025-08-10 19:59:37,835 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\ROKU_INC\python_output_10q\Q2_2022\output_0001428439_22_000026_Q2_2022_structured.json
+2025-08-10 19:59:37,835 - INFO - ✅ File 110/134 completed successfully
+2025-08-10 19:59:37,835 - INFO - 
+📊 Progress: 111/134
+2025-08-10 19:59:37,835 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:37,835 - INFO - 📄 Processing: output_0001428439_22_000036.txt
+2025-08-10 19:59:37,835 - INFO -    🏢 Company: ROKU_INC
+2025-08-10 19:59:37,835 - INFO -    📅 Period: Q2 2022
+2025-08-10 19:59:37,861 - INFO - ✅ Successfully processed: output_0001428439_22_000036.txt
+2025-08-10 19:59:37,861 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\ROKU_INC\python_output_10q\Q2_2022\output_0001428439_22_000036_Q2_2022_structured.json
+2025-08-10 19:59:37,861 - INFO - ✅ File 111/134 completed successfully
+2025-08-10 19:59:37,861 - INFO - 
+📊 Progress: 112/134
+2025-08-10 19:59:37,861 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:37,862 - INFO - 📄 Processing: output_0001428439_23_000017.txt
+2025-08-10 19:59:37,862 - INFO -    🏢 Company: ROKU_INC
+2025-08-10 19:59:37,862 - INFO -    📅 Period: Q2 2023
+2025-08-10 19:59:37,885 - INFO - ✅ Successfully processed: output_0001428439_23_000017.txt
+2025-08-10 19:59:37,885 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\ROKU_INC\python_output_10q\Q2_2023\output_0001428439_23_000017_Q2_2023_structured.json
+2025-08-10 19:59:37,885 - INFO - ✅ File 112/134 completed successfully
+2025-08-10 19:59:37,885 - INFO - 
+📊 Progress: 113/134
+2025-08-10 19:59:37,885 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:37,885 - INFO - 📄 Processing: output_0001428439_23_000028.txt
+2025-08-10 19:59:37,885 - INFO -    🏢 Company: ROKU_INC
+2025-08-10 19:59:37,886 - INFO -    📅 Period: Q2 2023
+2025-08-10 19:59:37,906 - INFO - ✅ Successfully processed: output_0001428439_23_000028.txt
+2025-08-10 19:59:37,906 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\ROKU_INC\python_output_10q\Q2_2023\output_0001428439_23_000028_Q2_2023_structured.json
+2025-08-10 19:59:37,906 - INFO - ✅ File 113/134 completed successfully
+2025-08-10 19:59:37,906 - INFO - 
+📊 Progress: 114/134
+2025-08-10 19:59:37,906 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:37,906 - INFO - 📄 Processing: output_0001428439_23_000041.txt
+2025-08-10 19:59:37,907 - INFO -    🏢 Company: ROKU_INC
+2025-08-10 19:59:37,907 - INFO -    📅 Period: Q2 2023
+2025-08-10 19:59:37,928 - INFO - ✅ Successfully processed: output_0001428439_23_000041.txt
+2025-08-10 19:59:37,929 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\ROKU_INC\python_output_10q\Q2_2023\output_0001428439_23_000041_Q2_2023_structured.json
+2025-08-10 19:59:37,929 - INFO - ✅ File 114/134 completed successfully
+2025-08-10 19:59:37,929 - INFO - 
+📊 Progress: 115/134
+2025-08-10 19:59:37,929 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:37,929 - INFO - 📄 Processing: output_0001428439_24_000019.txt
+2025-08-10 19:59:37,929 - INFO -    🏢 Company: ROKU_INC
+2025-08-10 19:59:37,930 - INFO -    📅 Period: Q2 2024
+2025-08-10 19:59:37,950 - INFO - ✅ Successfully processed: output_0001428439_24_000019.txt
+2025-08-10 19:59:37,950 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\ROKU_INC\python_output_10q\Q2_2024\output_0001428439_24_000019_Q2_2024_structured.json
+2025-08-10 19:59:37,951 - INFO - ✅ File 115/134 completed successfully
+2025-08-10 19:59:37,951 - INFO - 
+📊 Progress: 116/134
+2025-08-10 19:59:37,951 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:37,951 - INFO - 📄 Processing: output_0001428439_24_000034.txt
+2025-08-10 19:59:37,951 - INFO -    🏢 Company: ROKU_INC
+2025-08-10 19:59:37,951 - INFO -    📅 Period: Q2 2024
+2025-08-10 19:59:37,974 - INFO - ✅ Successfully processed: output_0001428439_24_000034.txt
+2025-08-10 19:59:37,974 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\ROKU_INC\python_output_10q\Q2_2024\output_0001428439_24_000034_Q2_2024_structured.json
+2025-08-10 19:59:37,974 - INFO - ✅ File 116/134 completed successfully
+2025-08-10 19:59:37,975 - INFO - 
+📊 Progress: 117/134
+2025-08-10 19:59:37,975 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:37,975 - INFO - 📄 Processing: output_0001428439_24_000042.txt
+2025-08-10 19:59:37,975 - INFO -    🏢 Company: ROKU_INC
+2025-08-10 19:59:37,975 - INFO -    📅 Period: Q2 2024
+2025-08-10 19:59:38,001 - INFO - ✅ Successfully processed: output_0001428439_24_000042.txt
+2025-08-10 19:59:38,001 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\ROKU_INC\python_output_10q\Q2_2024\output_0001428439_24_000042_Q2_2024_structured.json
+2025-08-10 19:59:38,001 - INFO - ✅ File 117/134 completed successfully
+2025-08-10 19:59:38,002 - INFO - 
+📊 Progress: 118/134
+2025-08-10 19:59:38,002 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:38,002 - INFO - 📄 Processing: output_0001428439_25_000017.txt
+2025-08-10 19:59:38,002 - INFO -    🏢 Company: ROKU_INC
+2025-08-10 19:59:38,002 - INFO -    📅 Period: Q2 2025
+2025-08-10 19:59:38,024 - INFO - ✅ Successfully processed: output_0001428439_25_000017.txt
+2025-08-10 19:59:38,024 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\ROKU_INC\python_output_10q\Q2_2025\output_0001428439_25_000017_Q2_2025_structured.json
+2025-08-10 19:59:38,024 - INFO - ✅ File 118/134 completed successfully
+2025-08-10 19:59:38,024 - INFO - 
+📊 Progress: 119/134
+2025-08-10 19:59:38,024 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:38,025 - INFO - 📄 Processing: output_0001428439_25_000040.txt
+2025-08-10 19:59:38,025 - INFO -    🏢 Company: ROKU_INC
+2025-08-10 19:59:38,025 - INFO -    📅 Period: Q2 2025
+2025-08-10 19:59:38,048 - INFO - ✅ Successfully processed: output_0001428439_25_000040.txt
+2025-08-10 19:59:38,048 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\ROKU_INC\python_output_10q\Q2_2025\output_0001428439_25_000040_Q2_2025_structured.json
+2025-08-10 19:59:38,048 - INFO - ✅ File 119/134 completed successfully
+2025-08-10 19:59:38,049 - INFO - 
+📊 Progress: 120/134
+2025-08-10 19:59:38,049 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:38,049 - INFO - 📄 Processing: output_0001585521_20_000238.txt
+2025-08-10 19:59:38,049 - INFO -    🏢 Company: Zoom_Communications_Inc
+2025-08-10 19:59:38,049 - INFO -    📅 Period: Q2 2020
+2025-08-10 19:59:38,075 - INFO - ✅ Successfully processed: output_0001585521_20_000238.txt
+2025-08-10 19:59:38,075 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Zoom_Communications_Inc\python_output_10q\Q2_2020\output_0001585521_20_000238_Q2_2020_structured.json
+2025-08-10 19:59:38,075 - INFO - ✅ File 120/134 completed successfully
+2025-08-10 19:59:38,076 - INFO - 
+📊 Progress: 121/134
+2025-08-10 19:59:38,076 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:38,076 - INFO - 📄 Processing: output_0001585521_20_000299.txt
+2025-08-10 19:59:38,076 - INFO -    🏢 Company: Zoom_Communications_Inc
+2025-08-10 19:59:38,076 - INFO -    📅 Period: Q2 2020
+2025-08-10 19:59:38,104 - INFO - ✅ Successfully processed: output_0001585521_20_000299.txt
+2025-08-10 19:59:38,104 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Zoom_Communications_Inc\python_output_10q\Q2_2020\output_0001585521_20_000299_Q2_2020_structured.json
+2025-08-10 19:59:38,104 - INFO - ✅ File 121/134 completed successfully
+2025-08-10 19:59:38,105 - INFO - 
+📊 Progress: 122/134
+2025-08-10 19:59:38,105 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:38,105 - INFO - 📄 Processing: output_0001585521_21_000131.txt
+2025-08-10 19:59:38,105 - INFO -    🏢 Company: Zoom_Communications_Inc
+2025-08-10 19:59:38,105 - INFO -    📅 Period: Q2 2021
+2025-08-10 19:59:38,133 - INFO - ✅ Successfully processed: output_0001585521_21_000131.txt
+2025-08-10 19:59:38,133 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Zoom_Communications_Inc\python_output_10q\Q2_2021\output_0001585521_21_000131_Q2_2021_structured.json
+2025-08-10 19:59:38,133 - INFO - ✅ File 122/134 completed successfully
+2025-08-10 19:59:38,133 - INFO - 
+📊 Progress: 123/134
+2025-08-10 19:59:38,133 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:38,133 - INFO - 📄 Processing: output_0001585521_21_000235.txt
+2025-08-10 19:59:38,133 - INFO -    🏢 Company: Zoom_Communications_Inc
+2025-08-10 19:59:38,133 - INFO -    📅 Period: Q2 2021
+2025-08-10 19:59:38,159 - INFO - ✅ Successfully processed: output_0001585521_21_000235.txt
+2025-08-10 19:59:38,159 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Zoom_Communications_Inc\python_output_10q\Q2_2021\output_0001585521_21_000235_Q2_2021_structured.json
+2025-08-10 19:59:38,159 - INFO - ✅ File 123/134 completed successfully
+2025-08-10 19:59:38,159 - INFO - 
+📊 Progress: 124/134
+2025-08-10 19:59:38,159 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:38,160 - INFO - 📄 Processing: output_0001585521_21_000295.txt
+2025-08-10 19:59:38,160 - INFO -    🏢 Company: Zoom_Communications_Inc
+2025-08-10 19:59:38,160 - INFO -    📅 Period: Q2 2021
+2025-08-10 19:59:38,187 - INFO - ✅ Successfully processed: output_0001585521_21_000295.txt
+2025-08-10 19:59:38,187 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Zoom_Communications_Inc\python_output_10q\Q2_2021\output_0001585521_21_000295_Q2_2021_structured.json
+2025-08-10 19:59:38,187 - INFO - ✅ File 124/134 completed successfully
+2025-08-10 19:59:38,187 - INFO - 
+📊 Progress: 125/134
+2025-08-10 19:59:38,187 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:38,188 - INFO - 📄 Processing: output_0001585521_22_000106.txt
+2025-08-10 19:59:38,188 - INFO -    🏢 Company: Zoom_Communications_Inc
+2025-08-10 19:59:38,188 - INFO -    📅 Period: Q2 2022
+2025-08-10 19:59:38,213 - INFO - ✅ Successfully processed: output_0001585521_22_000106.txt
+2025-08-10 19:59:38,213 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Zoom_Communications_Inc\python_output_10q\Q2_2022\output_0001585521_22_000106_Q2_2022_structured.json
+2025-08-10 19:59:38,213 - INFO - ✅ File 125/134 completed successfully
+2025-08-10 19:59:38,213 - INFO - 
+📊 Progress: 126/134
+2025-08-10 19:59:38,213 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:38,214 - INFO - 📄 Processing: output_0001585521_22_000180.txt
+2025-08-10 19:59:38,214 - INFO -    🏢 Company: Zoom_Communications_Inc
+2025-08-10 19:59:38,214 - INFO -    📅 Period: Q2 2022
+2025-08-10 19:59:38,239 - INFO - ✅ Successfully processed: output_0001585521_22_000180.txt
+2025-08-10 19:59:38,239 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Zoom_Communications_Inc\python_output_10q\Q2_2022\output_0001585521_22_000180_Q2_2022_structured.json
+2025-08-10 19:59:38,240 - INFO - ✅ File 126/134 completed successfully
+2025-08-10 19:59:38,240 - INFO - 
+📊 Progress: 127/134
+2025-08-10 19:59:38,240 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:38,240 - INFO - 📄 Processing: output_0001585521_22_000213.txt
+2025-08-10 19:59:38,240 - INFO -    🏢 Company: Zoom_Communications_Inc
+2025-08-10 19:59:38,241 - INFO -    📅 Period: Q2 2022
+2025-08-10 19:59:38,267 - INFO - ✅ Successfully processed: output_0001585521_22_000213.txt
+2025-08-10 19:59:38,267 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Zoom_Communications_Inc\python_output_10q\Q2_2022\output_0001585521_22_000213_Q2_2022_structured.json
+2025-08-10 19:59:38,267 - INFO - ✅ File 127/134 completed successfully
+2025-08-10 19:59:38,267 - INFO - 
+📊 Progress: 128/134
+2025-08-10 19:59:38,267 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:38,268 - INFO - 📄 Processing: output_0001585521_23_000128.txt
+2025-08-10 19:59:38,268 - INFO -    🏢 Company: Zoom_Communications_Inc
+2025-08-10 19:59:38,268 - INFO -    📅 Period: Q2 2023
+2025-08-10 19:59:38,291 - INFO - ✅ Successfully processed: output_0001585521_23_000128.txt
+2025-08-10 19:59:38,291 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Zoom_Communications_Inc\python_output_10q\Q2_2023\output_0001585521_23_000128_Q2_2023_structured.json
+2025-08-10 19:59:38,291 - INFO - ✅ File 128/134 completed successfully
+2025-08-10 19:59:38,291 - INFO - 
+📊 Progress: 129/134
+2025-08-10 19:59:38,292 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:38,292 - INFO - 📄 Processing: output_0001585521_23_000194.txt
+2025-08-10 19:59:38,292 - INFO -    🏢 Company: Zoom_Communications_Inc
+2025-08-10 19:59:38,292 - INFO -    📅 Period: Q2 2023
+2025-08-10 19:59:38,321 - INFO - ✅ Successfully processed: output_0001585521_23_000194.txt
+2025-08-10 19:59:38,321 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Zoom_Communications_Inc\python_output_10q\Q2_2023\output_0001585521_23_000194_Q2_2023_structured.json
+2025-08-10 19:59:38,321 - INFO - ✅ File 129/134 completed successfully
+2025-08-10 19:59:38,321 - INFO - 
+📊 Progress: 130/134
+2025-08-10 19:59:38,321 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:38,322 - INFO - 📄 Processing: output_0001585521_23_000249.txt
+2025-08-10 19:59:38,322 - INFO -    🏢 Company: Zoom_Communications_Inc
+2025-08-10 19:59:38,322 - INFO -    📅 Period: Q2 2023
+2025-08-10 19:59:38,345 - INFO - ✅ Successfully processed: output_0001585521_23_000249.txt
+2025-08-10 19:59:38,345 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Zoom_Communications_Inc\python_output_10q\Q2_2023\output_0001585521_23_000249_Q2_2023_structured.json
+2025-08-10 19:59:38,345 - INFO - ✅ File 130/134 completed successfully
+2025-08-10 19:59:38,345 - INFO - 
+📊 Progress: 131/134
+2025-08-10 19:59:38,345 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:38,345 - INFO - 📄 Processing: output_0001585521_24_000094.txt
+2025-08-10 19:59:38,346 - INFO -    🏢 Company: Zoom_Communications_Inc
+2025-08-10 19:59:38,346 - INFO -    📅 Period: Q2 2024
+2025-08-10 19:59:38,371 - INFO - ✅ Successfully processed: output_0001585521_24_000094.txt
+2025-08-10 19:59:38,371 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Zoom_Communications_Inc\python_output_10q\Q2_2024\output_0001585521_24_000094_Q2_2024_structured.json
+2025-08-10 19:59:38,371 - INFO - ✅ File 131/134 completed successfully
+2025-08-10 19:59:38,371 - INFO - 
+📊 Progress: 132/134
+2025-08-10 19:59:38,371 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:38,371 - INFO - 📄 Processing: output_0001585521_24_000181.txt
+2025-08-10 19:59:38,371 - INFO -    🏢 Company: Zoom_Communications_Inc
+2025-08-10 19:59:38,372 - INFO -    📅 Period: Q2 2024
+2025-08-10 19:59:38,401 - INFO - ✅ Successfully processed: output_0001585521_24_000181.txt
+2025-08-10 19:59:38,401 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Zoom_Communications_Inc\python_output_10q\Q2_2024\output_0001585521_24_000181_Q2_2024_structured.json
+2025-08-10 19:59:38,401 - INFO - ✅ File 132/134 completed successfully
+2025-08-10 19:59:38,401 - INFO - 
+📊 Progress: 133/134
+2025-08-10 19:59:38,401 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:38,401 - INFO - 📄 Processing: output_0001585521_24_000260.txt
+2025-08-10 19:59:38,401 - INFO -    🏢 Company: Zoom_Communications_Inc
+2025-08-10 19:59:38,401 - INFO -    📅 Period: Q2 2024
+2025-08-10 19:59:38,425 - INFO - ✅ Successfully processed: output_0001585521_24_000260.txt
+2025-08-10 19:59:38,425 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Zoom_Communications_Inc\python_output_10q\Q2_2024\output_0001585521_24_000260_Q2_2024_structured.json
+2025-08-10 19:59:38,425 - INFO - ✅ File 133/134 completed successfully
+2025-08-10 19:59:38,425 - INFO - 
+📊 Progress: 134/134
+2025-08-10 19:59:38,425 - INFO - ------------------------------------------------------------
+2025-08-10 19:59:38,425 - INFO - 📄 Processing: output_0001585521_25_000090.txt
+2025-08-10 19:59:38,425 - INFO -    🏢 Company: Zoom_Communications_Inc
+2025-08-10 19:59:38,425 - INFO -    📅 Period: Q2 2025
+2025-08-10 19:59:38,451 - INFO - ✅ Successfully processed: output_0001585521_25_000090.txt
+2025-08-10 19:59:38,451 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Zoom_Communications_Inc\python_output_10q\Q2_2025\output_0001585521_25_000090_Q2_2025_structured.json
+2025-08-10 19:59:38,451 - INFO - ✅ File 134/134 completed successfully

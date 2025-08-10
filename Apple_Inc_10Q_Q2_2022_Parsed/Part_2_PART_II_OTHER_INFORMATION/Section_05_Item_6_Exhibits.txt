@@ -1,0 +1,40 @@
+Item 6. Exhibits
+Incorporated by Reference
+Exhibit    Exhibit Description                          Form                         Exhibit    Filing Date/
+Number                                                                                          Period End Date
+10.1*      2022 Employee Stock Plan.                    8-K                             10.1    3/4/22
+Form of Restricted Stock Unit Award
+10.2*      Agreement under 2022 Employee Stock Plan     8-K                             10.2    3/4/22
+effective as of March 4, 2022.
+Form of Performance Award Agreement under
+10.3*      2022 Employee Stock Plan effective as of     8-K                             10.3    3/4/22
+March 4, 2022.
+31.1**     Rule 13a-14(a) / 15d-14(a) Certification
+of Chief Executive Officer.
+31.2**     Rule 13a-14(a) / 15d-14(a) Certification
+of Chief Financial Officer.
+Section 1350 Certifications of Chief
+32.1***    Executive Officer and Chief Financial
+Officer.
+Inline XBRL Document Set for the
+condensed consolidated financial
+101**      statements and accompanying notes in Part
+I, Item 1, “Financial Statements” of this
+Quarterly Report on Form 10-Q.
+Inline XBRL for the cover page of this
+104**      Quarterly Report on Form 10-Q, included
+in the Exhibit 101 Inline XBRL Document
+Set.
+* Indicates management contract or compensatory plan or arrangement.
+** Filed herewith.
+*** Furnished herewith.
+Apple Inc. | Q2 2022 Form 10-Q | 22
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to
+be signed on its behalf by the undersigned thereunto duly authorized.
+Date: April 28, 2022    Apple Inc.
+By:           /s/ Luca Maestri
+Luca Maestri
+Senior Vice President,
+Chief Financial Officer
+Apple Inc. | Q2 2022 Form 10-Q | 23
