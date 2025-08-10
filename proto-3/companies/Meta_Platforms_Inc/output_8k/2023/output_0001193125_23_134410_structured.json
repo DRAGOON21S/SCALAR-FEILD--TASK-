@@ -1,0 +1,42 @@
+{
+  "Meta Platforms, Inc.": {
+    "2023": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "On May 3, 2023, Meta Platforms, Inc. completed an offering of various series of Senior Notes. The offering was made pursuant to the Company’s Registration Statement on Form S-3 (File No. 333-271535).",
+              "subsections": {
+                "offering_details": "The Company completed an offering of $1,500,000,000 aggregate principal amount of its 4.600% Senior Notes due 2028 (the “2028 Notes”), $1,000,000,000 aggregate principal amount of its 4.800% Senior Notes due 2030 (the “2030 Notes”), $1,750,000,000 aggregate principal amount of its 4.950% Senior Notes due 2033 (the “2033 Notes”), $2,500,000,000 aggregate principal amount of its 5.600% Senior Notes due 2053 (the “2053 Notes”) and $1,750,000,000 aggregate principal amount of its 5.750% Senior Notes due 2063 (the “2063 Notes”).",
+                "underwriting_agreement": "In connection with the issuance of the Notes, the Company entered into an Underwriting Agreement dated as of May 1, 2023 with BofA Securities, Inc., J.P. Morgan Securities LLC and Morgan Stanley & Co. LLC, as representatives of the several underwriters. The Underwriting Agreement is attached as Exhibit 1.1.",
+                "indenture": "The Notes were issued pursuant to an Indenture with U.S. Bank Trust Company, National Association, as trustee, dated as of August 9, 2022 (the “Base Indenture”), as supplemented by the second supplemental indenture thereto, dated as of May 3, 2023 (the “Second Supplemental Indenture”). The Second Supplemental Indenture is attached as Exhibit 4.1. The forms of the various notes are attached as Exhibits 4.2, 4.3, 4.4, 4.5, and 4.6.",
+                "prospectus_information": "Further information concerning the Notes and related matters is set forth in the Company’s Prospectus Supplement dated May 1, 2023, which was filed with the Securities and Exchange Commission on May 2, 2023.",
+                "qualification_of_description": "The above description of the Underwriting Agreement, the Indenture and the Notes does not purport to be complete and is qualified in its entirety by reference to the Underwriting Agreement, the Indenture and the forms of Notes."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits",
+              "subsections": {
+                "Exhibit 1.1": "Underwriting Agreement, dated as of May 1, 2023, by and among Meta Platforms, Inc. and BofA Securities, Inc., J.P. Morgan Securities LLC and Morgan Stanley & Co. LLC, as representatives of the several underwriters named in Schedule II therein.",
+                "Exhibit 4.1": "Second Supplemental Indenture, dated as of May 3, 2023, by and between Meta Platforms, Inc. and U.S. Bank Trust Company, National Association, as trustee.",
+                "Exhibit 4.2": "Form of Global Note representing the Company’s 4.600% Senior Notes due 2028 (included in Exhibit 4.1).",
+                "Exhibit 4.3": "Form of Global Note representing the Company’s 4.800% Senior Notes due 2030 (included in Exhibit 4.1).",
+                "Exhibit 4.4": "Form of Global Note representing the Company’s 4.950% Senior Notes due 2033 (included in Exhibit 4.1).",
+                "Exhibit 4.5": "Form of Global Note representing the Company’s 5.600% Senior Notes due 2053 (included in Exhibit 4.1).",
+                "Exhibit 4.6": "Form of Global Note representing the Company’s 5.750% Senior Notes due 2063 (included in Exhibit 4.1).",
+                "Exhibit 5.1": "Opinion of Davis Polk & Wardwell LLP.",
+                "Exhibit 23.1": "Consent of Davis Polk & Wardwell LLP (included in Exhibit 5.1).",
+                "Exhibit 104": "Cover Page Interactive Data File (Embedded within the Inline XBRL document and included in Exhibit)."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

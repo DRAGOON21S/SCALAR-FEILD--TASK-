@@ -1,0 +1,35 @@
+{
+  "DOORDASH, INC.": {
+    "2023": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 3 - Securities and Trading Markets": {
+          "ITEMS": {
+            "Item 3.01 - Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing": {
+              "content": "On September 14, 2023, DoorDash, Inc. (\"DoorDash\") acting pursuant to authorization from its Board of Directors, notified the New York Stock Exchange (the “NYSE”) of its intention to voluntarily withdraw the listing of its Class A common stock, par value $0.00001 per share (the “Common Stock”) from the NYSE and transfer the listing to The Nasdaq Stock Market LLC (“Nasdaq”). DoorDash expects that listing and trading of its Common Stock on the NYSE will end at market close on September 26, 2023, and that trading will begin on Nasdaq at market open on September 27, 2023. The Common Stock has been approved for listing on Nasdaq, where it will continue to trade under its current symbol, “DASH”.",
+              "subsections": {}
+            }
+          }
+        },
+        "Section 7 - Regulation FD": {
+          "ITEMS": {
+            "Item 7.01 - Regulation FD Disclosure": {
+              "content": "DoorDash issued the press release attached hereto as Exhibit 99.1 in connection with the transfer of the listing of the Common Stock to Nasdaq.\n\nThe information in Item 7.01 of this Current Report on Form 8-K, and Exhibit 99.1 attached hereto, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing.",
+              "subsections": {}
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits.",
+              "subsections": {
+                "Exhibits_List": "Exhibit No. 99.1: Press Release dated September 14, 2023\nExhibit No. 104: Cover Page Interactive Data File (embedded within the Inline XBRL document)."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

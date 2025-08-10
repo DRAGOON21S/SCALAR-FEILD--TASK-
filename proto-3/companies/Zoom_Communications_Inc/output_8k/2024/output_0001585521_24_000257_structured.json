@@ -1,0 +1,40 @@
+{
+  "Zoom Communications, Inc.": {
+    "2024": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 2 - Financial Information": {
+          "ITEMS": {
+            "Item 2.02 - Results of Operations and Financial Condition": {
+              "content": "On November 25, 2024, Zoom Communications, Inc. (the “Company”) issued a press release announcing its financial results for the three months ended October 31, 2024. A copy of the press release is furnished as Exhibit 99.1 to this report and is incorporated by reference.",
+              "subsections": {
+                "Filing Status": "The information contained in this report, including Exhibit 99.1 attached hereto, is furnished and shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or subject to the liabilities of that section. The information shall not be deemed incorporated by reference into any other filing with the Securities and Exchange Commission made by the Company regardless of any general incorporation language in such filing, except as shall be expressly set forth by specific reference in such filing."
+              }
+            }
+          }
+        },
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.03 - Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year": {
+              "content": "On November 25, 2024, the Company filed with the Secretary of State of the State of Delaware a Certificate of Amendment to the Certificate of Incorporation (the “Certificate of Amendment”) to change its corporate name to Zoom Communications, Inc., effective November 25, 2024 (the “Name Change”). Pursuant to Delaware law, a stockholder vote was not necessary to effectuate the Name Change. A copy of the Certificate of Amendment is attached as Exhibit 3.1 hereto and incorporated by reference.",
+              "subsections": {
+                "Bylaw Amendments": "In connection with the Name Change, the Company’s board of directors also amended the Company’s bylaws to reflect the Name Change, effective as of November 25, 2024 (the “Amended and Restated Bylaws”). No other changes were made to the bylaws. A copy of the Amended and Restated Bylaws reflecting this amendment is attached as Exhibit 3.2 hereto and incorporated by reference.",
+                "Trading Information": "The Company’s Class A common stock will continue to trade on the Nasdaq Stock Market LLC under the ticker symbol “ZM”."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits",
+              "subsections": {
+                "Exhibit List": "Exhibit No. 3.1: Certificate of Amendment to Certificate of Incorporation of Zoom Communications, Inc.\nExhibit No. 3.2: Amended and Restated Bylaws of Zoom Communications, Inc.\nExhibit No. 99.1: Press release dated November 25, 2024 of Zoom Communications, Inc.\nExhibit No. 104: Cover Page Interactive Data File (embedded within the Inline XBRL document)"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

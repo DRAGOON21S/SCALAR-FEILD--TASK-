@@ -1,0 +1,36 @@
+{
+  "JPMorgan Chase & Co.": {
+    "2021": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "On June 23, 2021, JPMorgan Chase & Co. closed public offerings of $2,000,000,000 aggregate principal amount of Fixed-to-FloatingRate Notes due 2025 (the “Fixed-to-FloatingRate Notes”) and $500,000,000 aggregate principal amount of Floating Rate Notes due 2025 (the “Floating Rate Notes” and, together with the Fixed-to-FloatingRate Notes, the “Notes”). The Notes were registered under the Securities Act of 1933, as amended, pursuant to a registration statement on Form S-3(File No. 333-230098),as amended. In connection with these offerings, the legal opinions as to the legality of the Fixed-to-FloatingRate Notes and the Floating Rate Notes are being filed as Exhibit 5.1 and Exhibit 5.2, respectively, to this report.",
+              "subsections": {
+                "offering_summary": "On June 23, 2021, JPMorgan Chase & Co. closed public offerings of $2,000,000,000 aggregate principal amount of Fixed-to-FloatingRate Notes due 2025 and $500,000,000 aggregate principal amount of Floating Rate Notes due 2025.",
+                "registration_details": "The Notes were registered under the Securities Act of 1933, as amended, pursuant to a registration statement on Form S-3 (File No. 333-230098), as amended.",
+                "exhibit_reference": "In connection with these offerings, the legal opinions as to the legality of the Fixed-to-FloatingRate Notes and the Floating Rate Notes are being filed as Exhibit 5.1 and Exhibit 5.2, respectively, to this report."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits",
+              "subsections": {
+                "exhibit_5.1": "Opinion of Simpson Thacher & Bartlett LLP as to the legality of the $2,000,000,000 aggregate principal amount of Fixed-to-Floating Rate Notes due 2025.",
+                "exhibit_5.2": "Opinion of Simpson Thacher & Bartlett LLP as to the legality of the $500,000,000 aggregate principal amount of Floating Rate Notes due 2025.",
+                "exhibit_23.1": "Consent of Simpson Thacher & Bartlett LLP (included as part of Exhibit 5.1).",
+                "exhibit_23.2": "Consent of Simpson Thacher & Bartlett LLP (included as part of Exhibit 5.2).",
+                "exhibit_101": "Pursuant to Rule 406 of Regulation S-T, the cover page is formatted in Inline XBRL (Inline eXtensible Business Reporting Language).",
+                "exhibit_104": "Cover Page Interactive Data File (embedded within the Inline XBRL document and included in Exhibit 101)."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

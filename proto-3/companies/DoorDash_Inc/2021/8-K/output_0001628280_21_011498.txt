@@ -1,0 +1,118 @@
+                                                                                                                   
+                                                   UNITED STATES                                                   
+                                                                                                                   
+                                                                                                                   
+                                        SECURITIES AND EXCHANGE COMMISSION                                         
+                                                                                                                   
+                                                                                                                   
+                                              Washington, D.C. 20549                                               
+                                                                                                                   
+                                       ____________________________________                                        
+                                                                                                                   
+                                                     FORM 8-K                                                      
+                                                                                                                   
+                                       ____________________________________                                        
+                                                                                                                   
+                                                  CURRENT REPORT                                                   
+                                                                                                                   
+                                                                                                                   
+                                          PURSUANT TO SECTION 13 OR 15(d)                                          
+                                                                                                                   
+                                                                                                                   
+                                      OF THE SECURITIES EXCHANGE ACT OF 1934                                       
+                                                                                                                   
+                          Date of Report (Date of Earliest Event Reported): May 26, 2021                           
+                                                                                                                   
+                                       ____________________________________                                        
+                                                                                                                   
+                                                  DoorDash, Inc.                                                   
+                                                                                                                   
+                              (Exact name of registrant as specified in its charter)                               
+                                                                                                                   
+                                       ____________________________________                                        
+                                                                                                     
+  Delaware                           001-39759                  46-2852392                           
+  (State or other jurisdiction of    -Commission File Number    -I.R.S. Employer Identification No.  
+  incorporation or organization)                                                                     
+                                                                                                     
+                                                                                                                   
+                                      303 2nd Street, South Tower, 8th Floor                                       
+                                                                                                                   
+                                                                                                                   
+                                          San Francisco, California 94107                                          
+                                                                                                                   
+                           (Address of principal executive offices, including zip code)                            
+                                                                                                                   
+                                                  ( 650) 487-3970                                                  
+                                                                                                                   
+                               (Registrant’s telephone number, including area code)                                
+                                                                                                                   
+                                                  Not Applicable                                                   
+                                                                                                                   
+                           (Former name or former address, if changed since last report)                           
+                                                                                                                   
+                                       ____________________________________                                        
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation
+of the registrant under any of the following provisions:
+
+☐Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+                                                                                                        
+  Title of each class                   Trading Symbol(s)    Name of each exchange on which registered  
+  Class A common stock, par value of    DASH                 New York Stock Exchange                    
+  $0.00001 per share                                                                                    
+                                                                                                        
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the
+Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2).
+
+Emerging growth company ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended
+transition period for complying with any new or revised financial accounting standards provided pursuant to Section
+13(a) of the Exchange Act. ☐
+                                                                                                                   
+  Item 5.02    Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain           
+               Officers; Compensatory Arrangements of Certain Officers.                                            
+                                                                                                                   
+On May 26, 2021, the Board of Directors of DoorDash, Inc. (the “Company”) appointed Christopher Payne, the
+Company’s Chief Operating Officer, as President of the Company. Mr. Payne will continue to serve as the Company’s
+Chief Operating Officer. Tony Xu, who has been serving as President and Chief Executive Officer, will continue as
+Chief Executive Officer (principal executive officer) of the Company and no changes are expected to his role or
+responsibilities.
+
+Mr. Payne, 53, has served as the Company’s Chief Operating Officer since January 2016. Mr. Payne’s biographical
+information and business experience are described in the Company’s proxy statement filed with the SEC on April 29,
+2021 (the “Proxy Statement”).
+
+Mr. Payne’s employment arrangements and compensation are described in the Proxy Statement. At this time, there are
+no changes expected to his employment arrangements or compensation in connection with his appointment.
+
+Mr. Payne previously executed the Company’s standard form of executive change in control and severance plan
+participation agreement, a copy of which was filed as Exhibit 10.5 to the 2020 Annual Report, and the Company’s
+standard form of indemnification agreement, a copy of which was filed as Exhibit 10.1 of the 2020 Annual Report.
+
+Mr. Payne has no direct or indirect material interest in any transaction required to be disclosed pursuant to Item
+404(a) of Regulation S-K promulgated under the Securities Exchange Act of 1934, as amended (the “Exchange Act”).
+
+There are no family relationships, as defined in Item 401 of Regulation S-K promulgated under the Exchange Act,
+between Mr. Payne and any of the Company’s executive officers or directors or persons nominated or chosen to become
+a director or executive officer. There are also no arrangements or understandings between Mr. Payne and any other
+persons pursuant to which Mr. Payne was selected as Chief Operating Officer and President.
+                                                                                                                   
+                                                     SIGNATURE                                                     
+                                                                                                                   
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to
+be signed on its behalf by the undersigned hereunto duly authorized.
+                                                                        
+                        DOORDASH, INC.                                  
+  Date: June 2, 2021    By:               /s/ Tony Xu                   
+ ────────────────────────────────────────────────────────────────────── 
+                        Name:             Tony Xu                       
+                        Title:            Chief Executive Officer       
+                                          -Principal Executive Officer  
+                                                                        

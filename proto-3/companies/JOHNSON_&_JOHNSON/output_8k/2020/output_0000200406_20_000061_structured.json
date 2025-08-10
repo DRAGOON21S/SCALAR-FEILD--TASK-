@@ -1,0 +1,29 @@
+{
+  "Johnson & Johnson": {
+    "2020": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.02 - Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers": {
+              "content": "Johnson & Johnson (the \"Company\") announced on December 3, 2020, that Dr. Nadja West, retired United States Army lieutenant general and former United States Army Surgeon General, has been appointed to its Board of Directors (the \"Board\"), effective immediately. Dr. West will serve as a member of the Board’s Science, Technology & Sustainability Committee, effective as of January 1, 2021. As a non-employee Director of the Company, Dr. West will receive compensation as described in the “Director Compensation” section of the Company's 2020 Proxy Statement.",
+              "subsections": {
+                "exhibit_reference": "The Company's press release announcing the appointment is attached to this Report as Exhibit 99.1."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits.",
+              "subsections": {
+                "exhibit_list": "Exhibit No. 99.1: Johnson & Johnson Press Release dated December 3, 2020."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

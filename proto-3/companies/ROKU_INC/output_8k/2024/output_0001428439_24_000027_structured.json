@@ -1,0 +1,40 @@
+{
+  "ROKU, INC.": {
+    "2024": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.02 - Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers": {
+              "content": "On June 6, 2024, Roku, Inc. (“Roku”) held its annual meeting of stockholders via a live webcast (the “Annual Meeting”). At the Annual Meeting, Roku’s stockholders approved four proposals (as described in Item 5.07 below), including approval of the Roku, Inc. Amended and Restated 2017 Equity Incentive Plan (the “Restated 2017 Plan”), which, among other things, extends the end date of the “evergreen” provision for future automatic annual increases in the number of shares available for grant under the Restated 2017 Plan from January 1, 2027 to January 1, 2034. Roku’s Board of Directors approved the Restated 2017 Plan, subject to stockholder approval, on March 27, 2024.",
+              "subsections": {
+                "plan_details": "The Restated 2017 Plan extends the end date of the 'evergreen' provision for future automatic annual increases in the number of shares available for grant under the plan from January 1, 2027 to January 1, 2034.",
+                "board_approval_date": "Roku’s Board of Directors approved the Restated 2017 Plan, subject to stockholder approval, on March 27, 2024.",
+                "reference_to_exhibit_and_proxy": "The foregoing description of the Restated 2017 Plan is qualified in its entirety by reference to the Restated 2017 Plan, which is filed as Exhibit 10.1 to this Current Report on Form 8-K. A more complete description of the terms of the Restated 2017 Plan can be found in “Proposal 2: Approval of the Roku, Inc. Amended and Restated 2017 Equity Incentive Plan” on pages 23 to 35 of Roku’s definitive proxy statement filed with the U.S. Securities and Exchange Commission on April 26, 2024 (the “2024 Proxy Statement”), which description is incorporated by reference herein."
+              }
+            },
+            "Item 5.07 - Submission of Matters to a Vote of Security Holders": {
+              "content": "At the Annual Meeting held on June 6, 2024, Roku’s stockholders voted on four proposals, each of which is described in more detail in the 2024 Proxy Statement. The following is a brief description of each matter voted on and the certified results.",
+              "subsections": {
+                "proposal_1_election_of_directors": "The Class I director nominees were elected to serve until Roku’s 2027 annual meeting of stockholders. The voting results were as follows: Ravi Ahuja (Votes For: 216,461,347, Votes Withheld: 30,539,080, Broker Non-Votes: 24,028,924, Percentage of Votes in Favor: 87.6%); Mai Fyfield (Votes For: 244,150,440, Votes Withheld: 2,849,987, Broker Non-Votes: 24,028,924, Percentage of Votes in Favor: 98.8%); Laurie Simon Hodrick (Votes For: 243,925,576, Votes Withheld: 3,074,851, Broker Non-Votes: 24,028,924, Percentage of Votes in Favor: 98.8%).",
+                "proposal_2_approval_of_equity_incentive_plan": "Stockholders approved the Roku, Inc. Amended and Restated 2017 Equity Incentive Plan. The voting results were as follows: Votes For: 188,018,026, Votes Against: 58,805,777, Abstentions: 176,624, Broker Non-Votes: 24,028,924, Percentage of Votes in Favor: 76.1%.",
+                "proposal_3_advisory_vote_on_executive_compensation": "Stockholders approved, on an advisory basis, Roku’s executive compensation as described in the 2024 Proxy Statement. The voting results were as follows: Votes For: 212,547,995, Votes Against: 34,286,751, Abstentions: 165,681, Broker Non-Votes: 24,028,924, Percentage of Votes in Favor: 86.1%.",
+                "proposal_4_ratification_of_independent_accounting_firm": "Stockholders ratified the appointment of Deloitte & Touche LLP as Roku’s independent registered accounting firm for the fiscal year ending December 31, 2024. The voting results were as follows: Votes For: 269,449,647, Votes Against: 1,334,708, Abstentions: 244,996, Percentage of Votes in Favor: 99.4%."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits.",
+              "subsections": {
+                "exhibits_list": "Exhibit 10.1: Roku, Inc. Amended and Restated 2017 Equity Incentive Plan. Exhibit 104: Cover Page Interactive Data File (embedded within the Inline XBRL document)."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

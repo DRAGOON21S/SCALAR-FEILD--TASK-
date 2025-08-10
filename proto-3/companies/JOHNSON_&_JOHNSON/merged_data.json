@@ -1,0 +1,215 @@
+{
+  "Johnson & Johnson": {
+    "2020": {
+      "2020": {
+        "FORM": "8-K",
+        "CATEGORIES": {
+          "Section 8 - Other Events": {
+            "ITEMS": {
+              "Item 8.01 - Other Events": {
+                "content": "On October 1, 2020, Johnson & Johnson, a New Jersey corporation (“ Johnson & Johnson”) announced that it has completed the acquisition of Momenta Pharmaceuticals, Inc., a Delaware corporation, a company that discovers and develops novel therapies for immune-mediated diseases, in an all-cashtransaction for approximately $6.5 billion. A copy of the press release issued by Johnson & Johnson on October 1, 2020 announcing the acquisition filed as Exhibit (a)(5)(E) to the Schedule TO-T/Afiled by Johnson & Johnson with the U.S. Securities and Exchange Commission (the “ SEC”) on October 1, 2020 is incorporated herein by reference as Exhibit 99.1.",
+                "subsections": {
+                  "acquisition_announcement": "On October 1, 2020, Johnson & Johnson, a New Jersey corporation (“ Johnson & Johnson”) announced that it has completed the acquisition of Momenta Pharmaceuticals, Inc., a Delaware corporation, a company that discovers and develops novel therapies for immune-mediated diseases, in an all-cashtransaction for approximately $6.5 billion.",
+                  "press_release_reference": "A copy of the press release issued by Johnson & Johnson on October 1, 2020 announcing the acquisition filed as Exhibit (a)(5)(E) to the Schedule TO-T/Afiled by Johnson & Johnson with the U.S. Securities and Exchange Commission (the “ SEC”) on October 1, 2020 is incorporated herein by reference as Exhibit 99.1."
+                }
+              }
+            }
+          },
+          "Section 9 - Financial Statements and Exhibits": {
+            "ITEMS": {
+              "Item 9.01 - Financial Statements and Exhibits": {
+                "content": "(d) Exhibits. Exhibit No. 99.1: Press Release, dated October 1, 2020, incorporated herein by reference to Exhibit (a)(5)(E) of the Schedule TO-T/A filed by Johnson & Johnson with the SEC on October 1, 2020.",
+                "subsections": {
+                  "exhibit_list": "Exhibit No. 99.1: Press Release, dated October 1, 2020, incorporated herein by reference to Exhibit (a)(5)(E) of the Schedule TO-T/A filed by Johnson & Johnson with the SEC on October 1, 2020."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "2021": {
+      "2021": {
+        "FORM": "8-K",
+        "CATEGORIES": {
+          "Section 8 - Other Events": {
+            "ITEMS": {
+              "Item 8.01 - Other Events": {
+                "content": "On November 12, 2021, Johnson & Johnson (the “Company”) issued a press release announcing its intent to separate the Company's Consumer Health business. A copy of the Company's press release is attached to this Current Report on Form 8-K as Exhibit 99.1.",
+                "subsections": {}
+              }
+            }
+          },
+          "Section 9 - Financial Statements and Exhibits": {
+            "ITEMS": {
+              "Item 9.01 - Financial Statements and Exhibits": {
+                "content": "(d) Exhibits.",
+                "subsections": {
+                  "Exhibit 99.1": "Press Release dated November 12, 2021",
+                  "Exhibit 104": "The cover page from this Current Report on Form 8-K, formatted in Inline XBRL."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "2022": {
+      "2022": {
+        "FORM": "8-K",
+        "CATEGORIES": {
+          "Section 1 - Registrant's Business and Operations": {
+            "ITEMS": {
+              "Item 1.01 - Entry into a Material Definitive Agreement": {
+                "content": "As previously disclosed, on October 31, 2022, Johnson & Johnson, a New Jersey corporation (“ Johnson & Johnson”), entered into an Agreement and Plan of Merger (the “ Merger Agreement”) with Athos Merger Sub, Inc., a Delaware corporation and a wholly owned subsidiary of Johnson & Johnson (“ Purchaser”), and ABIOMED, Inc., a Delaware corporation (“ ABIOMED”). Pursuant to the Merger Agreement and in connection with the irrevocable acceptance for payment by Purchaser of all of the outstanding shares of common stock, par value $0.01 per share, of ABIOMED (the “ Shares”) validly tendered and not properly withdrawn pursuant to the Offer (as defined below), on December 22, 2022, Johnson & Johnson and American Stock Transfer & Trust Company, LLC, a New York limited liability trust company, entered into a Contingent Value Rights Agreement (the “ CVR Agreement”) governing the terms of the CVRs (as defined below) issued pursuant to the Offer and the Merger (as defined below).",
+                "subsections": {
+                  "CVR Terms": "Each CVR represents the non-tradeable contractual right to receive contingent cash payments of up to $35.00 per Share in cash, without interest and less any required withholding taxes, in the aggregate (the “ Milestone Payments”), payable as specified upon the achievement of the following milestones (each, a “ Milestone”):",
+                  "Net Sales Milestone": "$17.50 per CVR, if aggregate worldwide Net Sales (as defined in the CVR Agreement) of the Products (as defined in the CVR Agreement) exceeds $3,700,000,000 (the “Net Sales Milestone”) during the period from the first day of Johnson & Johnson’s fiscal second quarter of 2027 through the last day of Johnson & Johnson’s fiscal first quarter of 2028 (the “2028 Measurement Period”); provided that in the event that the Net Sales Milestone is not achieved during the 2028 Measurement Period, if the Net Sales Milestone is thereafter achieved during any other period of four consecutive fiscal quarters during the period from the first day of Johnson & Johnson’s fiscal third quarter of 2027 through the last day of Johnson & Johnson’s fiscal first quarter of 2029, the Milestone Payment payable upon the achievement of the Net Sales Milestone will be $8.75 per CVR;",
+                  "FDA Approval Milestone": "$7.50 per CVR, if, on or prior to January 1, 2028, the U.S. Food and Drug Administration approves a premarket approval application or a premarket approval application supplement for the use of any device in the Impella Product Family (as defined in the CVR Agreement) in patients presenting with ST-Segment Elevation Myocardial Infarction (“STEMI”), or Anterior STEMI, without cardiogenic shock (the “FDA Approval Milestone”); and",
+                  "Clinical Practice Guideline Milestones": "$10.00 per CVR, upon the earliest to occur of any of the following:",
+                  "STEMI Recommendation Milestone": "on or prior to the earlier of (A) four years after publication of results relating to the secondary clinical endpoint in the STEMI DTU™ study undertaken by ABIOMED and (B) December 31, 2029, results from the STEMI DTU™ study undertaken by ABIOMED contribute to the publication of a Class I recommendation in the American College of Cardiology / American Heart Association Clinical Practice Guideline for Coronary Artery Revascularization (the “Clinical Practice Guideline”) for the use of any device in the Impella Product Family in patients presenting with STEMI, or Anterior STEMI, without cardiogenic shock (the “STEMI Recommendation Milestone”);",
+                  "HRPCI Milestone": "on or prior to the earlier of (A) four years after publication of results relating to the primary clinical endpoints in the PROTECT IV study undertaken by ABIOMED and (B) December 31, 2029, results from the PROTECT IV study undertaken by ABIOMED contribute to the publication of a Class I recommendation in the Clinical Practice Guideline for the use of any device in the Impella Product Family in high-risk patients with complex coronary artery disease and reduced left ventricular function (the “HRPCI Milestone”); and",
+                  "Cardiogenic Shock Milestone": "on or prior to the earlier of (A) four years after publication of results relating to the primary clinical endpoints in the RECOVER IV study undertaken by ABIOMED and (B) December 31, 2029, results from the RECOVER IV study undertaken by ABIOMED contribute to the publication of a Class I recommendation in the Clinical Practice Guideline for the use of any device in the Impella Product Family in patients with STEMI-Cardiogenic Shock, or STEMI-CS (the “Cardiogenic Shock Milestone”).",
+                  "Diligence Commitments and Disclaimers": "The CVR Agreement requires Johnson & Johnson to, with respect to each of (a) the STEMI Recommendation Milestone and the FDA Approval Milestone, (b) the HRPCI Milestone and (c) the Cardiogenic Shock Milestone, expend at least $37,682,000, $81,495,200 and $39,800,000, respectively, towards the achievement of such Milestone(s), subject to certain exceptions specified in the CVR Agreement. Other than with respect to these commitments, Johnson & Johnson (i) has the right, in its sole and absolute discretion, to direct and control the development, marketing, commercialization and sale of the Products in all respects and (ii) is not otherwise required (expressly or implicitly) to achieve or undertake any level of efforts, or employ any level of resources, to develop, market, commercialize or sell the Products or achieve the Milestones. It is possible that none of the Milestones will be achieved, in which case holders of CVRs will not receive any payments with respect to their CVRs. It is not possible to predict whether any payment will become payable with respect to the CVRs. Whether any Milestone required for payment of any Milestone Payment is met will depend on many factors, some of which are outside the control of Johnson & Johnson and its subsidiaries. There can be no assurance that any of the Milestones will be achieved or that any payment with respect to the CVRs will be made. The foregoing description of the CVR Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of the CVR Agreement, a copy of which is filed as Exhibit 10.1 to this Current Report on Form 8-K and is incorporated herein by reference."
+                }
+              }
+            }
+          },
+          "Section 2 - Financial Information": {
+            "ITEMS": {
+              "Item 2.01 - Completion of Acquisition or Disposition of Assets": {
+                "content": "Pursuant to the Merger Agreement, on November 15, 2022, Purchaser commenced a tender offer to acquire all of the outstanding Shares at a price of (a) $380.00 per Share, net to the seller in cash, without interest and less any required withholding taxes (the “ Cash Amount”), plus (b) one non-tradeable contractual contingent value right per Share (each, a “ CVR”), which CVR represents the right to receive contingent payments of up to $35.00 per Share in cash, without interest and less any required withholding taxes, in the aggregate, upon the achievement of the Milestones (the Cash Amount plus one CVR, collectively, the “ Offer Price”), upon the terms and subject to the conditions set forth in the Offer to Purchase, dated November 15, 2022 (as amended or supplemented from time to time, the “ Offer to Purchase”) and in the related Letter of Transmittal (together with the Offer to Purchase and other related materials, as amended or supplemented from time to time, the “ Offer”).",
+                "subsections": {
+                  "Offer Expiration and Merger": "On December 22, 2022, Johnson & Johnson announced that the Offer had expired at 11:59 p.m., New York City time, on December 21, 2022 (the “ Expiration Time”) and that as of such time, based on the information provided by the depositary for the Offer, 25,759,195 Shares were validly tendered and not properly withdrawn pursuant to the Offer, representing approximately 57.1% of the then-outstanding Shares, which Shares were sufficient to have met the Minimum Condition (as defined in the Merger Agreement) of the Offer and to enable the Merger (as defined below) to occur in accordance with Section 251(h) of the Delaware General Corporation Law (the “ DGCL”) without a vote on the adoption of the Merger Agreement by ABIOMED stockholders. All conditions to the Offer having been satisfied, Purchaser subsequently irrevocably accepted for payment all Shares validly tendered and not properly withdrawn prior to the Expiration Time, and will promptly pay for such Shares pursuant to the Offer. Following the completion of the Offer, on December 22, 2022, pursuant to the terms of the Merger Agreement and in accordance with Section 251(h) of the DGCL, Purchaser merged with and into ABIOMED (the “ Merger”), with ABIOMED continuing as the surviving corporation in the Merger and thereby becoming a wholly owned subsidiary of Johnson & Johnson.",
+                  "Conversion of Shares": "At the closing of the Merger, each Share outstanding immediately prior to the effective time of the Merger (the “ Effective Time”) (other than (a) Shares owned by Johnson & Johnson, Purchaser or ABIOMED (or held in ABIOMED’s treasury), or by any direct or indirect wholly owned subsidiary of Johnson & Johnson or Purchaser, in each case at the commencement of the Offer and immediately prior to the Effective Time, (b) Shares irrevocably accepted for purchase pursuant to the Offer or (c) Shares owned by any stockholders who have properly and validly demanded their appraisal rights in compliance with Section 262 of the DGCL) was converted into the right to receive the Offer Price, without interest and less any required withholding taxes.",
+                  "Treatment of Outstanding Equity Awards": "Pursuant to the terms of the Merger Agreement, at the Effective Time: each stock option to purchase Shares (an “ABIOMED Option”) outstanding as of immediately prior to the Effective Time with an exercise price that is less than the Cash Amount (an “In-the-Money Option”) was canceled in exchange for the Cash Amount (less the applicable exercise price) plus one CVR, in each case, multiplied by the number of Shares underlying such In-the-Money Option; each ABIOMED Option outstanding as of immediately prior to the Effective Time with an exercise price that is equal to or greater than the Cash Amount (an “Out-of-the-Money Option”) was canceled in exchange for the right to receive cash payments equal to the total amount of the Milestone Payments actually payable in connection with a CVR (if any), less the amount by which such exercise price exceeds the Cash Amount (if any), multiplied by the number of Shares underlying such Out-of-the-Money Option; each performance stock unit in respect of Shares (an “ABIOMED PSU”) outstanding as of immediately prior to the Effective Time was canceled in exchange for the Cash Amount plus one CVR, in each case, multiplied by the number of Shares underlying such ABIOMED PSU, generally determined based on actual performance for any performance periods that have been completed as of the Effective Time and maximum performance for all other performance periods; and each restricted stock unit in respect of Shares (an “ABIOMED RSU”) outstanding as of immediately prior to the Effective Time was canceled in exchange for the Cash Amount plus one CVR, in each case, multiplied by the number of Shares underlying such ABIOMED RSU.",
+                  "Transaction Financing and Cost": "The aggregate amount paid by Purchaser in the Offer and the Merger for the Shares was approximately $17.1 billion, excluding related fees and expenses. Johnson & Johnson and Purchaser funded the acquisition of the Shares in the Offer and the Merger through a combination of Johnson & Johnson’s available cash on hand and short-term financing. Johnson & Johnson estimates that it would need approximately $1.6 billion to pay the maximum aggregate amount that the holders of CVRs and holders of certain options would be entitled to if all of the Milestones are achieved. The foregoing description of the Merger Agreement and the related transactions does not purport to be complete and is qualified in its entirety by reference to the full text of the Merger Agreement, a copy of which was filed as Exhibit 2.1 to the Current Report on Form 8-K filed by Johnson & Johnson on November 1, 2022 and is incorporated herein by reference."
+                }
+              }
+            }
+          },
+          "Section 7 - Regulation FD": {
+            "ITEMS": {
+              "Item 7.01 - Regulation FD Disclosure": {
+                "content": "On December 22, 2022, Johnson & Johnson issued a press release announcing, among other things, the consummation of the Merger. A copy of the press release is attached hereto as Exhibit 99.1 and is incorporated herein by reference. The information contained in this Item 7.01 and in Exhibit 99.1 of this Current Report on Form 8-K shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “ Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing.",
+                "subsections": {}
+              }
+            }
+          },
+          "Section 9 - Financial Statements and Exhibits": {
+            "ITEMS": {
+              "Item 9.01 - Financial Statements and Exhibits": {
+                "content": "(d) Exhibits.",
+                "subsections": {
+                  "Exhibits List": "Exhibit No. 2.1: Agreement and Plan of Merger, dated as of October 31, 2022, by and among Johnson & Johnson, Athos Merger Sub, Inc. and ABIOMED, Inc. (incorporated herein by reference to Exhibit 2.1 of the Current Report on Form 8-K filed by Johnson & Johnson with the SEC on November 1, 2022)*\nExhibit No. 10.1: Contingent Value Rights Agreement, dated as of December 22, 2022, by and between Johnson & Johnson and American Stock Transfer & Trust Company, LLC*\nExhibit No. 99.1: Press Release, dated December 22, 2022\nExhibit No. 104: Cover Page Interactive Data File (formatted as Inline XBRL).\n*Certain exhibits and schedules have been omitted pursuant to Item 601(b)(2) of Regulation S-K. Johnson & Johnson hereby undertakes to furnish supplemental copies of any of the omitted exhibits and schedules upon request by the SEC."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "2023": {
+      "2023": {
+        "FORM": "8-K",
+        "CATEGORIES": {
+          "Section 5 - Corporate Governance and Management": {
+            "ITEMS": {
+              "Item 5.04 - Temporary Suspension of Trading Under Registrant’s Employee Benefit Plans": {
+                "content": "On July 28, 2023, Johnson & Johnson sent a notice (the “Blackout Notice”) to its directors and executive officers informing them that, in connection with Johnson & Johnson’s offer (the “Offer”) to exchange 1,533,830,450 shares of common stock of Kenvue Inc. that it owns for outstanding shares of common stock of Johnson & Johnson (“Johnson & Johnson Shares”), a blackout period may be imposed, during which they will be subject to certain trading restrictions with respect to Johnson & Johnson Shares. The blackout period will be imposed if fifty percent or more of the participants or beneficiaries in the Johnson & Johnson Savings Plan, Johnson & Johnson Retirement Savings Plan and any other “individual account plan”, as defined in Regulation BTR (collectively, the “Plans”) direct the trustee for the applicable Plan (or its designated agent) to exchange some or all of the Johnson & Johnson Shares held in the Johnson & Johnson Stock Fund (through which participants may invest a portion of their Plan account balance in Johnson & Johnson Shares) attributable to their Plan accounts. The reason for the potential blackout period is that participants in the Plans who tender their Johnson & Johnson Shares will be unable, during a short period of time, to exchange or withdraw their account balances in the Johnson & Johnson Stock Fund or take certain other actions.",
+                "subsections": {
+                  "trading_restrictions_and_sarbanes_oxley": "Section 306(a) of the Sarbanes-Oxley Act of 2002 and Regulation BTR (i.e., the Blackout Trading Restriction), promulgated by the Securities and Exchange Commission, generally impose certain restrictions on trading in company securities by directors and executive officers in the event that fifty percent or more of an issuer’s plan participants are so restricted. During the blackout (if it occurs), subject to certain limited exemptions, directors and executive officers will be prohibited from directly or indirectly purchasing, selling, acquiring or transferring any Johnson & Johnson Shares or derivative securities with respect to Johnson & Johnson Shares acquired in connection with their service or employment as a director or executive officer of Johnson & Johnson, except that directors and executive officers will have the opportunity to exchange Johnson & Johnson Shares in the Offer. The blackout for the Johnson & Johnson Stock Fund (if it occurs) is expected to begin on August 15, 2023 at 4:00 p.m. Eastern Time and to continue through the week of August 28, 2023 (assuming no extension of the Offer).",
+                  "shareholder_inquiries": "During the blackout and for up to two years following the ending date of the blackout, shareholders or other interested parties may obtain, without charge, the actual beginning and ending dates of the blackout. Any inquiries regarding the blackout may be directed to: Johnson & Johnson, One Johnson & Johnson Plaza, New Brunswick, New Jersey 08933, Attention: Corporate Secretary, Telephone Number: (732) 524-0400.",
+                  "exhibit_reference": "A copy of the Blackout Notice is attached hereto as Exhibit 99.1 and incorporated herein by reference."
+                }
+              }
+            }
+          },
+          "Section 9 - Financial Statements and Exhibits": {
+            "ITEMS": {
+              "Item 9.01 - Financial Statements and Exhibits": {
+                "content": "(d) Exhibits.",
+                "subsections": {
+                  "exhibit_list": "Exhibit 99.1: Blackout Notice, dated July 28, 2023. Exhibit 104: The cover page from this Current Report on Form 8-K, formatted in Inline XBRL."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "2024": {
+      "2024": {
+        "FORM": "8-K",
+        "CATEGORIES": {
+          "Section 8 - Other Events": {
+            "ITEMS": {
+              "Item 8.01 - Other Events": {
+                "content": "On May 20, 2024, Johnson & Johnson (the “Company”) completed the previously announced public offerings of several series of U.S. Dollar Notes and Euro Notes under the Company’s Registration Statement on Form S-3, Reg. No. 333-269836.",
+                "subsections": {
+                  "us_dollar_notes_offering": "(1) $1,150,000,000 aggregate principal amount of 4.800% Notes due 2029; (2) $1,150,000,000 aggregate principal amount of 4.900% Notes due 2031; (3) $850,000,000 aggregate principal amount of 4.950% Notes due 2034; (4) $850,000,000 aggregate principal amount of 5.250% Notes due 2054.",
+                  "euro_notes_offering": "(5) €700,000,000 aggregate principal amount of 3.200% Notes due 2032; (6) €800,000,000 aggregate principal amount of 3.350% Notes due 2036; and (7) €1,000,000,000 aggregate principal amount of 3.550% Notes due 2044.",
+                  "us_dollar_underwriting_agreement": "In connection with the offering of the U.S. Dollar Notes, the Company entered into an underwriting agreement on May 13, 2024, filed as Exhibit 1.1, with J.P. Morgan Securities LLC, BofA Securities, Inc. and Citigroup Global Markets Inc., as representatives of the several Underwriters. This agreement incorporates the Underwriting Agreement Standard Provisions (Debt), dated May 13, 2024, filed as Exhibit 1.2.",
+                  "euro_underwriting_agreement": "In connection with the offering of the Euro Notes, the Company entered into an underwriting agreement on May 14, 2024, filed as Exhibit 1.3, with J.P. Morgan Securities plc, Citigroup Global Markets Limited, Deutsche Bank AG, London Branch and the several Underwriters. This agreement also incorporates the Standard Provisions Agreement."
+                }
+              }
+            }
+          },
+          "Section 9 - Financial Statements and Exhibits": {
+            "ITEMS": {
+              "Item 9.01 - Financial Statements and Exhibits": {
+                "content": "(d) Exhibits.",
+                "subsections": {
+                  "exhibits_list": "1.1 - Underwriting Agreement, dated May 13, 2024, among Johnson & Johnson and J.P. Morgan Securities LLC, BofA Securities, Inc. and Citigroup Global Markets Inc., as representatives of the several Underwriters named therein.\n1.2 - Underwriting Agreement Standard Provisions (Debt), dated May 13, 2024.\n1.3 - Underwriting Agreement, dated May 14, 2024, among Johnson & Johnson and J.P. Morgan Securities plc, Citigroup Global Markets Limited, Deutsche Bank AG, London Branch and the several Underwriters named therein.\n4.1 - Company Order establishing the terms of the U.S. Dollar Notes.\n4.2 - Form of 4.800% Notes due 2029.\n4.3 - Form of 4.900% Notes due 2031.\n4.4 - Form of 4.950% Notes due 2034.\n4.5 - Form of 5.250% Notes due 2054.\n4.6 - Company Order establishing the terms of the Euro Notes.\n4.7 - Form of 3.200% Notes due 2032.\n4.8 - Form of 3.350% Notes due 2036.\n4.9 - Form of 3.550% Notes due 2044.\n5.1 - Opinion of Weil, Gotshal & Manges LLP.\n5.2 - Opinion of Troutman Pepper Hamilton Sanders LLP.\n23.1 - Consent of Weil, Gotshal & Manges LLP (included in Exhibit 5.1 of this Current Report on Form 8-K).\n23.2 - Consent of Troutman Pepper Hamilton Sanders LLP (included in Exhibit 5.2 of this Current Report on Form 8-K).\n104 - The cover page of this Current Report on Form 8-K, formatted in Inline XBRL."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "2025": {
+      "2025": {
+        "FORM": "8-K",
+        "CATEGORIES": {
+          "Section 8 - Other Events": {
+            "ITEMS": {
+              "Item 8.01 - Other Events": {
+                "content": "On February 26, 2025, Johnson & Johnson (the “Company”) completed the previously announced public offerings of the Notes under the Company’s Registration Statement on Form S-3, Reg. No. 333-269836. In connection with the offering of the Notes, the Company entered into an underwriting agreement on February 19, 2025, which is filed as Exhibit 1.1 hereto (the “Underwriting Agreement”), with Citigroup Global Markets Limited, Deutsche Bank AG, London Branch, Goldman Sachs & Co. LLC and the several underwriters named therein (the “Underwriters”), pursuant to which the Company agreed to issue and sell the Notes to the Underwriters. The Underwriting Agreement incorporates the Underwriting Agreement Standard Provisions (Debt), dated February 18. 2025, which is filed as Exhibit 1.2 hereto.",
+                "subsections": {
+                  "2029 Notes": "€600,000,000 aggregate principal amount of 2.700% Notes due 2029",
+                  "2033 Notes": "€700,000,000 aggregate principal amount of 3.050% Notes due 2033",
+                  "2037 Notes": "€1,000,000,000 aggregate principal amount of 3.350% Notes due 2037",
+                  "2045 Notes": "€700,000,000 aggregate principal amount of 3.600% Notes due 2045",
+                  "2055 Notes": "€1,000,000,000 aggregate principal amount of 3.700% Notes due 2055"
+                }
+              }
+            }
+          },
+          "Section 9 - Financial Statements and Exhibits": {
+            "ITEMS": {
+              "Item 9.01 - Financial Statements and Exhibits": {
+                "content": "(d) Exhibits.",
+                "subsections": {
+                  "Exhibit 1.1": "Underwriting Agreement, dated February 19, 2025, among Johnson & Johnson and Citigroup Global Markets Limited, Deutsche Bank AG, London Branch, Goldman Sachs & Co. LLC and the several Underwriters named therein.",
+                  "Exhibit 1.2": "Underwriting Agreement Standard Provisions (Debt) dated February 18, 2025 (Incorporated by reference to Exhibit 1.2 to the Current Report on Form 8-K filed by the Company with the Securities and Exchange Commission on February 20, 2025).",
+                  "Exhibit 4.1": "Company Order establishing the terms of the Notes.",
+                  "Exhibit 4.2": "Form of 2.700% Notes due 2029.",
+                  "Exhibit 4.3": "Form of 3.050% Notes due 2033.",
+                  "Exhibit 4.4": "Form of 3.350% Notes due 2037.",
+                  "Exhibit 4.5": "Form of 3.600% Notes due 2045.",
+                  "Exhibit 4.6": "Form of 3.700% Notes due 2055.",
+                  "Exhibit 5.1": "Opinion of Weil, Gotshal & Manges LLP.",
+                  "Exhibit 5.2": "Opinion of Troutman Pepper Locke LLP.",
+                  "Exhibit 23.1": "Consent of Weil, Gotshal & Manges LLP (included in Exhibit 5.1 of this Current Report on Form 8-K).",
+                  "Exhibit 23.2": "Consent of Troutman Pepper Locke LLP (included in Exhibit 5.2 of this Current Report on Form 8-K).",
+                  "Exhibit 104": "The cover page of this Current Report on Form 8-K, formatted in Inline XBRL."
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

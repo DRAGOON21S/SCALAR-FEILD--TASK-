@@ -1,0 +1,31 @@
+{
+  "JPMORGAN CHASE & CO.": {
+    "2023": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "On April 20, 2023, JPMorgan Chase & Co. issued a press release announcing its replacement rate for certain outstanding floating rate and fixed-to-floating rate debt securities and certificates of deposit issued by JPMorgan Chase & Co., JPMorgan Chase Financial Company LLC and JPMorgan Chase Bank, N.A. that are linked to U.S. dollar LIBOR ICE Swap Rates of one or more tenors. This announcement applies only to securities and other instruments that are governed by New York law and settle through the facilities of The Depository Trust Company. A copy of the press release referenced above is attached hereto as Exhibit 99.",
+              "subsections": {
+                "announcement_details": "On April 20, 2023, JPMorgan Chase & Co. issued a press release announcing its replacement rate for certain outstanding floating rate and fixed-to-floating rate debt securities and certificates of deposit issued by JPMorgan Chase & Co., JPMorgan Chase Financial Company LLC and JPMorgan Chase Bank, N.A. that are linked to U.S. dollar LIBOR ICE Swap Rates of one or more tenors.",
+                "scope_limitation": "This announcement applies only to securities and other instruments that are governed by New York law and settle through the facilities of The Depository Trust Company.",
+                "exhibit_reference": "A copy of the press release referenced above is attached hereto as Exhibit 99."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits",
+              "subsections": {
+                "exhibits_list": "99 - Press Release of JPMorgan Chase & Co. dated April 20, 2023\n101 - Pursuant to Rule 406 of Regulation S-T, the cover page is formatted in Inline XBRL (Inline eXtensible Business Reporting Language).\n104 - Cover Page Interactive Data File (embedded within the Inline XBRL document)"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

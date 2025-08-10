@@ -1,0 +1,31 @@
+{
+  "JPMORGAN CHASE & CO.": {
+    "2022": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "JPMorgan Chase & Co. (the “Registrant”) and JPMorgan Chase Financial Company LLC (“JPMCFC”) have filed a Registration Statement on Form S-3 (File Nos. 333-236659 and 333-236659-01) under the Securities Act of 1933, as amended, registering, among other securities, (i) JPMCFC’s Global Medium-Term Notes, Series A (the “Notes”), which will be fully and unconditionally guaranteed by the Registrant, that may be offered from time to time and (ii) guarantees of the Notes by the Registrant (the “Guarantees”). A form of Master Note of JPMCFC relating to certain of the Notes and a legal opinion as to the legality of certain of the Notes and any related Guarantees are being filed as exhibits to this report.",
+              "subsections": {}
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits",
+              "subsections": {
+                "Exhibit 4.1": "Form of Master Note of JPMCFC relating to certain of the Notes",
+                "Exhibit 5.1": "Opinion of Davis Polk & Wardwell LLP as to the legality of certain of the Notes and the related Guarantees",
+                "Exhibit 23.1": "Consent of Davis Polk & Wardwell LLP (included in Exhibit 5.1)",
+                "Exhibit 101": "Pursuant to Rule 406 of Regulation S-T, the cover page is formatted in Inline XBRL (Inline eXtensible Business Reporting Language).",
+                "Exhibit 104": "Cover Page Interactive Data File (embedded within the Inline XBRL document)"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

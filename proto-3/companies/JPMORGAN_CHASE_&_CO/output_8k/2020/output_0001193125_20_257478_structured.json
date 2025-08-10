@@ -1,0 +1,35 @@
+{
+  "JPMorgan Chase & Co.": {
+    "2020": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "JPMorgan Chase & Co. (“JPMC”) announced today that it had entered into a resolution with the U.S. Department of Justice (“DOJ”) and, along with JPMorgan Chase Bank, N.A. (the “Bank”) and J.P. Morgan Securities LLC (“JPMS”), entered into a resolution with the U.S. Commodity Futures Trading Commission (“CFTC”). JPMS also entered into a resolution with the U.S. Securities and Exchange Commission (“SEC”). Collectively, these agreements resolve those agencies’ respective investigations relating to historical trading practices by former employees in the precious metals and U.S. treasuries markets and related conduct during the 2008 to 2016 time period. JPMC entered into a Deferred Prosecution Agreement (“DPA”) with DOJ, in which it agreed to the filing of a criminal information charging JPMC with two counts of wire fraud and agreed, along with the Bank and JPMS (together with JPMC, the “Firm”), to certain terms and obligations as set forth therein. Under the terms of the DPA, which will be in effect for three years, the criminal information will be dismissed after three years, provided that the Firm fully complies with all of its obligations. The DOJ acknowledged the Firm’s enhancements to its compliance program and the status of the Firm’s internal controls. Across the three resolutions with the DOJ, CFTC and SEC, the Firm has agreed to pay a total monetary amount of $920,203,609, approximately half of which has been reserved in previous quarters. A portion of the total monetary amount includes victim compensation payments. The complete agreements, including the Firm’s obligations under each, can be accessed at the DOJ, CFTC and SEC websites at www.justice.gov, www.cftc.govand www.sec.gov, respectively. A copy of the Firm’s press release relating to this announcement is attached as Exhibit 99 hereto.",
+              "subsections": {
+                "resolution_parties": "JPMorgan Chase & Co. (“JPMC”) announced today that it had entered into a resolution with the U.S. Department of Justice (“DOJ”) and, along with JPMorgan Chase Bank, N.A. (the “Bank”) and J.P. Morgan Securities LLC (“JPMS”), entered into a resolution with the U.S. Commodity Futures Trading Commission (“CFTC”). JPMS also entered into a resolution with the U.S. Securities and Exchange Commission (“SEC”).",
+                "investigation_scope": "Collectively, these agreements resolve those agencies’ respective investigations relating to historical trading practices by former employees in the precious metals and U.S. treasuries markets and related conduct during the 2008 to 2016 time period.",
+                "deferred_prosecution_agreement": "JPMC entered into a Deferred Prosecution Agreement (“DPA”) with DOJ, in which it agreed to the filing of a criminal information charging JPMC with two counts of wire fraud and agreed, along with the Bank and JPMS (together with JPMC, the “Firm”), to certain terms and obligations as set forth therein. Under the terms of the DPA, which will be in effect for three years, the criminal information will be dismissed after three years, provided that the Firm fully complies with all of its obligations. The DOJ acknowledged the Firm’s enhancements to its compliance program and the status of the Firm’s internal controls.",
+                "monetary_penalty": "Across the three resolutions with the DOJ, CFTC and SEC, the Firm has agreed to pay a total monetary amount of $920,203,609, approximately half of which has been reserved in previous quarters. A portion of the total monetary amount includes victim compensation payments.",
+                "additional_information": "The complete agreements, including the Firm’s obligations under each, can be accessed at the DOJ, CFTC and SEC websites at www.justice.gov, www.cftc.govand www.sec.gov, respectively. A copy of the Firm’s press release relating to this announcement is attached as Exhibit 99 hereto."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits",
+              "subsections": {
+                "Exhibit 99": "JPMorgan Chase & Co. press release dated September 29, 2020",
+                "Exhibit 101": "Pursuant to Rule 406 of Regulation S-T, the cover page is formatted in Inline XBRL (Inline eXtensible Business Reporting Language).",
+                "Exhibit 104": "Cover Page Interactive Data File (embedded within the Inline XBRL document and included in Exhibit 101)."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

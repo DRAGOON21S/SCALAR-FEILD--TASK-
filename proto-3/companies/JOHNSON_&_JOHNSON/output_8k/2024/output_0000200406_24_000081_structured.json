@@ -1,0 +1,27 @@
+{
+  "Johnson & Johnson": {
+    "2024": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.02 - Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers": {
+              "content": "On September 10, 2024, D. S. Davis retired as a Director of Johnson & Johnson after the successful transition of Audit Committee Chair responsibilities to D. Adamczyk. His retirement is for personal reasons and not as a result of any disagreement with management on any matter relating to the Company’s operations, policies, or practices.",
+              "subsections": {}
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "",
+              "subsections": {
+                "(d) Exhibits": "Exhibit No. 104 - Description of Exhibit: The cover page from this Current Report on Form 8-K, formatted in Inline XBRL."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

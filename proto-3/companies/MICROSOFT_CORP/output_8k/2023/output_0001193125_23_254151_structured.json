@@ -1,0 +1,34 @@
+{
+  "MICROSOFT CORPORATION": {
+    "2023": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "On October 11, 2023, Microsoft Corporation announced the receipt of Notices of Proposed Adjustment (“NOPAs”) from the Internal Revenue Service (the “IRS”) for the tax years 2004 to 2013.",
+              "subsections": {
+                "notice_details": "The NOPAs were received on September 26, 2023. The primary issues in the NOPAs relate to intercompany transfer pricing.",
+                "proposed_adjustment": "In the NOPAs, the IRS is seeking an additional tax payment of $28.9 billion plus penalties and interest.",
+                "company_position_and_response": "As of September 30, 2023, we believe our allowances for income tax contingencies are adequate. We disagree with the proposed adjustments and will vigorously contest the NOPAs through the IRS’s administrative appeals office and, if necessary, judicial proceedings.",
+                "outlook": "We do not expect a final resolution of these issues in the next 12 months. Based on the information currently available, we do not anticipate a significant increase or decrease to our tax contingencies for these issues within the next 12 months.",
+                "forward_looking_statements": "This Form 8-K contains forward-looking statements, which are any predictions, projections or other statements about future events based on current expectations and assumptions that are subject to risks and uncertainties, which are described in our filings with the Securities and Exchange Commission. Forward-looking statements speak only as of the date they are made. Readers are cautioned not to put undue reliance on forward-looking statements, and Microsoft undertakes no duty to update any forward-looking statement to conform the statement to actual results or changes in the company’s expectations."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits:",
+              "subsections": {
+                "99.1": "Microsoft on the Issues Blog",
+                "104": "Cover Page Interactive Data File (embedded within the Inline XBRL document)"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

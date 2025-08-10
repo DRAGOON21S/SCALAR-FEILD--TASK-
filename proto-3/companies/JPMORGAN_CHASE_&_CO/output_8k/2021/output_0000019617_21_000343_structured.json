@@ -1,0 +1,30 @@
+{
+  "JPMorgan Chase & Co.": {
+    "2021": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.07 - Submission of Matters to a Vote of Security Holders": {
+              "content": "(a) Registrant held its Annual Meeting of Shareholders on Tuesday, May 18, 2021; 2,592,392,087 shares were represented in person or by proxy, or 85.49% of the total shares outstanding.\n\n(b) The results of the shareholder voting on the proposals presented were as follows:",
+              "subsections": {
+                "management_proposals": "Proposal 1 - Shareholders elected the 10 director nominees named in the Proxy Statement. All director nominees received at least 91.60% of the votes cast.\nName: Linda B. Bammann, For: 2,182,032,775, Against: 50,152,726, Abstain: 3,783,698, Broker Non-Votes: 356,422,888\nName: Stephen B. Burke, For: 2,044,324,200, Against: 187,277,831, Abstain: 4,367,168, Broker Non-Votes: 356,422,888\nName: Todd A. Combs, For: 2,126,399,264, Against: 87,124,483, Abstain: 22,445,452, Broker Non-Votes: 356,422,888\nName: James S. Crown, For: 2,199,113,152, Against: 32,436,748, Abstain: 4,419,299, Broker Non-Votes: 356,422,888\nName: James Dimon, For: 2,039,584,725, Against: 184,498,467, Abstain: 11,886,007, Broker Non-Votes: 356,422,888\nName: Timothy P. Flynn, For: 2,192,947,472, Against: 38,182,268, Abstain: 4,839,459, Broker Non-Votes: 356,422,888\nName: Mellody Hobson, For: 2,064,031,395, Against: 167,973,145, Abstain: 3,964,659, Broker Non-Votes: 356,422,888\nName: Michael A. Neal, For: 2,164,936,647, Against: 66,486,124, Abstain: 4,546,428, Broker Non-Votes: 356,422,888\nName: Phebe N. Novakovic, For: 2,208,361,738, Against: 23,394,791, Abstain: 4,212,670, Broker Non-Votes: 356,422,888\nName: Virginia M. Rometty, For: 2,144,194,807, Against: 87,612,355, Abstain: 4,162,037, Broker Non-Votes: 356,422,888\n\nProposal 2 - Shareholders approved the advisory resolution to approve executive compensation.\nFor: 2,015,111,054 (90.12%), Against: 207,212,021 (9.26%), Abstain: 13,646,124 (0.61%), Broker Non-Votes: 356,422,888\n\nProposal 3 - Shareholders approved the amended and restated long-term incentive plan.\nFor: 2,153,796,667 (96.32%), Against: 73,345,015 (3.28%), Abstain: 8,827,517 (0.39%), Broker Non-Votes: 356,422,888\n\nProposal 4 - Shareholders ratified the appointment of PricewaterhouseCoopers LLP as Registrant's independent registered public accounting firm for 2021.\nFor: 2,465,952,687 (95.12%), Against: 121,379,615 (4.68%), Abstain: 5,059,785 (0.19%), Broker Non-Votes: 0",
+                "shareholder_proposals": "Proposal 5 - Shareholders did not approve the proposal to improve shareholder written consent.\nFor: 1,046,106,545 (46.78%), Against: 1,164,665,182 (52.08%), Abstain: 25,197,472 (1.12%), Broker Non-Votes: 356,422,888\n\nProposal 6 - Shareholders did not approve the proposal on racial equity audit and report.\nFor: 889,953,702 (39.80%), Against: 1,306,263,446 (58.42%), Abstain: 39,752,051 (1.77%), Broker Non-Votes: 356,422,888\n\nProposal 7 - Shareholders did not approve the proposal on independent board chairman.\nFor: 1,063,138,397 (47.54%), Against: 1,163,649,134 (52.04%), Abstain: 9,181,668 (0.41%), Broker Non-Votes: 356,422,888\n\nProposal 8 - Shareholders did not approve the proposal on political and electioneering expenditure and congruency report.\nFor: 660,183,317 (29.52%), Against: 1,543,390,892 (69.02%), Abstain: 32,394,990 (1.44%), Broker Non-Votes: 356,422,888"
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibit",
+              "subsections": {
+                "exhibit_list": "Exhibit No. 101: Pursuant to Rule 406 of Regulation S-T, the cover page is formatted in Inline XBRL (Inline eXtensible Business Reporting Language).\nExhibit No. 104: Cover Page Interactive Data File (embedded within the Inline XBRL document and included in Exhibit 101)."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

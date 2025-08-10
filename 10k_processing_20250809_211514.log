@@ -1,0 +1,115 @@
+2025-08-09 21:15:14,247 - INFO - Starting Auto 10-K Processing - Log file: 10k_processing_20250809_211514.log
+2025-08-09 21:15:14,248 - INFO - 🔍 Searching for 10-K files in: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies
+2025-08-09 21:15:14,248 - INFO -   📁 Scanning company: Apple_Inc
+2025-08-09 21:15:14,249 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Apple_Inc\2020\10-K
+2025-08-09 21:15:14,250 - INFO -       📄 Found filing: output_0000320193_20_000096.txt
+2025-08-09 21:15:14,250 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Apple_Inc\2021\10-K
+2025-08-09 21:15:14,250 - INFO -       📄 Found filing: output_0000320193_21_000105.txt
+2025-08-09 21:15:14,250 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Apple_Inc\2022\10-K
+2025-08-09 21:15:14,251 - INFO -       📄 Found filing: output_0000320193_22_000108.txt
+2025-08-09 21:15:14,251 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Apple_Inc\2023\10-K
+2025-08-09 21:15:14,251 - INFO -       📄 Found filing: output_0000320193_23_000106.txt
+2025-08-09 21:15:14,252 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Apple_Inc\2024\10-K
+2025-08-09 21:15:14,252 - INFO -       📄 Found filing: output_0000320193_24_000123.txt
+2025-08-09 21:15:14,257 - INFO -   📁 Scanning company: DoorDash_Inc
+2025-08-09 21:15:14,258 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\DoorDash_Inc\2021\10-K
+2025-08-09 21:15:14,258 - INFO -       📄 Found filing: output_0001628280_21_004032.txt
+2025-08-09 21:15:14,258 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\DoorDash_Inc\2022\10-K
+2025-08-09 21:15:14,258 - INFO -       📄 Found filing: output_0001628280_22_004350.txt
+2025-08-09 21:15:14,259 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\DoorDash_Inc\2023\10-K
+2025-08-09 21:15:14,259 - INFO -       📄 Found filing: output_0001628280_23_005131.txt
+2025-08-09 21:15:14,259 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\DoorDash_Inc\2024\10-K
+2025-08-09 21:15:14,260 - INFO -       📄 Found filing: output_0001628280_24_005600.txt
+2025-08-09 21:15:14,260 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\DoorDash_Inc\2025\10-K
+2025-08-09 21:15:14,260 - INFO -       📄 Found filing: output_0001628280_25_005715.txt
+2025-08-09 21:15:14,268 - INFO -   📁 Scanning company: JOHNSON_&_JOHNSON
+2025-08-09 21:15:14,268 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JOHNSON_&_JOHNSON\2021\10-K
+2025-08-09 21:15:14,268 - INFO -       📄 Found filing: output_0000200406_21_000008.txt
+2025-08-09 21:15:14,269 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JOHNSON_&_JOHNSON\2022\10-K
+2025-08-09 21:15:14,269 - INFO -       📄 Found filing: output_0000200406_22_000022.txt
+2025-08-09 21:15:14,269 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JOHNSON_&_JOHNSON\2023\10-K
+2025-08-09 21:15:14,269 - INFO -       📄 Found filing: output_0000200406_23_000016.txt
+2025-08-09 21:15:14,270 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JOHNSON_&_JOHNSON\2024\10-K
+2025-08-09 21:15:14,270 - INFO -       📄 Found filing: output_0000200406_24_000013.txt
+2025-08-09 21:15:14,270 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JOHNSON_&_JOHNSON\2025\10-K
+2025-08-09 21:15:14,270 - INFO -       📄 Found filing: output_0000200406_25_000038.txt
+2025-08-09 21:15:14,277 - INFO -   📁 Scanning company: JPMORGAN_CHASE_&_CO
+2025-08-09 21:15:14,277 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JPMORGAN_CHASE_&_CO\2021\10-K
+2025-08-09 21:15:14,277 - INFO -       📄 Found filing: output_0000019617_21_000236.txt
+2025-08-09 21:15:14,278 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JPMORGAN_CHASE_&_CO\2022\10-K
+2025-08-09 21:15:14,278 - INFO -       📄 Found filing: output_0000019617_22_000272.txt
+2025-08-09 21:15:14,278 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JPMORGAN_CHASE_&_CO\2023\10-K
+2025-08-09 21:15:14,279 - INFO -       📄 Found filing: output_0000019617_23_000231.txt
+2025-08-09 21:15:14,279 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JPMORGAN_CHASE_&_CO\2024\10-K
+2025-08-09 21:15:14,280 - INFO -       📄 Found filing: output_0000019617_24_000225.txt
+2025-08-09 21:15:14,280 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\JPMORGAN_CHASE_&_CO\2025\10-K
+2025-08-09 21:15:14,281 - INFO -       📄 Found filing: output_0000019617_25_000270.txt
+2025-08-09 21:15:14,290 - INFO -   📁 Scanning company: Meta_Platforms_Inc
+2025-08-09 21:15:14,291 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Meta_Platforms_Inc\2021\10-K
+2025-08-09 21:15:14,291 - INFO -       📄 Found filing: output_0001326801_21_000014.txt
+2025-08-09 21:15:14,291 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Meta_Platforms_Inc\2022\10-K
+2025-08-09 21:15:14,291 - INFO -       📄 Found filing: output_0001326801_22_000018.txt
+2025-08-09 21:15:14,292 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Meta_Platforms_Inc\2023\10-K
+2025-08-09 21:15:14,292 - INFO -       📄 Found filing: output_0001326801_23_000013.txt
+2025-08-09 21:15:14,292 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Meta_Platforms_Inc\2024\10-K
+2025-08-09 21:15:14,292 - INFO -       📄 Found filing: output_0001326801_24_000012.txt
+2025-08-09 21:15:14,292 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Meta_Platforms_Inc\2025\10-K
+2025-08-09 21:15:14,293 - INFO -       📄 Found filing: output_0001326801_25_000017.txt
+2025-08-09 21:15:14,300 - INFO -   📁 Scanning company: MICROSOFT_CORP
+2025-08-09 21:15:14,301 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\MICROSOFT_CORP\2021\10-K
+2025-08-09 21:15:14,301 - INFO -       📄 Found filing: output_0001564590_21_039151.txt
+2025-08-09 21:15:14,302 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\MICROSOFT_CORP\2022\10-K
+2025-08-09 21:15:14,302 - INFO -       📄 Found filing: output_0001564590_22_026876.txt
+2025-08-09 21:15:14,303 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\MICROSOFT_CORP\2023\10-K
+2025-08-09 21:15:14,303 - INFO -       📄 Found filing: output_0000950170_23_035122.txt
+2025-08-09 21:15:14,304 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\MICROSOFT_CORP\2024\10-K
+2025-08-09 21:15:14,304 - INFO -       📄 Found filing: output_0000950170_24_087843.txt
+2025-08-09 21:15:14,304 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\MICROSOFT_CORP\2025\10-K
+2025-08-09 21:15:14,304 - INFO -       📄 Found filing: output_0000950170_25_100235.txt
+2025-08-09 21:15:14,312 - INFO -   📁 Scanning company: NVIDIA_CORP
+2025-08-09 21:15:14,313 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\NVIDIA_CORP\2021\10-K
+2025-08-09 21:15:14,313 - INFO -       📄 Found filing: output_0001045810_21_000010.txt
+2025-08-09 21:15:14,314 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\NVIDIA_CORP\2022\10-K
+2025-08-09 21:15:14,314 - INFO -       📄 Found filing: output_0001045810_22_000036.txt
+2025-08-09 21:15:14,314 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\NVIDIA_CORP\2023\10-K
+2025-08-09 21:15:14,315 - INFO -       📄 Found filing: output_0001045810_23_000017.txt
+2025-08-09 21:15:14,315 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\NVIDIA_CORP\2024\10-K
+2025-08-09 21:15:14,315 - INFO -       📄 Found filing: output_0001045810_24_000029.txt
+2025-08-09 21:15:14,315 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\NVIDIA_CORP\2025\10-K
+2025-08-09 21:15:14,316 - INFO -       📄 Found filing: output_0001045810_25_000023.txt
+2025-08-09 21:15:14,322 - INFO -   📁 Scanning company: ROKU_INC
+2025-08-09 21:15:14,323 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\ROKU_INC\2021\10-K
+2025-08-09 21:15:14,323 - INFO -       📄 Found filing: output_0001564590_21_009021.txt
+2025-08-09 21:15:14,323 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\ROKU_INC\2022\10-K
+2025-08-09 21:15:14,324 - INFO -       📄 Found filing: output_0001428439_22_000010.txt
+2025-08-09 21:15:14,324 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\ROKU_INC\2023\10-K
+2025-08-09 21:15:14,324 - INFO -       📄 Found filing: output_0001428439_23_000007.txt
+2025-08-09 21:15:14,324 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\ROKU_INC\2024\10-K
+2025-08-09 21:15:14,325 - INFO -       📄 Found filing: output_0001428439_24_000011.txt
+2025-08-09 21:15:14,325 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\ROKU_INC\2025\10-K
+2025-08-09 21:15:14,325 - INFO -       📄 Found filing: output_0001428439_25_000013.txt
+2025-08-09 21:15:14,331 - INFO -   📁 Scanning company: UNITEDHEALTH_GROUP_INC
+2025-08-09 21:15:14,336 - INFO -   📁 Scanning company: Zoom_Communications_Inc
+2025-08-09 21:15:14,337 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Zoom_Communications_Inc\2021\10-K
+2025-08-09 21:15:14,338 - INFO -       📄 Found filing: output_0001585521_21_000048.txt
+2025-08-09 21:15:14,338 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Zoom_Communications_Inc\2022\10-K
+2025-08-09 21:15:14,338 - INFO -       📄 Found filing: output_0001585521_22_000037.txt
+2025-08-09 21:15:14,339 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Zoom_Communications_Inc\2023\10-K
+2025-08-09 21:15:14,339 - INFO -       📄 Found filing: output_0001585521_23_000035.txt
+2025-08-09 21:15:14,339 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Zoom_Communications_Inc\2024\10-K
+2025-08-09 21:15:14,339 - INFO -       📄 Found filing: output_0001585521_24_000030.txt
+2025-08-09 21:15:14,340 - INFO -     📂 Found 10-K directory: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Zoom_Communications_Inc\2025\10-K
+2025-08-09 21:15:14,340 - INFO -       📄 Found filing: output_0001585521_25_000042.txt
+2025-08-09 21:15:14,348 - INFO - ✅ Found 45 10-K filing files total
+2025-08-09 21:15:14,348 - INFO - 🔄 Processing first 1 files only
+2025-08-09 21:15:14,348 - INFO - 🚀 Starting to process 1 10-K filing files
+2025-08-09 21:15:14,349 - INFO - ================================================================================
+2025-08-09 21:15:14,349 - INFO - 
+📊 Progress: 1/1
+2025-08-09 21:15:14,349 - INFO - ------------------------------------------------------------
+2025-08-09 21:15:14,349 - INFO - 📄 Processing: output_0000320193_20_000096.txt
+2025-08-09 21:15:14,350 - INFO -    🏢 Company: Apple_Inc
+2025-08-09 21:15:14,350 - INFO -    📅 Year: 2020
+2025-08-09 21:15:14,486 - INFO - ✅ Successfully processed: output_0000320193_20_000096.txt
+2025-08-09 21:15:14,487 - INFO -     📋 JSON saved to: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Apple_Inc\python_output_10k\2020\output_0000320193_20_000096_structured.json
+2025-08-09 21:15:14,487 - INFO - ✅ File 1/1 completed successfully

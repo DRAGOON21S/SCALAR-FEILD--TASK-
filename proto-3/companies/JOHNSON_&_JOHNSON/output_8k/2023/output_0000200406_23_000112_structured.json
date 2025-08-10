@@ -1,0 +1,27 @@
+{
+  "Johnson & Johnson": {
+    "2023": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "On December 5, 2023, Johnson & Johnson (the Company) will host a meeting with the investment community at the New York Stock Exchange (the Enterprise Business Review) to present the Company’s overarching strategy, its diverse and robust Innovative Medicine and MedTech pipelines and long-term financial outlook. The Company’s press release regarding the Enterprise Business Review is attached to this Report as Exhibit 99.1. Webcast registration and additional materials are available at https://jnjbusinessreview.q4ir.com/.",
+              "subsections": {}
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits.",
+              "subsections": {
+                "Exhibits List": "Exhibit No. 99.1: Press Release dated December 5, 2023. Exhibit No. 104: The cover page from this Current Report on Form 8-K, formatted in Inline XBRL."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

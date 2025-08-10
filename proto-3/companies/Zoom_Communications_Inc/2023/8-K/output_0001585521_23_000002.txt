@@ -1,0 +1,115 @@
+                                                                                                                   
+                                                   UNITED STATES                                                   
+                                                                                                                   
+                                                                                                                   
+                                        SECURITIES AND EXCHANGE COMMISSION                                         
+                                                                                                                   
+                                                                                                                   
+                                              WASHINGTON, D.C. 20549                                               
+                                                                                                                   
+                                                                                                                   
+                                             _________________________                                             
+                                                                                                                   
+                                                                                                                   
+                                                     FORM 8-K                                                      
+                                                                                                                   
+                                                                                                                   
+                                             _________________________                                             
+                                                                                                                   
+                                                                                                                   
+                                                  CURRENT REPORT                                                   
+                                                                                                                   
+                      Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934                       
+                                                                                                                   
+                         Date of Report (Date of earliest event reported): January 4, 2023                         
+                                                                                                                   
+                                             _________________________                                             
+                                                                                                                   
+                                                                                                                   
+                                          Zoom Video Communications, Inc.                                          
+                                                                                                                   
+                              (Exact name of Registrant as Specified in Its Charter)                               
+                                                                                                                   
+                                             _________________________                                             
+                                                                                 
+  Delaware                        001-38865                  61-1648780          
+  (State or Other Jurisdiction    -Commission File Number    -IRS Employer       
+  of Incorporation)                                          Identification No.  
+                                                                                 
+                                                                                                                   
+                                          55 Almaden Boulevard, 6th Floor                                          
+                                                                                                                   
+                                                                                                                   
+                                            San Jose, California 95113                                             
+                                                                                                                   
+                               (Address of principal executive offices and Zip Code)                               
+                                                                                                                   
+                                                  (888) 799-9666                                                   
+                                                                                                                   
+                               (Registrant’s Telephone Number, Including Area Code)                                
+                                                                                                                   
+                                                  Not Applicable                                                   
+                                                                                                                   
+                           (Former Name or Former Address, if Changed Since Last Report)                           
+                                                                                                                   
+                                             _________________________                                             
+                                                                                                                   
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation
+of the registrant under any of the following provisions (see General Instructions A.2. below):
+                                                                                                               
+  ☐    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)                   
+  ☐    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)                  
+  ☐    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  
+  ☐    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  
+                                                                                                               
+Securities registered pursuant to Section 12(b) of the Act:
+                                                                                                            
+  Title of each class                       Trading Symbol(s)    Name of each exchange on which registered  
+  Class A Common Stock, $0.001 par value    ZM                   The Nasdaq Global Select Market            
+  per share                                                                                                 
+                                                                                                            
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the
+Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2
+of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended
+transition period for complying with any new or revised financial accounting standards provided pursuant to Section
+13(a) of the Exchange Act. ☐
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers;
+Compensatory Arrangements of Certain Officers
+                                                                                                                   
+  Director Appointment                                                                                             
+                                                                                                                   
+On January 4, 2023, the board of directors (“Board”) of Zoom Video Communications, Inc. (the “Company”) elected
+Cindy L. Hoots to the Board, effective January 5, 2023. Ms. Hoots was elected as a Class II director for a term
+expiring at the Company’s 2024 annual meeting of stockholders. Ms. Hoots will also serve on the Cybersecurity Risk
+Management Committee of the Board.
+
+Ms. Hoots has served as the Chief Digital Officer and Chief Information Officer at AstraZeneca PLC, a
+pharmaceutical company, since January 2020. From January 2018 to December 2019, she served as Global Vice President
+of Technology of Unilever PLC, a multinational consumer goods company. Prior to joining Unilever, Ms. Hoots served
+as Vice President of Next Generation Products, Commercial and Digital Transformation at British American Tobacco
+plc, a multinational tobacco manufacturing company, from 2016 to 2018. Ms. Hoots received a B.S. in computer
+information systems from DeVry Institute of Technology.
+
+There is no arrangement or understanding between Ms. Hoots and any other persons pursuant to which she was elected
+as a director. Ms. Hoots has no direct or indirect material interest in any transaction required to be disclosed by
+the Company pursuant to Item 404(a) of Regulation S-K. Ms. Hoots will enter into the Company’s standard form of
+indemnification agreement between the Company and its directors and executive officers.
+
+Ms. Hoots will be compensated as a member of the Board under the terms of the Company’s Non-Employee Director
+Compensation Policy.
+                                                                                                                   
+                                                    SIGNATURES                                                     
+                                                                                                                   
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused
+this report to be signed on its behalf by the undersigned hereunto duly authorized.
+                                                                                        
+                            Zoom Video Communications, Inc.                             
+  Dated: January 4, 2023    By:                                /s/ Aparna Bawa          
+ ────────────────────────────────────────────────────────────────────────────────────── 
+                                                               Aparna Bawa              
+                                                               Chief Operating Officer  
+                                                                                        

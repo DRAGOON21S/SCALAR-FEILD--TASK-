@@ -1,0 +1,27 @@
+{
+  "Microsoft Corporation": {
+    "2021": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "On March 2, 2021, Microsoft Corporation (“Microsoft”) issued a press release announcing the early tender results of its previously announced registered exchange offers for certain of its outstanding debt securities (the “Exchange Offers”). On March 2, 2021, Microsoft issued a press release announcing the pricing terms for its Exchange Offers. The press releases are attached as Exhibits 99.1 and 99.2 and are incorporated herein by reference.",
+              "subsections": {}
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits:",
+              "subsections": {
+                "Exhibits List": "99.1 Press Release, dated March 2, 2021, issued by Microsoft Corporation\n99.2 Press Release, dated March 2, 2021, issued by Microsoft Corporation\n104 Cover Page Interactive Data File (embedded within the Inline XBRL document)"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

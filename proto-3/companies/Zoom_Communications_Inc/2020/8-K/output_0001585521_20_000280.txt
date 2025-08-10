@@ -1,0 +1,113 @@
+                                                                                                                   
+                                                   UNITED STATES                                                   
+                                                                                                                   
+                                                                                                                   
+                                        SECURITIES AND EXCHANGE COMMISSION                                         
+                                                                                                                   
+                                                                                                                   
+                                              Washington, D.C. 20549                                               
+                                                                                                                   
+                                                                                                                   
+                                                     FORM 8-K                                                      
+                                                                                                                   
+                                                                                                                   
+                                                  CURRENT REPORT                                                   
+                                                                                                                   
+                                                                                                                   
+                                          Pursuant to Section 13 or 15(d)                                          
+                                                                                                                   
+                                                                                                                   
+                                      of the Securities Exchange Act of 1934                                       
+                                                                                                                   
+                        Date of Report (Date of earliest event reported): October 31, 2020                         
+                                                                                                                   
+                                          ZOOM VIDEO COMMUNICATIONS, INC.                                          
+                                                                                                                   
+                              (Exact name of Registrant as Specified in Its Charter)                               
+                                                                                 
+  Delaware                                    001-38865              61-1648780  
+  (State or Other Jurisdiction                -Commission         -IRS Employer  
+  of Incorporation)                           File Number    Identification No.  
+  55 Almaden Boulevard, 6thFloor                                          95113  
+  San Jose, California                                                           
+  (Address of Principal Executive Offices)                            -Zip Code  
+                                                                                 
+                                                  (888) 799-9666                                                   
+                                                                                                                   
+                               (Registrant’s Telephone Number, Including Area Code)                                
+                                                                                                                   
+                                                  Not Applicable                                                   
+                                                                                                                   
+                           (Former Name or Former Address, if Changed Since Last Report)                           
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation
+of the registrant under any of the following provisions (see General Instructions A.2. below):
+                                                                                                               
+  ☐    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)                   
+  ☐    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)                  
+  ☐    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  
+  ☐    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  
+                                                                                                               
+Securities registered pursuant to Section 12(b) of the Act:
+                                                                                          
+  Title of each class                       Trading      Name of each exchange            
+                                            Symbol(s)    on which registered              
+  Class A Common Stock, $0.001 par value    ZM           The Nasdaq Global Select Market  
+                                                                                          
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the
+Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2
+of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended
+transition period for complying with any new or revised financial accounting standards provided pursuant to Section
+13(a) of the Exchange Act. 
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers;
+Compensatory Arrangements of Certain Officers
+On October 31, 2020, the board of directors (“Board”) of Zoom Video Communications, Inc. (the “Company”) approved
+an increase in the total authorized number of members of the Board to ten directors and elected Janet Napolitano to
+fill the newly created vacancy, effective November 2, 2020. Ms. Napolitano was elected as a Class III director for
+a term expiring at the Company’s 2022 annual meeting of stockholders. Ms. Napolitano is not expected to join any of
+the committees of the Board at this time.
+
+Ms. Napolitano is a professor at the University of California Berkeley’s Goldman School of Public Policy. She
+previously served as President of the University of California from September 2013 until her departure in August
+2020. Prior to her time serving as the President of the University of California, she served as the U.S. Secretary
+of Homeland Security from 2009 to 2013, as governor of the state of Arizona from 2003 to 2009, as attorney general
+of Arizona from 1998 to 2003 and as U.S. attorney for the District of Arizona from 1993 to 1997. Ms. Napolitano
+currently serves on the board of directors of Vir Biotechnology, Inc., a clinical-stage immunology company. Ms.
+Napolitano holds a B.S. in political science from Santa Clara University and a J.D. from the University of Virginia
+School of Law.
+
+There is no arrangement or understanding between Ms. Napolitano and any other persons pursuant to which she was
+elected as a director. Ms. Napolitano has no direct or indirect material interest in any transaction required to be
+disclosed by the Company pursuant to Item 404(a) of Regulation S-K. Ms. Napolitano will enter into the Company’s
+standard from of indemnification agreement between the Company and its directors and executive officers.
+
+Ms. Napolitano will be compensated as a member of the Board under the terms of the Company’s Non-Employee Director
+Compensation Policy.
+
+Ms. Napolitano’s election to the Board is included in the press release attached hereto as Exhibit 99.1.
+                                                                                                                   
+  Item 9.01 Financial Statements and Exhibits.                                                                     
+                                                                                                                   
+                                                        
+  Exhibit No.    Description                            
+  99.1           Press Release dated November 2, 2020.  
+ ────────────────────────────────────────────────────── 
+                                                        
+                                                                                                                   
+                                                    SIGNATURES                                                     
+                                                                                                                   
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused
+this report to be signed on its behalf by the undersigned hereunto duly authorized.
+                                                                                                                   
+  ZOOM VIDEO COMMUNICATIONS, INC.                                                                                  
+                                                                                                                   
+Dated: November 2, 2020
+
+By: /s/ Aparna Bawa
+
+Aparna Bawa
+
+Chief Operating Officer

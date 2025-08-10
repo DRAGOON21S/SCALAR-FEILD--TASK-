@@ -1,0 +1,58 @@
+2025-08-09 18:48:02,728 - INFO - Scanning for 10-K files in: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies
+2025-08-09 18:48:02,728 - INFO - Processing company: Apple_Inc
+2025-08-09 18:48:02,731 - INFO - Processing company: DoorDash_Inc
+2025-08-09 18:48:02,732 - INFO - Processing company: JOHNSON_&_JOHNSON
+2025-08-09 18:48:02,733 - INFO - Processing company: JPMORGAN_CHASE_&_CO
+2025-08-09 18:48:02,735 - INFO - Processing company: Meta_Platforms_Inc
+2025-08-09 18:48:02,737 - INFO - Processing company: MICROSOFT_CORP
+2025-08-09 18:48:02,738 - INFO - Processing company: NVIDIA_CORP
+2025-08-09 18:48:02,740 - INFO - Processing company: ROKU_INC
+2025-08-09 18:48:02,742 - INFO - Processing company: UNITEDHEALTH_GROUP_INC
+2025-08-09 18:48:02,743 - INFO - Processing company: Zoom_Communications_Inc
+2025-08-09 18:48:02,744 - INFO - Found 45 10-K files to process
+2025-08-09 18:48:02,746 - WARNING - Corrupted output file found, will reprocess: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Apple_Inc\output_10k\2020\output_0000320193_20_000096_structured.json
+2025-08-09 18:48:02,747 - WARNING - Corrupted output file found, will reprocess: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Apple_Inc\output_10k\2021\output_0000320193_21_000105_structured.json
+2025-08-09 18:48:02,748 - INFO - Starting processing of 45 files with 1 workers
+2025-08-09 18:48:02,749 - INFO - Processing: Apple_Inc/2020/output_0000320193_20_000096.txt
+2025-08-09 18:57:26,640 - INFO - Progress: 1/45 (2.2%) - Success: 0, Failed: 1
+2025-08-09 18:57:26,641 - INFO - Processing: Apple_Inc/2021/output_0000320193_21_000105.txt
+2025-08-09 19:05:57,105 - INFO - Progress: 2/45 (4.4%) - Success: 0, Failed: 2
+2025-08-09 19:05:57,105 - INFO - Processing: Apple_Inc/2022/output_0000320193_22_000108.txt
+2025-08-09 19:09:19,008 - INFO - Progress: 3/45 (6.7%) - Success: 0, Failed: 3
+2025-08-09 19:09:19,008 - INFO - Processing: Apple_Inc/2023/output_0000320193_23_000106.txt
+2025-08-09 19:16:57,519 - INFO - Progress: 4/45 (8.9%) - Success: 0, Failed: 4
+2025-08-09 19:16:57,519 - INFO - Processing: Apple_Inc/2024/output_0000320193_24_000123.txt
+2025-08-09 19:25:23,611 - INFO - Progress: 5/45 (11.1%) - Success: 0, Failed: 5
+2025-08-09 19:25:23,611 - INFO - Processing: DoorDash_Inc/2021/output_0001628280_21_004032.txt
+2025-08-09 19:35:23,666 - INFO - Progress: 6/45 (13.3%) - Success: 0, Failed: 6
+2025-08-09 19:35:23,666 - INFO - Processing: DoorDash_Inc/2022/output_0001628280_22_004350.txt
+2025-08-09 19:43:15,297 - INFO - Progress: 7/45 (15.6%) - Success: 0, Failed: 7
+2025-08-09 19:43:15,297 - INFO - Processing: DoorDash_Inc/2023/output_0001628280_23_005131.txt
+2025-08-09 19:52:09,485 - INFO - Progress: 8/45 (17.8%) - Success: 0, Failed: 8
+2025-08-09 19:52:09,485 - INFO - Processing: DoorDash_Inc/2024/output_0001628280_24_005600.txt
+2025-08-09 20:13:31,856 - INFO - Progress: 9/45 (20.0%) - Success: 0, Failed: 9
+2025-08-09 20:13:31,857 - INFO - Processing: DoorDash_Inc/2025/output_0001628280_25_005715.txt
+2025-08-09 20:26:07,192 - INFO - Progress: 10/45 (22.2%) - Success: 0, Failed: 10
+2025-08-09 20:26:07,192 - INFO - Processing: JOHNSON_&_JOHNSON/2021/output_0000200406_21_000008.txt
+2025-08-09 20:36:03,495 - INFO - Progress: 11/45 (24.4%) - Success: 0, Failed: 11
+2025-08-09 20:36:03,496 - INFO - Processing: JOHNSON_&_JOHNSON/2022/output_0000200406_22_000022.txt
+2025-08-09 20:46:00,546 - INFO - Progress: 12/45 (26.7%) - Success: 0, Failed: 12
+2025-08-09 20:46:00,547 - INFO - Processing: JOHNSON_&_JOHNSON/2023/output_0000200406_23_000016.txt
+2025-08-09 20:56:00,004 - INFO - Progress: 13/45 (28.9%) - Success: 0, Failed: 13
+2025-08-09 20:56:00,005 - INFO - Processing: JOHNSON_&_JOHNSON/2024/output_0000200406_24_000013.txt
+2025-08-09 21:05:55,518 - INFO - Progress: 14/45 (31.1%) - Success: 0, Failed: 14
+2025-08-09 21:05:55,518 - INFO - Processing: JOHNSON_&_JOHNSON/2025/output_0000200406_25_000038.txt
+2025-08-09 21:15:51,751 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0000019617_21_000236.txt
+2025-08-09 21:15:51,751 - INFO - Progress: 15/45 (33.3%) - Success: 0, Failed: 15
+2025-08-09 22:20:06,888 - INFO - Progress: 16/45 (35.6%) - Success: 0, Failed: 16
+2025-08-09 22:20:06,888 - INFO - Processing: JPMORGAN_CHASE_&_CO/2022/output_0000019617_22_000272.txt
+2025-08-10 15:20:18,919 - INFO - Processing: JPMORGAN_CHASE_&_CO/2023/output_0000019617_23_000231.txt
+2025-08-10 15:20:18,920 - INFO - Progress: 17/45 (37.8%) - Success: 0, Failed: 17
+2025-08-10 15:30:13,793 - INFO - Progress: 18/45 (40.0%) - Success: 0, Failed: 18
+2025-08-10 15:30:13,793 - INFO - Processing: JPMORGAN_CHASE_&_CO/2024/output_0000019617_24_000225.txt
+2025-08-10 15:40:07,749 - INFO - Progress: 19/45 (42.2%) - Success: 0, Failed: 19
+2025-08-10 15:40:07,749 - INFO - Processing: JPMORGAN_CHASE_&_CO/2025/output_0000019617_25_000270.txt
+2025-08-10 15:50:03,140 - INFO - Processing: Meta_Platforms_Inc/2021/output_0001326801_21_000014.txt
+2025-08-10 15:50:03,140 - INFO - Progress: 20/45 (44.4%) - Success: 0, Failed: 20
+2025-08-10 16:02:48,224 - INFO - Processing: Meta_Platforms_Inc/2022/output_0001326801_22_000018.txt
+2025-08-10 16:02:48,224 - INFO - Progress: 21/45 (46.7%) - Success: 0, Failed: 21

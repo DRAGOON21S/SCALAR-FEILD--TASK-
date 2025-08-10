@@ -1,0 +1,49 @@
+{
+  "Zoom Video Communications, Inc.": {
+    "2021": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 1 - Registrant's Business and Operations": {
+          "ITEMS": {
+            "Item 1.01 - Entry into a Material Definitive Agreement": {
+              "content": "On July 16, 2021, Zoom Video Communications, Inc. entered into an Agreement and Plan of Merger with Five9, Inc. and Summer Merger Sub, Inc., a wholly owned subsidiary of Zoom. The agreement outlines the terms for Zoom to acquire Five9.",
+              "subsections": {
+                "Merger Agreement with Five9, Inc.": "Pursuant to the Merger Agreement, Merger Sub will merge with and into Five9, with Five9 surviving the Merger and continuing as a wholly owned subsidiary of Zoom. The Merger Agreement and the transactions have been approved by the boards of directors of both Zoom and Five9. The Five9 board of directors has resolved to recommend that its stockholders approve the transaction.",
+                "Consideration to Five9 Stockholders": "At the Effective Time, each share of Five9 Common Stock will be converted into the right to receive 0.5533 shares of Zoom Class A Common Stock, without interest. Cash will be paid in lieu of any fractional shares. The shares of Zoom Class A Common Stock to be issued will be listed on The Nasdaq Global Select Market. The Merger is intended to qualify as a reorganization for U.S. federal income tax purposes.",
+                "Treatment of Five9 Equity Awards": "At the Effective Time: (1) Each option to purchase Five9 Common Stock held by any former employee or non-employee director will be cancelled, with holders receiving the Merger Consideration for each 'net share'. (2) Each restricted stock unit award held by any non-employee director will vest and be cancelled, with holders receiving the Merger Consideration for each share covered. (3) All other options and restricted stock units will be assumed by Zoom and converted into corresponding awards relating to Zoom Class A Common Stock.",
+                "Conditions to Closing": "The completion of the Merger is subject to customary closing conditions, including: (i) approval by Five9 stockholders; (ii) approval for listing on Nasdaq of the Zoom shares to be issued; (iii) effectiveness of a Form S-4 registration statement; (iv) accuracy of representations and warranties; (v) compliance with covenants; (vi) absence of any law or order prohibiting the Merger; (vii) expiration or termination of the waiting period under the Hart-Scott-Rodino Act and receipt of other regulatory approvals; (viii) receipt of opinions that the Merger will qualify as a tax-free reorganization; and (ix) absence of a material adverse effect with respect to Five9.",
+                "Representations, Warranties and Covenants": "The Merger Agreement contains customary representations, warranties, and covenants by each party, including conduct of business during the pendency of the transaction. Five9 is required not to solicit alternative business combination transactions, subject to certain exceptions.",
+                "Termination Rights": "The Merger Agreement can be terminated under certain circumstances, including if the Merger is not consummated by January 16, 2022 (subject to extensions for regulatory approvals). If Five9's board changes its recommendation or terminates the agreement for a 'superior proposal,' Five9 will be required to pay Zoom a termination fee of $450 million in cash.",
+                "Disclaimer on Agreement Information": "The foregoing description of the Merger Agreement is qualified in its entirety by the full text of the agreement (filed as Exhibit 2.1). The agreement is provided to inform investors of its terms, not to provide other factual information. The representations, warranties, and covenants were made for the benefit of the parties to the agreement and may be subject to limitations and qualifications agreed upon by the parties, including confidential disclosures."
+              }
+            }
+          }
+        },
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "On July 18, 2021, Zoom and Five9 issued a joint press release announcing the execution of the Merger Agreement. This item also includes important information for investors regarding the transaction.",
+              "subsections": {
+                "Joint Press Release": "A copy of the joint press release issued on July 18, 2021, announcing the execution of the Merger Agreement, is furnished as Exhibit 99.1.",
+                "Additional Information and Where to Find It": "Zoom intends to file a registration statement on Form S-4 with the SEC, which will include a proxy statement/prospectus. Security holders are urged to read these documents when they become available as they will contain important information. Documents will be available for free on the SEC's website and on the investor relations sections of Zoom's and Five9's websites.",
+                "Forward-Looking Statements": "This communication contains forward-looking statements about the potential benefits of the proposed transaction, plans, objectives, and the anticipated timing of closing. These statements involve substantial risks and uncertainties. Risks include the ability to consummate the transaction, successfully integrate operations, realize expected synergies, satisfy closing conditions, secure regulatory approvals, and potential disruptions from the transaction. Other risks related to the COVID-19 pandemic, geopolitical events, service performance, security, competition, and other factors are also noted. These risks will be further described in the Form S-4 filing.",
+                "Participants in the Solicitation": "Zoom, Five9, and their respective directors and executive officers may be deemed participants in the solicitation of proxies. Information about these individuals is set forth in the companies' respective Form 10-K and proxy statement filings. Additional information will be available in the proxy statement/prospectus.",
+                "No Offer or Solicitation": "This communication is not an offer to sell or a solicitation of an offer to buy any securities, nor a solicitation of any vote or approval. No offering of securities shall be made except by means of a prospectus meeting the requirements of Section 10 of the Securities Act of 1933."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "This section lists the exhibits filed as part of this Current Report on Form 8-K.",
+              "subsections": {
+                "Exhibits": "Exhibit 2.1: Agreement and Plan of Merger, dated as of July 16, 2021, by and among Zoom Video Communications, Inc., Five9, Inc. and Summer Merger Sub, Inc. (Schedules omitted pursuant to Item 601(b)(2) of Regulation S-K. Zoom agrees to furnish any omitted schedule to the SEC upon request).\nExhibit 99.1: Joint Press Release dated July 18, 2021.\nExhibit 104: Cover Page Interactive Data File (embedded within the Inline XBRL document)."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

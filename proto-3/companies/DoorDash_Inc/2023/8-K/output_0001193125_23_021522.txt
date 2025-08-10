@@ -1,0 +1,63 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 8-K CURRENT REPORT PURSUANT TO SECTION
+13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 Date of Report (Date of Earliest Event Reported): January 30,   
+2023 DoorDash, Inc. (Exact name of registrant as specified in its charter)                                         
+                                                                                                     
+  Delaware                           001-39759                  46-2852392                           
+  (State or other jurisdiction of    -Commission File Number    -I.R.S. Employer Identification No.  
+  incorporation or organization)                                                                     
+                                                                                                     
+303 2nd Street, South Tower, 8th Floor San Francisco, California 94107 (Address of principal executive offices,    
+including zip code) (650) 487-3970 (Registrant’s telephone number, including area code) Not Applicable (Former name
+or former address, if changed since last report) Check the appropriate box below if the Form 8-Kfiling is intended 
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:           
+                                                                                            
+  ☐  Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)  
+                                                                                            
+                                                                                             
+  ☐  Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  
+                                                                                             
+                                                                                                             
+  ☐  Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  
+                                                                                                             
+                                                                                                             
+  ☐  Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  
+                                                                                                             
+Securities registered pursuant to Section 12(b) of the Act:                                                        
+                                                                                                        
+  Title of each class                   Trading Symbol(s)    Name of each exchange on which registered  
+  Class A common stock, par value of    DASH                 New York Stock Exchange                    
+  $0.00001 per share                                                                                    
+                                                                                                        
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the          
+Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2of the Securities Exchange Act of 1934 (17 CFR §240.12b-2).  
+Emerging growth company ☐ If an emerging growth company, indicate by check mark if the registrant has elected not  
+to use the extended transition period for complying with any new or revised financial accounting standards provided
+pursuant to Section 13(a) of the Exchange Act. ☐                                                                   
+                                                                                                                   
+  Item 5.03Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.On January 30, 2023, the       
+  Board of Directors (the “Board”) of DoorDash, Inc. (the “Company”) approved the Company’s Amended and Restated   
+  Bylaws (the “Amended Bylaws”), effective January 30, 2023. The Amended Bylaws incorporate certain amendments to  
+  align the Amended Bylaws with changes to the Delaware General Corporation Law and the laws of the state of       
+  Delaware, including:•provisions relating to the delivery of notices of stockholder meetings and communications   
+  regarding adjourned stockholder meetings;•provisions related to notice of an adjourned stockholder meeting       
+  (particularly in the event of a technical failure at a virtual meeting); and•provisions regarding the            
+  preparation of a stockholder list and provision of such list at the annual meeting of stockholders.The Amended   
+  Bylaws also incorporate certain other amendments, including:•changing certain provisions relating to             
+  stockholder nominations for election as a director to address the universal proxy rules adopted by the           
+  Securities and Exchange Commission;•adjusting language concerning delegation of authority to appoint officers    
+  and authority of officers;•clarifying the Company’s exclusive forum provisions; and•making certain other         
+  clarifying, conforming and ministerial changes.The foregoing description of the Amended Bylaws is qualified in   
+  its entirety by reference to the full text of the Amended Bylaws filed as Exhibit 3.1 to this Current Report on  
+  Form8-K,which is incorporated by reference into this Item 5.03.Item 9.01Financial Statements and Exhibits(d)     
+  Exhibits:ExhibitNo.Description3.1Amended and Restated Bylaws of DoorDash, Inc.104Cover Page Interactive Data     
+  File (embedded within the Inline XBRL document)                                                                  
+                                                                                                                   
+SIGNATURE Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly 
+caused this report to be signed on its behalf by the undersigned hereunto duly authorized.                         
+                                                     
+                            DOORDASH, INC.           
+  Date: February 1, 2023    /s/ Tony Xu              
+ ─────────────────────────────────────────────────── 
+                            Tony Xu                  
+                            Chief Executive Officer  
+                                                     

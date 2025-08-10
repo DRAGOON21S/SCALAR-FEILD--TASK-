@@ -1,0 +1,42 @@
+{
+  "Roku, Inc.": {
+    "2024": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 1 - Registrant's Business and Operations": {
+          "ITEMS": {
+            "Item 1.01 - Entry into a Material Definitive Agreement": {
+              "content": "On September 16, 2024, Roku, Inc. entered into a credit agreement (the “Credit Agreement”). The description of the Credit Agreement in this report is a summary and is qualified in its entirety by the terms of the Credit Agreement attached as Exhibit 10.1.",
+              "subsections": {
+                "parties": "The Credit Agreement is by and among Roku, Inc., as borrower, Purple Tag Enterprises, LLC, Purple Tag Originals, LLC, This Old House Productions, LLC and This Old House Ventures, LLC, as guarantors, the lenders and issuing banks party thereto, and Citibank N.A., as administrative agent.",
+                "facility_details": "The Credit Agreement provides for a five-year revolving credit facility in an aggregate principal amount of up to $300 million, and includes an uncommitted increase option of up to an additional $300 million exercisable upon the satisfaction of certain customary conditions. It also provides for a $100 million sub-facility for the issuance of letters of credit.",
+                "maturity_and_purpose": "The Credit Agreement will mature on September 16, 2029. Extensions of credit under the Agreement may be used for general corporate purposes, including to finance working capital requirements.",
+                "covenants_and_default": "The Credit Agreement contains financial covenants requiring the maintenance of a minimum interest coverage ratio and a maximum total net leverage ratio. It also includes customary events of default and a number of customary affirmative and negative covenants that impose restrictions on indebtedness, liens, fundamental changes, investments, asset dispositions, restricted payments, dividends, and other matters.",
+                "security": "The obligations under the Credit Agreement are secured by substantially all the assets of Roku and its subsidiary guarantors, except for certain customary excluded assets.",
+                "lender_relationships": "Certain lenders under the Credit Agreement and their affiliates have, from time to time, provided investment banking, commercial banking, advisory and other services to Roku and/or its affiliates for which they have received customary fees and commissions and may provide these services in the future."
+              }
+            }
+          }
+        },
+        "Section 2 - Financial Information": {
+          "ITEMS": {
+            "Item 2.03 - Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant": {
+              "content": "The information set forth under Item 1.01 of this Current Report on Form 8-K is incorporated herein by reference.",
+              "subsections": {}
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "List of exhibits filed with this report.",
+              "subsections": {
+                "exhibits_list": "(d) Exhibits.\nExhibit Number 10.1: Credit Agreement, dated as of September 16, 2024, among Roku, Inc., as borrower, Citibank N.A., as administrative agent, and the other credit parties and lenders party thereto.\nExhibit Number 104: Cover Page Interactive Data File (embedded within the Inline XBRL document)."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

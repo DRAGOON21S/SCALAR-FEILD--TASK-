@@ -1,0 +1,32 @@
+{
+  "Meta Platforms, Inc.": {
+    "2024": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.02 - Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers": {
+              "content": "On February 13, 2024, the Board of Directors of Meta Platforms, Inc. elected John Arnold and Hock Tan as members of the Board, effective immediately.",
+              "subsections": {
+                "Board Appointments": "The Board of Directors elected John Arnold and Hock Tan as members of the Board, effective immediately. The Board also appointed Messrs. Arnold and Tan as members of the Audit & Risk Oversight Committee of the Board, effective immediately.",
+                "Director Independence and Compensation": "The Board has determined that each of Messrs. Arnold and Tan qualifies as an independent director under the corporate governance standards of the Nasdaq Stock Market LLC. Each will receive compensation for his service as a non-employee member of the Board as set forth in the Company's Director Compensation Policy.",
+                "Director Arrangements": "There are no arrangements or understandings between either of Messrs. Arnold or Tan and any other person pursuant to which each was selected as a director.",
+                "Related Transactions": "There are no transactions in which the Company is a party and in which Mr. Arnold has a material interest subject to disclosure under Item 404(a) of Regulation S-K. Mr. Tan is the president and chief executive officer of Broadcom Inc. The Company is a party to arrangements with Broadcom for the purchase of component products and for design, development, and engineering services. In 2023, the total amount paid to Broadcom under these arrangements was approximately $500.4 million."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits",
+              "subsections": {
+                "Exhibits List": "Exhibit 99.1: Press release dated February 14, 2024. Exhibit 104: Cover Page Interactive Data File (the cover page XBRL tags are embedded within the inline XBRL document)."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

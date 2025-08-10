@@ -1,0 +1,42 @@
+{
+  "Johnson & Johnson": {
+    "2024": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 2 - Financial Information": {
+          "ITEMS": {
+            "Item 2.02 - Results of Operations and Financial Condition": {
+              "content": "On April 16, 2024, Johnson & Johnson issued the attached press release (Exhibit 99.1) announcing its sales and earnings for the first quarter ended March 31, 2024.",
+              "subsections": {}
+            }
+          }
+        },
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "On April 16, 2024, Johnson & Johnson issued the attached press release (Exhibit 99.3) announcing that its Board of Directors declared a 4.2% increase in the quarterly dividend rate, from $1.19 to $1.24 per share, marking the 62nd year of consecutive increases. At the new rate, the indicated dividend on an annual basis is $4.96 per share compared to the previous rate of $4.76 per share. The next quarterly dividend is payable on June 4, 2024 to shareholders of record as of the close of business on May 21, 2024. The ex-dividend date is May 20, 2024.",
+              "subsections": {
+                "dividend_increase": "The Board of Directors declared a 4.2% increase in the quarterly dividend rate, from $1.19 to $1.24 per share, marking the 62nd year of consecutive increases.",
+                "annual_dividend_rate": "At the new rate, the indicated dividend on an annual basis is $4.96 per share compared to the previous rate of $4.76 per share.",
+                "payment_schedule": "The next quarterly dividend is payable on June 4, 2024 to shareholders of record as of the close of business on May 21, 2024. The ex-dividend date is May 20, 2024."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits.",
+              "subsections": {
+                "exhibit_99.1": "Press Release dated April 16, 2024 for the period ended March 31, 2024",
+                "exhibit_99.2": "Unaudited Comparative Supplementary Sales Data and Condensed Consolidated Statement of Earnings for the fiscal first quarter",
+                "exhibit_99.3": "Press Release dated April 16, 2024",
+                "exhibit_104": "The cover page from this Current Report on Form 8-K, formatted in Inline XBRL."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

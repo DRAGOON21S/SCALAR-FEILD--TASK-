@@ -1,0 +1,30 @@
+{
+  "Johnson & Johnson": {
+    "2024": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 7 - Regulation FD": {
+          "ITEMS": {
+            "Item 7.01 - Regulation FD Disclosure": {
+              "content": "On September 20, 2024, the Company announced that its subsidiary, Red River Talc LLC (“Red River”), filed a voluntary prepackaged Chapter 11 bankruptcy case today in the in U.S. Bankruptcy Court for the Southern District of Texas Houston Division to fully and finally resolve of all current and future claims related to ovarian cancer arising from cosmetic talc litigation against the Company and its affiliates in the United States. Red River filed the bankruptcy case after it received the support of the overwhelming majority (approximately 83%) of the current claimants for the proposed bankruptcy plan (the “Plan”). After extensive negotiations with counsel for claimants who initially opposed the Plan, Red River agreed to increase its contribution to the settlement by $1.75 billion to a present value of approximately $8 billion.",
+              "subsections": {
+                "exhibit_reference": "The press release further discussing this announcement is attached below as Exhibit 99.1."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits.",
+              "subsections": {
+                "exhibit_99.1": "Press Release dated September 20, 2024.",
+                "exhibit_104": "The cover page from this Current Report on Form 8-K, formatted in Inline XBRL."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

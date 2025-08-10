@@ -1,0 +1,41 @@
+{
+  "Johnson & Johnson": {
+    "2022": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 1 - Registrant's Business and Operations": {
+          "ITEMS": {
+            "Item 1.01 - Entry into a Material Definitive Agreement": {
+              "content": "On October 31, 2022, Johnson & Johnson, a New Jersey corporation ('Johnson & Johnson'), entered into an Agreement and Plan of Merger (the 'Merger Agreement') with Athos Merger Sub, Inc., a Delaware corporation and a wholly owned subsidiary of Johnson & Johnson ('Merger Sub'), and ABIOMED, Inc., a Delaware corporation ('ABIOMED').",
+              "subsections": {
+                "agreement_and_plan_of_merger": "Pursuant to the Merger Agreement, Merger Sub has agreed to commence a tender offer (the 'Offer') to acquire all outstanding shares of common stock of ABIOMED for (i) $380.00 per ABIOMED Share in cash (the 'Cash Amount'), plus (ii) one non-tradeable contingent value right per ABIOMED Share (a 'CVR'), representing the right to receive contingent payments of up to $35.00 per share. Merger Sub’s obligation to accept payment is subject to customary conditions, including: (i) a number of shares being tendered that represents at least one share more than 50% of the then-outstanding ABIOMED Shares, (ii) expiration or termination of the waiting period under the Hart-Scott-Rodino Antitrust Improvements Act and other regulatory approvals, and (iii) the absence of any legal impediment. Following the Offer, Merger Sub will merge with and into ABIOMED, with ABIOMED surviving as a wholly owned subsidiary of Johnson & Johnson. At the effective time of the Merger, each outstanding ABIOMED Share will be converted into the right to receive the Offer Price. Each ABIOMED equity-based award will be canceled in exchange for the Cash Amount (less exercise price for options) plus one CVR. The Merger Agreement contains customary representations, warranties, and covenants. ABIOMED has agreed not to solicit other acquisition proposals, subject to certain exceptions. The Merger Agreement has customary termination rights for both parties. If terminated under certain circumstances, including ABIOMED entering into a superior proposal, ABIOMED will be required to pay Johnson & Johnson a termination fee of $550,000,000. The boards of directors of Johnson & Johnson, Merger Sub, and ABIOMED have unanimously approved the agreement.",
+                "contingent_value_rights_agreement": "At or prior to the Offer, Johnson & Johnson and a rights agent will enter into a Contingent Value Rights Agreement (the 'CVR Agreement'). CVRs will be non-transferable, subject to limited exceptions. Each CVR represents the right to receive the following milestone payments: (1) $17.50 per CVR if aggregate worldwide Net Sales of certain ABIOMED products exceed $3,700,000,000 during a specified 2028 measurement period (or $8.75 per CVR if achieved in a later 2029 period). (2) $7.50 per CVR if, on or prior to January 1, 2028, the FDA approves a premarket application for the use of any device in the Impella Product Family in patients with STEMI without cardiogenic shock. (3) $10.00 per CVR upon the earliest achievement of one of the following by December 31, 2029: publication of a Class I recommendation in the ACC/AHA Clinical Practice Guideline based on results from the STEMI DTU™ study, the PROTECT IV study, or the RECOVER IV study. Johnson & Johnson is required to expend an agreed-upon amount towards the achievement of certain milestones but is not otherwise required to undertake efforts to achieve them."
+              }
+            }
+          }
+        },
+        "Section 7 - Regulation FD": {
+          "ITEMS": {
+            "Item 7.01 - Regulation FD Disclosure": {
+              "content": "On November 1, 2022, Johnson & Johnson and ABIOMED issued a joint press release announcing the parties’ entry into the Merger Agreement. A copy of the joint press release is attached hereto as Exhibit 99.1. The information contained in this Item 7.01 and in Exhibit 99.1 of this Report shall not be deemed 'filed' for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the 'Exchange Act'), or otherwise subject to the liabilities of that section, nor shall it be incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing.",
+              "subsections": {
+                "additional_information": "The tender offer described in this communication has not yet commenced. This communication is neither an offer to purchase nor a solicitation of an offer to sell securities. At the time the tender offer is commenced, Johnson & Johnson will cause Merger Sub to file a tender offer statement on Schedule TO with the U.S. Securities and Exchange Commission ('SEC'). Investors and ABIOMED security holders are strongly advised to read the tender offer statement and the related solicitation/recommendation statement on Schedule 14D-9 that will be filed by ABIOMED with the SEC, when they become available, because they will contain important information. These documents will be available at no charge on the SEC’s website at www.sec.gov.",
+                "cautionary_statement_regarding_forward_looking_statements": "This Current Report on Form 8-K contains forward-looking statements regarding the potential acquisition of ABIOMED. The reader is cautioned not to rely on these forward-looking statements. These statements are based on current expectations of future events. If underlying assumptions prove inaccurate or known or unknown risks or uncertainties materialize, actual results could vary materially from the expectations and projections of ABIOMED or Johnson & Johnson. Risks and uncertainties include, but are not limited to: the risk that the closing conditions for the acquisition will not be satisfied; uncertainty as to the percentage of ABIOMED stockholders that will support the proposed transaction; the possibility that the transaction will not be completed in the expected timeframe or at all; potential adverse effects to the businesses of Johnson & Johnson or ABIOMED during the pendency of the transaction; the risk of stockholder litigation; the potential that the expected benefits and opportunities of the acquisition may not be realized or may take longer to realize than expected; challenges inherent in product research and development; manufacturing difficulties and delays; competition; changes to applicable laws and regulations; and trends toward health care cost containment. A further list and descriptions of these risks, uncertainties and other factors can be found in Johnson & Johnson’s Annual Report on Form 10-K for the fiscal year ended January 2, 2022, and in subsequent filings with the SEC. Johnson & Johnson does not undertake to update any forward-looking statement."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits.",
+              "subsections": {
+                "exhibits_list": "Exhibit 2.1: Agreement and Plan of Merger, dated as of October 31, 2022, by and among Johnson & Johnson, Athos Merger Sub, Inc. and ABIOMED, Inc. \nExhibit 99.1: Joint Press Release, dated as of November 1, 2022, issued by Johnson & Johnson and ABIOMED, Inc. \n*Certain exhibits and schedules have been omitted pursuant to Item 601(b)(2) of Regulation S-K. Johnson & Johnson hereby undertakes to furnish supplemental copies of any of the omitted exhibits and schedules upon request by the SEC."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

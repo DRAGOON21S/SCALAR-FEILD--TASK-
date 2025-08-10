@@ -1,0 +1,27 @@
+{
+  "Johnson & Johnson": {
+    "2020": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "Exhibit 4.1 to this Current Report on Form 8-K sets forth a description of Johnson & Johnson’s securities registered under Section 12 of the Securities Exchange Act of 1934, as amended.",
+              "subsections": {}
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits.",
+              "subsections": {
+                "Exhibits": "Exhibit No. 4.1: Description of Securities Registered Pursuant to Section 12 of the Securities Exchange Act of 1934\nExhibit No. 104: The cover page from this Current Report on Form 8-K, formatted in Inline XBRL"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

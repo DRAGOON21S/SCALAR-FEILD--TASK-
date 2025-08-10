@@ -1,0 +1,29 @@
+{
+  "Johnson & Johnson": {
+    "2023": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 2 - Financial Information": {
+          "ITEMS": {
+            "Item 2.02 - Results of Operations and Financial Condition": {
+              "content": "Johnson & Johnson completed an exchange offer to finalize the separation of Kenvue Inc. (the \"Kenvue Separation\"). On August 30, 2023, Johnson & Johnson issued the attached press release (Exhibit 99.1) providing updated financials and 2023 guidance following completion of the Kenvue Separation.",
+              "subsections": {}
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits.",
+              "subsections": {
+                "Exhibit 99.1": "Press Release dated August 30, 2023",
+                "Exhibit 99.2": "Updated Financial Data",
+                "Exhibit 104": "The cover page from this Current Report on Form 8-K, formatted in Inline XBRL."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

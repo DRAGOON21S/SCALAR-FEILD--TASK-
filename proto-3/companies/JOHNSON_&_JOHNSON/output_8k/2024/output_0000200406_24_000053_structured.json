@@ -1,0 +1,31 @@
+{
+  "Johnson & Johnson": {
+    "2024": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "This item details the final steps in the separation of Johnson & Johnson's Consumer Health business, Kenvue Inc., culminating in the complete disposition of Johnson & Johnson's ownership stake.",
+              "subsections": {
+                "Background": "In November 2021, Johnson & Johnson (the “Company”) announced its intention to separate its Consumer Health business, creating a new public company (subsequently named Kenvue Inc. (“Kenvue”)).",
+                "Initial Public Offering and Exchange Offer": "On May 8, 2023, Kenvue completed an initial public offering (the “IPO”) of 198,734,444 shares of its common stock at $22.00 per share, generating net proceeds of $4.2 billion for the Company. Post-IPO, the Company owned approximately 89.6% of Kenvue's outstanding common stock. On August 23, 2023, the Company completed an exchange offer, disposing of 1,533,830,450 Kenvue shares (80.1% of outstanding Kenvue stock) in exchange for 190,955,436 shares of Johnson & Johnson's common stock. Following this exchange, the Company's ownership in Kenvue was reduced to approximately 9.5%.",
+                "Final Disposition via Debt-for-Equity Exchange": "On May 15, 2024, the Company issued $3.6 billion in commercial paper. On May 17, 2024, the Company completed a Debt-for-Equity Exchange, trading its remaining 182,329,550 shares of Kenvue Common Stock for the outstanding Commercial Paper. Upon completion of this exchange, the Commercial Paper was satisfied and discharged, and the Company no longer owns any shares of Kenvue Common Stock."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits.",
+              "subsections": {
+                "Exhibit List": "Exhibit No. 104: The cover page from this Current Report on Form 8-K, formatted in Inline XBRL."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

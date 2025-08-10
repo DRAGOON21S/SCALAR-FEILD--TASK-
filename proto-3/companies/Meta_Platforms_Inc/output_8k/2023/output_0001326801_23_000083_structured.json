@@ -1,0 +1,41 @@
+{
+  "Meta Platforms, Inc.": {
+    "2023": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.07 - Submission of Matters to a Vote of Security Holders": {
+              "content": "On May 31, 2023, Meta Platforms, Inc. (the \"Company\") held its annual meeting of shareholders via live audio webcast (the \"Annual Meeting\"). At the Annual Meeting, the Company's shareholders voted on thirteen proposals. At the beginning of the Annual Meeting, there were 1,754,606,529 shares of Class A common stock and 3,502,603,040 shares of Class B common stock present or represented by proxy, which represented 91.90% of the combined voting power of the shares entitled to vote and constituted a quorum. Holders of the Company's Class A common stock were entitled to one vote for each share held as of the close of business on April 6, 2023 (the \"Record Date\"), and holders of the Company's Class B common stock were entitled to ten votes for each share held as of the Record Date.",
+              "subsections": {
+                "Proposal 1: Election of Directors": "To elect nine directors, each to serve until the next annual meeting of shareholders and until his or her successor has been elected and qualified, or until his or her earlier death, resignation, or removal.\n\nVoting Results:\n- Peggy Alford: For: 4,397,201,474, Withheld: 638,028,279, Broker Non-Votes: 223,805,267\n- Marc L. Andreessen: For: 4,562,109,965, Withheld: 473,119,788, Broker Non-Votes: 223,805,267\n- Andrew W. Houston: For: 4,575,049,246, Withheld: 460,180,507, Broker Non-Votes: 223,805,267\n- Nancy Killefer: For: 4,988,759,917, Withheld: 46,469,836, Broker Non-Votes: 223,805,267\n- Robert M. Kimmitt: For: 4,905,696,922, Withheld: 129,532,831, Broker Non-Votes: 223,805,267\n- Sheryl K. Sandberg: For: 4,995,842,498, Withheld: 39,387,255, Broker Non-Votes: 223,805,267\n- Tracey T. Travis: For: 4,886,849,193, Withheld: 148,380,560, Broker Non-Votes: 223,805,267\n- Tony Xu: For: 4,588,903,919, Withheld: 446,325,834, Broker Non-Votes: 223,805,267\n- Mark Zuckerberg: For: 4,628,709,257, Withheld: 406,520,496, Broker Non-Votes: 223,805,267\n\nOutcome: Each of the nine nominees for director was elected.",
+                "Proposal 2: Ratification of Appointment of Independent Registered Public Accounting Firm": "To ratify the appointment of Ernst & Young LLP as the Company's independent registered public accounting firm for the fiscal year ending December 31, 2023.\n\nVoting Results:\n- For: 5,176,904,631\n- Against: 78,164,976\n- Abstentions: 3,965,413\nThere were no broker non-votes on this proposal.\n\nOutcome: The shareholders ratified the appointment of Ernst & Young LLP.",
+                "Proposal 3: Shareholder Proposal Regarding Government Takedown Requests": "A shareholder proposal regarding government takedown requests.\n\nVoting Results:\n- For: 21,161,618\n- Against: 4,997,674,459\n- Abstentions: 16,393,676\n- Broker Non-Votes: 223,805,267\n\nOutcome: The shareholders did not approve the proposal.",
+                "Proposal 4: Shareholder Proposal Regarding Dual Class Capital Structure": "A shareholder proposal regarding dual class capital structure.\n\nVoting Results:\n- For: 1,406,841,369\n- Against: 3,621,542,306\n- Abstentions: 6,846,078\n- Broker Non-Votes: 223,805,267\n\nOutcome: The shareholders did not approve the proposal.",
+                "Proposal 5: Shareholder Proposal Regarding Human Rights Impact Assessment of Targeted Advertising": "A shareholder proposal regarding human rights impact assessment of targeted advertising.\n\nVoting Results:\n- For: 845,051,262\n- Against: 4,119,907,712\n- Abstentions: 70,270,779\n- Broker Non-Votes: 223,805,267\n\nOutcome: The shareholders did not approve the proposal.",
+                "Proposal 6: Shareholder Proposal Regarding Report on Lobbying Disclosures": "A shareholder proposal regarding report on lobbying disclosures.\n\nVoting Results:\n- For: 731,006,998\n- Against: 4,289,286,570\n- Abstentions: 14,936,185\n- Broker Non-Votes: 223,805,267\n\nOutcome: The shareholders did not approve the proposal.",
+                "Proposal 7: Shareholder Proposal Regarding Report on Allegations of Political Entanglement and Content Management Biases in India": "A shareholder proposal regarding report on allegations of political entanglement and content management biases in India.\n\nVoting Results:\n- For: 228,827,965\n- Against: 4,738,909,941\n- Abstentions: 67,491,847\n- Broker Non-Votes: 223,805,267\n\nOutcome: The shareholders did not approve the proposal.",
+                "Proposal 8: Shareholder Proposal Regarding Report on Framework to Assess Company Lobbying Alignment with Climate Goals": "A shareholder proposal regarding report on framework to assess company lobbying alignment with climate goals.\n\nVoting Results:\n- For: 492,189,469\n- Against: 4,527,617,352\n- Abstentions: 15,422,932\n- Broker Non-Votes: 223,805,267\n\nOutcome: The shareholders did not approve the proposal.",
+                "Proposal 9: Shareholder Proposal Regarding Report on Reproductive Rights and Data Privacy": "A shareholder proposal regarding report on reproductive rights and data privacy.\n\nVoting Results:\n- For: 481,236,650\n- Against: 4,527,112,583\n- Abstentions: 26,880,520\n- Broker Non-Votes: 223,805,267\n\nOutcome: The shareholders did not approve the proposal.",
+                "Proposal 10: Shareholder Proposal Regarding Report on Enforcement of Community Standards and User Content": "A shareholder proposal regarding report on enforcement of Community Standards and user content.\n\nVoting Results:\n- For: 359,502,758\n- Against: 4,658,516,757\n- Abstentions: 17,210,238\n- Broker Non-Votes: 223,805,267\n\nOutcome: The shareholders did not approve the proposal.",
+                "Proposal 11: Shareholder Proposal Regarding Report on Child Safety Impacts and Actual Harm Reduction to Children": "A shareholder proposal regarding report on child safety impacts and actual harm reduction to children.\n\nVoting Results:\n- For: 817,020,915\n- Against: 4,202,589,505\n- Abstentions: 15,619,333\n- Broker Non-Votes: 223,805,267\n\nOutcome: The shareholders did not approve the proposal.",
+                "Proposal 12: Shareholder Proposal Regarding Report on Pay Calibration to Externalized Costs": "A shareholder proposal regarding report on pay calibration to externalized costs.\n\nVoting Results:\n- For: 359,570,618\n- Against: 4,662,026,384\n- Abstentions: 13,632,751\n- Broker Non-Votes: 223,805,267\n\nOutcome: The shareholders did not approve the proposal.",
+                "Proposal 13: Shareholder Proposal Regarding Performance Review of the Audit & Risk Oversight Committee": "A shareholder proposal regarding performance review of the audit & risk oversight committee.\n\nVoting Results:\n- For: 333,995,525\n- Against: 4,687,312,553\n- Abstentions: 13,921,675\n- Broker Non-Votes: 223,805,267\n\nOutcome: The shareholders did not approve the proposal."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "",
+              "subsections": {
+                "d_Exhibits": "Exhibit Number: 104, Exhibit Title or Description: Cover Page Interactive Data File (the cover page XBRL tags are embedded within the inline XBRL document)"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "Johnson & Johnson": {
+    "2024": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.03 - Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year": {
+              "content": "On April 25, 2024, the Board of Directors (the “Board”) of Johnson & Johnson (the “Company”) approved and adopted amended and restated by-laws of the Company (the “Amended and Restated By-Laws”), effective as of such date.",
+              "subsections": {
+                "summary_of_amendments": "Among other updates, the Amended and Restated By-Laws: update and expand the procedural and informational requirements for a shareholder request to call a special meeting; update provisions relating to the adjournment, postponement and conduct of shareholder meetings, including memorializing the Chair and Board’s authority to adjourn or postpone meetings and set forth rules for the conduct of meetings; clarify the applicable voting standard at meetings of shareholders for matters other than the election of directors, consistent with the New Jersey Business Corporation Act; update and expand the procedural and informational requirements for director nominations and other proposals submitted by shareholders under the Company’s “advance notice” provisions, including updates to reflect the SEC’s adoption of “universal proxy” rules as set forth in Rule 14a-19 under the Securities Exchange Act of 1934, as amended; update and expand the procedural and information requirements for director nominations submitted by shareholders under the Company’s “proxy access” provisions; clarify that, unless the Board otherwise designates, the Chief Executive Officer of the Company also serves as the President of the Company; update the Company’s director and officer indemnification provisions; and make other non-substantive and conforming revisions and clarifications.",
+                "exhibit_reference": "The foregoing description does not purport to be complete and is qualified in its entirety by reference to the full text of the Amended and Restated By-Laws, a copy of which is attached as Exhibit 3.1 hereto and incorporated herein by reference."
+              }
+            },
+            "Item 5.07 - Submission of Matters to a Vote of Security Holders": {
+              "content": "(a) The 2024 Annual Meeting of Shareholders of the Company was held on April 25, 2024.\n(b) At the 2024 Annual Meeting of Shareholders, the shareholders: elected all 13 Director nominees named in the 2024 Proxy Statement to the Company’s Board of Directors; approved, on an advisory basis, the executive compensation philosophy, policies and procedures described in the “Compensation Discussion and Analysis” section of the 2024 Proxy Statement and the compensation of the Company’s executive officers named in the 2024 Proxy Statement, as disclosed therein; ratified the appointment of PricewaterhouseCoopers LLP as the Company’s independent registered public accounting firm for the fiscal year 2024; and did not approve the shareholder proposal for a gender-based compensation gaps and associated risks.",
+              "subsections": {
+                "voting_results_introduction": "The following are the final voting results for each of the four items voted on at the meeting.",
+                "election_of_directors": "1. Election of Directors:\n                         Shares For    Shares Against    Shares Abstain      Non-Votes\n  D. Adamczyk         1,656,623,584        18,925,478         4,373,721    338,170,891\n  M. C. Beckerle      1,663,236,710        12,988,890         3,697,183    338,170,891\n  D. S. Davis         1,637,607,236        38,041,198         4,274,349    338,170,891\n  J. A. Doudna        1,663,406,168        12,832,643         3,683,972    338,170,891\n  J. Duato            1,561,512,061       109,541,207         8,869,515    338,170,891\n  M. A. Hewson        1,631,542,950        44,419,702         3,960,131    338,170,891\n  P. A. Johnson       1,662,656,052        13,581,894         3,684,837    338,170,891\n  H. Joly             1,656,506,211        19,141,858         4,274,714    338,170,891\n  M. B. McClellan     1,661,933,030        13,974,677         4,015,076    338,170,891\n  A. M. Mulcahy       1,624,143,536        52,044,434         3,734,813    338,170,891\n  M. A. Weinberger    1,651,183,425        24,483,916         4,255,442    338,170,891\n  N. Y. West          1,666,853,163         9,240,391         3,829,229    338,170,891\n  E. A. Woods         1,665,190,129        10,460,172         4,272,482    338,170,891",
+                "advisory_vote_on_executive_compensation": "2. Advisory vote to approve named executive officer compensation (Say on Pay):\n  For                        Against       Abstained         Non-Votes\n  1,511,199,544.00    159,356,373.00    9,366,866.00    338,170,891.00",
+                "ratification_of_accountant": "3. Ratification of appointment of PricewaterhouseCoopers LLP as the Company’s independent registered public accounting firm for 2024:\n  For                        Against       Abstained    Non-Votes\n  1,896,186,129.00    117,320,388.00    4,587,157.00            0",
+                "shareholder_proposal_gender_pay_gap": "4. Shareholder Proposal - gender-based compensation gaps and associated risks:\n  For                       Against        Abstained         Non-Votes\n  64,871,020.00    1,595,866,856.00    19,184,907.00    338,170,891.00"
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits",
+              "subsections": {
+                "exhibit_3_1": "Amended and Restated By-Laws, effective April 25, 2024",
+                "exhibit_104": "The cover page from this Current Report on Form 8-K, formatted in Inline XBRL."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

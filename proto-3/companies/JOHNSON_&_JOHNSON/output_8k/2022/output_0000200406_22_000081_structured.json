@@ -1,0 +1,29 @@
+{
+  "Johnson & Johnson": {
+    "2022": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 2 - Financial Information": {
+          "ITEMS": {
+            "Item 2.02 - Results of Operations and Financial Condition": {
+              "content": "On October 18, 2022, Johnson & Johnson issued the attached press release announcing its sales and earnings for the third quarter ended October 2, 2022.",
+              "subsections": {}
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits.",
+              "subsections": {
+                "Exhibit 99.1": "Press Release dated October 18, 2022 for the period ended October 2, 2022",
+                "Exhibit 99.2": "Unaudited Comparative Supplementary Sales Data and Condensed Consolidated Statement of Earnings for the third quarter",
+                "Exhibit 104": "The cover page from this Current Report on Form 8-K, formatted in Inline XBRL."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

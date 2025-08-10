@@ -1,0 +1,31 @@
+{
+  "Zoom Video Communications, Inc.": {
+    "2024": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.02 - Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers": {
+              "content": "On October 1, 2024, Zoom Video Communications, Inc. (the “Company”) announced the appointment of Michelle Chang as the Company’s Chief Financial Officer, effective on or about October 7, 2024 (the “Effective Date”). Kelly Steckelberg will continue to serve as the Company’s Chief Financial Officer until the Effective Date, upon which time she will transition to an advisory role.",
+              "subsections": {
+                "Appointee Biography": "Ms. Chang, 50, has served as the Chief Financial Officer and Corporate Vice President of the Commercial Sales and Partner Organization at Microsoft Corporation (“Microsoft”), a technology company, from August 2022 until October 2024. Ms. Chang has spent over 20 years with Microsoft, and prior to her latest role, held multiple leadership positions, including as Chief Financial Officer of Modern Workplace and Security from November 2017 to August 2022. Ms. Chang holds a B.A. in Business-Accounting from the University of Washington.",
+                "Compensatory Arrangements": "In connection with her appointment, the Company and Ms. Chang have entered into an offer letter (the “Offer Letter”), which provides for an annual base salary of $580,000 and a target annual bonus equal to 90% of her base salary, which will be prorated for fiscal year 2025. The Offer Letter also provides for an initial grant of restricted stock units with a target value of $23.6 million (“RSUs”). The RSUs will vest over a four-year period, with 25% of the RSUs vesting upon the one-year anniversary of the grant date, and an additional 6.25% of the RSUs vesting each quarter thereafter, subject to Ms. Chang’s continued service with the Company through each such vesting date. Ms. Chang will also be eligible for severance and change in control benefits under the terms and conditions of the Company’s Severance and Change in Control Plan. Ms. Chang has entered into the Company’s standard form of indemnification agreement between the Company and its directors and executive officers.",
+                "Reference to Exhibit": "The foregoing description of the Offer Letter is qualified in its entirety by reference to the Offer Letter, a copy of which is filed as Exhibit 10.1 to this Current Report on Form 8-K."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits",
+              "subsections": {
+                "Exhibit List": "Exhibit No. 10.1: Offer Letter between Zoom Video Communications, Inc. and Michelle Chang, dated September 25, 2024\nExhibit No. 104: Cover Page Interactive Data File (embedded within the Inline XBRL document)"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

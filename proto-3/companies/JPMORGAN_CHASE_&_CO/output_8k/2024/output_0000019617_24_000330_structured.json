@@ -1,0 +1,34 @@
+{
+  "JPMorgan Chase & Co.": {
+    "2024": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "On May 6, 2024, JPMorgan Chase & Co. (“the Firm”) announced that Visa Inc. accepted the Firm’s tender of its 37.2 million shares of Visa Class B-1 common stock in exchange for a combination of Visa Class B-2 common stock and Visa Class C common stock. Visa’s acceptance has resulted in a gain for the Firm of approximately $8 billion relating to the Visa Class C common stock, which is held at fair value. The Visa Class B-2 common stock is held at the nominal carryover basis of the tendered Visa Class B-1 common stock. Refer to pages 8 and 100 of JPMorgan Chase’s Quarterly Report on Form 10-Q for the quarter ended March 31, 2024 for further information. The Firm intends to donate a portion of the Visa Class C common stock with a value of approximately $1 billion to the JPMorgan Chase Foundation. This donation will be recorded in non-compensation expense in 2024 and is expected to prefund the Firm’s anticipated contributions to the Foundation for the next several years. A copy of the Firm’s press release relating to this announcement is attached as Exhibit 99 hereto.",
+              "subsections": {
+                "visa_transaction": "On May 6, 2024, JPMorgan Chase & Co. announced that Visa Inc. accepted the Firm’s tender of its 37.2 million shares of Visa Class B-1 common stock in exchange for a combination of Visa Class B-2 common stock and Visa Class C common stock.",
+                "financial_gain": "Visa’s acceptance has resulted in a gain for the Firm of approximately $8 billion relating to the Visa Class C common stock, which is held at fair value. The Visa Class B-2 common stock is held at the nominal carryover basis of the tendered Visa Class B-1 common stock.",
+                "charitable_donation": "The Firm intends to donate a portion of the Visa Class C common stock with a value of approximately $1 billion to the JPMorgan Chase Foundation. This donation will be recorded in non-compensation expense in 2024 and is expected to prefund the Firm’s anticipated contributions to the Foundation for the next several years.",
+                "reference_document": "Refer to pages 8 and 100 of JPMorgan Chase’s Quarterly Report on Form 10-Q for the quarter ended March 31, 2024 for further information."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits",
+              "subsections": {
+                "exhibit_99": "JPMorgan Chase & Co. press release dated May 6, 2024.",
+                "exhibit_101": "Pursuant to Rule 406 of Regulation S-T, the cover page is formatted in Inline XBRL (Inline eXtensible Business Reporting Language).",
+                "exhibit_104": "Cover Page Interactive Data File (embedded within the Inline XBRL document and included in Exhibit 101)."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "JPMorgan Chase & Co.": {
+    "2024": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "On March 21, 2024, JPMorgan Chase & Co. issued a press release announcing that on April 30, 2024 it will redeem all of the 1,000,000 outstanding depositary shares, each representing a one-tenth interest in a share of JPMorgan Chase & Co.’s Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series U (the “Series U Preferred Stock”), and on May 1, 2024 it will redeem all of the 1,500,000 outstanding depositary shares, each representing a one-tenth interest in a share of JPMorgan Chase & Co.’s Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series Q (the “Series Q Preferred Stock”), all of the 1,500,000 outstanding depositary shares, each representing a one-tenth interest in a share of JPMorgan Chase & Co.’s Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series R (the “Series R Preferred Stock”), and all of the 2,000,000 outstanding depositary shares, each representing a one-tenth interest in a share of JPMorgan Chase & Co.’s Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series S (the “Series S Preferred Stock”), in each case pursuant to the optional redemption provisions in the documents governing such depositary shares and the Series U Preferred Stock, the Series Q Preferred Stock, the Series R Preferred Stock and the Series S Preferred Stock. A copy of the press release referenced above is attached hereto as Exhibit 99.",
+              "subsections": {
+                "announcement_summary": "On March 21, 2024, JPMorgan Chase & Co. issued a press release announcing the redemption of several series of its Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock.",
+                "series_u_redemption": "On April 30, 2024, the company will redeem all 1,000,000 outstanding depositary shares of its Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series U.",
+                "series_q_redemption": "On May 1, 2024, the company will redeem all 1,500,000 outstanding depositary shares of its Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series Q.",
+                "series_r_redemption": "On May 1, 2024, the company will redeem all 1,500,000 outstanding depositary shares of its Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series R.",
+                "series_s_redemption": "On May 1, 2024, the company will redeem all 2,000,000 outstanding depositary shares of its Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series S.",
+                "redemption_terms": "Each redemption is pursuant to the optional redemption provisions in the governing documents for the depositary shares and the respective Preferred Stock series. Each depositary share represents a one-tenth interest in a share of the respective preferred stock series.",
+                "exhibit_reference": "A copy of the press release is attached as Exhibit 99."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits\n99 JPMorgan Chase & Co. press release dated March 21, 2024.\n101 Pursuant to Rule 406 of Regulation S-T, the cover page is formatted in Inline XBRL (Inline eXtensible Business Reporting Language).\n104 Cover Page Interactive Data File (embedded within the Inline XBRL document).",
+              "subsections": {
+                "exhibit_99": "JPMorgan Chase & Co. press release dated March 21, 2024.",
+                "exhibit_101": "Pursuant to Rule 406 of Regulation S-T, the cover page is formatted in Inline XBRL (Inline eXtensible Business Reporting Language).",
+                "exhibit_104": "Cover Page Interactive Data File (embedded within the Inline XBRL document)."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

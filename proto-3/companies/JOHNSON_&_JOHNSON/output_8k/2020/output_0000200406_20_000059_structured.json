@@ -1,0 +1,21 @@
+{
+  "Johnson & Johnson": {
+    "2020": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "As previously disclosed in Johnson & Johnson’s (the “Company”) most recent Form 10-Q, filed with the Securities and Exchange Commission on October 23, 2020, the Missouri Court of Appeals reversed in part and affirmed in part a July 2018 verdict of $4.7 billion, reducing the award to $2.1 billion regarding certain talc cases (the “Ingham verdict”). At that time, the Company filed an application for a transfer of the case to the Missouri Supreme Court. On November 3, 2020 the Missouri Supreme Court announced its decision not to hear the Company’s appeal of the Ingham verdict. As a result, the Company will record a reserve of approximately $2.1 billion, (excluding interest) consistent with the Ingham verdict, which will be reflected in its 2020 fiscal year-end results. The Company will continue to challenge the Ingham verdict by petitioning the United States Supreme Court for review.",
+              "subsections": {
+                "background_on_ingham_verdict": "As previously disclosed in Johnson & Johnson’s (the “Company”) most recent Form 10-Q, filed with the Securities and Exchange Commission on October 23, 2020, the Missouri Court of Appeals reversed in part and affirmed in part a July 2018 verdict of $4.7 billion, reducing the award to $2.1 billion regarding certain talc cases (the “Ingham verdict”). At that time, the Company filed an application for a transfer of the case to the Missouri Supreme Court.",
+                "court_decision_and_financial_impact": "On November 3, 2020 the Missouri Supreme Court announced its decision not to hear the Company’s appeal of the Ingham verdict. As a result, the Company will record a reserve of approximately $2.1 billion, (excluding interest) consistent with the Ingham verdict, which will be reflected in its 2020 fiscal year-end results.",
+                "future_actions": "The Company will continue to challenge the Ingham verdict by petitioning the United States Supreme Court for review."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

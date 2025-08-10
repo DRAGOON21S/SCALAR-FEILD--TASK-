@@ -1,0 +1,51 @@
+{
+  "Zoom Video Communications, Inc.": {
+    "2023": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 2 - Financial Information": {
+          "ITEMS": {
+            "Item 2.05 - Costs Associated with Exit or Disposal Activities": {
+              "content": "On February 7, 2023, Zoom Video Communications, Inc. (the “Company”) announced a restructuring plan (the “Plan”) intended to reduce operating costs and continue advancing the Company’s ongoing commitment to profitable growth. The Plan includes a reduction of the Company’s current workforce by approximately 15 percent.",
+              "subsections": {
+                "estimated_charges": "The Company estimates that it will incur approximately $50 million to $68 million in charges in connection with the Plan, which will be substantially incurred in the first quarter of fiscal 2024. These charges primarily relate to employee transition, severance payments, employee benefits, and stock-based compensation.",
+                "cash_expenditures": "Of the aggregate amount of charges that the Company estimates it will incur in connection with the Plan, the Company expects that approximately $43 million to $59 million will be in future cash expenditures.",
+                "timing_and_contingencies": "The actions associated with the employee restructuring under the Plan are expected to be substantially complete by the first quarter of fiscal 2024, subject to local law and consultation requirements. The estimates of the charges and expenditures that the Company expects to incur in connection with the Plan, and the timing thereof, are subject to a number of assumptions, including local law requirements in various jurisdictions, and actual amounts may differ materially from estimates. In addition, the Company may incur other charges or cash expenditures not currently contemplated due to unanticipated events that may occur, including in connection with the implementation of the Plan."
+              }
+            }
+          }
+        },
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.02 - Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers": {
+              "content": "In connection with the Plan, the Company temporarily reduced the base salaries of its executive officers by 20% for fiscal 2024, and temporarily reduced the base salary of Eric S. Yuan, the Company’s founder and CEO, by 98% to $10,000 for fiscal 2024.",
+              "subsections": {
+                "committee_discretion": "The Compensation Committee of the Company’s Board of Directors may review, change or end the temporary salary reduction program at its discretion in the future."
+              }
+            }
+          }
+        },
+        "Section 7 - Regulation FD": {
+          "ITEMS": {
+            "Item 7.01 - Regulation FD Disclosure": {
+              "content": "On February 7, 2023, Eric S. Yuan, the Company’s Founder and Chief Executive Officer, sent a communication to Company employees. A copy of the communication is attached as Exhibit 99.1 to this Current Report on Form 8-K. The information in this Item 7.01 and Exhibit 99.1 attached hereto are furnished to, but not “filed” with, the SEC and shall not be deemed to be incorporated by reference into any of the Company’s filings with the Securities and Exchange Commission under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, whether made before or after the date hereof, regardless of any general incorporation language in such filing.",
+              "subsections": {
+                "forward_looking_statements": "This Current Report on Form 8-K contains forward-looking statements, including, but not limited to, statements related to the expected benefits of and timing of completion of the Plan, and the expected costs and charges of the Plan. In some cases, you can identify forward-looking statements because they contain words such as “anticipate,” “believe,” “contemplate,” “continue,” “could,” “estimate,” “expect,” “intend,” “may,” “plan,” “potential,” “predict,” “project,” “should,” “target,” “will,” or “would” or the negative of these words or other similar terms or expressions. These forward-looking statements are based upon the Company’s current plans, assumptions, beliefs, and expectations. Forward-looking statements are subject to the occurrence of many events outside of the Company’s control. Actual results and the timing of events may differ materially from those contemplated by such forward-looking statements due to numerous factors that involve substantial known and unknown risks and uncertainties. These risks and uncertainties include, among other things, the risk that the restructuring costs and charges may be greater than anticipated; the risk that the Company’s restructuring efforts may adversely affect the Company’s internal programs and the Company’s ability to recruit and retain skilled and motivated personnel, and may be distracting to employees and management; the risk that the Company’s restructuring efforts may negatively impact the Company’s business operations and reputation with or ability to serve customers; the risk that the Company’s restructuring efforts may not generate their intended benefits to the extent or as quickly as anticipated; and other risks and uncertainties included in the reports on Forms 10-K, 10-Q and 8-K and in other filings the Company makes with the Securities and Exchange Commission from time to time, available at www.sec.gov. Forward-looking statements should be considered in light of these risks and uncertainties. Investors and others are cautioned not to place undue reliance on forward-looking statements. All forward-looking statements contained herein speak only as of the date hereof. The Company assumes no obligation and does not intend to update these forward-looking statements, except as required by law."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "Exhibits filed with this report.",
+              "subsections": {
+                "exhibits_list": "Exhibit 99.1: Message to Zoom Video Communications, Inc. employees from Eric S. Yuan on February 7, 2023. Exhibit 104: Cover Page Interactive Data File (embedded within the Inline XBRL document)."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

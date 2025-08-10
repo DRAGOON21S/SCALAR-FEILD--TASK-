@@ -1,0 +1,31 @@
+{
+  "JPMorgan Chase & Co.": {
+    "2020": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "On September 14, 2020, JPMorgan Chase & Co. (“JPMorgan Chase”) issued a press release announcing that J.P. Morgan Securities LLC, a wholly owned indirect subsidiary of JPMorgan Chase, has commenced a cash tender offer (the “Offer”) to purchase any and all of the securities of JPMorgan Chase listed in the table below.",
+              "subsections": {
+                "securities_offered_for_purchase": "CUSIP Number 46625HQJ2, Title of Security 2.550% Notes due 2021; CUSIP Number 46625HQK9, Title of Security Floating Rate Notes due 2021; CUSIP Number 46625HHZ6, Title of Security 4.625% Notes due 2021; CUSIP Number 46625HRU6, Title of Security Floating Rate Notes due 2021; CUSIP Number 46625HRT9, Title of Security 2.400% Notes due 2021; CUSIP Number 46625HJC5, Title of Security 4.350% Notes due 2021; CUSIP Number 46625HJD3, Title of Security 4.500% Notes due 2022; CUSIP Number 46647PAS5, Title of Security Fixed-to-Floating Rate Notes due 2022; CUSIP Number 46647PAT3, Title of Security Floating Rate Notes due 2022.",
+                "redemption_announcement": "JPMorgan Chase also announced that it intends to redeem, on or about October 14, 2020, any of its 2.400% Notes due 2021 that remain outstanding after the completion of the Offer. A copy of the press release relating to these announcements is attached as Exhibit 99 hereto and is incorporated herein by reference.",
+                "disclaimer": "This Current Report on Form 8-K is neither an offer to purchase nor a solicitation of offers to sell any securities and does not constitute a notice of redemption with respect to the 2.400% Notes due 2021 of JPMorgan Chase. The Offer is being made only pursuant to the Offer to Purchase and the related Notice of Guaranteed Delivery. The Offer is not being made to holders of securities in any jurisdiction in which the making or acceptance thereof would not be in compliance with the securities, blue sky or other laws of such jurisdiction."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits",
+              "subsections": {
+                "exhibit_list": "99 JPMorgan Chase press release dated September 14, 2020. 101 Pursuant to Rule 406 of Regulation S-T, the cover page is formatted in Inline XBRL (Inline eXtensible Business Reporting Language). 104 Cover Page Interactive Data File (embedded within the Inline XBRL document and included in Exhibit 101)."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

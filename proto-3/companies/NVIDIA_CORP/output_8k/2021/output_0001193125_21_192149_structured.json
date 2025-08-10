@@ -1,0 +1,39 @@
+{
+  "NVIDIA CORPORATION": {
+    "2021": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 1 - Registrant's Business and Operations": {
+          "ITEMS": {
+            "Item 1.01 - Entry into a Material Definitive Agreement": {
+              "content": "On June 14, 2021, NVIDIA Corporation entered into an underwriting agreement to issue and sell $5.0 billion aggregate principal amount of unsecured notes. The terms of the Notes are governed by an indenture dated September 16, 2016, as supplemented by an Officers’ Certificate dated June 16, 2021.",
+              "subsections": {
+                "Underwriting Agreement": "On June 14, 2021, the Company entered into an Underwriting Agreement with Morgan Stanley & Co. LLC, as representative of the underwriters, to issue and sell $5.0 billion aggregate principal amount of unsecured notes, consisting of: $1.25 billion of 0.309% notes due 2023 (the 2023 Notes), $1.25 billion of 0.584% notes due 2024 (the 2024 Notes), $1.25 billion of 1.550% notes due 2028 (the 2028 Notes), and $1.25 billion of 2.000% notes due 2031 (the 2031 Notes). The Underwriting Agreement includes customary representations, warranties, conditions, covenants, and an agreement to indemnify the Underwriters. The net proceeds from the offering were approximately $4.98 billion, after deducting underwriting discounts and estimated offering expenses. The Company intends to use the net proceeds for general corporate purposes, which may include repayment of indebtedness. The offering was made pursuant to the Company’s Registration Statement on Form S-3 (File No. 333-237390).",
+                "Indenture": "The terms of the Notes are governed by an indenture, dated September 16, 2016 (the Base Indenture), between the Company and Wells Fargo Bank, National Association (the Trustee), as supplemented by an Officers’ Certificate, dated as of June 16, 2021. The 2023 Notes will mature on June 15, 2023, the 2024 Notes on June 14, 2024, the 2028 Notes on June 15, 2028, and the 2031 Notes on June 15, 2031. Interest on the 2024 Notes is payable on June 14 and December 14 of each year, beginning December 14, 2021. Interest on all other series is payable on June 15 and December 15 of each year, beginning December 15, 2021. The Company may redeem the Notes prior to maturity at redemption prices that include a make-whole premium, with certain exceptions. The Indenture includes covenants limiting the Company’s ability to create liens, enter into sale and leaseback transactions, or merge or sell all assets, subject to exceptions. In the event of a change of control and a credit downgrade, the Company will be required to offer to repurchase the Notes at 101% of the principal amount plus accrued interest. The Notes are the Company’s unsecured senior obligations.",
+                "Disclaimer on Agreements": "The agreements included as exhibits are to provide information regarding their terms and are not intended to provide other factual disclosure. They may contain representations and warranties made for the benefit of the parties to the agreement, may be qualified by non-public disclosures, may apply different standards of materiality, and were made only as of the specified date. They may not describe the actual state of affairs at any time."
+              }
+            }
+          }
+        },
+        "Section 2 - Financial Information": {
+          "ITEMS": {
+            "Item 2.03 - Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant": {
+              "content": "The information set forth in Item 1.01 above is hereby incorporated by reference into this Item 2.03, insofar as it relates to the creation of a direct financial obligation.",
+              "subsections": {}
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "List of exhibits filed with this Current Report on Form 8-K.",
+              "subsections": {
+                "Exhibits": "1.1 - Underwriting Agreement, dated as of June 14, 2021, by and among the Company and Morgan Stanley & Co. LLC, as representative of the several underwriters.\n4.1 - Indenture, dated as of September 16, 2016, by and between the Company and Wells Fargo Bank, National Association, as Trustee (filed as Exhibit 4.1 to NVIDIA Corporation’s Current Report on Form 8-K filed on September 16, 2016 (File No. 000-23985), and incorporated by reference herein).\n4.2 - Officers’ Certificate, dated as of June 16, 2021.\n4.3 - Form of 2023 Note (included in Exhibit 4.2).\n4.4 - Form of 2024 Note (included in Exhibit 4.2).\n4.5 - Form of 2028 Note (included in Exhibit 4.2).\n4.6 - Form of 2031 Note (included in Exhibit 4.2).\n5.1 - Opinion of Cooley LLP regarding the validity of the Notes.\n23.1 - Consent of Cooley LLP (included in Exhibit 5.1).\n104 - Cover Page Interactive Data File (embedded within the Inline XBRL document)."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

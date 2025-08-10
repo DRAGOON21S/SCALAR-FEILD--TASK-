@@ -1,0 +1,35 @@
+{
+  "Zoom Video Communications, Inc.": {
+    "2021": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "On January 12, 2021, Zoom Video Communications, Inc. (the “Company”) entered into an underwriting agreement with J.P. Morgan Securities LLC relating to a public offering of its Class A common stock. The company is also updating its risk factor disclosures.",
+              "subsections": {
+                "Public Offering of Common Stock": "On January 12, 2021, the Company entered into an underwriting agreement (the “Underwriting Agreement”) with J.P. Morgan Securities LLC (the “Underwriter”), relating to the public offering, issuance and sale of 5,147,059 shares of its Class A common stock, par value $0.001 per share (“Class A Common Stock”). The price to the public in the offering is $340.00 per share of Class A Common Stock. Under the terms of the Underwriting Agreement, the Company also granted the Underwriter an option exercisable for 30 days to purchase up to an additional 735,294 shares of Class A Common Stock at the public offering price, less underwriting discounts and commissions. The gross proceeds to the Company from the offering are expected to be approximately $1.75 billion, before deducting underwriting discounts and commissions and other estimated offering expenses, or approximately $2.0 billion if the Underwriter exercises in full its option to purchase additional shares. The offering is expected to close on January 15, 2021, subject to customary closing conditions.",
+                "Underwriting Agreement Details": "The Underwriting Agreement contains customary representations, warranties and agreements by the Company, customary conditions to closing, indemnification obligations of the Company and the Underwriter, including for liabilities under the Securities Act of 1933, as amended, other obligations of the parties and termination provisions. The representations, warranties and covenants contained in the Underwriting Agreement were made only for purposes of such agreement and as of specific dates, were solely for the benefit of the parties to such agreement and may be subject to limitations agreed upon by the contracting parties, including being qualified by confidential disclosures exchanged between the parties in connection with the execution of the Underwriting Agreement. The offering is being made pursuant to the Company’s registration statement on Form S-3 (File No. 333-252035) and an accompanying prospectus previously filed with the Securities and Exchange Commission (“SEC”) and a preliminary and final prospectus supplement thereunder.",
+                "Updated Company Disclosures": "The Company is filing information for the purpose of updating the risk factor disclosure contained in its prior public filings, including those discussed under the heading “Item 1A. Risk Factors” in its Quarterly Report on Form 10-Q for the quarter ended October 31, 2020, filed with the SEC on December 4, 2020 (the “Quarterly Report”), as well as the section titled “Selected Risks Affecting Our Business” appearing in the Quarterly Report. The updated Company disclosures are filed herewith as Exhibit 99.1 and are incorporated herein by reference.",
+                "Forward-Looking Statements": "This Current Report on Form 8-K contains forward-looking statements, including, without limitation, statements relating to the closing of the public offering. These forward-looking statements are based upon the Company’s current expectations. Actual results could differ materially from these forward-looking statements as a result of certain factors, including, without limitation, risks related to market conditions and the satisfaction of customary closing conditions related to the public offering. There can be no assurance that the Company will be able to complete the public offering on the anticipated terms, or at all. For a discussion of other risks and uncertainties, and other important factors, any of which could cause the Company’s actual results to differ from those contained in the forward-looking statements, see the section titled “Risk Factors” in Exhibit 99.1 hereto. Except as required by law, the Company assumes no obligation to update these forward-looking statements, or to update the reasons if actual results differ materially from those anticipated in the forward-looking statements."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "This section lists the financial statements and exhibits filed with this report.",
+              "subsections": {
+                "Exhibit 1.1": "Underwriting Agreement, dated as of January 12, 2021, by and between Zoom Video Communications, Inc. and J.P. Morgan Securities LLC.",
+                "Exhibit 5.1": "Opinion of Cooley LLP.",
+                "Exhibit 23.1": "Consent of Cooley LLP (contained in Exhibit 5.1).",
+                "Exhibit 99.1": "Updated Company Disclosures."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

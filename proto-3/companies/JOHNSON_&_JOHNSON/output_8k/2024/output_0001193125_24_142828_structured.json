@@ -1,0 +1,32 @@
+{
+  "Johnson & Johnson": {
+    "2024": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "On May 20, 2024, Johnson & Johnson (the “Company”) completed the previously announced public offerings of several series of U.S. Dollar Notes and Euro Notes under the Company’s Registration Statement on Form S-3, Reg. No. 333-269836.",
+              "subsections": {
+                "us_dollar_notes_offering": "(1) $1,150,000,000 aggregate principal amount of 4.800% Notes due 2029; (2) $1,150,000,000 aggregate principal amount of 4.900% Notes due 2031; (3) $850,000,000 aggregate principal amount of 4.950% Notes due 2034; (4) $850,000,000 aggregate principal amount of 5.250% Notes due 2054.",
+                "euro_notes_offering": "(5) €700,000,000 aggregate principal amount of 3.200% Notes due 2032; (6) €800,000,000 aggregate principal amount of 3.350% Notes due 2036; and (7) €1,000,000,000 aggregate principal amount of 3.550% Notes due 2044.",
+                "us_dollar_underwriting_agreement": "In connection with the offering of the U.S. Dollar Notes, the Company entered into an underwriting agreement on May 13, 2024, filed as Exhibit 1.1, with J.P. Morgan Securities LLC, BofA Securities, Inc. and Citigroup Global Markets Inc., as representatives of the several Underwriters. This agreement incorporates the Underwriting Agreement Standard Provisions (Debt), dated May 13, 2024, filed as Exhibit 1.2.",
+                "euro_underwriting_agreement": "In connection with the offering of the Euro Notes, the Company entered into an underwriting agreement on May 14, 2024, filed as Exhibit 1.3, with J.P. Morgan Securities plc, Citigroup Global Markets Limited, Deutsche Bank AG, London Branch and the several Underwriters. This agreement also incorporates the Standard Provisions Agreement."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits.",
+              "subsections": {
+                "exhibits_list": "1.1 - Underwriting Agreement, dated May 13, 2024, among Johnson & Johnson and J.P. Morgan Securities LLC, BofA Securities, Inc. and Citigroup Global Markets Inc., as representatives of the several Underwriters named therein.\n1.2 - Underwriting Agreement Standard Provisions (Debt), dated May 13, 2024.\n1.3 - Underwriting Agreement, dated May 14, 2024, among Johnson & Johnson and J.P. Morgan Securities plc, Citigroup Global Markets Limited, Deutsche Bank AG, London Branch and the several Underwriters named therein.\n4.1 - Company Order establishing the terms of the U.S. Dollar Notes.\n4.2 - Form of 4.800% Notes due 2029.\n4.3 - Form of 4.900% Notes due 2031.\n4.4 - Form of 4.950% Notes due 2034.\n4.5 - Form of 5.250% Notes due 2054.\n4.6 - Company Order establishing the terms of the Euro Notes.\n4.7 - Form of 3.200% Notes due 2032.\n4.8 - Form of 3.350% Notes due 2036.\n4.9 - Form of 3.550% Notes due 2044.\n5.1 - Opinion of Weil, Gotshal & Manges LLP.\n5.2 - Opinion of Troutman Pepper Hamilton Sanders LLP.\n23.1 - Consent of Weil, Gotshal & Manges LLP (included in Exhibit 5.1 of this Current Report on Form 8-K).\n23.2 - Consent of Troutman Pepper Hamilton Sanders LLP (included in Exhibit 5.2 of this Current Report on Form 8-K).\n104 - The cover page of this Current Report on Form 8-K, formatted in Inline XBRL."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

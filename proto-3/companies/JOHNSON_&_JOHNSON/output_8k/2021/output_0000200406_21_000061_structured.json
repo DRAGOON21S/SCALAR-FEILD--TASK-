@@ -1,0 +1,32 @@
+{
+  "JOHNSON & JOHNSON": {
+    "2021": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.02 - Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers": {
+              "content": "On August 19, 2021, the Board of Directors of Johnson & Johnson announced leadership changes effective January 3, 2022. A copy of the Company's press release, dated August 19, 2021, to announce these decisions is contained in Exhibit 99 to this Report.",
+              "subsections": {
+                "Leadership Transitions": "Alex Gorsky, currently Chairman and Chief Executive Officer (CEO), will relinquish the CEO position and continue his service on the Board as Executive Chairman. Joaquin Duato will become CEO of the Company and will be appointed a Director of the Board, both effective January 3, 2022.",
+                "Joaquin Duato Background": "Mr. Duato, age 59, is currently Vice Chairman of the Company's Executive Committee, providing strategic direction for the Pharmaceutical and Consumer Health sectors and overseeing the Global Supply Chain, Technology and Health & Wellness teams. He joined the Company in 1989 and has held various leadership roles, including President of Ortho Biotech, LP (2005), Company Group Chairman for Ortho Clinical Diagnostics (2007), Company Group Chairman for the pharmaceuticals business (2009), Worldwide Chair of the pharmaceuticals business (2011), Member of the Executive Committee (2016), and Vice Chairman of the Executive Committee (July 2018).",
+                "Joaquin Duato Education and Citizenship": "Mr. Duato is a dual citizen of Spain and the United States. He holds a Master of Business Administration from ESADE in Barcelona, Spain, and a Master of International Management from Thunderbird School of Global Management at Arizona State University in Phoenix, Arizona.",
+                "Employment Arrangements": "Employment arrangements in connection with the announced transitions are still to be finalized."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "This section lists the exhibits filed with the Current Report on Form 8-K.",
+              "subsections": {
+                "Exhibits": "Exhibit 99.1: Press Release dated August 19, 2021. Exhibit 104: The cover page from this Current Report on Form 8-K, formatted in Inline XBRL."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

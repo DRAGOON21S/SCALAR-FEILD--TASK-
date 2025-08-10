@@ -1,0 +1,32 @@
+{
+  "Johnson & Johnson": {
+    "2025": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.02 - Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers": {
+              "content": "On June 10, 2025, Johnson & Johnson (the “Company” or “Johnson & Johnson”) announced that Daniel Pinto was elected to the Board of Directors effective July 1, 2025.",
+              "subsections": {
+                "committee_assignments": "Mr. Pinto will serve on the Audit Committee and the Compensation & Benefits Committee.",
+                "compensation": "As a non-employee director of the Company, Mr. Pinto will receive compensation as described in the “Director Compensation” section of the Company’s 2025 Proxy Statement.",
+                "background_and_related_transactions": "Mr. Pinto currently serves as the President of JPMorganChase and will serve as Vice Chairman of the firm from July 1, 2025 through his retirement at the end of 2026. He previously served as Chief Operating Officer, among other roles, during his tenure at the firm. JPMorganChase provides a variety of banking services to the Company. During fiscal year 2024, Johnson & Johnson paid JPMorganChase approximately $39.2 million for banking services including fees associated with routine banking services, supplier financing, short-term debt instruments and M&A advisory services.",
+                "related_exhibit": "The Company’s press release announcing the appointment is attached to this Report as Exhibit 99.1."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits.",
+              "subsections": {
+                "exhibit_list": "Exhibit No. 99.1: Press Release dated June 10, 2025. Exhibit No. 104: The cover page from this Current Report on Form 8-K, formatted in Inline XBRL."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

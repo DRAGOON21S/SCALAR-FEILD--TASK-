@@ -1,0 +1,111 @@
+                                                                                                                   
+                                                   UNITED STATES                                                   
+                                                                                                                   
+                                                                                                                   
+                                        SECURITIES AND EXCHANGE COMMISSION                                         
+                                                                                                                   
+                                                                                                                   
+                                              Washington, D.C. 20549                                               
+                                                                                                                   
+                                                                                                                   
+                                                     Form 8-K                                                      
+                                                                                                                   
+                                                                                                                   
+                                                  CURRENT REPORT                                                   
+                                                                                                                   
+                      Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934                       
+                                                                                                                   
+                          Date of Report (Date of earliest event reported): June 11, 2025                          
+                                                                                                                   
+                                                    ROKU, INC.                                                     
+                                                                                                                   
+                              (Exact name of Registrant as Specified in Its Charter)                               
+                                                                                             
+  Delaware                                    001-38211                          26-2087865  
+  (State or Other Jurisdiction                -Commission File Number         -IRS Employer  
+  of Incorporation)                                                      Identification No.  
+  1173 Coleman Avenue                                                                 95110  
+  San Jose,California                                                                        
+  (Address of Principal Executive Offices)                                        -Zip Code  
+                                                                                             
+                                                  ( 408) 556-9040                                                  
+                                                                                                                   
+                               (Registrant’s Telephone Number, Including Area Code)                                
+                                                                                                                   
+                                                  Not Applicable                                                   
+                                                                                                                   
+                           (Former Name or Former Address, if Changed Since Last Report)                           
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation
+of the registrant under any of the following provisions (see General Instructions A.2. below):
+                                                                                              
+  ☐    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)  
+                                                                                              
+                                                                                               
+  ☐    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  
+                                                                                               
+                                                                                                               
+  ☐    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  
+                                                                                                               
+                                                                                                               
+  ☐    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  
+                                                                                                               
+Securities registered pursuant to Section 12(b) of the Act:
+                                                                                                          
+  Title of Each Class:                       Trading Symbol(s):    Name of Exchange on Which Registered:  
+  Class A Common Stock, $0.0001 par value    “ROKU”                The Nasdaq Global Select Market        
+                                                                                                          
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the
+Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2
+of this chapter).
+Emerging growth company ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended
+transition period for complying with any new or revised financial accounting standards provided pursuant to Section
+13(a) of the Exchange Act. ☐
+Item 5.07 Submission of Matters to a Vote of Security Holders.
+On June 11, 2025, Roku, Inc. (“ Roku ”) held its annual meeting of stockholders via a live webcast (the “ Annual
+Meeting ”). At the Annual Meeting, Roku’s stockholders voted on four proposals, each of which is described in more
+detail in Roku’s definitive proxy statement filed with the U.S. Securities and Exchange Commission on April 25,
+2025 (the “ 2025 Proxy Statement ”). The following is a brief description of each matter voted on and the certified
+results, including the number of votes cast for, against or withheld, as applicable, and the number of abstentions
+and broker non-votes, as applicable, with respect to each matter.
+
+1. The Class II director nominees were elected to serve until Roku’s 2028 annual meeting of stockholders and in
+each case until their successors are elected and qualified or until their earlier death, resignation or removal.
+The voting results were as follows:
+                                                                                                          
+  Director Name          Votes For    Votes Withheld    Broker Non-Votes    Percentage of Votes in Favor  
+  Jeffrey Blackburn    247,030,372         4,759,957          22,212,393    98.1%                         
+  Gina Luna            244,394,807         7,395,522          22,212,393    97.1%                         
+  Ray Rothrock         217,181,173        34,609,156          22,212,393    86.3%                         
+                                                                                                          
+2. Stockholders approved, on an advisory basis, the compensation of Roku’s named executive officers, as described
+in the 2025 Proxy Statement. The voting results were as follows:
+                                                                                                   
+  Votes For      Votes Against    Abstentions    Broker Non-Votes    Percentage of Votes in Favor  
+  197,969,921       53,631,435        188,973          22,212,393    78.6%                         
+                                                                                                   
+3. Stockholders approved, on an advisory basis, a frequency of future stockholder advisory votes on the
+compensation of Roku’s named executive officers of “one year.” The voting results were as follows:
+                                                                                                                   
+  One Year       Two Years    Three Years    Abstentions    Broker Non-Votes    Percentage of Votes in Favor of    
+                                                                                One Year                           
+  250,316,218      130,761      1,219,835        123,515          22,212,393    99.4%                              
+                                                                                                                   
+4. Stockholders ratified the appointment of Deloitte & Touche LLP as Roku’s independent registered accounting firm
+for the fiscal year ending December 31, 2025. The voting results were as follows:
+                                                                               
+  Votes For      Votes Against    Abstentions    Percentage of Votes in Favor  
+  271,526,520        2,085,597        390,605    99.1%                         
+                                                                               
+                                                                                                                   
+                                                     SIGNATURE                                                     
+                                                                                                                   
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to
+be signed on its behalf by the undersigned hereunto duly authorized.
+                                                                                                        
+  Dated: June 12, 2025    Roku, Inc.                                                                    
+ ────────────────────────────────────────────────────────────────────────────────────────────────────── 
+                          By:           /s/ Christy Lillquist                                           
+                                        Christy Lillquist                                               
+                                        Vice President, Deputy General Counsel and Corporate Secretary  
+                                                                                                        

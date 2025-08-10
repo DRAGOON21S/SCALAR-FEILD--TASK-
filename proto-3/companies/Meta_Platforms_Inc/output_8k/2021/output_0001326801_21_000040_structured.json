@@ -1,0 +1,37 @@
+{
+  "Facebook, Inc.": {
+    "2021": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.07 - Submission of Matters to a Vote of Security Holders": {
+              "content": "On May 26, 2021, Facebook, Inc. (the \"Company\") held its annual meeting of shareholders via live audio webcast (the \"Annual Meeting\"). At the Annual Meeting, the Company's shareholders voted on nine proposals, each of which is described in more detail in the Company's definitive proxy statement filed with the Securities and Exchange Commission on April 9, 2021. At the beginning of the Annual Meeting, there were 1,979,493,340 shares of Class A common stock and 394,040,182 shares of Class B common stock present or represented by proxy at the Annual Meeting, which represented 86.99% of the combined voting power of the shares of Class A common stock and Class B common stock entitled to vote at the Annual Meeting (voting together as a single class), and which constituted a quorum for the transaction of business. Holders of the Company's Class A common stock were entitled to one vote for each share held as of the close of business on April 1, 2021 (the \"Record Date\"), and holders of the Company's Class B common stock were entitled to ten votes for each share held as of the Record Date.",
+              "subsections": {
+                "Proposal 1: Election of Directors": "To elect nine directors, each to serve until the next annual meeting of shareholders and until his or her successor has been elected and qualified, or until his or her earlier death, resignation, or removal.\n\nVoting Results:\nNominee: Peggy Alford, For: 5,485,997,633, Withheld: 212,047,001, Broker Non-Votes: 224,974,829\nNominee: Marc L. Andreessen, For: 5,001,391,366, Withheld: 696,653,268, Broker Non-Votes: 224,974,829\nNominee: Andrew W. Houston, For: 5,117,937,515, Withheld: 580,107,119, Broker Non-Votes: 224,974,829\nNominee: Nancy Killefer, For: 5,669,161,171, Withheld: 28,883,463, Broker Non-Votes: 224,974,829\nNominee: Robert M. Kimmitt, For: 5,512,611,329, Withheld: 185,433,305, Broker Non-Votes: 224,974,829\nNominee: Sheryl K. Sandberg, For: 5,626,744,141, Withheld: 71,300,493, Broker Non-Votes: 224,974,829\nNominee: Peter A. Thiel, For: 5,061,785,142, Withheld: 636,259,492, Broker Non-Votes: 224,974,829\nNominee: Tracey T. Travis, For: 5,631,242,105, Withheld: 66,802,529, Broker Non-Votes: 224,974,829\nNominee: Mark Zuckerberg, For: 5,536,362,813, Withheld: 161,681,821, Broker Non-Votes: 224,974,829\n\nEach of the nine nominees for director was elected to serve until the next annual meeting of shareholders and until his or her successor has been elected and qualified, or until his or her earlier death, resignation, or removal.",
+                "Proposal 2: Ratification of Appointment of Independent Registered Public Accounting Firm": "To ratify the appointment of Ernst & Young LLP as the Company's independent registered public accounting firm for the fiscal year ending December 31, 2021.\n\nVoting Results:\nFor: 5,874,213,716\nAgainst: 44,492,802\nAbstentions: 4,312,945\nThere were no broker non-votes on this proposal.\n\nThe shareholders ratified the appointment of Ernst & Young LLP as the Company's independent registered public accounting firm for the fiscal year ending December 31, 2021.",
+                "Proposal 3: Approval of an Amendment to the Director Compensation Policy": "To approve an amendment to the director compensation policy.\n\nVoting Results:\nFor: 4,484,982,049\nAgainst: 1,207,893,369\nAbstentions: 5,169,216\nBroker Non-Votes: 224,974,829\n\nThe shareholders approved the amendment to the director compensation policy.",
+                "Proposal 4: Shareholder Proposal Regarding Dual Class Capital Structure": "A shareholder proposal regarding dual class capital structure.\n\nVoting Results:\nFor: 1,576,747,929\nAgainst: 4,106,291,797\nAbstentions: 15,004,908\nBroker Non-Votes: 224,974,829\n\nThe shareholders did not approve the shareholder proposal regarding dual class capital structure.",
+                "Proposal 5: Shareholder Proposal Regarding an Independent Chair": "A shareholder proposal regarding an independent chair.\n\nVoting Results:\nFor: 915,845,677\nAgainst: 4,775,659,477\nAbstentions: 6,539,480\nBroker Non-Votes: 224,974,829\n\nThe shareholders did not approve the shareholder proposal regarding an independent chair.",
+                "Proposal 6: Shareholder Proposal Regarding Child Exploitation": "A shareholder proposal regarding child exploitation.\n\nVoting Results:\nFor: 979,571,637\nAgainst: 4,696,638,234\nAbstentions: 21,834,763\nBroker Non-Votes: 224,974,829\n\nThe shareholders did not approve the shareholder proposal regarding child exploitation.",
+                "Proposal 7: Shareholder Proposal Regarding Human/Civil Rights Expert on Board": "A shareholder proposal regarding human/civil rights expert on board.\n\nVoting Results:\nFor: 230,876,513\nAgainst: 5,453,270,271\nAbstentions: 13,897,850\nBroker Non-Votes: 224,974,829\n\nThe shareholders did not approve the shareholder proposal regarding human/civil rights expert on board.",
+                "Proposal 8: Shareholder Proposal Regarding Platform Misuse": "A shareholder proposal regarding platform misuse.\n\nVoting Results:\nFor: 1,107,574,418\nAgainst: 4,573,044,219\nAbstentions: 17,425,997\nBroker Non-Votes: 224,974,829\n\nThe shareholders did not approve the shareholder proposal regarding platform misuse.",
+                "Proposal 9: Shareholder Proposal Regarding Public Benefit Corporation": "A shareholder proposal regarding public benefit corporation.\n\nVoting Results:\nFor: 57,072,379\nAgainst: 5,625,589,656\nAbstentions: 15,382,599\nBroker Non-Votes: 224,974,829\n\nThe shareholders did not approve the shareholder proposal regarding public benefit corporation."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits",
+              "subsections": {
+                "Exhibit List": "Exhibit Number: 104, Exhibit Title or Description: Cover Page Interactive Data File (the cover page XBRL tags are embedded within the inline XBRL document)"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

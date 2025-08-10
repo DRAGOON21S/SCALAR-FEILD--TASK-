@@ -1,0 +1,112 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, DC 20549 FORM 8-K CURRENT REPORT PURSUANT TO SECTION  
+13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934 Date of Report (Date of earliest event reported) December 2,    
+2020 Microsoft Corporation (Exact name of registrant as specified in its charter)                                  
+                                                                                                  
+  Washington                         001-37845                  91-1144442                        
+  (State or Other Jurisdiction of    -Commission File Number    -IRS Employer Identification No.  
+  Incorporation)                                                                                  
+                                                                                                  
+                                                        
+  One Microsoft Way, Redmond, Washington    98052-6399  
+                                                        
+(address) ( 425) 882-8080 www.microsoft.com/investor Check the appropriate box below if the Form 8-K filing is     
+intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions   
+(see General Instruction A.2. below):                                                                              
+                                                                                            
+  ☐  Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)  
+                                                                                            
+                                                                                             
+  ☐  Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  
+                                                                                             
+                                                                                                             
+  ☐  Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  
+                                                                                                             
+                                                                                                             
+  ☐  Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  
+                                                                                                             
+Securities registered pursuant to Section 12(b) of the Act:                                                        
+                                                                                                     
+  Title of each class                        Trading Symbol    Name of exchange on which registered  
+  COMMON STOCK, $0.00000625 par value per    MSFT              NASDAQ                                
+  share                                                                                              
+  2.125% Notes due 2021                      MSFT              NASDAQ                                
+  3.125% Notes due 2028                      MSFT              NASDAQ                                
+  2.625% Notes due 2033                      MSFT              NASDAQ                                
+                                                                                                     
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the          
+Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 
+of this chapter). Emerging growth company ☐ If an emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying with any new or revised financial accounting   
+standards provided pursuant to Section 13(a) of the Exchange Act. ☐                                                
+                                                                                                                   
+Item 5.07. Submission of Matters to a Vote of Security Holders On December 2, 2020, Microsoft Corporation (the     
+“Company”) held its 2020 Annual Shareholders Meeting (the “Annual Meeting”). There were 7,562,826,058 shares of    
+common stock entitled to be voted at the Annual Meeting, of which 6,566,836,176 were voted in person or by proxy.  
+The results for each item submitted for a vote of shareholders are as follows. The shareholders: (1) Voted to elect
+each of the twelve (12) nominees for director. (2) Approved, on an advisory basis, the compensation of the         
+Company’s named executive officers. (3) Voted to ratify the appointment of Deloitte & Touche LLP as the Company’s  
+independent registered public accounting firm for fiscal year 2021. (4) Rejected a shareholder proposal concerning 
+a report on employee representation on the Board of Directors. The Company’s inspector of election certified the   
+following vote tabulations: Election of Directors                                                                  
+                                                                                                                   
+  Director        Vote Results        %   Votes                 For       Against       Abstain            Broker  
+                                            For                                                         Non-Votes  
+  Reid G.         Re-elected              99.52  %    5,215,758,348    25,314,092     8,400,114     1,317,363,622  
+  Hoffman                                                                                                          
+  Hugh F.         Re-elected              99.62  %    5,221,269,096    19,816,684     8,386,774     1,317,363,622  
+  Johnston                                                                                                         
+  Teri L.         Re-elected              99.35  %    5,205,028,542    34,076,281    10,367,731     1,317,363,622  
+  List-Stoll                                                                                                       
+  Satya           Re-elected              99.89  %    5,237,186,585     5,546,598     6,739,371     1,317,363,622  
+  Nadella                                                                                                          
+  Sandra E.       Re-elected              98.89  %    5,183,197,017    58,262,215     8,013,322     1,317,363,622  
+  Peterson                                                                                                         
+  Penny S.        Re-elected              99.80  %    5,228,709,230    10,536,931    10,226,393     1,317,363,622  
+  Pritzker                                                                                                         
+  Charles W.      Re-elected              99.11  %    5,194,031,476    46,902,053     8,539,025     1,317,363,622  
+  Scharf                                                                                                           
+  Arne M.         Re-elected              99.88  %    5,234,800,897     6,336,694     8,334,963     1,317,363,622  
+  Sorenson                                                                                                         
+  John W.         Re-elected              99.85  %    5,233,415,375     7,605,399     8,451,780     1,317,363,622  
+  Stanton                                                                                                          
+  John W.         Re-elected              99.10  %    5,194,357,510    46,935,033     8,180,011     1,317,363,622  
+  Thompson                                                                                                         
+  Emma N.         Re-elected              99.73  %    5,227,399,222    13,970,088     8,103,244     1,317,363,622  
+  Walmsley                                                                                                         
+  Padmasree       Re-elected              99.74  %    5,227,546,888    13,598,261     8,327,405     1,317,363,622  
+  Warrior                                                                                                          
+                                                                                                                   
+Advisory Vote to Approve Named Executive Officer Compensation                                                      
+                                                                                                                   
+  Vote result                    % Votes For                 For          Against       Abstain            Broker  
+                                                                                                        Non-Votes  
+  Approved                             94.72  %    4,956,043,006      276,520,958    16,908,590     1,317,363,622  
+               Ratification                                                                                        
+               of Appointment                                                                                      
+               of Independent                                                                                      
+               Auditor                                                                                             
+  Vote result                    % Votes For                 For          Against       Abstain            Broker  
+                                                                                                        Non-Votes  
+  Approved                             96.05  %    6,296,749,497      258,680,123    11,406,556               N/A  
+               Shareholder                                                                                         
+               Proposal                                                                                            
+               Concerning                                                                                          
+               Report on                                                                                           
+               Employee                                                                                            
+               Representation                                                                                      
+               on Board of                                                                                         
+               Directors                                                                                           
+  Vote result                    % Votes For                 For          Against       Abstain            Broker  
+                                                                                                        Non-Votes  
+  Rejected                              5.15  %      268,964,933    4,957,295,213    23,212,408     1,317,363,622  
+                                                                                                                   
+SIGNATURE Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this 
+report to be signed on its behalf by the undersigned hereunto duly authorized.                                     
+                                                   
+                            MICROSOFT CORPORATION  
+                            (Registrant)           
+  Date: December 4, 2020    /S/ KEITH R. DOLLIVER  
+ ───────────────────────────────────────────────── 
+                            Keith R. Dolliver      
+                            Assistant Secretary    
+                                                   

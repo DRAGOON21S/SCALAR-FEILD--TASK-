@@ -1,0 +1,19 @@
+{
+  "DOORDASH, INC.": {
+    "2021": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "In connection with the initial public offering of shares of Class A common stock of DoorDash, Inc. (the “Company”), the Company’s executive officers, directors, and holders of a substantial majority of the Company’s Class A common stock and securities convertible into the Company’s Class A common stock (collectively, the “Shares”) entered into lock-up agreements with the underwriters that restrict their ability to sell or transfer their Shares, or otherwise engage in certain transactions related to their Shares, for a period of 180 days after December 8, 2020, subject to certain exceptions (such period, the “restricted period”).",
+              "subsections": {
+                "Lock-up Period Modification": "On March 1, 2021, Goldman Sachs & Co. LLC and J.P. Morgan Securities LLC, as representatives of the underwriters, agreed that the restricted period will end with respect to 40% of the Shares subject to each lock-up agreement (or 20% of the Shares if the stockholder is a member of the Company’s board of directors (excluding affiliated funds) or management team) and become eligible for sale in the public market at the opening of trading on March 9, 2021 (subject to trading limitations on Shares held by affiliates of the Company, continued vesting of any unvested equity awards as of such date, and the Company’s insider trading policy)."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

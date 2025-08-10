@@ -1,0 +1,35 @@
+{
+  "Zoom Video Communications, Inc.": {
+    "2021": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 1 - Registrant's Business and Operations": {
+          "ITEMS": {
+            "Item 1.02 - Termination of a Material Definitive Agreement": {
+              "content": "On September 30, 2021, Zoom Video Communications, Inc., a Delaware corporation (“Zoom”) and Five9, Inc., a Delaware corporation (“Five9”) mutually terminated that certain Agreement and Plan of Merger (the “Merger Agreement”), dated as of July 16, 2021, by and among Zoom, Five9 and Summer Merger Sub, Inc., a Delaware corporation and a direct, wholly owned subsidiary of Zoom (“Merger Sub”). The material terms of the Merger Agreement were previously disclosed on a Form 8-K filed by Zoom with the U.S. Securities and Exchange Commission (“SEC”) on July 19, 2021. The Merger Agreement was terminated following the September 30, 2021 special meeting of stockholders of Five9 at which the proposal to adopt the Merger Agreement was not approved by holders of a majority of Five9’s issued and outstanding shares of common stock, par value $0.001 per share, entitled to vote thereon.",
+              "subsections": {}
+            }
+          }
+        },
+        "Section 7 - Regulation FD": {
+          "ITEMS": {
+            "Item 7.01 - Regulation FD Disclosure": {
+              "content": "On September 30, 2021, Zoom issued a press release announcing the termination of the Merger Agreement. A copy of the press release is included as Exhibit 99.1 to this Current Report on Form 8-K. The information in this Item 7.01 and Exhibit 99.1 attached hereto are furnished to, but not “filed” with, the SEC and shall not be deemed to be incorporated by reference into any of Zoom’s filings with the SEC under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, whether made before or after the date hereof, regardless of any general incorporation language in such filing.",
+              "subsections": {}
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits",
+              "subsections": {
+                "exhibit_list": "Exhibit 99.1: Press Release dated September 30, 2021. Exhibit 104: Cover Page Interactive Data File (embedded within the Inline XBRL document)."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

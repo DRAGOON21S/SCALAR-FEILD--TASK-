@@ -1,0 +1,27 @@
+{
+  "JPMorgan Chase & Co.": {
+    "2021": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.03 - Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year": {
+              "content": "JPMorgan Chase’s Board of Directors (the “Board”) has adopted amendments to the Firm’s By-laws, effective March 16, 2021 (as so amended, the “By-laws”), primarily to update them in line with developments in Delaware General Corporation Law, adopt the title of Chair in place of Chairman while allowing flexibility to utilize the term of choice, clarify the roles of Lead Independent Director and President at stockholder and Board meetings in the absence of the Chair, and make additional clarifying and conforming revisions. The foregoing description of the amendments to the By-laws is qualified in its entirety by reference to the full text of the Bylaws, a copy of which (marked to show changes from the prior version) is attached as Exhibit 3.2 and incorporated by reference herein.",
+              "subsections": {}
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "This section lists the financial statements and exhibits filed with this report.",
+              "subsections": {
+                "(d) Exhibit": "Exhibit No. 3.2: By-laws of JPMorgan Chase & Co., as amended, effective March 16, 2021.\nExhibit No. 101: Pursuant to Rule 406 of Regulation S-T, the cover page is formatted in Inline XBRL (Inline eXtensible Business Reporting Language).\nExhibit No. 104: Cover Page Interactive Data File (embedded within the Inline XBRL document and included in Exhibit 101)."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

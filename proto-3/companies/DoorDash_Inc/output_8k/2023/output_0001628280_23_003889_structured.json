@@ -1,0 +1,59 @@
+{
+  "DOORDASH, INC.": {
+    "2023": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 2 - Financial Information": {
+          "ITEMS": {
+            "Item 2.02 - Results of Operations and Financial Condition": {
+              "content": "On February 16, 2023, DoorDash, Inc. ('DoorDash' or the 'Company') released its financial results for the fourth quarter ended December 31, 2022 by its Letter to Shareholders. A copy of the Letter to Shareholders is attached as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference.",
+              "subsections": {}
+            }
+          }
+        },
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.02 - Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers": {
+              "content": "",
+              "subsections": {
+                "departure_of_chief_operating_officer_and_president": "On February 13, 2023, Christopher Payne informed DoorDash of his intention to resign as Chief Operating Officer and President of DoorDash, effective March 1, 2023. Mr. Payne will remain with the Company through a transition period and retire from the Company at the end of May 2023.",
+                "appointment_of_chief_operating_officer_and_president": "In connection with Mr. Payne’s resignation, Prabir Adarkar, the Company’s Chief Financial Officer, has been appointed to serve as the Company’s Chief Operating Officer and President, effective March 1, 2023. Mr. Adarkar, 45, has served as the Company’s Chief Financial Officer since 2018. His full biographical information and business experience are described in the Company’s proxy statement on Schedule 14A filed with the Securities and Exchange Commission on May 2, 2022 (the 'Proxy Statement'). Mr. Adarkar’s employment arrangements and compensation are described in the Proxy Statement. At this time, there are no changes expected to his employment arrangements or compensation in connection with the change to his position.",
+                "appointment_of_chief_financial_officer": "Ravi Inukonda, the Company’s Vice President of Finance and Strategy, has been appointed to serve as the Company’s Chief Financial Officer, effective March 1, 2023. Mr. Inukonda, 46, has served as the Company’s Vice President of Finance and Strategy since 2018. Mr. Inukonda brings previous experience leading finance and strategy and has experience in M&A and investing. Prior to joining DoorDash, Mr. Inukonda served as Head of Finance for Uber Eats from 2015 to 2018. From 2014 to 2015, Mr. Inukonda was with Accel-KKR, a technology-focused private equity firm, where he served as Vice President, and was at Goldman Sachs prior to that in their investment banking division. Mr. Inukonda holds a B.E. in Chemical Engineering from the Birla Institute of Technology and Science, Pilani, an M.S. in Computer Science from Clemson University, and an M.B.A. from the MIT Sloan School of Management."
+              }
+            }
+          }
+        },
+        "Section 7 - Regulation FD": {
+          "ITEMS": {
+            "Item 7.01 - Regulation FD Disclosure": {
+              "content": "On February 16, 2023, DoorDash posted supplemental investor materials on the investor relations section of its website (ir.doordash.com). DoorDash announces material information to the public about DoorDash, its products and services, and other matters through a variety of means, including filings with the Securities and Exchange Commission, press releases, public conference calls, webcasts, the investor relations section of its website (ir.doordash.com), its blog (blog.doordash.com) and its Twitter account (@DoorDash) in order to achieve broad, non-exclusionary distribution of information to the public and for complying with its disclosure obligations under Regulation FD.",
+              "subsections": {
+                "safe_harbor_statement": "The information in Item 2.02 and Item 7.01 of this Current Report on Form 8-K, and Exhibit 99.1 attached hereto, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”) or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing."
+              }
+            }
+          }
+        },
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "On February 16, 2023, DoorDash announced the authorization of a share repurchase program for the repurchase of shares of its Class A common stock, in an aggregate amount of up to $750 million. This program is in addition to the prior repurchase program for the repurchase of $400 million shares of Class A common stock, which was completed in the third quarter of fiscal 2022. The goal of the program is to offset a portion of the dilution associated with restricted stock units issued to employees as part of the Company’s overall compensation program. The Company’s board of directors expects to assess any future repurchase programs based on its balance sheet, expected free cash flow, and alternative investment opportunities at the time. Any future authorization will be approved and executed consistent with the the Company’s capital allocation strategy.",
+              "subsections": {
+                "repurchase_mechanics": "Repurchases may be made from time to time through open market repurchases or through privately negotiated transactions subject to market conditions, applicable legal requirements and other relevant factors. Open market repurchases may be structured to occur in accordance with the requirements of Rule 10b-18 of the Exchange Act. DoorDash may also, from time to time, enter into Rule 10b5-1 plans to facilitate repurchases of its shares under this authorization. The repurchase program does not obligate the Company to acquire any particular amount of its Class A common stock, and it may be suspended at any time at the Company’s discretion. The timing and actual number of shares repurchased may depend on a variety of factors, including price, general business and market conditions, and alternative investment opportunities."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits.",
+              "subsections": {
+                "exhibit_list": "Exhibit 99.1: Letter to Shareholders dated February 16, 2023"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

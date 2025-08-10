@@ -1,0 +1,29 @@
+{
+  "Johnson & Johnson": {
+    "2024": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 2 - Financial Information": {
+          "ITEMS": {
+            "Item 2.02 - Results of Operations and Financial Condition": {
+              "content": "On October 15, 2024, Johnson & Johnson issued the attached press release (Exhibit 99.1) announcing its sales and earnings for the third quarter ended September 29, 2024.",
+              "subsections": {}
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits.",
+              "subsections": {
+                "Exhibit 99.1": "Press Release dated October 15, 2024 for the period ended September 29, 2024",
+                "Exhibit 99.2": "Unaudited Comparative Supplementary Sales Data and Condensed Consolidated Statement of Earnings for the fiscal third quarter and nine months",
+                "Exhibit 104": "The cover page from this Current Report on Form 8-K, formatted in Inline XBRL."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

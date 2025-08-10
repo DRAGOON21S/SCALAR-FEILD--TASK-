@@ -1,0 +1,41 @@
+{
+  "Zoom Video Communications, Inc.": {
+    "2024": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 2 - Financial Information": {
+          "ITEMS": {
+            "Item 2.02 - Results of Operations and Financial Condition": {
+              "content": "On August 21, 2024, Zoom Video Communications, Inc. (the “Company”) issued a press release announcing its financial results for the three months ended July 31, 2024. A copy of the press release is furnished as Exhibit 99.1 to this report and is incorporated by reference. The information contained in this report, including Exhibit 99.1 attached hereto, is furnished and shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or subject to the liabilities of that section. The information shall not be deemed incorporated by reference into any other filing with the Securities and Exchange Commission made by the Company regardless of any general incorporation language in such filing, except as shall be expressly set forth by specific reference in such filing.",
+              "subsections": {}
+            }
+          }
+        },
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.02 - Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers": {
+              "content": "On August 16, 2024, Kelly Steckelberg notified the Company that she intends to resign from her role as the Company’s Chief Financial Officer. Ms. Steckelberg’s decision was not the result of any disagreement with the Company. The Company has commenced a search process to identify Ms. Steckelberg’s successor. On August 21, 2024, the Company entered into a Transition and Separation Agreement with Ms. Steckelberg (the “Transition Agreement”), in connection with her departure from the Company. Pursuant to the Transition Agreement, Ms. Steckelberg will continue to serve as the Company’s Chief Financial Officer through the release of the Company’s earnings for the fiscal quarter ending October 31, 2024 (the “Transition Period”). Commencing October 10, 2024, she will be serving in this role on a part-time basis (the “Part-Time Period”). During the Transition Period and the Part-Time Period, Ms. Steckelberg will be entitled to receive her base salary at the same full-time rate as it was prior to the Transition Period and will continue to be eligible for the Company’s standard benefits. During the Transition Period, Ms. Steckelberg’s outstanding equity awards of the Company will continue to vest pursuant to their terms. The foregoing description of the terms of the Transition Agreement is not complete and is qualified in its entirety by the full text of the Transition Agreement, which is filed as Exhibit 10.1 to this Current Report on Form 8-K and is incorporated herein by reference.",
+              "subsections": {
+                "CFO Resignation": "On August 16, 2024, Kelly Steckelberg notified the Company that she intends to resign from her role as the Company’s Chief Financial Officer. Ms. Steckelberg’s decision was not the result of any disagreement with the Company. The Company has commenced a search process to identify Ms. Steckelberg’s successor.",
+                "Transition Agreement": "On August 21, 2024, the Company entered into a Transition and Separation Agreement with Ms. Steckelberg (the “Transition Agreement”), in connection with her departure from the Company. Pursuant to the Transition Agreement, Ms. Steckelberg will continue to serve as the Company’s Chief Financial Officer through the release of the Company’s earnings for the fiscal quarter ending October 31, 2024 (the “Transition Period”). Commencing October 10, 2024, she will be serving in this role on a part-time basis (the “Part-Time Period”). During the Transition Period and the Part-Time Period, Ms. Steckelberg will be entitled to receive her base salary at the same full-time rate as it was prior to the Transition Period and will continue to be eligible for the Company’s standard benefits. During the Transition Period, Ms. Steckelberg’s outstanding equity awards of the Company will continue to vest pursuant to their terms.",
+                "Incorporation by Reference": "The foregoing description of the terms of the Transition Agreement is not complete and is qualified in its entirety by the full text of the Transition Agreement, which is filed as Exhibit 10.1 to this Current Report on Form 8-K and is incorporated herein by reference."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits",
+              "subsections": {
+                "Exhibit 10.1": "Transition and Separation Agreement between Zoom Video Communications, Inc. and Kelly Steckelberg, dated August 21, 2024",
+                "Exhibit 99.1": "Press release datedAugust 21, 2024 of Zoom Video Communications, Inc.",
+                "Exhibit 104": "Cover Page Interactive Data File (embedded within the Inline XBRL document)"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

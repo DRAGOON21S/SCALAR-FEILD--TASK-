@@ -1,0 +1,30 @@
+{
+  "JPMorgan Chase & Co.": {
+    "2020": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.02 - Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers": {
+              "content": "On December 15, 2020 Lee R. Raymond notified the Company of his intention to resign as a member of the Board of Directors, effective December 31, 2020. Mr. Raymond’s resignation is not the result of any disagreement with the Company.",
+              "subsections": {
+                "resignation_details": "On December 15, 2020 Lee R. Raymond notified the Company of his intention to resign as a member of the Board of Directors, effective December 31, 2020.",
+                "reason_for_resignation": "Mr. Raymond’s resignation is not the result of any disagreement with the Company."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibit",
+              "subsections": {
+                "exhibit_list": "Exhibit No. 101: Pursuant to Rule 406 of Regulation S-T, the cover page is formatted in Inline XBRL (Inline eXtensible Business Reporting Language). Exhibit No. 104: Cover Page Interactive Data File (embedded within the Inline XBRL document and included in Exhibit 101)."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

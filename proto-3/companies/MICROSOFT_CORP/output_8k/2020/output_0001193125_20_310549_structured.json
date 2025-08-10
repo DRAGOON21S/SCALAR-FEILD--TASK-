@@ -1,0 +1,23 @@
+{
+  "Microsoft Corporation": {
+    "2020": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.07 - Submission of Matters to a Vote of Security Holders": {
+              "content": "On December 2, 2020, Microsoft Corporation (the “Company”) held its 2020 Annual Shareholders Meeting (the “Annual Meeting”). There were 7,562,826,058 shares of common stock entitled to be voted at the Annual Meeting, of which 6,566,836,176 were voted in person or by proxy. The results for each item submitted for a vote of shareholders are as follows.",
+              "subsections": {
+                "summary_of_results": "The shareholders: (1) Voted to elect each of the twelve (12) nominees for director. (2) Approved, on an advisory basis, the compensation of the Company’s named executive officers. (3) Voted to ratify the appointment of Deloitte & Touche LLP as the Company’s independent registered public accounting firm for fiscal year 2021. (4) Rejected a shareholder proposal concerning a report on employee representation on the Board of Directors.",
+                "election_of_directors": "The Company’s inspector of election certified the following vote tabulations for the election of directors:\nReid G. Hoffman: Re-elected, 99.52% For, For: 5,215,758,348, Against: 25,314,092, Abstain: 8,400,114, Broker Non-Votes: 1,317,363,622\nHugh F. Johnston: Re-elected, 99.62% For, For: 5,221,269,096, Against: 19,816,684, Abstain: 8,386,774, Broker Non-Votes: 1,317,363,622\nTeri L. List-Stoll: Re-elected, 99.35% For, For: 5,205,028,542, Against: 34,076,281, Abstain: 10,367,731, Broker Non-Votes: 1,317,363,622\nSatya Nadella: Re-elected, 99.89% For, For: 5,237,186,585, Against: 5,546,598, Abstain: 6,739,371, Broker Non-Votes: 1,317,363,622\nSandra E. Peterson: Re-elected, 98.89% For, For: 5,183,197,017, Against: 58,262,215, Abstain: 8,013,322, Broker Non-Votes: 1,317,363,622\nPenny S. Pritzker: Re-elected, 99.80% For, For: 5,228,709,230, Against: 10,536,931, Abstain: 10,226,393, Broker Non-Votes: 1,317,363,622\nCharles W. Scharf: Re-elected, 99.11% For, For: 5,194,031,476, Against: 46,902,053, Abstain: 8,539,025, Broker Non-Votes: 1,317,363,622\nArne M. Sorenson: Re-elected, 99.88% For, For: 5,234,800,897, Against: 6,336,694, Abstain: 8,334,963, Broker Non-Votes: 1,317,363,622\nJohn W. Stanton: Re-elected, 99.85% For, For: 5,233,415,375, Against: 7,605,399, Abstain: 8,451,780, Broker Non-Votes: 1,317,363,622\nJohn W. Thompson: Re-elected, 99.10% For, For: 5,194,357,510, Against: 46,935,033, Abstain: 8,180,011, Broker Non-Votes: 1,317,363,622\nEmma N. Walmsley: Re-elected, 99.73% For, For: 5,227,399,222, Against: 13,970,088, Abstain: 8,103,244, Broker Non-Votes: 1,317,363,622\nPadmasree Warrior: Re-elected, 99.74% For, For: 5,227,546,888, Against: 13,598,261, Abstain: 8,327,405, Broker Non-Votes: 1,317,363,622",
+                "advisory_vote_on_executive_compensation": "Vote Result: Approved\n% Votes For: 94.72%\nFor: 4,956,043,006\nAgainst: 276,520,958\nAbstain: 16,908,590\nBroker Non-Votes: 1,317,363,622",
+                "ratification_of_independent_auditor": "Vote Result: Approved\n% Votes For: 96.05%\nFor: 6,296,749,497\nAgainst: 258,680,123\nAbstain: 11,406,556\nBroker Non-Votes: N/A",
+                "shareholder_proposal_on_employee_representation": "Vote Result: Rejected\n% Votes For: 5.15%\nFor: 268,964,933\nAgainst: 4,957,295,213\nAbstain: 23,212,408\nBroker Non-Votes: 1,317,363,622"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

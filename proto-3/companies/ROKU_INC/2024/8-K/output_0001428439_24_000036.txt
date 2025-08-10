@@ -1,0 +1,139 @@
+                                                                                                                   
+                                                   UNITED STATES                                                   
+                                                                                                                   
+                                                                                                                   
+                                        SECURITIES AND EXCHANGE COMMISSION                                         
+                                                                                                                   
+                                                                                                                   
+                                              Washington, D.C. 20549                                               
+                                                                                                                   
+                                                                                                                   
+                                                     Form 8-K                                                      
+                                                                                                                   
+                                                                                                                   
+                                                  CURRENT REPORT                                                   
+                                                                                                                   
+                      Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934                       
+                                                                                                                   
+                       Date of Report (Date of earliest event reported): September 23, 2024                        
+                                                                                                                   
+                                                    ROKU, INC.                                                     
+                                                                                                                   
+                              (Exact name of Registrant as Specified in Its Charter)                               
+                                                                                             
+  Delaware                                    001-38211                          26-2087865  
+  (State or Other Jurisdiction                -Commission File Number         -IRS Employer  
+  of Incorporation)                                                      Identification No.  
+  1173 Coleman Avenue                                                                 95110  
+  San Jose,California                                                                        
+  (Address of Principal Executive Offices)                                        -Zip Code  
+                                                                                             
+                                                  ( 408) 556-9040                                                  
+                                                                                                                   
+                               (Registrant’s Telephone Number, Including Area Code)                                
+                                                                                                                   
+                                                  Not Applicable                                                   
+                                                                                                                   
+                           (Former Name or Former Address, if Changed Since Last Report)                           
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation
+of the registrant under any of the following provisions (see General Instructions A.2. below):
+                                                                                              
+  ☐    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)  
+                                                                                              
+                                                                                               
+  ☐    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  
+                                                                                               
+                                                                                                               
+  ☐    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  
+                                                                                                               
+                                                                                                               
+  ☐    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  
+                                                                                                               
+Securities registered pursuant to Section 12(b) of the Act:
+                                                                                                          
+  Title of Each Class:                       Trading Symbol(s):    Name of Exchange on Which Registered:  
+  Class A Common Stock, $0.0001 par value    “ROKU”                The Nasdaq Global Select Market        
+                                                                                                          
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the
+Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2
+of this chapter).
+Emerging growth company ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended
+transition period for complying with any new or revised financial accounting standards provided pursuant to Section
+13(a) of the Exchange Act. ☐
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers;
+Compensatory Arrangements of Certain Officers.
+On September 23, 2024, the Compensation Committee of the Board of Directors of Roku, Inc. (“ Roku ”) approved
+changes to the terms of Roku’s Executive Supplemental Stock Option Program (as amended, the “ Amended Program ”).
+Pursuant to the Amended Program, employees at or above the level of Senior Vice President, including certain
+executive officers, other than Roku’s Chief Executive Officer (“ Eligible Executives ”), may elect on an annual
+basis to reduce their annual base salary for a given calendar year in exchange for a series of monthly grants of
+fully vested non-statutory stock options under Roku’s Amended and Restated 2017 Equity Incentive Plan (the “ Plan
+”). The Amended Program will be effective commencing January 1, 2025, and will remain in effect until modified or
+revoked by the Board of Directors or the Compensation Committee.
+
+An Eligible Executive may elect to participate in the Amended Program pursuant to an Executive Supplemental Stock
+Option Program Enrollment Form, which must be completed during the last open trading window in the calendar year
+immediately preceding the calendar year for which such election is made. An Eligible Executive may not change his
+or her annual election amount once the deadline for enrollment has passed. An Eligible Executive may not withdraw
+from the Amended Program, unless: (i) the withdrawal is during an open trading window, (ii) the Eligible Executive
+is not otherwise in possession of material, non-public information, and (iii) such withdrawal is due to an
+unforeseeable emergency. If an Eligible Executive withdraws, the Eligible Executive will not be able to re-enroll
+in the Amended Program for such calendar year, and must wait until the next enrollment period to enroll for the
+next calendar year.
+
+The number of stock options granted under the Amended Program on a monthly basis will be determined based on the
+following formula: (i) the monthly dollar amount by which the Eligible Executive has elected to reduce their annual
+base salary divided by (ii) (a) the closing price of our Class A common stock as reported by The Nasdaq Global
+Select Market on the date of grant (the “ Fair Market Value ”) divided by (b) a factor intended to result in such
+quotient approximating a Black-Scholes value (the “ Stock Option Ratio ”), with the Stock Option Ratio in effect
+during a given calendar year as determined by the Board of Directors or the Compensation Committee from time to
+time, rounded down to the nearest whole share. For example, if an Eligible Executive elects to reduce his or her
+annual base salary by $20,000 per month and the Fair Market Value is $50.00, then the Eligible Executive will be
+granted an option to purchase the number of shares of our Class A common stock equal to: (i) $20,000 divided by
+(ii) (a) $50.00 divided by (b) the Stock Option Ratio, rounded down to the nearest whole share. The Compensation
+Committee reserves the right and intends to review and may adjust the Stock Option Ratio on an annual basis, prior
+to the annual acceptance of Executive Supplemental Stock Option Program Enrollment Form.
+
+Each monthly stock option grant will be made on the first trading day of the month (contingent upon the Eligible
+Executive’s continued service as of the grant date); provided , however , if such date occurs within the period
+starting four business days before and ending one business day after Roku (i) files a periodic report on a Form
+10-K or a Form 10-Q or (ii) files or furnishes a current report on a Form 8-K that discloses material nonpublic
+information (including earnings information), other than a current report on Form 8-K disclosing a material new
+stock option grant award under Item 5.02(e) (such period, the “ Filing Period ”), then the grant date will be the
+first trading day following expiration of the Filing Period in the applicable month. Each stock option will be
+fully vested on the grant date and will have an exercise price equal to the Fair Market Value. The stock options
+will be subject to the terms and conditions of the Plan and will be administered on a non-discretionary basis
+without further action by the Compensation Committee. The stock options will be exercisable for up to ten years
+following the grant date regardless of the employment status of the Eligible Executive.
+
+The Executive Supplemental Stock Option Program Enrollment Form and the form of stock option grant notice and
+agreement substantially in the form of those to be used in connection with the Amended Program are filed as
+Exhibits 10.1 and 10.2, respectively, to this Current Report on Form 8-K and are incorporated herein by reference.
+
+The foregoing description does not purport to be complete and is qualified in its entirety by the terms of the
+exhibits.
+                                                                                                                   
+  Item 9.01 Financial Statements and Exhibits.                                                                     
+                                                                                                                   
+                                                                                                                   
+  (d)               Exhibits.                                                                                      
+  Exhibit Number    Description                                                                                    
+  10.1              Executive Supplemental Stock Option Program Enrollment Form                                    
+                    Forms of Consolidated Option Agreement and Option Grant Notice under 2017 Equity Incentive     
+  10.2              Plan  (incorporated by reference to Exhibit 10.4 of Roku’s Annual Report on Form 10-K filed    
+                    on February 18, 2022)                                                                          
+  104               Cover Page Interactive Data File (embedded within the Inline XBRL document)                    
+                                                                                                                   
+                                                                                                                   
+                                                     SIGNATURE                                                     
+                                                                                                                   
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to
+be signed on its behalf by the undersigned hereunto duly authorized.
+                                                               
+  Dated: September 26, 2024           Roku, Inc.               
+ ───────────────────────────────────────────────────────────── 
+                               By:    /s/ Dan Jedda            
+                                      Dan Jedda                
+                                      Chief Financial Officer  
+                                                               

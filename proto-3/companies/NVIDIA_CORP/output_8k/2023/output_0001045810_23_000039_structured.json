@@ -1,0 +1,40 @@
+{
+  "NVIDIA CORPORATION": {
+    "2023": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.02 - Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers": {
+              "content": "On March 2, 2023, the Compensation Committee of the Board of Directors of NVIDIA Corporation adopted the Variable Compensation Plan for Fiscal Year 2024 (the 2024 Plan).",
+              "subsections": {
+                "plan_details": "The 2024 Plan provides eligible executive officers the opportunity to earn a variable cash payment based on the level of achievement by the Company of certain corporate performance goals during fiscal year 2024. The Company's fiscal year 2024 refers to the fiscal year ending January 28, 2024.",
+                "performance_goals_and_payment": "The Compensation Committee has set the Performance Goals for fiscal year 2024 based upon the achievement of specified fiscal year 2024 revenue and has established threshold, base compensation plan, and stretch compensation plan levels. An eligible participant’s variable cash compensation under the 2024 Plan will be based on the achievement by the Company of the Performance Goals in fiscal year 2024.",
+                "eligibility": "Unless otherwise determined by the Compensation Committee, a participant must remain an employee through the payment date under the 2024 Plan to be eligible to earn an award.",
+                "executive_target_awards": "The target award opportunities for base compensation plan achievement for the Company’s named executive officers are as follows: Jen-Hsun Huang, President and Chief Executive Officer: $2,000,000 (200% of Fiscal Year 2024 Base Salary); Colette M. Kress, Executive Vice President and Chief Financial Officer: $300,000 (33% of Fiscal Year 2024 Base Salary); Ajay K. Puri, Executive Vice President, Worldwide Field Operations: $650,000 (68% of Fiscal Year 2024 Base Salary); Debora Shoquist, Executive Vice President, Operations: $250,000 (29% of Fiscal Year 2024 Base Salary); Timothy S. Teter, Executive Vice President, General Counsel and Secretary: $250,000 (29% of Fiscal Year 2024 Base Salary).",
+                "reference_to_exhibit": "The foregoing description is subject to, and qualified in its entirety by, the 2024 Plan, which is filed with this report as Exhibit 10.1 and is incorporated herein by reference."
+              }
+            },
+            "Item 5.03 - Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year": {
+              "content": "On March 2, 2023, the Board of the Company amended and restated the Company’s Bylaws (the Restated Bylaws), which became effective immediately upon adoption by the Board.",
+              "subsections": {
+                "summary_of_amendments": "The Restated Bylaws update procedural mechanics and disclosure requirements for stockholder nominations and proposals, including: requiring additional background information and disclosures regarding proposing stockholders and nominees; requiring a stockholder submitting a nomination to represent their intent to solicit proxies under Rule 14a-19 and provide evidence of compliance; requiring disclosures in a stockholder's notice to be updated as of the record date and five business days prior to the meeting; stipulating that if a stockholder fails to comply with Rule 14a-19 requirements, their nominees will be disregarded; and requiring stockholders soliciting proxies to use a proxy card color other than white, which is reserved for the Board.",
+                "reference_to_exhibit": "The foregoing summary of the amendments effected by the Restated Bylaws does not purport to be complete and is qualified in its entirety by reference to the complete text of the Restated Bylaws, a copy of which is filed as Exhibit 3.1 hereto and incorporated herein by reference."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "This section lists the exhibits filed with this Current Report on Form 8-K.",
+              "subsections": {
+                "exhibits_list": "(d) Exhibits. Exhibit 3.1: Bylaws of NVIDIA Corporation, Amended and Restated as of March 2, 2023. Exhibit 10.1: Variable Compensation Plan - Fiscal Year 2024. Exhibit 104: The cover page of this Current Report on Form 8-K, formatted in inline XBRL (included as Exhibit 101)."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

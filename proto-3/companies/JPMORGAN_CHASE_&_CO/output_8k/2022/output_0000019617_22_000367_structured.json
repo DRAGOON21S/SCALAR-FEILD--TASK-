@@ -1,0 +1,30 @@
+{
+  "JPMorgan Chase & Co.": {
+    "2022": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.07 - Submission of Matters to a Vote of Security Holders": {
+              "content": "Registrant held its Annual Meeting of Shareholders on Tuesday, May 17, 2022; 2,468,848,141 shares were represented in person or by proxy, or 83.98% of the total shares outstanding. The results of the shareholder voting on the proposals presented were as follows:",
+              "subsections": {
+                "management_proposals": "Proposal 1 - Shareholders elected the 10 director nominees named in the Proxy Statement. All director nominees received at least 92.18% of the votes cast.\nName: Linda B. Bammann, For: 1,935,111,208, Against: 163,403,502, Abstain: 4,983,522, Broker Non-Votes: 365,349,909\nName: Stephen B. Burke, For: 1,933,343,178, Against: 163,898,420, Abstain: 6,256,634, Broker Non-Votes: 365,349,909\nName: Todd A. Combs, For: 1,999,245,454, Against: 98,143,092, Abstain: 6,109,686, Broker Non-Votes: 365,349,909\nName: James S. Crown, For: 1,980,571,134, Against: 116,037,510, Abstain: 6,889,588, Broker Non-Votes: 365,349,909\nName: James Dimon, For: 1,949,753,518, Against: 141,885,433, Abstain: 11,859,281, Broker Non-Votes: 365,349,909\nName: Timothy P. Flynn, For: 2,046,396,859, Against: 51,253,626, Abstain: 5,847,747, Broker Non-Votes: 365,349,909\nName: Mellody Hobson, For: 2,052,513,156, Against: 45,964,520, Abstain: 5,020,556, Broker Non-Votes: 365,349,909\nName: Michael A. Neal, For: 2,032,709,284, Against: 65,130,925, Abstain: 5,658,023, Broker Non-Votes: 365,349,909\nName: Phebe N. Novakovic, For: 2,068,216,949, Against: 29,988,874, Abstain: 5,292,409, Broker Non-Votes: 365,349,909\nName: Virginia M. Rometty, For: 1,972,585,701, Against: 125,183,754, Abstain: 5,728,777, Broker Non-Votes: 365,349,909\n\nProposal 2 - Shareholders did not approve the advisory resolution to approve executive compensation.\nFor: 652,188,238 (31.00%), Against: 1,440,436,189 (68.47%), Abstain: 10,873,805 (0.51%), Broker Non-Votes: 365,349,909\n\nProposal 3 - Shareholders approved the ratification of independent registered public accounting firm.\nFor: 2,289,221,864 (92.72%), Against: 174,154,263 (7.05%), Abstain: 5,472,014 (0.22%)",
+                "shareholder_proposals": "Proposal 4 - Shareholders did not approve the proposal on fossil fuel financing.\nFor: 209,858,579 (9.97%), Against: 1,860,351,074 (88.44%), Abstain: 33,288,579 (1.58%), Broker Non-Votes: 365,349,909\n\nProposal 5 - Shareholders did not approve the proposal on special shareholder meeting improvement.\nFor: 978,582,611 (46.52%), Against: 1,114,111,716 (52.96%), Abstain: 10,803,905 (0.51%), Broker Non-Votes: 365,349,909\n\nProposal 6 - Shareholders did not approve the proposal on independent board chairman.\nFor: 833,359,241 (39.61%), Against: 1,261,534,233 (59.97%), Abstain: 8,604,758 (0.4%), Broker Non-Votes: 365,349,909\n\nProposal 7 - Shareholders did not approve the proposal on board diversity.\nFor: 86,210,945 (4.09%), Against: 2,001,964,029 (95.17%), Abstain: 15,323,258 (0.72%), Broker Non-Votes: 365,349,909\n\nProposal 8 - Shareholders did not approve the proposal on conversion to public benefit corporation.\nFor: 15,602,821 (0.74%), Against: 2,074,883,359 (98.63%), Abstain: 13,012,052 (0.61%), Broker Non-Votes: 365,349,909\n\nProposal 9 - Shareholders did not approve the proposal on setting absolute contraction targets.\nFor: 322,043,503 (15.3%), Against: 1,747,997,240 (83.09%), Abstain: 33,457,489 (1.59%), Broker Non-Votes: 365,349,909"
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "",
+              "subsections": {
+                "exhibits": "Exhibit 101: Pursuant to Rule 406 of Regulation S-T, the cover page is formatted in Inline XBRL (Inline eXtensible Business Reporting Language).\nExhibit 104: Cover Page Interactive Data File (embedded within the Inline XBRL document and included in Exhibit 101)."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

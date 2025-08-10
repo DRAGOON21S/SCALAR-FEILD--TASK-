@@ -1,0 +1,140 @@
+                                                                                                                   
+                                                   UNITED STATES                                                   
+                                                                                                                   
+                                                                                                                   
+                                        SECURITIES AND EXCHANGE COMMISSION                                         
+                                                                                                                   
+                                                                                                                   
+                                              Washington, D.C. 20549                                               
+                                                                                                                   
+                                                                                                                   
+                                                     Form 8-K                                                      
+                                                                                                                   
+                                                                                                                   
+                                                  CURRENT REPORT                                                   
+                                                                                                                   
+                      Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934                       
+                                                                                                                   
+                          Date of Report (Date of earliest event reported): July 28, 2025                          
+                                                                                                                   
+                                                    Roku, Inc.                                                     
+                                                                                                                   
+                              (Exact name of Registrant as Specified in Its Charter)                               
+                                                                                             
+  Delaware                                    001-38211                          26-2087865  
+  (State or Other Jurisdiction                -Commission File Number         -IRS Employer  
+  of Incorporation)                                                      Identification No.  
+  1173 Coleman Ave                                                                    95110  
+  San Jose,California                                                                        
+  (Address of Principal Executive Offices)                                        -Zip Code  
+                                                                                             
+                                                  ( 408) 556-9040                                                  
+                                                                                                                   
+                               (Registrant’s Telephone Number, Including Area Code)                                
+                                                                                                                   
+                                                  Not Applicable                                                   
+                                                                                                                   
+                           (Former Name or Former Address, if Changed Since Last Report)                           
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation
+of the registrant under any of the following provisions (see General Instructions A.2. below):
+                                                                                              
+  ☐    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)  
+                                                                                              
+                                                                                               
+  ☐    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  
+                                                                                               
+                                                                                                               
+  ☐    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  
+                                                                                                               
+                                                                                                               
+  ☐    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  
+                                                                                                               
+Securities registered pursuant to Section 12(b) of the Act:
+                                                                                                          
+  Title of Each Class:                       Trading Symbol(s):    Name of Exchange on Which Registered:  
+  Class A Common Stock, $0.0001 par value    ROKU                  The Nasdaq Global Select Market        
+                                                                                                          
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the
+Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2
+of this chapter).
+Emerging growth company ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended
+transition period for complying with any new or revised financial accounting standards provided pursuant to Section
+13(a) of the Exchange Act. ☐
+Item 2.02 Results of Operations and Financial Condition.
+On July 31, 2025 , Roku, Inc. (the “Company”) announced its financial results for the quarter ended June 30, 2025.
+The Company’s Shareholder Letter, which is attached hereto as Exhibit 99.1, is incorporated herein by reference.
+
+The information in this Item 2.02, including Exhibit 99.1, is being furnished and shall not be treated as “filed”
+for purposes of Section 18 of the Securities Exchange Act of 1934, nor shall it be deemed incorporated by reference
+into any registration statement or other document pursuant to the Securities Act of 1933 or the Securities Exchange
+Act of 1934, except as expressly stated by specific reference in such filing.
+
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers;
+Compensatory Arrangements of Certain Officers.
+
+On July 28, 2025, the Company’s Board of Directors approved the appointment of Dan Jedda, the Company’s current
+Chief Financial Officer, as the Company’s Chief Financial Officer and Chief Operating Officer.
+
+Mr. Jedda has served as the Company’s Chief Financial Officer since he joined the Company in May 2023. Prior to
+joining the Company, Mr. Jedda served as the Chief Financial Officer of Stitch Fix, Inc. from December 2020 through
+April 2023. From June 2005 to December 2020, Mr. Jedda held various positions at Amazon.com, including serving as
+Vice President and Chief Financial Officer for Digital Video (including Amazon Studios), Digital Music, and the
+Advertising and Corporate Development organizations. Previously, Mr. Jedda also served as a Controller for Toshiba
+America and spent several years at Honeywell and ADC Telecommunications in various business finance roles,
+including treasury and internal audit. Mr. Jedda holds a B.A. in Accounting and Finance from the University of St.
+Thomas and an M.B.A. from the University of Minnesota, Carlson School of Management.
+                                                                                                                   
+  Item 8.01                                                                                                        
+                                                                                                                   
+                                                                                                                   
+  Other Events.                                                                                                    
+                                                                                                                   
+On July 31, 2025, the Company announced in its Shareholder Letter that its Board of Directors has approved a stock
+repurchase program with authorization to purchase up to $400 million of its Class A common stock through December
+31, 2026. Repurchases under the stock repurchase program may be made at the Company’s discretion from time to time
+in open market transactions at prevailing market prices, including through trading plans that may be adopted in
+accordance with Rule 10b5-1 of the Securities Exchange Act of 1934, as amended, or through other means. The amount
+and timing of repurchases will depend on a variety of factors, including general market conditions, the trading
+price of the Company’s Class A common stock, corporate and regulatory requirements, the availability of funds,
+other investment opportunities, and other considerations the Company deems relevant. The stock repurchase program
+may be modified, suspended, or terminated at any time.
+                                                                                                                   
+  Forward-Looking Statements                                                                                       
+                                                                                                                   
+This Current Report on Form 8-K contains “forward-looking” statements within the meaning of the federal securities
+laws, including statements regarding plans and expectations, including the sources of funding, for the Company’s
+stock repurchase program. Such forward-looking statements are based on the Company’s current beliefs, assumptions
+and information available to the Company and involve known and unknown risks, uncertainties and other factors that
+may cause actual results to be materially different from any future results expressed or implied by the forward-
+looking statements. Important risks related to such statements include changes in price and volume and the
+volatility of the Company’s Class A common stock, adverse developments affecting prices and trading of exchange-
+traded securities, and unexpected, unplanned or alternative requirements with respect to the capital investments or
+other uses of cash of the Company, as well as the risks and factors contained in the reports the Company has filed
+with the Securities and Exchange Commission, including the Company’s most recent Annual Report on Form 10-K and
+Quarterly Report on Form 10-Q. Except as required by law, the Company assumes no obligation to update these
+forward-looking statements as the result of new information, future events or otherwise.
+                                                                                                                   
+  Item 9.01 Financial Statements and Exhibits.                                                                     
+                                                                                                                   
+                                                                                                 
+  (d)               Exhibits.                                                                    
+  Exhibit Number    Description                                                                  
+  99.1*             Shareholder Letter dated July 31, 2025                                       
+ ─────────────────────────────────────────────────────────────────────────────────────────────── 
+  104               Cover Page Interactive Data File (embedded within the Inline XBRL document)  
+                                                                                                 
+* This exhibit is intended to be furnished and shall not be deemed “filed” for purposes of the Securities and
+Exchange Act of 1934.
+                                                                                                                   
+                                                     SIGNATURE                                                     
+                                                                                                                   
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to
+be signed on its behalf by the undersigned hereunto duly authorized.
+                                                                                             
+  Dated: July 31, 2025    Roku, Inc.                                                         
+ ─────────────────────────────────────────────────────────────────────────────────────────── 
+                          By:           /s/ Dan Jedda                                        
+                                        Dan Jedda                                            
+                                        Chief Financial Officer and Chief Operating Officer  
+                                                                                             

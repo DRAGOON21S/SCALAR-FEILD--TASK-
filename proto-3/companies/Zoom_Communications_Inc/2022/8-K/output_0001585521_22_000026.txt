@@ -1,0 +1,130 @@
+                                                                                                                   
+                                                   UNITED STATES                                                   
+                                                                                                                   
+                                                                                                                   
+                                        SECURITIES AND EXCHANGE COMMISSION                                         
+                                                                                                                   
+                                                                                                                   
+                                              WASHINGTON, D.C. 20549                                               
+                                                                                                                   
+                                                                                                                   
+                                             _________________________                                             
+                                                                                                                   
+                                                                                                                   
+                                                     FORM 8-K                                                      
+                                                                                                                   
+                                                                                                                   
+                                             _________________________                                             
+                                                                                                                   
+                                                                                                                   
+                                                  CURRENT REPORT                                                   
+                                                                                                                   
+                      Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934                       
+                                                                                                                   
+                        Date of Report (Date of earliest event reported): February 23, 2022                        
+                                                                                                                   
+                                             _________________________                                             
+                                                                                                                   
+                                                                                                                   
+                                          Zoom Video Communications, Inc.                                          
+                                                                                                                   
+                              (Exact name of Registrant as Specified in Its Charter)                               
+                                                                                                                   
+                                             _________________________                                             
+                                                                                 
+  Delaware                        001-38865                  61-1648780          
+  (State or Other Jurisdiction    -Commission File Number    -IRS Employer       
+  of Incorporation)                                          Identification No.  
+                                                                                 
+                                                                                                                   
+                                          55 Almaden Boulevard, 6th Floor                                          
+                                                                                                                   
+                                                                                                                   
+                                            San Jose, California 95113                                             
+                                                                                                                   
+                               (Address of principal executive offices and Zip Code)                               
+                                                                                                                   
+                                                  (888) 799-9666                                                   
+                                                                                                                   
+                               (Registrant’s Telephone Number, Including Area Code)                                
+                                                                                                                   
+                                                  Not Applicable                                                   
+                                                                                                                   
+                           (Former Name or Former Address, if Changed Since Last Report)                           
+                                                                                                                   
+                                             _________________________                                             
+                                                                                                                   
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation
+of the registrant under any of the following provisions (see General Instructions A.2. below):
+                                                                                                               
+  ☐    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)                   
+  ☐    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)                  
+  ☐    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  
+  ☐    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  
+                                                                                                               
+Securities registered pursuant to Section 12(b) of the Act:
+                                                                                                            
+  Title of each class                       Trading Symbol(s)    Name of each exchange on which registered  
+  Class A Common Stock, $0.001 par value    ZM                   The Nasdaq Global Select Market            
+  per share                                                                                                 
+                                                                                                            
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the
+Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2
+of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended
+transition period for complying with any new or revised financial accounting standards provided pursuant to Section
+13(a) of the Exchange Act. ☐
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers;
+Compensatory Arrangements of Certain Officers
+                                                                                                                   
+  Director Appointment                                                                                             
+                                                                                                                   
+On February 23, 2022, the board of directors (“Board”) of Zoom Video Communications, Inc. (the “Company”) elected
+William R. McDermott to the Board, effective March 1, 2022. Mr. McDermott was elected as a Class III director for a
+term expiring at the Company’s 2022 annual meeting of stockholders. Mr. McDermott is not expected to join any of
+the committees of the Board at this time.
+
+Mr. McDermott has served as the Chief Executive Officer and a member of the board of directors of ServiceNow, Inc.,
+a public digital workflow company, since November 2019. From 2010 through 2014, Mr. McDermott served as Co-Chief
+Executive Officer, and from 2014 until October 2019, as sole Chief Executive Officer, of SAP SE (“SAP”), a
+multinational software company providing enterprise software. Mr. McDermott joined SAP in 2002 as Chief Executive
+Officer of SAP America, Inc., and served on the SAP Executive Board from 2008 until October 2019. Prior to joining
+SAP, Mr. McDermott served as Executive Vice President of Worldwide Sales and Operations at Siebel Systems, Inc.
+from 2001 to 2002 and served as President of Gartner, Inc. from 2000 to 2001. Mr. McDermott currently serves on the
+board of directors of Fisker Inc., an automotive technology company. Mr. McDermott received a B.A. in business
+management from Dowling College, received his M.B.A from Northwestern University’s Kellogg School of Management and
+completed the Executive Development Program at the Wharton School of Business.
+
+There is no arrangement or understanding between Mr. McDermott and any other persons pursuant to which he was
+elected as a director. Mr. McDermott has no direct or indirect material interest in any transaction required to be
+disclosed by the Company pursuant to Item 404(a) of Regulation S-K. Mr. McDermott will enter into the Company’s
+standard form of indemnification agreement between the Company and its directors and executive officers.
+
+Mr. McDermott will be compensated as a member of the Board under the terms of the Company’s Non-Employee Director
+Compensation Policy, as amended in February 2022. Pursuant to the Non-Employee Director Compensation Policy, Mr.
+McDermott will receive an initial grant of 476 restricted stock units. The restricted stock units granted to Mr.
+McDermott will vest in full on the day immediately preceding Zoom’s 2022 annual meeting of stockholders.
+                                                                                                                   
+  Director Resignation                                                                                             
+                                                                                                                   
+On February 23, 2022, Bart Swanson, a director of the Company, notified the Board of his decision to resign from
+his position as a member of the Board, effective as of immediately prior to Mr. McDermott’s appointment. Mr.
+Swanson’s resignation did not result from any disagreements with the Company on any matter relating to its
+operations, policies or practices. The Board filled the vacancy created by Mr. Swanson’s resignation with the
+appointment of Mr. McDermott and the size of the Board remains at ten directors following Mr. McDermott’s
+appointment.
+                                                                                                                   
+                                                    SIGNATURES                                                     
+                                                                                                                   
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused
+this report to be signed on its behalf by the undersigned hereunto duly authorized.
+                                                                                          
+                              Zoom Video Communications, Inc.                             
+  Dated: February 28, 2022    By:                                /s/ Kelly Steckelberg    
+ ──────────────────────────────────────────────────────────────────────────────────────── 
+                                                                 Kelly Steckelberg        
+                                                                 Chief Financial Officer  
+                                                                                          

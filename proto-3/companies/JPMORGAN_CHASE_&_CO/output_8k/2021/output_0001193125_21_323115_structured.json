@@ -1,0 +1,30 @@
+{
+  "JPMorgan Chase & Co.": {
+    "2021": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "On November 8, 2021, JPMorgan Chase & Co. closed a public offering of $3,000,000,000 aggregate principal amount of Fixed-to-FloatingRate Notes due 2032 (the “Notes”). The Notes were registered under the Securities Act of 1933, as amended, pursuant to a registration statement on Form S-3(File No. 333-230098),as amended. In connection with this offering, the legal opinion as to the legality of the Notes is being filed as Exhibit 5.1 to this report.",
+              "subsections": {}
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits",
+              "subsections": {
+                "Exhibit 5.1": "Opinion of Simpson Thacher & Bartlett LLP as to the legality of the $3,000,000,000 aggregate principal amount of Fixed-to-Floating Rate Notes due 2032.",
+                "Exhibit 23.1": "Consent of Simpson Thacher & Bartlett LLP (included as part of Exhibit 5.1).",
+                "Exhibit 101": "Pursuant to Rule 406 of Regulation S-T, the cover page is formatted in Inline XBRL (Inline eXtensible Business Reporting Language).",
+                "Exhibit 104": "Cover Page Interactive Data File (embedded within the Inline XBRL document and included in Exhibit 101)."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

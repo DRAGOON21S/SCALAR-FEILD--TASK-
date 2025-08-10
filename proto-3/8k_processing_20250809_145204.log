@@ -1,0 +1,9 @@
+2025-08-09 14:52:04,282 - INFO - Scanning for 8-K files in: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies
+2025-08-09 14:52:04,282 - INFO - Processing company: Apple_Inc
+2025-08-09 14:52:04,285 - INFO - Processing company: JOHNSON_&_JOHNSON
+2025-08-09 14:52:04,288 - INFO - Processing company: JPMORGAN_CHASE_&_CO
+2025-08-09 14:52:04,292 - INFO - Processing company: Meta_Platforms_Inc
+2025-08-09 14:52:04,295 - INFO - Processing company: MICROSOFT_CORP
+2025-08-09 14:52:04,298 - INFO - Processing company: NVIDIA_CORP
+2025-08-09 14:52:04,301 - INFO - Processing company: UNITEDHEALTH_GROUP_INC
+2025-08-09 14:52:04,302 - INFO - Found 397 8-K files to process

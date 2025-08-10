@@ -1,0 +1,39 @@
+{
+  "DOORDASH, INC.": {
+    "2025": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 2 - Financial Information": {
+          "ITEMS": {
+            "Item 2.02 - Results of Operations and Financial Condition": {
+              "content": "On May 6, 2025, DoorDash, Inc. (\"DoorDash\") issued a press release announcing its financial results for the quarter ended March 31, 2025. A copy of the press release is attached as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference.",
+              "subsections": {
+                "safe_harbor_statement": "The information in Item 2.02 and Item 7.01 of this Current Report on Form 8-K, and Exhibit 99.1 attached hereto, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”) or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing."
+              }
+            }
+          }
+        },
+        "Section 7 - Regulation FD": {
+          "ITEMS": {
+            "Item 7.01 - Regulation FD Disclosure": {
+              "content": "On May 6, 2025, DoorDash posted supplemental investor materials on the investor relations section of its website (ir.doordash.com). DoorDash announces material information to the public about DoorDash, its products and services, and other matters through a variety of means, including filings with the Securities and Exchange Commission, press releases, public conference calls, webcasts, the investor relations section of its website (ir.doordash.com), its blog (about.doordash.com/news) and its X account (@DoorDash) in order to achieve broad, non-exclusionary distribution of information to the public and for complying with its disclosure obligations under Regulation FD.",
+              "subsections": {
+                "safe_harbor_statement": "The information in Item 2.02 and Item 7.01 of this Current Report on Form 8-K, and Exhibit 99.1 attached hereto, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”) or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits.",
+              "subsections": {
+                "exhibits_list": "Exhibit No. 99.1: Press Release dated May 6, 2025\nExhibit No. 104: Cover Page Interactive Data File (embedded within the Inline XBRL document)"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

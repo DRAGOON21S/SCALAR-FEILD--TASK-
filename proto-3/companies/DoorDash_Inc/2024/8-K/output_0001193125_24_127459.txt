@@ -1,0 +1,110 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 8-K CURRENT REPORT PURSUANT TO SECTION
+13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 Date of Report (Date of earliest event reported): April 26, 2024
+DOORDASH, INC. (Exact name of registrant as specified in its charter)                                              
+                                                                     
+  Delaware                        001-39759      46-2852392          
+  (State or other jurisdiction    -Commission    -I.R.S. Employer    
+  of incorporation)               File Number    Identification No.  
+                                                                     
+303 2nd Street, South Tower, 8th Floor San Francisco, California 94107 (Address of principal executive offices)    
+(Zip code) (650) 487-3970 (Registrant’s telephone number, including area code) Not Applicable (Former name or      
+former address, if changed since last report) Check the appropriate box below if the Form 8-Kfiling is intended to 
+simultaneously satisfy the filing obligation of the registrant under any of the following provisions:              
+                                                                                            
+  ☐  Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)  
+                                                                                            
+                                                                                             
+  ☐  Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  
+                                                                                             
+                                                                                                             
+  ☐  Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  
+                                                                                                             
+                                                                                                             
+  ☐  Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  
+                                                                                                             
+Securities registered pursuant to Section 12(b) of the Act:                                                        
+                                                                              
+  Title of each class                   Trading      Name of each exchange    
+                                        Symbol(s)    on which registered      
+  Class A common stock, par value of    DASH         The Nasdaq Stock Market  
+  $0.00001 per share                                                          
+                                                                              
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the          
+Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2of the Securities Exchange Act of 1934 (17 CFR §240.12b-2).  
+Emerging growth company ☐ If an emerging growth company, indicate by check mark if the registrant has elected not  
+to use the extended transition period for complying with any new or revised financial accounting standards provided
+pursuant to Section 13(a) of the Exchange Act. ☐                                                                   
+                                                          
+  Item 1.01  Entry into a Material Definitive Agreement.  
+                                                          
+On April 26, 2024 (the “ Effective Date”), DoorDash, Inc., a Delaware corporation (the “ Company”), entered into an
+Amendment Agreement (the “ Amendment Agreement”) pursuant to which its existing Revolving Credit and Guaranty      
+Agreement, dated as of November 19, 2019, as amended and restated as of August 7, 2020 (as further amended as of   
+October 31, 2022, the “ Existing Credit Agreement”), by and among the Company, the guarantors from time to time    
+party thereto, the issuing banks from time to time party thereto, the lenders from time to time party thereto, and 
+JPMorgan Chase Bank, N.A., as administrative agent, was amended and restated in its entirety (the Existing Credit  
+Agreement as so amended and restated, the “ Restated Credit Agreement”). The Restated Credit Agreement increases   
+the unsecured revolving loan facility (the “ Revolving Loans”) from up to $400.0 million aggregate principal amount
+to an aggregate principal amount of up to $800.0 million, with an increase to the letter of credit sublimit from   
+$200.0 million to $600.0 million. As of April 26, 2024, there were no Revolving Loans and $111.4 million in        
+aggregate face amount of letters of credit outstanding under the Restated Credit Agreement. The proceeds of        
+Revolving Loans made under the Restated Credit Agreement may be used for working capital and general corporate     
+purposes. The Revolving Loans continue to bear interest, at the Company’s option, at a per annum rate equal to the 
+base rate plus a spread of 0% or an adjusted term SOFR rate (based on one, three or six-monthinterest periods) plus
+a spread of 1%. The base rate means a rate per annum equal to the highest of the prime rate, the federal funds rate
+plus a margin equal to 0.50% and the adjusted term SOFR rate for a 1-monthinterest period plus a margin equal to   
+1.00%. Interest is due and payable in arrears quarterly for loans bearing interest at the base rate and at the end 
+of an interest period (or at each three-month interval in the case of loans with interest periods greater than     
+three months) in the case of loans bearing interest at the adjusted term SOFR rate. The Company is also obligated  
+to pay other customary closing fees, arrangement fees, administration fees, commitment fees and letter of credit   
+fees for a credit facility of this size and type. The Company may borrow, repay and reborrow Revolving Loans until 
+April 26, 2029, at which time the commitments will terminate and all outstanding Revolving Loans, together with all
+accrued and unpaid interest, must be repaid. Amounts not borrowed under the Restated Credit Agreement will be      
+subject to a commitment fee of 0.10% per annum, payable in arrears on the 15 thday following the last day of each  
+fiscal quarter. The Company may prepay the revolving loans and terminate the revolving loan commitments, in whole  
+or in part, at any time without premium or penalty, subject to certain conditions, including minimum amounts and   
+reimbursement of certain costs in the case of prepayments of adjusted term SOFR loans. The Restated Credit         
+Agreement also permits the Company to increase the revolving loan commitments or add one or more new revolving     
+credit commitments under the Restated Credit Agreement from time to time, so long as the aggregate amount of such  
+increases or additional commitments does not exceed $2.0 billion, subject, in each case, to the receipt of         
+additional commitments from existing and/or new lenders and pro forma compliance with the financial covenants set  
+forth in the Restated Credit Agreement. The Company’s obligations under the Restated Credit Agreement are          
+guaranteed by certain of its domestic subsidiaries meeting materiality thresholds set forth in the Restated Credit 
+Agreement. The Restated Credit Agreement contains customary affirmative and negative covenants, including covenants
+that limit or restrict the Company and its subsidiaries’ ability to, among other things, incur subsidiary          
+indebtedness, grant liens, merge or consolidate, dispose of substantially all assets of the Company and its        
+subsidiaries, taken as a whole, pay dividends or make distributions, repurchase stock, enter into restrictive      
+agreements, enter into certain transactions with affiliates and make investments, in each case subject to customary
+exceptions for a credit facility of this size and type. The Restated Credit Agreement also requires the Company to 
+maintain compliance with a maximum senior net leverage ratio, measured quarterly, determined in accordance with the
+terms of the Restated Credit Agreement. The Restated Credit Agreement includes customary events of default that    
+include, among other things, non-paymentdefaults, inaccuracy of representations and warranties, covenant defaults, 
+cross default to material indebtedness, bankruptcy and insolvency defaults, material judgment defaults, ERISA      
+defaults and a change of control default. The occurrence of an event of default could result in the acceleration of
+the obligations under the Restated Credit Agreement. Under certain circumstances, a default interest rate will     
+apply on all obligations during the existence of an event of default under the Restated Credit Agreement at a per  
+annum rate equal to 2.00% above the applicable interest rate for any overdue principal and 2.00% above the rate    
+applicable for base rate loans for any other overdue amounts. Certain of the lenders under the Restated Credit     
+Agreement and their affiliates have engaged in, and may in the future engage in, investment banking, commercial    
+lending and other commercial dealings in the ordinary course of business with the Company or the Company’s         
+affiliates. They have received, or may in the future receive, customary fees and commissions for these             
+transactions.                                                                                                      
+                                                                                                                   
+  The foregoing description of the Restated Credit Agreement does not purport to be complete and is qualified in   
+  its entirety by reference to the Amendment Agreement, which is filed as Exhibit 10.1 to this Current Report on   
+  Form8-Kand incorporated by reference into this Item 1.01.Item 2.03Creation of a Direct Financial Obligation or   
+  an Obligation under anOff-BalanceSheet Arrangement of a Registrant.The information set forth in Item 1.01 above  
+  is incorporated by reference into this Item 2.03.Item 9.01.Financial Statements and                              
+  Exhibits.(d)Exhibits.ExhibitNo.Description10.1Amendment Agreement, dated as of April 26, 2024, by and among      
+  DoorDash, Inc., the guarantors party thereto, the lenders party thereto, the issuing banks party thereto, and    
+  JPMorgan Chase Bank, N.A., as administrative agent104Cover Page Interactive Data File (embedded within the       
+  Inline XBRL document)                                                                                            
+                                                                                                                   
+SIGNATURE Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly 
+caused this report to be signed on its behalf by the undersigned hereunto duly authorized.                         
+                                                
+  Date: May 1, 2024    /s/ Tony Xu              
+ ────────────────────────────────────────────── 
+                       Tony Xu                  
+                       Chief Executive Officer  
+                                                

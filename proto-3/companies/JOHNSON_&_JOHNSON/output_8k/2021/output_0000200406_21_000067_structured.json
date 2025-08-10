@@ -1,0 +1,38 @@
+{
+  "Johnson & Johnson": {
+    "2021": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 2 - Financial Information": {
+          "ITEMS": {
+            "Item 2.02 - Results of Operations and Financial Condition": {
+              "content": "On October 19, 2021, Johnson & Johnson issued the attached press release announcing its sales and earnings for the third quarter ended October 3, 2021.",
+              "subsections": {}
+            }
+          }
+        },
+        "Section 7 - Regulation FD": {
+          "ITEMS": {
+            "Item 7.01 - Regulation FD Disclosure": {
+              "content": "Subsequent to the quarter, the Company’s wholly owned subsidiary LTL Management LLC (LTL), a newly created and separate subsidiary of Johnson & Johnson, that was established to hold and manage claims in the cosmetic talc litigation, has filed for voluntary Chapter 11 bankruptcy protection. This filing is intended to resolve all claims related to cosmetic talc in a manner that is equitable to all parties, including any current and future claimants. Johnson & Johnson and its other affiliates did not file for bankruptcy protection and will continue to operate their businesses as usual. To demonstrate its commitment to resolving the cosmetic talc cases and remove any financial objections to the process, Johnson & Johnson has agreed to provide funding to LTL for the payment of amounts the Bankruptcy Court determines are owed by LTL and will also establish a $2 billion trust in furtherance of this purpose. The $2 billion trust resulted in an incremental $1.4 billion litigation charge (recorded in Other income & expense) in the third fiscal quarter. While LTL pursues this equitable resolution, all pending cosmetic talc cases will be stayed. The press release further discussing this announcement is attached below as Exhibit 99.3.",
+              "subsections": {}
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits.",
+              "subsections": {
+                "Exhibit 99.1": "Press Release dated October 19, 2021 for the period ended October 3, 2021",
+                "Exhibit 99.2": "Unaudited Comparative Supplementary Sales Data and Condensed Consolidated Statement of Earnings for the third quarter",
+                "Exhibit 99.3": "Press Release dated October 14, 2021",
+                "Exhibit 104": "The cover page from this Current Report on Form 8-K, formatted in Inline XBRL."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

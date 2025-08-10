@@ -1,0 +1,262 @@
+                                                                                                                   
+                                                   UNITED STATES                                                   
+                                                                                                                   
+                                                                                                                   
+                                        SECURITIES AND EXCHANGE COMMISSION                                         
+                                                                                                                   
+                                                                                                                   
+                                              Washington, D.C. 20549                                               
+                                                                                                                   
+                                       ____________________________________                                        
+                                                                                                                   
+                                                     FORM 8-K                                                      
+                                                                                                                   
+                                       ____________________________________                                        
+                                                                                                                   
+                                                  CURRENT REPORT                                                   
+                                                                                                                   
+                                                                                                                   
+                                          PURSUANT TO SECTION 13 OR 15(d)                                          
+                                                                                                                   
+                                                                                                                   
+                                      OF THE SECURITIES EXCHANGE ACT OF 1934                                       
+                                                                                                                   
+                        Date of Report (Date of Earliest Event Reported): November 9, 2021                         
+                                                                                                                   
+                                       ____________________________________                                        
+                                                                                                                   
+                                                  DoorDash, Inc.                                                   
+                                                                                                                   
+                              (Exact name of registrant as specified in its charter)                               
+                                                                                                                   
+                                       ____________________________________                                        
+                                                                                                     
+  Delaware                           001-39759                  46-2852392                           
+  (State or other jurisdiction of    -Commission File Number    -I.R.S. Employer Identification No.  
+  incorporation or organization)                                                                     
+                                                                                                     
+                                                                                                                   
+                                      303 2nd Street, South Tower, 8th Floor                                       
+                                                                                                                   
+                                                                                                                   
+                                          San Francisco, California 94107                                          
+                                                                                                                   
+                           (Address of principal executive offices, including zip code)                            
+                                                                                                                   
+                                                  ( 650) 487-3970                                                  
+                                                                                                                   
+                               (Registrant’s telephone number, including area code)                                
+                                                                                                                   
+                                                  Not Applicable                                                   
+                                                                                                                   
+                           (Former name or former address, if changed since last report)                           
+                                                                                                                   
+                                       ____________________________________                                        
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation
+of the registrant under any of the following provisions:
+
+☒Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+                                                                                                        
+  Title of each class                   Trading Symbol(s)    Name of each exchange on which registered  
+  Class A common stock, par value of    DASH                 New York Stock Exchange                    
+  $0.00001 per share                                                                                    
+                                                                                                        
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the
+Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2).
+
+Emerging growth company ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended
+transition period for complying with any new or revised financial accounting standards provided pursuant to Section
+13(a) of the Exchange Act. ☐
+                                                           
+  Item 1.01    Entry into a Material Definitive Agreement  
+                                                           
+Share Purchase Agreement
+
+On November 9, 2021, DoorDash, Inc., a Delaware corporation (“DoorDash”), entered into a Share Purchase Agreement
+(the “Share Purchase Agreement”) with Wolt Enterprises Oy, a limited liability company incorporated and existing
+under the laws of Finland (“Wolt”), each person who executes and delivers to DoorDash a Joinder Agreement (as
+defined in the Share Purchase Agreement) (each a “Seller” and collectively, the “Sellers”) and Mikko Kuusi, as the
+representative of the securityholders of Wolt under the Share Purchase Agreement. Pursuant to the Share Purchase
+Agreement, subject to the terms and conditions thereof, at the Closing, DoorDash will purchase from the Sellers all
+shares of Wolt’s capital stock (“Company Capital Stock”) and vested options to purchase shares of Wolt’s common
+stock (“Vested Options”) held by such Sellers (the “Purchase”) in exchange for shares of DoorDash Class A Common
+Stock (“DoorDash Class A Common Stock”). In addition, unvested options to purchase Wolt’s common stock (“Unvested
+Options”) will be cancelled and DoorDash will substitute such Unvested Options with restricted stock units
+representing a right to acquire shares of DoorDash Class A Common Stock (“Substitute RSUs”).
+
+The total number of shares of DoorDash Class A Common Stock to be issued or reserved for issuance will equal
+39,382,172 shares, subject to customary adjustments, including with respect to Wolt’s cash, working capital,
+indebtedness, transaction expenses, certain pre-closing taxes and the establishment of an indemnity escrow fund.
+The number of DoorDash Class A Common Stock or Substitute RSUs to be issued to each holder of Company Capital
+Stock, Vested Options and Unvested Options will be based on a formula set forth in the Share Purchase Agreement.
+
+In connection with the transaction, DoorDash will also establish a EUR 500 million retention pool to be allocated
+among Wolt’s continuing employees (the “Retention Pool”). Up to EUR 20 million of the Retention Pool may be in the
+form of cash retention awards (“Cash Retention Awards”) and the remaining amount of the Retention Pool would be
+awarded as restricted stock units covering DoorDash Class A Common Stock (“Retention RSUs”). The number of
+Retention RSUs will be calculated based on the volume weighted average price per share of DoorDash Class A Common
+Stock on the New York Stock Exchange for the ten consecutive trading days ending three trading days prior to the
+Closing, with such trading price converted from U.S. dollars into Euros based on a conversion rate determined at
+Closing as provided in the Stock Purchase Agreement. The Retention RSUs and Cash Retention Awards will vest based
+on continued service with DoorDash or one of its affiliates (including Wolt) over a four-year period following the
+Closing as described in the Stock Purchase Agreement.
+
+DoorDash will file a registration statement on Form S-4 (the “Registration Statement”) to register the shares of
+DoorDash Class A Common Stock to be issued in connection with the Purchase and the shares will be listed on the New
+York Stock Exchange. Certain Sellers who hold at least 1.5% of the outstanding Company Capital Stock are expected
+to enter into a lock-up agreement (the “Lock-Up Agreement”) restricting certain transfers of the shares of DoorDash
+Class A Common Stock to be received in connection with the Purchase following the Closing for a limited period.
+
+The Share Purchase Agreement contains customary representations and warranties of each of the parties as well as
+customary covenants and agreements for transactions of this type, including with respect to the operation of the
+business of Wolt between signing and Closing. The Share Purchase Agreement also contains indemnification provisions
+whereby the Sellers and holders of the Substitute RSUs (the “Indemnifying Parties”) will indemnify DoorDash and
+certain other related parties for certain losses arising out of, among other things, inaccuracies in, or breaches
+of, the representations, warranties, and covenants of Wolt and Sellers and other indemnifiable matters, subject to
+certain caps, thresholds, and other limitations. A portion of the shares of DoorDash Class A Common Stock otherwise
+issuable or reserved for issuance with respect to the Company Common Stock, Vested Options and Unvested Options at
+the Closing and will be withheld and subject to escrow to secure the indemnification obligations of the
+Indemnifying Parties. DoorDash and the other indemnified parties will be able to make claims against the indemnity
+escrow for a period of 15 months following the Closing, subject to certain limitations.
+
+In connection with the transaction, certain executives of Wolt have accepted offers of employment made by DoorDash
+to remain employees of Wolt following the Closing.
+
+The respective boards of directors of DoorDash and Wolt have approved the Share Purchase Agreement. In addition,
+holders of approximately 62% of the outstanding shares of Company Capital Stock have executed Support Agreements
+(as defined and described below) (the “Supporting Stockholders”) committing to support the Purchase. The Supporting
+Stockholders are parties to Wolt’s shareholder agreements pursuant to which, under certain circumstances, holders
+of a majority Company Capital Stock on a fully diluted basis and a majority of the holders of Wolt’s outstanding
+preferred stock can require all other Wolt stockholders party to such shareholder agreements to sell their shares
+of Company Capital Stock in the Purchase (the “Drag Along”). Under the Share Purchase Agreement, Wolt and the
+Supporting Stockholders have agreed to effect the Drag Along in connection with the Purchase in certain situations
+if holders of 100% of Wolt’s
+
+outstanding shares of Company Capital Stock have not entered into Joinder Agreements to sell their shares to
+DoorDash within forty-five days following the effective date of the Registration Statement.
+
+Consummation of the Purchase is subject to customary closing conditions for transactions of this type. These
+conditions include, among others: the receipt of certain specified regulatory approvals, the absence of certain
+laws or orders prohibiting or making illegal the Purchase, the effectiveness of the Registration Statement,
+approval of a prospectus under Finnish law by the Finnish authorities, if determined to be required, no event
+occurring that had or would reasonably be expected to have a material adverse effect (as defined in the Share
+Purchase Agreement) on DoorDash or Wolt, compliance by the parties with their respective covenants in the Share
+Purchase Agreement in all material respects, the accuracy of representations and warranties made by DoorDash and
+Wolt, satisfaction of certain conditions related to key employees, and delivery of Joinder Agreements and Lock-Up
+Agreements.
+
+In addition, if the Purchase is not completed by the termination date specified in the Share Purchase Agreement or
+there is a permanent injunction or other legal prohibition on the completion of the Purchase, either DoorDash or
+Wolt may choose to terminate the Share Purchase Agreement. DoorDash or Wolt may also elect to terminate the Share
+Purchase Agreement in certain other circumstances, and the parties can mutually decide to terminate the Share
+Purchase Agreement at any time prior to the closing of the Purchase. If DoorDash or the Company terminates the
+Share Purchase Agreement due to the failure to obtain a required regulatory approval by the End Date (as defined in
+the Share Purchase Agreement) or because an injunction in connection with a required regulatory approval has been
+entered permanently prohibiting the consummation of the Purchase, and all other conditions to Closing have been
+satisfied or capable of being satisfied, DoorDash may be required to pay a termination fee of €210,000,000.
+
+Under the terms of the Share Purchase Agreement, Wolt is not permitted to solicit, initiate, seek, cooperate, or
+knowingly encourage or assist in any alternative transaction proposals from third parties or to engage in
+discussions or negotiations with third parties regarding any alternative transaction proposals.
+
+The foregoing descriptions of the Share Purchase Agreement, the related ancillary agreements and the transaction do
+are qualified in their entirety by reference to the Share Purchase Agreement, a copy of which will be filed no
+later than the filing of DoorDash’s Annual Report on Form 10-K for the fiscal year ended December 31, 2021.
+
+Support Agreements
+
+Simultaneously with the execution and delivery of the Share Purchase Agreement, certain of the officers and
+directors and 5% or greater stockholders of Wolt and certain of their affiliates have entered into support
+agreements with DoorDash (the “Wolt Support Agreements”), pursuant to which such persons and entities have agreed,
+among other things, to execute a Joinder Agreement pursuant to which, following the effectiveness of the
+Registration Statement, such stockholder will become a Seller under the Share Purchase Agreement, use efforts to
+cause holders of Company Capital Stock and Vested Options to execute a Joinder Agreement and, under certain
+circumstances, effect the Drag Along.
+
+The persons and entities signing the Wolt Support Agreements beneficially own a majority of the outstanding Company
+Capital Stock.
+
+The foregoing description of the Wolt Support Agreements does not purport to be complete and is qualified in its
+entirety by reference to the form of the Wolt Support Agreement, a copy of which will be filed no later than the
+filing of DoorDash’s Annual Report on Form 10-K for the fiscal year ended December 31, 2021.
+
+Lock-Up Agreements
+
+Pursuant to the Lock-Up Agreement, certain Sellers holding at least 1.5% of the outstanding shares of Company
+Capital Stock will be restricted from transferring 75% of the shares of DoorDash Class A Common Stock received in
+connection with the Purchase following the Closing (the “Lock-Up Shares”). The Lock-Up Agreement will terminate as
+to one-third of the Lock-Up Shares on each of the fiftieth, the one-hundredth and the one-hundred and fiftieth days
+following the Closing.
+                                                                                                                   
+  Forward-Looking Statements                                                                                       
+                                                                                                                   
+This communication contains forward-looking statements within the meaning of Section 27A of the Securities Act of
+1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. Forward-looking statements
+generally relate to future events, including the timing of the proposed transaction and other information related
+to the proposed transaction. In some cases, you can identify forward-looking statements because they contain words
+such as “may,” “will,” “should,” “expects,” “plans,” “anticipates,” “could,” “intends,” “target,” “projects,”
+“contemplates,” “believes,” “estimates,” “predicts,” “potential” or “continue” or the negative of these words or
+other similar terms or expressions that
+
+concern the proposed transaction and our expectations, strategy, plans or intentions regarding it. Forward-looking
+statements in this communication include, but are not limited to, (i) expectations regarding the timing, completion
+and expected benefits of our proposed acquisition of Wolt Enterprises Oy (“Wolt”), (ii) plans, objectives and
+expectations with respect to future operations, stakeholders and the markets in which we, Wolt and the combined
+company will operate, and (iii) the expected impact of the proposed transaction on the business of the parties.
+Expectations and beliefs regarding these matters may not materialize, and actual results in future periods are
+subject to risks and uncertainties that could cause actual results to differ materially from those projected. These
+risks, uncertainties and other factors relate to, among others: risks and uncertainties related to our pending
+acquisition of Wolt, including the failure to obtain, or delays in obtaining, required regulatory approvals, the
+failure to satisfy any of the closing conditions to the proposed transaction on a timely basis or at all and costs
+and expenses associated with failure to close; costs, expenses or difficulties related to the acquisition of Wolt,
+including the integration of the Wolt’s business; failure to realize the expected benefits and synergies of the
+proposed transaction in the expected timeframes or at all; the potential impact of the announcement, pendency or
+consummation of the proposed transaction on relationships with our and/or Wolt’s employees, customers, suppliers
+and other business partners; the risk of litigation or regulatory actions to us and/or Wolt; inability to retain
+key personnel; changes in legislation or government regulations affecting us or Wolt; developments in the COVID-19
+pandemic and resulting business and operational impacts on us and/or Wolt; and economic, financial, social or
+political conditions that could adversely affect us, Wolt or the proposed transaction. For additional information
+on other potential risks and uncertainties that could cause actual results to differ from the results predicted,
+please see our Annual Report on Form 10-K for the year ended December 31, 2020 and subsequent Form 10-Qs or Form
+8-Ks filed with the Securities and Exchange Commission (the “SEC”). All information provided in this communication
+is as of the date of this communication and any forward-looking statements contained herein are based on
+assumptions that we believe to be reasonable, and information available to us, as of such date. We undertake no
+duty to update this information unless required by law.
+                                                                                                                   
+  No Offer or Solicitation                                                                                         
+                                                                                                                   
+This communication shall not constitute an offer to sell or the solicitation of an offer to buy any securities, nor
+shall there be any sale of securities in any jurisdiction in which such offer, solicitation or sale would be
+unlawful prior to registration or qualification under the securities laws of any such jurisdiction. No offering of
+securities shall be made except by means of a prospectus meeting the requirements of Section 10 of the U.S.
+Securities Act of 1933, as amended.
+
+Important Additional Information Will be Filed with the SEC
+
+DoorDash will file with the SEC a registration statement on Form S-4, which will include a prospectus of DoorDash.
+INVESTORS ARE URGED TO CAREFULLY READ THE REGISTRATION STATEMENT AND OTHER RELEVANT DOCUMENTS TO BE FILED WITH THE
+SEC IN THEIR ENTIRETY WHEN THEY BECOME AVAILABLE BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION ABOUT DOORDASH,
+WOLT, THE PROPOSED TRANSACTION AND RELATED MATTERS. Investors will be able to obtain free copies of the
+registration statement and other documents filed with the SEC through the website maintained by the SEC at
+www.sec.gov and on DoorDash’s website at ir.doordash.com.
+                                                                                                                   
+                                                     SIGNATURE                                                     
+                                                                                                                   
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to
+be signed on its behalf by the undersigned hereunto duly authorized.
+                                                                             
+                             DOORDASH, INC.                                  
+  Date: November 12, 2021    By:               /s/ Tony Xu                   
+ ─────────────────────────────────────────────────────────────────────────── 
+                             Name:             Tony Xu                       
+                             Title:            Chief Executive Officer       
+                                               -Principal Executive Officer  
+                                                                             

@@ -1,0 +1,23 @@
+{
+  "NVIDIA CORPORATION": {
+    "2022": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "On August 26, 2022, the U.S. government (USG) informed NVIDIA Corporation that it has imposed a new license requirement, effective immediately, for any future export of certain company products to China (including Hong Kong) and Russia.",
+              "subsections": {
+                "new_license_requirement_details": "The new license requirement applies to the Company’s A100 and forthcoming H100 integrated circuits. It also covers DGX or any other systems incorporating A100 or H100 circuits, the A100X, any future NVIDIA integrated circuit with performance equal to or greater than the A100, and any system including those circuits. A license is also required to export technology to support or develop these covered products. The USG stated this requirement addresses the risk that the products may be used in, or diverted to, a ‘military end use’ or ‘military end user’ in China and Russia. The Company does not sell products to customers in Russia.",
+                "impact_on_operations": "The new license requirement may impact the Company's ability to complete its development of H100 in a timely manner, support existing customers of A100, and may require the Company to transition certain operations out of China. The Company is engaged with the USG and is seeking exemptions for its internal development and support activities.",
+                "customer_engagement_and_mitigation": "The Company is engaging with customers in China to satisfy their planned or future purchases with Data Center products not subject to the new license requirement. If a customer requires a product covered by the new license, the Company may seek a license for that customer, but there is no assurance that the USG will grant any exemptions or licenses in a timely manner, or at all.",
+                "financial_impact_outlook": "The Company’s outlook for its third fiscal quarter, provided on August 24, 2022, included approximately $400 million in potential sales to China. These sales may be subject to the new license requirement if customers do not accept alternative products or if the USG does not grant licenses in a timely manner or denies them to significant customers.",
+                "forward_looking_statements_summary": "Certain statements in the report, including the financial outlook, engagement with the USG for exemptions, and plans to seek licenses for customers, are forward-looking. These are subject to risks and uncertainties that could cause actual results to differ materially. Important factors include global economic conditions, reliance on third parties, technological competition, market acceptance, product defects, and other factors detailed in the Company's SEC filings."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "Johnson & Johnson": {
+    "2025": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.02 - Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers": {
+              "content": "D. Adamczyk notified the Company that he intends to retire from the Company’s Board of Directors in connection with an announcement on April 23rd that he will join Goldman Sachs as a Partner. The retirement will be effective May 31, 2025. His retirement is for personal reasons and not as a result of any disagreement with management on any matter relating to the Company’s operations, policies, or practices.",
+              "subsections": {}
+            },
+            "Item 5.07 - Submission of Matters to a Vote of Security Holders": {
+              "content": "(a) The 2025 Annual Meeting of Shareholders of the Company was held on April 24, 2025.\n(b) At the 2025 Annual Meeting of Shareholders, the shareholders:\n• elected all 11 Director nominees named in the 2025 Proxy Statement to the Company’s Board of Directors;\n• approved, on an advisory basis, the executive compensation philosophy, policies and procedures described in the “Compensation Discussion and Analysis” section of the 2025 Proxy Statement and the compensation of the Company’s executive officers named in the 2025 Proxy Statement, as disclosed therein;\n• ratified the appointment of PricewaterhouseCoopers LLP as the Company’s independent registered public accounting firm for the fiscal year 2025;\n• did not approve the shareholder proposal for shareholder opportunity to vote on excessive golden parachutes; and\n• did not approve the shareholder proposal to produce a human rights impact assessment.",
+              "subsections": {
+                "voting_results_summary": "The following are the final voting results for each of the five items voted on at the meeting.",
+                "1_election_of_directors": {
+                  "D. Adamczyk": {
+                    "Shares For": "1,614,881,433",
+                    "Shares Against": "89,638,598",
+                    "Shares Abstain": "4,656,459",
+                    "Non-Votes": "323,923,987"
+                  },
+                  "M. C. Beckerle": {
+                    "Shares For": "1,663,840,474",
+                    "Shares Against": "41,888,480",
+                    "Shares Abstain": "3,447,536",
+                    "Non-Votes": "323,923,987"
+                  },
+                  "J. A. Doudna": {
+                    "Shares For": "1,666,450,029",
+                    "Shares Against": "39,271,173",
+                    "Shares Abstain": "3,455,288",
+                    "Non-Votes": "323,923,987"
+                  },
+                  "J. Duato": {
+                    "Shares For": "1,575,244,633",
+                    "Shares Against": "130,077,890",
+                    "Shares Abstain": "3,853,967",
+                    "Non-Votes": "323,923,987"
+                  },
+                  "M. A. Hewson": {
+                    "Shares For": "1,654,870,638",
+                    "Shares Against": "50,832,331",
+                    "Shares Abstain": "3,473,521",
+                    "Non-Votes": "323,923,987"
+                  },
+                  "P. A. Johnson": {
+                    "Shares For": "1,667,900,558",
+                    "Shares Against": "37,823,371",
+                    "Shares Abstain": "3,452,561",
+                    "Non-Votes": "323,923,987"
+                  },
+                  "H. Joly": {
+                    "Shares For": "1,650,666,053",
+                    "Shares Against": "54,388,932",
+                    "Shares Abstain": "4,121,505",
+                    "Non-Votes": "323,923,987"
+                  },
+                  "M. B. McClellan": {
+                    "Shares For": "1,662,883,658",
+                    "Shares Against": "42,458,697",
+                    "Shares Abstain": "3,834,135",
+                    "Non-Votes": "323,923,987"
+                  },
+                  "M. A. Weinberger": {
+                    "Shares For": "1,630,170,833",
+                    "Shares Against": "74,418,349",
+                    "Shares Abstain": "4,587,308",
+                    "Non-Votes": "323,923,987"
+                  },
+                  "N. Y. West": {
+                    "Shares For": "1,660,661,956",
+                    "Shares Against": "45,083,907",
+                    "Shares Abstain": "3,430,627",
+                    "Non-Votes": "323,923,987"
+                  },
+                  "E. A. Woods": {
+                    "Shares For": "1,635,362,502",
+                    "Shares Against": "69,986,075",
+                    "Shares Abstain": "3,827,913",
+                    "Non-Votes": "323,923,987"
+                  }
+                },
+                "2_advisory_vote_on_executive_compensation": {
+                  "For": "1,559,332,581",
+                  "Against": "142,483,900",
+                  "Abstained": "7,360,009",
+                  "Non-Votes": "323,923,987"
+                },
+                "3_ratification_of_auditor": {
+                  "description": "Ratification of appointment of PricewaterhouseCoopers LLP as the Company’s independent registered public accounting firm for 2025.",
+                  "For": "1,888,169,154",
+                  "Against": "140,927,885",
+                  "Abstained": "4,003,438",
+                  "Non-Votes": "0"
+                },
+                "4_shareholder_proposal_golden_parachutes": {
+                  "description": "Shareholder Proposal - shareholder opportunity to vote on excessive golden parachutes.",
+                  "For": "92,601,525",
+                  "Against": "1,609,744,641",
+                  "Abstained": "6,830,324",
+                  "Non-Votes": "323,923,987"
+                },
+                "5_shareholder_proposal_human_rights_assessment": {
+                  "description": "Shareholder Proposal - produce a human rights impact assessment.",
+                  "For": "188,350,832",
+                  "Against": "1,498,659,169",
+                  "Abstained": "22,166,489",
+                  "Non-Votes": "323,923,987"
+                }
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits.",
+              "subsections": {
+                "exhibits_list": [
+                  {
+                    "Exhibit No.": "104",
+                    "Description of Exhibit": "The cover page from this Current Report on Form 8-K, formatted in Inline XBRL."
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

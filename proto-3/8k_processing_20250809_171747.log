@@ -1,0 +1,760 @@
+2025-08-09 17:17:49,109 - INFO - Scanning for 8-K files in: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies
+2025-08-09 17:17:49,109 - INFO - Processing company: Apple_Inc
+2025-08-09 17:17:49,112 - INFO - Processing company: DoorDash_Inc
+2025-08-09 17:17:49,114 - INFO - Processing company: JOHNSON_&_JOHNSON
+2025-08-09 17:17:49,117 - INFO - Processing company: JPMORGAN_CHASE_&_CO
+2025-08-09 17:17:49,121 - INFO - Processing company: Meta_Platforms_Inc
+2025-08-09 17:17:49,124 - INFO - Processing company: MICROSOFT_CORP
+2025-08-09 17:17:49,128 - INFO - Processing company: NVIDIA_CORP
+2025-08-09 17:17:49,131 - INFO - Processing company: ROKU_INC
+2025-08-09 17:17:49,134 - INFO - Processing company: UNITEDHEALTH_GROUP_INC
+2025-08-09 17:17:49,135 - INFO - Processing company: Zoom_Communications_Inc
+2025-08-09 17:17:49,137 - INFO - Found 533 8-K files to process
+2025-08-09 17:17:49,222 - INFO - Skipping 170 already processed files
+2025-08-09 17:17:49,222 - INFO - Starting processing of 363 files with 2 workers
+2025-08-09 17:17:49,224 - INFO - Processing: JOHNSON_&_JOHNSON/2022/output_0000200406_22_000047.txt
+2025-08-09 17:17:49,224 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0000019617_21_000073.txt
+2025-08-09 17:18:33,174 - INFO - Progress: 1/363 (0.3%) - Success: 1, Failed: 0
+2025-08-09 17:18:33,174 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0000019617_21_000343.txt
+2025-08-09 17:19:02,075 - INFO - Progress: 2/363 (0.6%) - Success: 2, Failed: 0
+2025-08-09 17:19:02,075 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0000019617_21_000352.txt
+2025-08-09 17:19:32,368 - INFO - Progress: 3/363 (0.8%) - Success: 3, Failed: 0
+2025-08-09 17:19:32,368 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0000019617_21_000354.txt
+2025-08-09 17:19:59,376 - INFO - Progress: 4/363 (1.1%) - Success: 4, Failed: 0
+2025-08-09 17:19:59,376 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0000019617_21_000363.txt
+2025-08-09 17:20:21,092 - INFO - Progress: 5/363 (1.4%) - Success: 5, Failed: 0
+2025-08-09 17:20:21,092 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0000019617_21_000365.txt
+2025-08-09 17:20:39,638 - INFO - Progress: 6/363 (1.7%) - Success: 6, Failed: 0
+2025-08-09 17:20:39,639 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0000019617_21_000371.txt
+2025-08-09 17:20:58,104 - INFO - Progress: 7/363 (1.9%) - Success: 7, Failed: 0
+2025-08-09 17:20:58,104 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0000019617_21_000446.txt
+2025-08-09 17:21:23,107 - INFO - Progress: 8/363 (2.2%) - Success: 8, Failed: 0
+2025-08-09 17:21:23,107 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0000019617_21_000448.txt
+2025-08-09 17:21:46,000 - INFO - Progress: 9/363 (2.5%) - Success: 9, Failed: 0
+2025-08-09 17:21:46,001 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0000019617_21_000531.txt
+2025-08-09 17:22:08,480 - INFO - Progress: 10/363 (2.8%) - Success: 10, Failed: 0
+2025-08-09 17:22:08,480 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0000019617_21_000534.txt
+2025-08-09 17:22:30,925 - INFO - Progress: 11/363 (3.0%) - Success: 11, Failed: 0
+2025-08-09 17:22:30,925 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0001193125_21_028835.txt
+2025-08-09 17:22:55,003 - INFO - Progress: 12/363 (3.3%) - Success: 12, Failed: 0
+2025-08-09 17:22:55,003 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0001193125_21_044878.txt
+2025-08-09 17:23:12,471 - INFO - Progress: 13/363 (3.6%) - Success: 13, Failed: 0
+2025-08-09 17:23:12,471 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0001193125_21_050847.txt
+2025-08-09 17:23:32,715 - INFO - Progress: 14/363 (3.9%) - Success: 14, Failed: 0
+2025-08-09 17:23:32,715 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0001193125_21_071470.txt
+2025-08-09 17:23:55,591 - INFO - Progress: 15/363 (4.1%) - Success: 15, Failed: 0
+2025-08-09 17:23:55,591 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0001193125_21_082826.txt
+2025-08-09 17:24:13,016 - INFO - Progress: 16/363 (4.4%) - Success: 16, Failed: 0
+2025-08-09 17:24:13,016 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0001193125_21_084083.txt
+2025-08-09 17:24:39,473 - INFO - Progress: 17/363 (4.7%) - Success: 17, Failed: 0
+2025-08-09 17:24:39,473 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0001193125_21_126705.txt
+2025-08-09 17:25:07,127 - INFO - Progress: 18/363 (5.0%) - Success: 18, Failed: 0
+2025-08-09 17:25:07,127 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0001193125_21_145290.txt
+2025-08-09 17:25:35,128 - INFO - Progress: 19/363 (5.2%) - Success: 19, Failed: 0
+2025-08-09 17:25:35,128 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0001193125_21_159144.txt
+2025-08-09 17:25:54,891 - INFO - Progress: 20/363 (5.5%) - Success: 20, Failed: 0
+2025-08-09 17:25:54,891 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0001193125_21_164789.txt
+2025-08-09 17:26:34,331 - INFO - Progress: 21/363 (5.8%) - Success: 21, Failed: 0
+2025-08-09 17:26:34,331 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0001193125_21_167776.txt
+2025-08-09 17:26:54,615 - INFO - Progress: 22/363 (6.1%) - Success: 22, Failed: 0
+2025-08-09 17:26:54,615 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0001193125_21_178644.txt
+2025-08-09 17:27:23,331 - INFO - Progress: 23/363 (6.3%) - Success: 23, Failed: 0
+2025-08-09 17:27:23,331 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0001193125_21_197271.txt
+2025-08-09 17:27:43,666 - INFO - Progress: 24/363 (6.6%) - Success: 24, Failed: 0
+2025-08-09 17:27:43,666 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0001193125_21_229188.txt
+2025-08-09 17:28:08,251 - INFO - Progress: 25/363 (6.9%) - Success: 25, Failed: 0
+2025-08-09 17:28:08,251 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0001193125_21_241817.txt
+2025-08-09 17:28:46,812 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0001193125_21_279424.txt
+2025-08-09 17:28:46,815 - INFO - Progress: 26/363 (7.2%) - Success: 26, Failed: 0
+2025-08-09 17:29:08,542 - INFO - Progress: 27/363 (7.4%) - Success: 27, Failed: 0
+2025-08-09 17:29:08,542 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0001193125_21_323115.txt
+2025-08-09 17:29:25,015 - INFO - Progress: 28/363 (7.7%) - Success: 28, Failed: 0
+2025-08-09 17:29:25,015 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0001193125_21_353966.txt
+2025-08-09 17:29:42,306 - INFO - Progress: 29/363 (8.0%) - Success: 29, Failed: 0
+2025-08-09 17:29:42,306 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0001193125_21_360098.txt
+2025-08-09 17:30:09,630 - INFO - Progress: 30/363 (8.3%) - Success: 30, Failed: 0
+2025-08-09 17:30:09,630 - INFO - Processing: JPMORGAN_CHASE_&_CO/2022/output_0000019617_22_000079.txt
+2025-08-09 17:30:28,057 - INFO - Progress: 31/363 (8.5%) - Success: 31, Failed: 0
+2025-08-09 17:30:28,058 - INFO - Processing: JPMORGAN_CHASE_&_CO/2022/output_0000019617_22_000081.txt
+2025-08-09 17:30:47,856 - INFO - Progress: 32/363 (8.8%) - Success: 32, Failed: 0
+2025-08-09 17:30:47,857 - INFO - Processing: JPMORGAN_CHASE_&_CO/2022/output_0000019617_22_000136.txt
+2025-08-09 17:31:06,508 - INFO - Progress: 33/363 (9.1%) - Success: 33, Failed: 0
+2025-08-09 17:31:06,508 - INFO - Processing: JPMORGAN_CHASE_&_CO/2022/output_0000019617_22_000313.txt
+2025-08-09 17:31:47,210 - INFO - Progress: 34/363 (9.4%) - Success: 34, Failed: 0
+2025-08-09 17:31:47,210 - INFO - Processing: JPMORGAN_CHASE_&_CO/2022/output_0000019617_22_000315.txt
+2025-08-09 17:32:05,448 - INFO - Progress: 35/363 (9.6%) - Success: 35, Failed: 0
+2025-08-09 17:32:05,448 - INFO - Processing: JPMORGAN_CHASE_&_CO/2022/output_0000019617_22_000367.txt
+2025-08-09 17:32:21,573 - INFO - Progress: 36/363 (9.9%) - Success: 36, Failed: 0
+2025-08-09 17:32:21,573 - INFO - Processing: JPMORGAN_CHASE_&_CO/2022/output_0000019617_22_000369.txt
+2025-08-09 17:32:57,165 - INFO - Progress: 37/363 (10.2%) - Success: 37, Failed: 0
+2025-08-09 17:32:57,165 - INFO - Processing: JPMORGAN_CHASE_&_CO/2022/output_0000019617_22_000392.txt
+2025-08-09 17:33:27,401 - INFO - Progress: 38/363 (10.5%) - Success: 38, Failed: 0
+2025-08-09 17:33:27,401 - INFO - Processing: JPMORGAN_CHASE_&_CO/2022/output_0000019617_22_000395.txt
+2025-08-09 17:33:48,488 - INFO - Progress: 39/363 (10.7%) - Success: 39, Failed: 0
+2025-08-09 17:33:48,488 - INFO - Processing: JPMORGAN_CHASE_&_CO/2022/output_0000019617_22_000410.txt
+2025-08-09 17:34:10,783 - INFO - Progress: 40/363 (11.0%) - Success: 40, Failed: 0
+2025-08-09 17:34:10,783 - INFO - Processing: JPMORGAN_CHASE_&_CO/2022/output_0000019617_22_000412.txt
+2025-08-09 17:34:28,763 - INFO - Progress: 41/363 (11.3%) - Success: 41, Failed: 0
+2025-08-09 17:34:28,763 - INFO - Processing: JPMORGAN_CHASE_&_CO/2022/output_0000019617_22_000414.txt
+2025-08-09 17:34:47,515 - INFO - Progress: 42/363 (11.6%) - Success: 42, Failed: 0
+2025-08-09 17:34:47,516 - INFO - Processing: JPMORGAN_CHASE_&_CO/2022/output_0000019617_22_000486.txt
+2025-08-09 17:35:03,178 - INFO - Processing: JPMORGAN_CHASE_&_CO/2022/output_0000019617_22_000488.txt
+2025-08-09 17:35:03,178 - INFO - Progress: 43/363 (11.8%) - Success: 43, Failed: 0
+2025-08-09 17:35:23,467 - INFO - Progress: 44/363 (12.1%) - Success: 44, Failed: 0
+2025-08-09 17:35:23,467 - INFO - Processing: JPMORGAN_CHASE_&_CO/2022/output_0000950103_22_008083.txt
+2025-08-09 17:35:43,279 - INFO - Progress: 45/363 (12.4%) - Success: 45, Failed: 0
+2025-08-09 17:35:43,279 - INFO - Processing: JPMORGAN_CHASE_&_CO/2022/output_0001193125_22_000220.txt
+2025-08-09 17:36:00,669 - INFO - Progress: 46/363 (12.7%) - Success: 46, Failed: 0
+2025-08-09 17:36:00,669 - INFO - Processing: JPMORGAN_CHASE_&_CO/2022/output_0001193125_22_017078.txt
+2025-08-09 17:36:15,574 - INFO - Progress: 47/363 (12.9%) - Success: 47, Failed: 0
+2025-08-09 17:36:15,574 - INFO - Processing: JPMORGAN_CHASE_&_CO/2022/output_0001193125_22_052112.txt
+2025-08-09 17:36:30,656 - INFO - Progress: 48/363 (13.2%) - Success: 48, Failed: 0
+2025-08-09 17:36:30,656 - INFO - Processing: JPMORGAN_CHASE_&_CO/2022/output_0001193125_22_120273.txt
+2025-08-09 17:36:59,953 - INFO - Progress: 49/363 (13.5%) - Success: 49, Failed: 0
+2025-08-09 17:36:59,953 - INFO - Processing: JPMORGAN_CHASE_&_CO/2022/output_0001193125_22_173846.txt
+2025-08-09 17:37:19,630 - INFO - Progress: 50/363 (13.8%) - Success: 50, Failed: 0
+2025-08-09 17:37:19,630 - INFO - Processing: JPMORGAN_CHASE_&_CO/2022/output_0001193125_22_200868.txt
+2025-08-09 17:37:35,361 - INFO - Progress: 51/363 (14.0%) - Success: 51, Failed: 0
+2025-08-09 17:37:35,361 - INFO - Processing: JPMORGAN_CHASE_&_CO/2022/output_0001193125_22_204833.txt
+2025-08-09 17:37:52,671 - INFO - Progress: 52/363 (14.3%) - Success: 52, Failed: 0
+2025-08-09 17:37:52,671 - INFO - Processing: JPMORGAN_CHASE_&_CO/2022/output_0001193125_22_218556.txt
+2025-08-09 17:38:11,691 - INFO - Progress: 53/363 (14.6%) - Success: 53, Failed: 0
+2025-08-09 17:38:11,691 - INFO - Processing: JPMORGAN_CHASE_&_CO/2022/output_0001193125_22_236574.txt
+2025-08-09 17:38:29,396 - INFO - Progress: 54/363 (14.9%) - Success: 54, Failed: 0
+2025-08-09 17:38:29,396 - INFO - Processing: JPMORGAN_CHASE_&_CO/2022/output_0001193125_22_244747.txt
+2025-08-09 17:38:43,280 - INFO - Progress: 55/363 (15.2%) - Success: 55, Failed: 0
+2025-08-09 17:38:43,280 - INFO - Processing: JPMORGAN_CHASE_&_CO/2022/output_0001193125_22_255590.txt
+2025-08-09 17:39:00,262 - INFO - Progress: 56/363 (15.4%) - Success: 56, Failed: 0
+2025-08-09 17:39:00,262 - INFO - Processing: JPMORGAN_CHASE_&_CO/2022/output_0001193125_22_305905.txt
+2025-08-09 17:39:22,168 - INFO - Progress: 57/363 (15.7%) - Success: 57, Failed: 0
+2025-08-09 17:39:22,168 - INFO - Processing: JPMORGAN_CHASE_&_CO/2023/output_0000019617_23_000063.txt
+2025-08-09 17:39:36,464 - INFO - Progress: 58/363 (16.0%) - Success: 58, Failed: 0
+2025-08-09 17:39:36,464 - INFO - Processing: JPMORGAN_CHASE_&_CO/2023/output_0000019617_23_000077.txt
+2025-08-09 17:39:58,844 - INFO - Progress: 59/363 (16.3%) - Success: 59, Failed: 0
+2025-08-09 17:39:58,844 - INFO - Processing: JPMORGAN_CHASE_&_CO/2023/output_0000019617_23_000082.txt
+2025-08-09 17:40:21,674 - INFO - Progress: 60/363 (16.5%) - Success: 60, Failed: 0
+2025-08-09 17:40:21,674 - INFO - Processing: JPMORGAN_CHASE_&_CO/2023/output_0000019617_23_000083.txt
+2025-08-09 17:40:45,196 - INFO - Progress: 61/363 (16.8%) - Success: 61, Failed: 0
+2025-08-09 17:40:45,197 - INFO - Processing: JPMORGAN_CHASE_&_CO/2023/output_0000019617_23_000104.txt
+2025-08-09 17:41:09,749 - INFO - Progress: 62/363 (17.1%) - Success: 62, Failed: 0
+2025-08-09 17:41:09,749 - INFO - Processing: JPMORGAN_CHASE_&_CO/2023/output_0000019617_23_000297.txt
+2025-08-09 17:41:35,521 - INFO - Progress: 63/363 (17.4%) - Success: 63, Failed: 0
+2025-08-09 17:41:35,521 - INFO - Processing: JPMORGAN_CHASE_&_CO/2023/output_0000019617_23_000304.txt
+2025-08-09 17:42:14,479 - INFO - Progress: 64/363 (17.6%) - Success: 64, Failed: 0
+2025-08-09 17:42:14,479 - INFO - Processing: JPMORGAN_CHASE_&_CO/2023/output_0000019617_23_000306.txt
+2025-08-09 17:42:32,334 - INFO - Progress: 65/363 (17.9%) - Success: 65, Failed: 0
+2025-08-09 17:42:32,334 - INFO - Processing: JPMORGAN_CHASE_&_CO/2023/output_0000019617_23_000382.txt
+2025-08-09 17:42:51,459 - INFO - Progress: 66/363 (18.2%) - Success: 66, Failed: 0
+2025-08-09 17:42:51,460 - INFO - Processing: JPMORGAN_CHASE_&_CO/2023/output_0000019617_23_000388.txt
+2025-08-09 17:43:26,601 - INFO - Progress: 67/363 (18.5%) - Success: 67, Failed: 0
+2025-08-09 17:43:26,601 - INFO - Processing: JPMORGAN_CHASE_&_CO/2023/output_0000019617_23_000408.txt
+2025-08-09 17:43:50,412 - INFO - Progress: 68/363 (18.7%) - Success: 68, Failed: 0
+2025-08-09 17:43:50,412 - INFO - Processing: JPMORGAN_CHASE_&_CO/2023/output_0000019617_23_000413.txt
+2025-08-09 17:44:04,925 - INFO - Progress: 69/363 (19.0%) - Success: 69, Failed: 0
+2025-08-09 17:44:04,926 - INFO - Processing: JPMORGAN_CHASE_&_CO/2023/output_0000019617_23_000415.txt
+2025-08-09 17:44:26,447 - INFO - Progress: 70/363 (19.3%) - Success: 70, Failed: 0
+2025-08-09 17:44:26,448 - INFO - Processing: JPMORGAN_CHASE_&_CO/2023/output_0000019617_23_000425.txt
+2025-08-09 17:44:50,298 - INFO - Progress: 71/363 (19.6%) - Success: 71, Failed: 0
+2025-08-09 17:44:50,298 - INFO - Processing: JPMORGAN_CHASE_&_CO/2023/output_0000019617_23_000428.txt
+2025-08-09 17:45:09,718 - INFO - Progress: 72/363 (19.8%) - Success: 72, Failed: 0
+2025-08-09 17:45:09,718 - INFO - Processing: JPMORGAN_CHASE_&_CO/2023/output_0000019617_23_000501.txt
+2025-08-09 17:45:28,707 - INFO - Progress: 73/363 (20.1%) - Success: 73, Failed: 0
+2025-08-09 17:45:28,707 - INFO - Processing: JPMORGAN_CHASE_&_CO/2023/output_0000019617_23_000508.txt
+2025-08-09 17:45:45,178 - INFO - Progress: 74/363 (20.4%) - Success: 74, Failed: 0
+2025-08-09 17:45:45,178 - INFO - Processing: JPMORGAN_CHASE_&_CO/2023/output_0000019617_23_000510.txt
+2025-08-09 17:46:16,551 - INFO - Progress: 75/363 (20.7%) - Success: 75, Failed: 0
+2025-08-09 17:46:16,551 - INFO - Processing: JPMORGAN_CHASE_&_CO/2023/output_0000019617_23_000517.txt
+2025-08-09 17:46:37,243 - INFO - Progress: 76/363 (20.9%) - Success: 76, Failed: 0
+2025-08-09 17:46:37,243 - INFO - Processing: JPMORGAN_CHASE_&_CO/2023/output_0000950103_23_005982.txt
+2025-08-09 17:46:56,532 - INFO - Progress: 77/363 (21.2%) - Success: 77, Failed: 0
+2025-08-09 17:46:56,532 - INFO - Processing: JPMORGAN_CHASE_&_CO/2023/output_0001193125_23_056441.txt
+2025-08-09 17:47:13,072 - INFO - Progress: 78/363 (21.5%) - Success: 78, Failed: 0
+2025-08-09 17:47:13,072 - INFO - Processing: JPMORGAN_CHASE_&_CO/2023/output_0001193125_23_158957.txt
+2025-08-09 17:47:29,631 - INFO - Processing: JPMORGAN_CHASE_&_CO/2023/output_0001193125_23_192268.txt
+2025-08-09 17:47:29,631 - INFO - Progress: 79/363 (21.8%) - Success: 79, Failed: 0
+2025-08-09 17:47:46,306 - INFO - Progress: 80/363 (22.0%) - Success: 80, Failed: 0
+2025-08-09 17:47:46,306 - INFO - Processing: JPMORGAN_CHASE_&_CO/2023/output_0001193125_23_260837.txt
+2025-08-09 17:48:05,068 - INFO - Progress: 81/363 (22.3%) - Success: 81, Failed: 0
+2025-08-09 17:48:05,068 - INFO - Processing: JPMORGAN_CHASE_&_CO/2023/output_0001628280_23_011546.txt
+2025-08-09 17:48:29,250 - INFO - Progress: 82/363 (22.6%) - Success: 82, Failed: 0
+2025-08-09 17:48:29,250 - INFO - Processing: JPMORGAN_CHASE_&_CO/2024/output_0000019617_24_000049.txt
+2025-08-09 17:48:45,066 - INFO - Progress: 83/363 (22.9%) - Success: 83, Failed: 0
+2025-08-09 17:48:45,066 - INFO - Processing: JPMORGAN_CHASE_&_CO/2024/output_0000019617_24_000063.txt
+2025-08-09 17:49:10,644 - INFO - Progress: 84/363 (23.1%) - Success: 84, Failed: 0
+2025-08-09 17:49:10,644 - INFO - Processing: JPMORGAN_CHASE_&_CO/2024/output_0000019617_24_000079.txt
+2025-08-09 17:49:31,272 - INFO - Progress: 85/363 (23.4%) - Success: 85, Failed: 0
+2025-08-09 17:49:31,272 - INFO - Processing: JPMORGAN_CHASE_&_CO/2024/output_0000019617_24_000109.txt
+2025-08-09 17:49:53,232 - INFO - Progress: 86/363 (23.7%) - Success: 86, Failed: 0
+2025-08-09 17:49:53,232 - INFO - Processing: JPMORGAN_CHASE_&_CO/2024/output_0000019617_24_000166.txt
+2025-08-09 17:50:20,482 - INFO - Progress: 87/363 (24.0%) - Success: 87, Failed: 0
+2025-08-09 17:50:20,482 - INFO - Processing: JPMORGAN_CHASE_&_CO/2024/output_0000019617_24_000275.txt
+2025-08-09 17:50:36,249 - INFO - Progress: 88/363 (24.2%) - Success: 88, Failed: 0
+2025-08-09 17:50:36,250 - INFO - Processing: JPMORGAN_CHASE_&_CO/2024/output_0000019617_24_000315.txt
+2025-08-09 17:50:49,492 - INFO - Progress: 89/363 (24.5%) - Success: 89, Failed: 0
+2025-08-09 17:50:49,493 - INFO - Processing: JPMORGAN_CHASE_&_CO/2024/output_0000019617_24_000318.txt
+2025-08-09 17:51:10,056 - INFO - Progress: 90/363 (24.8%) - Success: 90, Failed: 0
+2025-08-09 17:51:10,056 - INFO - Processing: JPMORGAN_CHASE_&_CO/2024/output_0000019617_24_000330.txt
+2025-08-09 17:51:28,834 - INFO - Progress: 91/363 (25.1%) - Success: 91, Failed: 0
+2025-08-09 17:51:28,834 - INFO - Processing: JPMORGAN_CHASE_&_CO/2024/output_0000019617_24_000402.txt
+2025-08-09 17:51:49,053 - INFO - Progress: 92/363 (25.3%) - Success: 92, Failed: 0
+2025-08-09 17:51:49,053 - INFO - Processing: JPMORGAN_CHASE_&_CO/2024/output_0000019617_24_000404.txt
+2025-08-09 17:52:17,138 - INFO - Progress: 93/363 (25.6%) - Success: 93, Failed: 0
+2025-08-09 17:52:17,138 - INFO - Processing: JPMORGAN_CHASE_&_CO/2024/output_0000019617_24_000411.txt
+2025-08-09 17:52:36,155 - INFO - Progress: 94/363 (25.9%) - Success: 94, Failed: 0
+2025-08-09 17:52:36,155 - INFO - Processing: JPMORGAN_CHASE_&_CO/2024/output_0000019617_24_000434.txt
+2025-08-09 17:53:20,810 - INFO - Progress: 95/363 (26.2%) - Success: 95, Failed: 0
+2025-08-09 17:53:20,810 - INFO - Processing: JPMORGAN_CHASE_&_CO/2024/output_0000019617_24_000435.txt
+2025-08-09 17:53:39,303 - INFO - Progress: 96/363 (26.4%) - Success: 96, Failed: 0
+2025-08-09 17:53:39,303 - INFO - Processing: JPMORGAN_CHASE_&_CO/2024/output_0000019617_24_000446.txt
+2025-08-09 17:53:59,571 - INFO - Progress: 97/363 (26.7%) - Success: 97, Failed: 0
+2025-08-09 17:53:59,571 - INFO - Processing: JPMORGAN_CHASE_&_CO/2024/output_0000019617_24_000448.txt
+2025-08-09 17:54:37,610 - INFO - Progress: 98/363 (27.0%) - Success: 98, Failed: 0
+2025-08-09 17:54:37,610 - INFO - Processing: JPMORGAN_CHASE_&_CO/2024/output_0000019617_24_000555.txt
+2025-08-09 17:55:19,050 - INFO - Progress: 99/363 (27.3%) - Success: 99, Failed: 0
+2025-08-09 17:55:19,050 - INFO - Processing: JPMORGAN_CHASE_&_CO/2024/output_0000019617_24_000558.txt
+2025-08-09 17:55:41,021 - INFO - Progress: 100/363 (27.5%) - Success: 100, Failed: 0
+2025-08-09 17:55:41,021 - INFO - Processing: JPMORGAN_CHASE_&_CO/2024/output_0000019617_24_000595.txt
+2025-08-09 17:56:02,065 - INFO - Progress: 101/363 (27.8%) - Success: 101, Failed: 0
+2025-08-09 17:56:02,065 - INFO - Processing: JPMORGAN_CHASE_&_CO/2024/output_0000019617_24_000660.txt
+2025-08-09 17:56:19,754 - INFO - Progress: 102/363 (28.1%) - Success: 102, Failed: 0
+2025-08-09 17:56:19,754 - INFO - Processing: JPMORGAN_CHASE_&_CO/2024/output_0000950103_24_007646.txt
+2025-08-09 17:56:41,616 - INFO - Progress: 103/363 (28.4%) - Success: 103, Failed: 0
+2025-08-09 17:56:41,616 - INFO - Processing: JPMORGAN_CHASE_&_CO/2024/output_0001193125_24_065885.txt
+2025-08-09 17:56:58,908 - INFO - Progress: 104/363 (28.7%) - Success: 104, Failed: 0
+2025-08-09 17:56:58,908 - INFO - Processing: JPMORGAN_CHASE_&_CO/2024/output_0001193125_24_073915.txt
+2025-08-09 17:57:23,160 - INFO - Progress: 105/363 (28.9%) - Success: 105, Failed: 0
+2025-08-09 17:57:23,160 - INFO - Processing: JPMORGAN_CHASE_&_CO/2024/output_0001193125_24_104926.txt
+2025-08-09 17:57:50,764 - INFO - Progress: 106/363 (29.2%) - Success: 106, Failed: 0
+2025-08-09 17:57:50,764 - INFO - Processing: JPMORGAN_CHASE_&_CO/2024/output_0001193125_24_182227.txt
+2025-08-09 17:58:11,047 - INFO - Progress: 107/363 (29.5%) - Success: 107, Failed: 0
+2025-08-09 17:58:11,047 - INFO - Processing: JPMORGAN_CHASE_&_CO/2024/output_0001193125_24_183855.txt
+2025-08-09 17:58:35,626 - INFO - Progress: 108/363 (29.8%) - Success: 108, Failed: 0
+2025-08-09 17:58:35,626 - INFO - Processing: JPMORGAN_CHASE_&_CO/2024/output_0001193125_24_203699.txt
+2025-08-09 17:58:58,455 - INFO - Progress: 109/363 (30.0%) - Success: 109, Failed: 0
+2025-08-09 17:58:58,455 - INFO - Processing: JPMORGAN_CHASE_&_CO/2024/output_0001193125_24_228029.txt
+2025-08-09 17:59:17,964 - INFO - Progress: 110/363 (30.3%) - Success: 110, Failed: 0
+2025-08-09 17:59:17,964 - INFO - Processing: JPMORGAN_CHASE_&_CO/2024/output_0001193125_24_241062.txt
+2025-08-09 17:59:32,562 - INFO - Progress: 111/363 (30.6%) - Success: 111, Failed: 0
+2025-08-09 17:59:32,562 - INFO - Processing: JPMORGAN_CHASE_&_CO/2024/output_0001193125_24_268103.txt
+2025-08-09 17:59:52,135 - INFO - Progress: 112/363 (30.9%) - Success: 112, Failed: 0
+2025-08-09 17:59:52,135 - INFO - Processing: JPMORGAN_CHASE_&_CO/2024/output_0001628280_24_001950.txt
+2025-08-09 18:00:07,478 - INFO - Progress: 113/363 (31.1%) - Success: 113, Failed: 0
+2025-08-09 18:00:07,478 - INFO - Processing: JPMORGAN_CHASE_&_CO/2025/output_0000019617_25_000040.txt
+2025-08-09 18:00:30,211 - INFO - Progress: 114/363 (31.4%) - Success: 114, Failed: 0
+2025-08-09 18:00:30,211 - INFO - Processing: JPMORGAN_CHASE_&_CO/2025/output_0000019617_25_000042.txt
+2025-08-09 18:01:00,563 - INFO - Progress: 115/363 (31.7%) - Success: 115, Failed: 0
+2025-08-09 18:01:00,563 - INFO - Processing: JPMORGAN_CHASE_&_CO/2025/output_0000019617_25_000056.txt
+2025-08-09 18:01:30,355 - INFO - Progress: 116/363 (32.0%) - Success: 116, Failed: 0
+2025-08-09 18:01:30,355 - INFO - Processing: JPMORGAN_CHASE_&_CO/2025/output_0000019617_25_000332.txt
+2025-08-09 18:01:58,060 - INFO - Processing: JPMORGAN_CHASE_&_CO/2025/output_0000019617_25_000334.txt
+2025-08-09 18:01:58,060 - INFO - Progress: 117/363 (32.2%) - Success: 117, Failed: 0
+2025-08-09 18:02:15,107 - INFO - Progress: 118/363 (32.5%) - Success: 118, Failed: 0
+2025-08-09 18:02:15,107 - INFO - Processing: JPMORGAN_CHASE_&_CO/2025/output_0000019617_25_000483.txt
+2025-08-09 18:02:40,645 - INFO - Progress: 119/363 (32.8%) - Success: 119, Failed: 0
+2025-08-09 18:02:40,646 - INFO - Processing: JPMORGAN_CHASE_&_CO/2025/output_0000019617_25_000485.txt
+2025-08-09 18:03:01,901 - INFO - Progress: 120/363 (33.1%) - Success: 120, Failed: 0
+2025-08-09 18:03:01,901 - INFO - Processing: JPMORGAN_CHASE_&_CO/2025/output_0000019617_25_000509.txt
+2025-08-09 18:03:26,620 - INFO - Progress: 121/363 (33.3%) - Success: 121, Failed: 0
+2025-08-09 18:03:26,620 - INFO - Processing: JPMORGAN_CHASE_&_CO/2025/output_0000019617_25_000510.txt
+2025-08-09 18:03:45,161 - INFO - Progress: 122/363 (33.6%) - Success: 122, Failed: 0
+2025-08-09 18:03:45,161 - INFO - Processing: JPMORGAN_CHASE_&_CO/2025/output_0000019617_25_000518.txt
+2025-08-09 18:04:05,171 - INFO - Progress: 123/363 (33.9%) - Success: 123, Failed: 0
+2025-08-09 18:04:05,171 - INFO - Processing: JPMORGAN_CHASE_&_CO/2025/output_0000019617_25_000520.txt
+2025-08-09 18:04:25,331 - INFO - Progress: 124/363 (34.2%) - Success: 124, Failed: 0
+2025-08-09 18:04:25,331 - INFO - Processing: JPMORGAN_CHASE_&_CO/2025/output_0001193125_25_006009.txt
+2025-08-09 18:04:45,204 - INFO - Progress: 125/363 (34.4%) - Success: 125, Failed: 0
+2025-08-09 18:04:45,204 - INFO - Processing: JPMORGAN_CHASE_&_CO/2025/output_0001193125_25_012230.txt
+2025-08-09 18:05:05,452 - INFO - Progress: 126/363 (34.7%) - Success: 126, Failed: 0
+2025-08-09 18:05:05,452 - INFO - Processing: JPMORGAN_CHASE_&_CO/2025/output_0001193125_25_013396.txt
+2025-08-09 18:05:26,076 - INFO - Progress: 127/363 (35.0%) - Success: 127, Failed: 0
+2025-08-09 18:05:26,076 - INFO - Processing: JPMORGAN_CHASE_&_CO/2025/output_0001193125_25_020070.txt
+2025-08-09 18:05:43,485 - INFO - Progress: 128/363 (35.3%) - Success: 128, Failed: 0
+2025-08-09 18:05:43,485 - INFO - Processing: JPMORGAN_CHASE_&_CO/2025/output_0001193125_25_078015.txt
+2025-08-09 18:06:22,523 - INFO - Progress: 129/363 (35.5%) - Success: 129, Failed: 0
+2025-08-09 18:06:22,523 - INFO - Processing: JPMORGAN_CHASE_&_CO/2025/output_0001193125_25_089203.txt
+2025-08-09 18:06:40,674 - INFO - Progress: 130/363 (35.8%) - Success: 130, Failed: 0
+2025-08-09 18:06:40,674 - INFO - Processing: JPMORGAN_CHASE_&_CO/2025/output_0001193125_25_163423.txt
+2025-08-09 18:07:01,133 - INFO - Progress: 131/363 (36.1%) - Success: 131, Failed: 0
+2025-08-09 18:07:01,133 - INFO - Processing: Meta_Platforms_Inc/2020/output_0001326801_20_000081.txt
+2025-08-09 18:07:18,247 - INFO - Progress: 132/363 (36.4%) - Success: 132, Failed: 0
+2025-08-09 18:07:18,248 - INFO - Processing: Meta_Platforms_Inc/2021/output_0001326801_21_000011.txt
+2025-08-09 18:07:42,255 - INFO - Progress: 133/363 (36.6%) - Success: 133, Failed: 0
+2025-08-09 18:07:42,255 - INFO - Processing: Meta_Platforms_Inc/2021/output_0001326801_21_000031.txt
+2025-08-09 18:08:08,649 - INFO - Progress: 134/363 (36.9%) - Success: 134, Failed: 0
+2025-08-09 18:08:08,650 - INFO - Processing: Meta_Platforms_Inc/2021/output_0001326801_21_000040.txt
+2025-08-09 18:08:31,745 - INFO - Progress: 135/363 (37.2%) - Success: 135, Failed: 0
+2025-08-09 18:08:31,745 - INFO - Processing: Meta_Platforms_Inc/2021/output_0001326801_21_000047.txt
+2025-08-09 18:09:02,177 - INFO - Progress: 136/363 (37.5%) - Success: 136, Failed: 0
+2025-08-09 18:09:02,177 - INFO - Processing: Meta_Platforms_Inc/2021/output_0001326801_21_000053.txt
+2025-08-09 18:09:24,420 - INFO - Progress: 137/363 (37.7%) - Success: 137, Failed: 0
+2025-08-09 18:09:24,420 - INFO - Processing: Meta_Platforms_Inc/2021/output_0001326801_21_000062.txt
+2025-08-09 18:09:54,586 - INFO - Progress: 138/363 (38.0%) - Success: 138, Failed: 0
+2025-08-09 18:09:54,587 - INFO - Processing: Meta_Platforms_Inc/2021/output_0001326801_21_000071.txt
+2025-08-09 18:10:15,944 - INFO - Progress: 139/363 (38.3%) - Success: 139, Failed: 0
+2025-08-09 18:10:15,944 - INFO - Processing: Meta_Platforms_Inc/2022/output_0000950103_22_013666.txt
+2025-08-09 18:10:35,802 - INFO - Progress: 140/363 (38.6%) - Success: 140, Failed: 0
+2025-08-09 18:10:35,802 - INFO - Processing: Meta_Platforms_Inc/2022/output_0000950103_22_013830.txt
+2025-08-09 18:10:51,610 - INFO - Progress: 141/363 (38.8%) - Success: 141, Failed: 0
+2025-08-09 18:10:51,611 - INFO - Processing: Meta_Platforms_Inc/2022/output_0001326801_22_000006.txt
+2025-08-09 18:11:25,009 - INFO - Progress: 142/363 (39.1%) - Success: 142, Failed: 0
+2025-08-09 18:11:25,009 - INFO - Processing: Meta_Platforms_Inc/2022/output_0001326801_22_000015.txt
+2025-08-09 18:11:40,594 - INFO - Progress: 143/363 (39.4%) - Success: 143, Failed: 0
+2025-08-09 18:11:40,594 - INFO - Processing: Meta_Platforms_Inc/2022/output_0001326801_22_000030.txt
+2025-08-09 18:11:57,671 - INFO - Progress: 144/363 (39.7%) - Success: 144, Failed: 0
+2025-08-09 18:11:57,672 - INFO - Processing: Meta_Platforms_Inc/2022/output_0001326801_22_000054.txt
+2025-08-09 18:12:17,278 - INFO - Progress: 145/363 (39.9%) - Success: 145, Failed: 0
+2025-08-09 18:12:17,279 - INFO - Processing: Meta_Platforms_Inc/2022/output_0001326801_22_000066.txt
+2025-08-09 18:12:35,872 - INFO - Progress: 146/363 (40.2%) - Success: 146, Failed: 0
+2025-08-09 18:12:35,872 - INFO - Processing: Meta_Platforms_Inc/2022/output_0001326801_22_000070.txt
+2025-08-09 18:13:12,246 - INFO - Progress: 147/363 (40.5%) - Success: 147, Failed: 0
+2025-08-09 18:13:12,246 - INFO - Processing: Meta_Platforms_Inc/2022/output_0001326801_22_000073.txt
+2025-08-09 18:13:28,029 - INFO - Progress: 148/363 (40.8%) - Success: 148, Failed: 0
+2025-08-09 18:13:28,029 - INFO - Processing: Meta_Platforms_Inc/2022/output_0001326801_22_000079.txt
+2025-08-09 18:13:45,501 - INFO - Progress: 149/363 (41.0%) - Success: 149, Failed: 0
+2025-08-09 18:13:45,501 - INFO - Processing: Meta_Platforms_Inc/2022/output_0001326801_22_000085.txt
+2025-08-09 18:14:04,646 - INFO - Progress: 150/363 (41.3%) - Success: 150, Failed: 0
+2025-08-09 18:14:04,647 - INFO - Processing: Meta_Platforms_Inc/2022/output_0001326801_22_000094.txt
+2025-08-09 18:14:22,983 - INFO - Progress: 151/363 (41.6%) - Success: 151, Failed: 0
+2025-08-09 18:14:22,983 - INFO - Processing: Meta_Platforms_Inc/2022/output_0001326801_22_000105.txt
+2025-08-09 18:14:37,955 - INFO - Progress: 152/363 (41.9%) - Success: 152, Failed: 0
+2025-08-09 18:14:37,955 - INFO - Processing: Meta_Platforms_Inc/2022/output_0001326801_22_000116.txt
+2025-08-09 18:14:58,267 - INFO - Progress: 153/363 (42.1%) - Success: 153, Failed: 0
+2025-08-09 18:14:58,267 - INFO - Processing: Meta_Platforms_Inc/2023/output_0001193125_23_134410.txt
+2025-08-09 18:15:29,269 - INFO - Progress: 154/363 (42.4%) - Success: 154, Failed: 0
+2025-08-09 18:15:29,269 - INFO - Processing: Meta_Platforms_Inc/2023/output_0001326801_23_000008.txt
+2025-08-09 18:15:59,071 - INFO - Progress: 155/363 (42.7%) - Success: 155, Failed: 0
+2025-08-09 18:15:59,071 - INFO - Processing: Meta_Platforms_Inc/2023/output_0001326801_23_000015.txt
+2025-08-09 18:16:21,498 - INFO - Progress: 156/363 (43.0%) - Success: 156, Failed: 0
+2025-08-09 18:16:21,498 - INFO - Processing: Meta_Platforms_Inc/2023/output_0001326801_23_000019.txt
+2025-08-09 18:16:35,326 - INFO - Progress: 157/363 (43.3%) - Success: 157, Failed: 0
+2025-08-09 18:16:35,326 - INFO - Processing: Meta_Platforms_Inc/2023/output_0001326801_23_000023.txt
+2025-08-09 18:16:48,879 - INFO - Progress: 158/363 (43.5%) - Success: 158, Failed: 0
+2025-08-09 18:16:48,879 - INFO - Processing: Meta_Platforms_Inc/2023/output_0001326801_23_000035.txt
+2025-08-09 18:17:07,885 - INFO - Progress: 159/363 (43.8%) - Success: 159, Failed: 0
+2025-08-09 18:17:07,885 - INFO - Processing: Meta_Platforms_Inc/2023/output_0001326801_23_000038.txt
+2025-08-09 18:17:36,919 - INFO - Progress: 160/363 (44.1%) - Success: 160, Failed: 0
+2025-08-09 18:17:36,919 - INFO - Processing: Meta_Platforms_Inc/2023/output_0001326801_23_000063.txt
+2025-08-09 18:17:57,470 - INFO - Progress: 161/363 (44.4%) - Success: 161, Failed: 0
+2025-08-09 18:17:57,470 - INFO - Processing: Meta_Platforms_Inc/2023/output_0001326801_23_000083.txt
+2025-08-09 18:18:22,888 - INFO - Progress: 162/363 (44.6%) - Success: 162, Failed: 0
+2025-08-09 18:18:22,888 - INFO - Processing: Meta_Platforms_Inc/2023/output_0001326801_23_000089.txt
+2025-08-09 18:19:04,791 - INFO - Progress: 163/363 (44.9%) - Success: 163, Failed: 0
+2025-08-09 18:19:04,792 - INFO - Processing: Meta_Platforms_Inc/2023/output_0001326801_23_000100.txt
+2025-08-09 18:19:23,783 - INFO - Progress: 164/363 (45.2%) - Success: 164, Failed: 0
+2025-08-09 18:19:23,783 - INFO - Processing: Meta_Platforms_Inc/2024/output_0001193125_24_197873.txt
+2025-08-09 18:19:44,828 - INFO - Progress: 165/363 (45.5%) - Success: 165, Failed: 0
+2025-08-09 18:19:44,828 - INFO - Processing: Meta_Platforms_Inc/2024/output_0001326801_24_000003.txt
+2025-08-09 18:20:11,100 - INFO - Progress: 166/363 (45.7%) - Success: 166, Failed: 0
+2025-08-09 18:20:11,100 - INFO - Processing: Meta_Platforms_Inc/2024/output_0001326801_24_000010.txt
+2025-08-09 18:20:26,356 - INFO - Progress: 167/363 (46.0%) - Success: 167, Failed: 0
+2025-08-09 18:20:26,356 - INFO - Processing: Meta_Platforms_Inc/2024/output_0001326801_24_000019.txt
+2025-08-09 18:20:47,319 - INFO - Progress: 168/363 (46.3%) - Success: 168, Failed: 0
+2025-08-09 18:20:47,319 - INFO - Processing: Meta_Platforms_Inc/2024/output_0001326801_24_000044.txt
+2025-08-09 18:21:05,393 - INFO - Progress: 169/363 (46.6%) - Success: 169, Failed: 0
+2025-08-09 18:21:05,393 - INFO - Processing: Meta_Platforms_Inc/2024/output_0001326801_24_000057.txt
+2025-08-09 18:21:24,871 - INFO - Progress: 170/363 (46.8%) - Success: 170, Failed: 0
+2025-08-09 18:21:24,871 - INFO - Processing: Meta_Platforms_Inc/2024/output_0001326801_24_000065.txt
+2025-08-09 18:22:01,412 - INFO - Progress: 171/363 (47.1%) - Success: 171, Failed: 0
+2025-08-09 18:22:01,412 - INFO - Processing: Meta_Platforms_Inc/2024/output_0001326801_24_000072.txt
+2025-08-09 18:22:27,286 - INFO - Progress: 172/363 (47.4%) - Success: 172, Failed: 0
+2025-08-09 18:22:27,286 - INFO - Processing: Meta_Platforms_Inc/2024/output_0001326801_24_000077.txt
+2025-08-09 18:22:44,862 - INFO - Progress: 173/363 (47.7%) - Success: 173, Failed: 0
+2025-08-09 18:22:44,862 - INFO - Processing: Meta_Platforms_Inc/2025/output_0001326801_25_000005.txt
+2025-08-09 18:23:03,069 - INFO - Progress: 174/363 (47.9%) - Success: 174, Failed: 0
+2025-08-09 18:23:03,069 - INFO - Processing: Meta_Platforms_Inc/2025/output_0001326801_25_000014.txt
+2025-08-09 18:23:25,498 - INFO - Progress: 175/363 (48.2%) - Success: 175, Failed: 0
+2025-08-09 18:23:25,498 - INFO - Processing: Meta_Platforms_Inc/2025/output_0001326801_25_000021.txt
+2025-08-09 18:23:46,343 - INFO - Progress: 176/363 (48.5%) - Success: 176, Failed: 0
+2025-08-09 18:23:46,343 - INFO - Processing: Meta_Platforms_Inc/2025/output_0001326801_25_000027.txt
+2025-08-09 18:24:02,159 - INFO - Progress: 177/363 (48.8%) - Success: 177, Failed: 0
+2025-08-09 18:24:02,159 - INFO - Processing: Meta_Platforms_Inc/2025/output_0001326801_25_000050.txt
+2025-08-09 18:24:29,156 - INFO - Progress: 178/363 (49.0%) - Success: 178, Failed: 0
+2025-08-09 18:24:29,156 - INFO - Processing: Meta_Platforms_Inc/2025/output_0001326801_25_000090.txt
+2025-08-09 18:24:45,772 - INFO - Progress: 179/363 (49.3%) - Success: 179, Failed: 0
+2025-08-09 18:24:45,772 - INFO - Processing: Meta_Platforms_Inc/2025/output_0001628280_25_036719.txt
+2025-08-09 18:25:24,703 - INFO - Progress: 180/363 (49.6%) - Success: 180, Failed: 0
+2025-08-09 18:25:24,703 - INFO - Processing: MICROSOFT_CORP/2020/output_0001193125_20_250163.txt
+2025-08-09 18:25:45,129 - INFO - Progress: 181/363 (49.9%) - Success: 181, Failed: 0
+2025-08-09 18:25:45,129 - INFO - Processing: MICROSOFT_CORP/2020/output_0001193125_20_278410.txt
+2025-08-09 18:26:03,587 - INFO - Progress: 182/363 (50.1%) - Success: 182, Failed: 0
+2025-08-09 18:26:03,588 - INFO - Processing: MICROSOFT_CORP/2020/output_0001193125_20_310549.txt
+2025-08-09 18:26:23,915 - INFO - Progress: 183/363 (50.4%) - Success: 183, Failed: 0
+2025-08-09 18:26:23,915 - INFO - Processing: MICROSOFT_CORP/2021/output_0001193125_21_017683.txt
+2025-08-09 18:26:50,679 - INFO - Progress: 184/363 (50.7%) - Success: 184, Failed: 0
+2025-08-09 18:26:50,680 - INFO - Processing: MICROSOFT_CORP/2021/output_0001193125_21_044940.txt
+2025-08-09 18:27:19,939 - INFO - Progress: 185/363 (51.0%) - Success: 185, Failed: 0
+2025-08-09 18:27:19,939 - INFO - Processing: MICROSOFT_CORP/2021/output_0001193125_21_065751.txt
+2025-08-09 18:27:32,238 - INFO - Progress: 186/363 (51.2%) - Success: 186, Failed: 0
+2025-08-09 18:27:32,238 - INFO - Processing: MICROSOFT_CORP/2021/output_0001193125_21_084239.txt
+2025-08-09 18:27:45,808 - INFO - Progress: 187/363 (51.5%) - Success: 187, Failed: 0
+2025-08-09 18:27:45,809 - INFO - Processing: MICROSOFT_CORP/2021/output_0001193125_21_112687.txt
+2025-08-09 18:28:09,339 - INFO - Progress: 188/363 (51.8%) - Success: 188, Failed: 0
+2025-08-09 18:28:09,339 - INFO - Processing: MICROSOFT_CORP/2021/output_0001193125_21_134213.txt
+2025-08-09 18:28:26,179 - INFO - Progress: 189/363 (52.1%) - Success: 189, Failed: 0
+2025-08-09 18:28:26,179 - INFO - Processing: MICROSOFT_CORP/2021/output_0001193125_21_167940.txt
+2025-08-09 18:28:45,541 - INFO - Progress: 190/363 (52.3%) - Success: 190, Failed: 0
+2025-08-09 18:28:45,541 - INFO - Processing: MICROSOFT_CORP/2021/output_0001193125_21_192783.txt
+2025-08-09 18:28:58,584 - INFO - Progress: 191/363 (52.6%) - Success: 191, Failed: 0
+2025-08-09 18:28:58,584 - INFO - Processing: MICROSOFT_CORP/2021/output_0001193125_21_210827.txt
+2025-08-09 18:29:10,243 - INFO - Progress: 192/363 (52.9%) - Success: 192, Failed: 0
+2025-08-09 18:29:10,243 - INFO - Processing: MICROSOFT_CORP/2021/output_0001193125_21_225746.txt
+2025-08-09 18:29:28,182 - INFO - Progress: 193/363 (53.2%) - Success: 193, Failed: 0
+2025-08-09 18:29:28,182 - INFO - Processing: MICROSOFT_CORP/2021/output_0001193125_21_307941.txt
+2025-08-09 18:29:45,626 - INFO - Progress: 194/363 (53.4%) - Success: 194, Failed: 0
+2025-08-09 18:29:45,627 - INFO - Processing: MICROSOFT_CORP/2021/output_0001193125_21_343711.txt
+2025-08-09 18:30:01,918 - INFO - Progress: 195/363 (53.7%) - Success: 195, Failed: 0
+2025-08-09 18:30:01,918 - INFO - Processing: MICROSOFT_CORP/2022/output_0001193125_22_010667.txt
+2025-08-09 18:30:35,385 - INFO - Progress: 196/363 (54.0%) - Success: 196, Failed: 0
+2025-08-09 18:30:35,386 - INFO - Processing: MICROSOFT_CORP/2022/output_0001193125_22_017041.txt
+2025-08-09 18:30:50,802 - INFO - Progress: 197/363 (54.3%) - Success: 197, Failed: 0
+2025-08-09 18:30:50,803 - INFO - Processing: MICROSOFT_CORP/2022/output_0001193125_22_120207.txt
+2025-08-09 18:31:07,658 - INFO - Progress: 198/363 (54.5%) - Success: 198, Failed: 0
+2025-08-09 18:31:07,658 - INFO - Processing: MICROSOFT_CORP/2022/output_0001193125_22_165839.txt
+2025-08-09 18:31:22,992 - INFO - Progress: 199/363 (54.8%) - Success: 199, Failed: 0
+2025-08-09 18:31:22,992 - INFO - Processing: MICROSOFT_CORP/2022/output_0001193125_22_202034.txt
+2025-08-09 18:31:44,930 - INFO - Progress: 200/363 (55.1%) - Success: 200, Failed: 0
+2025-08-09 18:31:44,930 - INFO - Processing: MICROSOFT_CORP/2022/output_0001193125_22_268356.txt
+2025-08-09 18:32:04,232 - INFO - Progress: 201/363 (55.4%) - Success: 201, Failed: 0
+2025-08-09 18:32:04,232 - INFO - Processing: MICROSOFT_CORP/2022/output_0001193125_22_306591.txt
+2025-08-09 18:32:19,690 - INFO - Progress: 202/363 (55.6%) - Success: 202, Failed: 0
+2025-08-09 18:32:19,690 - INFO - Processing: MICROSOFT_CORP/2023/output_0000950170_23_034400.txt
+2025-08-09 18:32:53,598 - INFO - Progress: 203/363 (55.9%) - Success: 203, Failed: 0
+2025-08-09 18:32:53,598 - INFO - Processing: MICROSOFT_CORP/2023/output_0000950170_23_054848.txt
+2025-08-09 18:33:20,172 - INFO - Progress: 204/363 (56.2%) - Success: 204, Failed: 0
+2025-08-09 18:33:20,172 - INFO - Processing: MICROSOFT_CORP/2023/output_0001104659_23_109428.txt
+2025-08-09 18:33:38,112 - INFO - Progress: 205/363 (56.5%) - Success: 205, Failed: 0
+2025-08-09 18:33:38,112 - INFO - Processing: MICROSOFT_CORP/2023/output_0001193125_23_009934.txt
+2025-08-09 18:34:25,964 - INFO - Progress: 206/363 (56.7%) - Success: 206, Failed: 0
+2025-08-09 18:34:25,965 - INFO - Processing: MICROSOFT_CORP/2023/output_0001193125_23_014230.txt
+2025-08-09 18:34:47,858 - INFO - Progress: 207/363 (57.0%) - Success: 207, Failed: 0
+2025-08-09 18:34:47,858 - INFO - Processing: MICROSOFT_CORP/2023/output_0001193125_23_115280.txt
+2025-08-09 18:35:02,649 - INFO - Progress: 208/363 (57.3%) - Success: 208, Failed: 0
+2025-08-09 18:35:02,649 - INFO - Processing: MICROSOFT_CORP/2023/output_0001193125_23_181341.txt
+2025-08-09 18:35:16,349 - INFO - Progress: 209/363 (57.6%) - Success: 209, Failed: 0
+2025-08-09 18:35:16,349 - INFO - Processing: MICROSOFT_CORP/2023/output_0001193125_23_254151.txt
+2025-08-09 18:35:42,212 - INFO - Progress: 210/363 (57.9%) - Success: 210, Failed: 0
+2025-08-09 18:35:42,212 - INFO - Processing: MICROSOFT_CORP/2023/output_0001193125_23_255762.txt
+2025-08-09 18:36:09,236 - INFO - Progress: 211/363 (58.1%) - Success: 211, Failed: 0
+2025-08-09 18:36:09,236 - INFO - Processing: MICROSOFT_CORP/2023/output_0001193125_23_265616.txt
+2025-08-09 18:36:26,728 - INFO - Progress: 212/363 (58.4%) - Success: 212, Failed: 0
+2025-08-09 18:36:26,728 - INFO - Processing: MICROSOFT_CORP/2023/output_0001193125_23_271376.txt
+2025-08-09 18:36:42,299 - INFO - Progress: 213/363 (58.7%) - Success: 213, Failed: 0
+2025-08-09 18:36:42,299 - INFO - Processing: MICROSOFT_CORP/2023/output_0001193125_23_291720.txt
+2025-08-09 18:37:28,597 - INFO - Progress: 214/363 (59.0%) - Success: 214, Failed: 0
+2025-08-09 18:37:28,597 - INFO - Processing: MICROSOFT_CORP/2024/output_0000950170_24_008809.txt
+2025-08-09 18:38:13,604 - INFO - Progress: 215/363 (59.2%) - Success: 215, Failed: 0
+2025-08-09 18:38:13,604 - INFO - Processing: MICROSOFT_CORP/2024/output_0000950170_24_048268.txt
+2025-08-09 18:38:26,646 - INFO - Progress: 216/363 (59.5%) - Success: 216, Failed: 0
+2025-08-09 18:38:26,646 - INFO - Processing: MICROSOFT_CORP/2024/output_0000950170_24_087835.txt
+2025-08-09 18:38:44,915 - INFO - Progress: 217/363 (59.8%) - Success: 217, Failed: 0
+2025-08-09 18:38:44,915 - INFO - Processing: MICROSOFT_CORP/2024/output_0000950170_24_118955.txt
+2025-08-09 18:39:00,204 - INFO - Progress: 218/363 (60.1%) - Success: 218, Failed: 0
+2025-08-09 18:39:00,204 - INFO - Processing: MICROSOFT_CORP/2024/output_0000950170_24_132722.txt
+2025-08-09 18:39:14,807 - INFO - Progress: 219/363 (60.3%) - Success: 219, Failed: 0
+2025-08-09 18:39:14,807 - INFO - Processing: MICROSOFT_CORP/2024/output_0001193125_24_011295.txt
+2025-08-09 18:39:38,996 - INFO - Progress: 220/363 (60.6%) - Success: 220, Failed: 0
+2025-08-09 18:39:38,996 - INFO - Processing: MICROSOFT_CORP/2024/output_0001193125_24_204403.txt
+2025-08-09 18:40:05,561 - INFO - Progress: 221/363 (60.9%) - Success: 221, Failed: 0
+2025-08-09 18:40:05,561 - INFO - Processing: MICROSOFT_CORP/2024/output_0001193125_24_275524.txt
+2025-08-09 18:40:19,641 - INFO - Progress: 222/363 (61.2%) - Success: 222, Failed: 0
+2025-08-09 18:40:19,641 - INFO - Processing: MICROSOFT_CORP/2025/output_0000950170_25_010484.txt
+2025-08-09 18:41:23,721 - INFO - Progress: 223/363 (61.4%) - Success: 223, Failed: 0
+2025-08-09 18:41:23,721 - INFO - Processing: MICROSOFT_CORP/2025/output_0000950170_25_061032.txt
+2025-08-09 18:41:41,918 - INFO - Progress: 224/363 (61.7%) - Success: 224, Failed: 0
+2025-08-09 18:41:41,918 - INFO - Processing: MICROSOFT_CORP/2025/output_0000950170_25_100226.txt
+2025-08-09 18:41:57,651 - INFO - Progress: 225/363 (62.0%) - Success: 225, Failed: 0
+2025-08-09 18:41:57,651 - INFO - Processing: MICROSOFT_CORP/2025/output_0001193125_25_010492.txt
+2025-08-09 18:42:12,720 - INFO - Progress: 226/363 (62.3%) - Success: 226, Failed: 0
+2025-08-09 18:42:12,720 - INFO - Processing: MICROSOFT_CORP/2025/output_0001193125_25_154103.txt
+2025-08-09 18:42:25,963 - INFO - Progress: 227/363 (62.5%) - Success: 227, Failed: 0
+2025-08-09 18:42:25,963 - INFO - Processing: NVIDIA_CORP/2020/output_0001045810_20_000145.txt
+2025-08-09 18:42:39,374 - INFO - Progress: 228/363 (62.8%) - Success: 228, Failed: 0
+2025-08-09 18:42:39,374 - INFO - Processing: NVIDIA_CORP/2020/output_0001045810_20_000181.txt
+2025-08-09 18:42:55,506 - INFO - Processing: NVIDIA_CORP/2020/output_0001045810_20_000187.txt
+2025-08-09 18:42:55,506 - INFO - Progress: 229/363 (63.1%) - Success: 229, Failed: 0
+2025-08-09 18:43:10,964 - INFO - Progress: 230/363 (63.4%) - Success: 230, Failed: 0
+2025-08-09 18:43:10,964 - INFO - Processing: NVIDIA_CORP/2020/output_0001193125_20_244601.txt
+2025-08-09 18:43:29,354 - INFO - Processing: NVIDIA_CORP/2021/output_0001045810_21_000007.txt
+2025-08-09 18:43:29,354 - INFO - Progress: 231/363 (63.6%) - Success: 231, Failed: 0
+2025-08-09 18:44:05,339 - INFO - Progress: 232/363 (63.9%) - Success: 232, Failed: 0
+2025-08-09 18:44:05,339 - INFO - Processing: NVIDIA_CORP/2021/output_0001045810_21_000034.txt
+2025-08-09 18:44:22,254 - INFO - Progress: 233/363 (64.2%) - Success: 233, Failed: 0
+2025-08-09 18:44:22,254 - INFO - Processing: NVIDIA_CORP/2021/output_0001045810_21_000047.txt
+2025-08-09 18:44:44,056 - INFO - Progress: 234/363 (64.5%) - Success: 234, Failed: 0
+2025-08-09 18:44:44,056 - INFO - Processing: NVIDIA_CORP/2021/output_0001045810_21_000056.txt
+2025-08-09 18:44:58,872 - INFO - Progress: 235/363 (64.7%) - Success: 235, Failed: 0
+2025-08-09 18:44:58,872 - INFO - Processing: NVIDIA_CORP/2021/output_0001045810_21_000063.txt
+2025-08-09 18:45:14,024 - INFO - Progress: 236/363 (65.0%) - Success: 236, Failed: 0
+2025-08-09 18:45:14,024 - INFO - Processing: NVIDIA_CORP/2021/output_0001045810_21_000075.txt
+2025-08-09 18:45:35,446 - INFO - Progress: 237/363 (65.3%) - Success: 237, Failed: 0
+2025-08-09 18:45:35,446 - INFO - Processing: NVIDIA_CORP/2021/output_0001045810_21_000117.txt
+2025-08-09 18:46:07,635 - INFO - Progress: 238/363 (65.6%) - Success: 238, Failed: 0
+2025-08-09 18:46:07,635 - INFO - Processing: NVIDIA_CORP/2021/output_0001045810_21_000128.txt
+2025-08-09 18:46:31,766 - INFO - Progress: 239/363 (65.8%) - Success: 239, Failed: 0
+2025-08-09 18:46:31,766 - INFO - Processing: NVIDIA_CORP/2021/output_0001045810_21_000160.txt
+2025-08-09 18:46:50,575 - INFO - Progress: 240/363 (66.1%) - Success: 240, Failed: 0
+2025-08-09 18:46:50,575 - INFO - Processing: NVIDIA_CORP/2021/output_0001193125_21_192149.txt
+2025-08-09 18:47:06,472 - INFO - Progress: 241/363 (66.4%) - Success: 241, Failed: 0
+2025-08-09 18:47:06,472 - INFO - Processing: NVIDIA_CORP/2022/output_0001045810_22_000005.txt
+2025-08-09 18:47:37,244 - INFO - Progress: 242/363 (66.7%) - Success: 242, Failed: 0
+2025-08-09 18:47:37,244 - INFO - Processing: NVIDIA_CORP/2022/output_0001045810_22_000008.txt
+2025-08-09 18:48:00,073 - INFO - Progress: 243/363 (66.9%) - Success: 243, Failed: 0
+2025-08-09 18:48:00,073 - INFO - Processing: NVIDIA_CORP/2022/output_0001045810_22_000023.txt
+2025-08-09 18:48:17,626 - INFO - Progress: 244/363 (67.2%) - Success: 244, Failed: 0
+2025-08-09 18:48:17,626 - INFO - Processing: NVIDIA_CORP/2022/output_0001045810_22_000073.txt
+2025-08-09 18:48:41,570 - INFO - Progress: 245/363 (67.5%) - Success: 245, Failed: 0
+2025-08-09 18:48:41,570 - INFO - Processing: NVIDIA_CORP/2022/output_0001045810_22_000088.txt
+2025-08-09 18:48:58,592 - INFO - Progress: 246/363 (67.8%) - Success: 246, Failed: 0
+2025-08-09 18:48:58,592 - INFO - Processing: NVIDIA_CORP/2022/output_0001045810_22_000133.txt
+2025-08-09 18:50:05,490 - INFO - Progress: 247/363 (68.0%) - Success: 247, Failed: 0
+2025-08-09 18:50:05,490 - INFO - Processing: NVIDIA_CORP/2022/output_0001045810_22_000136.txt
+2025-08-09 18:50:23,916 - INFO - Progress: 248/363 (68.3%) - Success: 248, Failed: 0
+2025-08-09 18:50:23,916 - INFO - Processing: NVIDIA_CORP/2022/output_0001045810_22_000146.txt
+2025-08-09 18:50:55,249 - INFO - Progress: 249/363 (68.6%) - Success: 249, Failed: 0
+2025-08-09 18:50:55,249 - INFO - Processing: NVIDIA_CORP/2022/output_0001045810_22_000151.txt
+2025-08-09 18:51:15,018 - INFO - Progress: 250/363 (68.9%) - Success: 250, Failed: 0
+2025-08-09 18:51:15,018 - INFO - Processing: NVIDIA_CORP/2022/output_0001045810_22_000163.txt
+2025-08-09 18:51:28,549 - INFO - Progress: 251/363 (69.1%) - Success: 251, Failed: 0
+2025-08-09 18:51:28,549 - INFO - Processing: NVIDIA_CORP/2023/output_0001045810_23_000014.txt
+2025-08-09 18:51:51,515 - INFO - Progress: 252/363 (69.4%) - Success: 252, Failed: 0
+2025-08-09 18:51:51,515 - INFO - Processing: NVIDIA_CORP/2023/output_0001045810_23_000039.txt
+2025-08-09 18:52:06,917 - INFO - Progress: 253/363 (69.7%) - Success: 253, Failed: 0
+2025-08-09 18:52:06,917 - INFO - Processing: NVIDIA_CORP/2023/output_0001045810_23_000087.txt
+2025-08-09 18:52:37,471 - INFO - Progress: 254/363 (70.0%) - Success: 254, Failed: 0
+2025-08-09 18:52:37,471 - INFO - Processing: NVIDIA_CORP/2023/output_0001045810_23_000146.txt
+2025-08-09 18:52:54,989 - INFO - Progress: 255/363 (70.2%) - Success: 255, Failed: 0
+2025-08-09 18:52:54,989 - INFO - Processing: NVIDIA_CORP/2023/output_0001045810_23_000164.txt
+2025-08-09 18:53:23,307 - INFO - Progress: 256/363 (70.5%) - Success: 256, Failed: 0
+2025-08-09 18:53:23,307 - INFO - Processing: NVIDIA_CORP/2023/output_0001045810_23_000171.txt
+2025-08-09 18:53:50,274 - INFO - Progress: 257/363 (70.8%) - Success: 257, Failed: 0
+2025-08-09 18:53:50,274 - INFO - Processing: NVIDIA_CORP/2023/output_0001045810_23_000217.txt
+2025-08-09 18:54:24,187 - INFO - Progress: 258/363 (71.1%) - Success: 258, Failed: 0
+2025-08-09 18:54:24,187 - INFO - Processing: NVIDIA_CORP/2023/output_0001045810_23_000221.txt
+2025-08-09 18:54:51,585 - INFO - Progress: 259/363 (71.3%) - Success: 259, Failed: 0
+2025-08-09 18:54:51,585 - INFO - Processing: NVIDIA_CORP/2023/output_0001045810_23_000225.txt
+2025-08-09 18:55:12,190 - INFO - Progress: 260/363 (71.6%) - Success: 260, Failed: 0
+2025-08-09 18:55:12,190 - INFO - Processing: NVIDIA_CORP/2024/output_0001045810_24_000028.txt
+2025-08-09 18:55:28,041 - INFO - Progress: 261/363 (71.9%) - Success: 261, Failed: 0
+2025-08-09 18:55:28,041 - INFO - Processing: NVIDIA_CORP/2024/output_0001045810_24_000069.txt
+2025-08-09 18:55:52,388 - INFO - Progress: 262/363 (72.2%) - Success: 262, Failed: 0
+2025-08-09 18:55:52,388 - INFO - Processing: NVIDIA_CORP/2024/output_0001045810_24_000113.txt
+2025-08-09 18:56:21,454 - INFO - Progress: 263/363 (72.5%) - Success: 263, Failed: 0
+2025-08-09 18:56:21,454 - INFO - Processing: NVIDIA_CORP/2024/output_0001045810_24_000144.txt
+2025-08-09 18:56:44,234 - INFO - Progress: 264/363 (72.7%) - Success: 264, Failed: 0
+2025-08-09 18:56:44,234 - INFO - Processing: NVIDIA_CORP/2024/output_0001045810_24_000206.txt
+2025-08-09 18:57:02,858 - INFO - Progress: 265/363 (73.0%) - Success: 265, Failed: 0
+2025-08-09 18:57:02,858 - INFO - Processing: NVIDIA_CORP/2024/output_0001045810_24_000262.txt
+2025-08-09 18:57:30,166 - INFO - Progress: 266/363 (73.3%) - Success: 266, Failed: 0
+2025-08-09 18:57:30,166 - INFO - Processing: NVIDIA_CORP/2024/output_0001045810_24_000300.txt
+2025-08-09 18:57:47,248 - INFO - Progress: 267/363 (73.6%) - Success: 267, Failed: 0
+2025-08-09 18:57:47,248 - INFO - Processing: NVIDIA_CORP/2024/output_0001045810_24_000315.txt
+2025-08-09 18:58:07,530 - INFO - Progress: 268/363 (73.8%) - Success: 268, Failed: 0
+2025-08-09 18:58:07,531 - INFO - Processing: NVIDIA_CORP/2025/output_0001045810_25_000007.txt
+2025-08-09 18:58:29,321 - INFO - Progress: 269/363 (74.1%) - Success: 269, Failed: 0
+2025-08-09 18:58:29,321 - INFO - Processing: NVIDIA_CORP/2025/output_0001045810_25_000021.txt
+2025-08-09 18:58:54,465 - INFO - Progress: 270/363 (74.4%) - Success: 270, Failed: 0
+2025-08-09 18:58:54,465 - INFO - Processing: NVIDIA_CORP/2025/output_0001045810_25_000039.txt
+2025-08-09 18:59:11,319 - INFO - Progress: 271/363 (74.7%) - Success: 271, Failed: 0
+2025-08-09 18:59:11,319 - INFO - Processing: NVIDIA_CORP/2025/output_0001045810_25_000082.txt
+2025-08-09 18:59:32,738 - INFO - Progress: 272/363 (74.9%) - Success: 272, Failed: 0
+2025-08-09 18:59:32,738 - INFO - Processing: NVIDIA_CORP/2025/output_0001045810_25_000115.txt
+2025-08-09 18:59:49,998 - INFO - Progress: 273/363 (75.2%) - Success: 273, Failed: 0
+2025-08-09 18:59:49,998 - INFO - Processing: NVIDIA_CORP/2025/output_0001045810_25_000179.txt
+2025-08-09 19:00:10,109 - INFO - Progress: 274/363 (75.5%) - Success: 274, Failed: 0
+2025-08-09 19:00:10,110 - INFO - Processing: NVIDIA_CORP/2025/output_0001045810_25_000197.txt
+2025-08-09 19:00:41,662 - INFO - Progress: 275/363 (75.8%) - Success: 275, Failed: 0
+2025-08-09 19:00:41,662 - INFO - Processing: ROKU_INC/2020/output_0001193125_20_264769.txt
+2025-08-09 19:01:07,344 - INFO - Progress: 276/363 (76.0%) - Success: 276, Failed: 0
+2025-08-09 19:01:07,344 - INFO - Processing: ROKU_INC/2020/output_0001564590_20_051331.txt
+2025-08-09 19:01:33,582 - INFO - Progress: 277/363 (76.3%) - Success: 277, Failed: 0
+2025-08-09 19:01:33,583 - INFO - Processing: ROKU_INC/2020/output_0001564590_20_056300.txt
+2025-08-09 19:01:50,698 - INFO - Progress: 278/363 (76.6%) - Success: 278, Failed: 0
+2025-08-09 19:01:50,698 - INFO - Processing: ROKU_INC/2021/output_0001193125_21_064426.txt
+2025-08-09 19:02:16,074 - INFO - Progress: 279/363 (76.9%) - Success: 279, Failed: 0
+2025-08-09 19:02:16,074 - INFO - Processing: ROKU_INC/2021/output_0001193125_21_188899.txt
+2025-08-09 19:02:46,251 - INFO - Progress: 280/363 (77.1%) - Success: 280, Failed: 0
+2025-08-09 19:02:46,251 - INFO - Processing: ROKU_INC/2021/output_0001193125_21_289768.txt
+2025-08-09 19:03:04,590 - INFO - Progress: 281/363 (77.4%) - Success: 281, Failed: 0
+2025-08-09 19:03:04,590 - INFO - Processing: ROKU_INC/2021/output_0001564590_21_006667.txt
+2025-08-09 19:03:30,906 - INFO - Progress: 282/363 (77.7%) - Success: 282, Failed: 0
+2025-08-09 19:03:30,906 - INFO - Processing: ROKU_INC/2021/output_0001564590_21_024968.txt
+2025-08-09 19:03:52,315 - INFO - Progress: 283/363 (78.0%) - Success: 283, Failed: 0
+2025-08-09 19:03:52,315 - INFO - Processing: ROKU_INC/2021/output_0001564590_21_040814.txt
+2025-08-09 19:04:08,747 - INFO - Progress: 284/363 (78.2%) - Success: 284, Failed: 0
+2025-08-09 19:04:08,747 - INFO - Processing: ROKU_INC/2021/output_0001564590_21_053955.txt
+2025-08-09 19:04:23,959 - INFO - Progress: 285/363 (78.5%) - Success: 285, Failed: 0
+2025-08-09 19:04:23,959 - INFO - Processing: ROKU_INC/2022/output_0001193125_22_004090.txt
+2025-08-09 19:04:39,907 - INFO - Progress: 286/363 (78.8%) - Success: 286, Failed: 0
+2025-08-09 19:04:39,907 - INFO - Processing: ROKU_INC/2022/output_0001193125_22_171963.txt
+2025-08-09 19:04:56,704 - INFO - Progress: 287/363 (79.1%) - Success: 287, Failed: 0
+2025-08-09 19:04:56,705 - INFO - Processing: ROKU_INC/2022/output_0001193125_22_244792.txt
+2025-08-09 19:05:15,633 - INFO - Progress: 288/363 (79.3%) - Success: 288, Failed: 0
+2025-08-09 19:05:15,634 - INFO - Processing: ROKU_INC/2022/output_0001193125_22_287240.txt
+2025-08-09 19:05:47,294 - INFO - Progress: 289/363 (79.6%) - Success: 289, Failed: 0
+2025-08-09 19:05:47,294 - INFO - Processing: ROKU_INC/2022/output_0001428439_22_000006.txt
+2025-08-09 19:06:16,104 - INFO - Progress: 290/363 (79.9%) - Success: 290, Failed: 0
+2025-08-09 19:06:16,104 - INFO - Processing: ROKU_INC/2022/output_0001428439_22_000013.txt
+2025-08-09 19:06:32,586 - INFO - Progress: 291/363 (80.2%) - Success: 291, Failed: 0
+2025-08-09 19:06:32,586 - INFO - Processing: ROKU_INC/2022/output_0001428439_22_000020.txt
+2025-08-09 19:06:47,522 - INFO - Progress: 292/363 (80.4%) - Success: 292, Failed: 0
+2025-08-09 19:06:47,522 - INFO - Processing: ROKU_INC/2022/output_0001428439_22_000032.txt
+2025-08-09 19:07:03,227 - INFO - Progress: 293/363 (80.7%) - Success: 293, Failed: 0
+2025-08-09 19:07:03,227 - INFO - Processing: ROKU_INC/2022/output_0001428439_22_000033.txt
+2025-08-09 19:07:20,710 - INFO - Progress: 294/363 (81.0%) - Success: 294, Failed: 0
+2025-08-09 19:07:20,710 - INFO - Processing: ROKU_INC/2022/output_0001428439_22_000038.txt
+2025-08-09 19:07:42,890 - INFO - Progress: 295/363 (81.3%) - Success: 295, Failed: 0
+2025-08-09 19:07:42,891 - INFO - Processing: ROKU_INC/2023/output_0001193125_23_063903.txt
+2025-08-09 19:08:02,886 - INFO - Progress: 296/363 (81.5%) - Success: 296, Failed: 0
+2025-08-09 19:08:02,886 - INFO - Processing: ROKU_INC/2023/output_0001193125_23_084450.txt
+2025-08-09 19:08:24,719 - INFO - Progress: 297/363 (81.8%) - Success: 297, Failed: 0
+2025-08-09 19:08:24,720 - INFO - Processing: ROKU_INC/2023/output_0001193125_23_228986.txt
+2025-08-09 19:08:49,115 - INFO - Progress: 298/363 (82.1%) - Success: 298, Failed: 0
+2025-08-09 19:08:49,115 - INFO - Processing: ROKU_INC/2023/output_0001428439_23_000003.txt
+2025-08-09 19:09:18,069 - INFO - Progress: 299/363 (82.4%) - Success: 299, Failed: 0
+2025-08-09 19:09:18,069 - INFO - Processing: ROKU_INC/2023/output_0001428439_23_000010.txt
+2025-08-09 19:09:35,792 - INFO - Progress: 300/363 (82.6%) - Success: 300, Failed: 0
+2025-08-09 19:09:35,792 - INFO - Processing: ROKU_INC/2023/output_0001428439_23_000013.txt
+2025-08-09 19:09:54,130 - INFO - Progress: 301/363 (82.9%) - Success: 301, Failed: 0
+2025-08-09 19:09:54,130 - INFO - Processing: ROKU_INC/2023/output_0001428439_23_000020.txt
+2025-08-09 19:10:14,102 - INFO - Progress: 302/363 (83.2%) - Success: 302, Failed: 0
+2025-08-09 19:10:14,102 - INFO - Processing: ROKU_INC/2023/output_0001428439_23_000024.txt
+2025-08-09 19:10:36,154 - INFO - Progress: 303/363 (83.5%) - Success: 303, Failed: 0
+2025-08-09 19:10:36,154 - INFO - Processing: ROKU_INC/2023/output_0001428439_23_000032.txt
+2025-08-09 19:10:51,891 - INFO - Progress: 304/363 (83.7%) - Success: 304, Failed: 0
+2025-08-09 19:10:51,891 - INFO - Processing: ROKU_INC/2023/output_0001428439_23_000037.txt
+2025-08-09 19:11:16,535 - INFO - Progress: 305/363 (84.0%) - Success: 305, Failed: 0
+2025-08-09 19:11:16,535 - INFO - Processing: ROKU_INC/2024/output_0001140361_24_041308.txt
+2025-08-09 19:11:31,976 - INFO - Progress: 306/363 (84.3%) - Success: 306, Failed: 0
+2025-08-09 19:11:31,976 - INFO - Processing: ROKU_INC/2024/output_0001428439_24_000007.txt
+2025-08-09 19:11:55,542 - INFO - Progress: 307/363 (84.6%) - Success: 307, Failed: 0
+2025-08-09 19:11:55,542 - INFO - Processing: ROKU_INC/2024/output_0001428439_24_000016.txt
+2025-08-09 19:12:12,720 - INFO - Progress: 308/363 (84.8%) - Success: 308, Failed: 0
+2025-08-09 19:12:12,720 - INFO - Processing: ROKU_INC/2024/output_0001428439_24_000027.txt
+2025-08-09 19:12:29,502 - INFO - Progress: 309/363 (85.1%) - Success: 309, Failed: 0
+2025-08-09 19:12:29,502 - INFO - Processing: ROKU_INC/2024/output_0001428439_24_000031.txt
+2025-08-09 19:13:07,125 - INFO - Progress: 310/363 (85.4%) - Success: 310, Failed: 0
+2025-08-09 19:13:07,125 - INFO - Processing: ROKU_INC/2024/output_0001428439_24_000036.txt
+2025-08-09 19:13:28,238 - INFO - Progress: 311/363 (85.7%) - Success: 311, Failed: 0
+2025-08-09 19:13:28,238 - INFO - Processing: ROKU_INC/2024/output_0001428439_24_000040.txt
+2025-08-09 19:14:04,447 - INFO - Progress: 312/363 (86.0%) - Success: 312, Failed: 0
+2025-08-09 19:14:04,447 - INFO - Processing: ROKU_INC/2025/output_0001140361_25_000376.txt
+2025-08-09 19:14:20,479 - INFO - Progress: 313/363 (86.2%) - Success: 313, Failed: 0
+2025-08-09 19:14:20,479 - INFO - Processing: ROKU_INC/2025/output_0001140361_25_010875.txt
+2025-08-09 19:14:33,832 - INFO - Progress: 314/363 (86.5%) - Success: 314, Failed: 0
+2025-08-09 19:14:33,832 - INFO - Processing: ROKU_INC/2025/output_0001428439_25_000008.txt
+2025-08-09 19:14:48,547 - INFO - Progress: 315/363 (86.8%) - Success: 315, Failed: 0
+2025-08-09 19:14:48,547 - INFO - Processing: ROKU_INC/2025/output_0001428439_25_000015.txt
+2025-08-09 19:15:03,831 - INFO - Progress: 316/363 (87.1%) - Success: 316, Failed: 0
+2025-08-09 19:15:03,831 - INFO - Processing: ROKU_INC/2025/output_0001428439_25_000019.txt
+2025-08-09 19:15:20,161 - INFO - Progress: 317/363 (87.3%) - Success: 317, Failed: 0
+2025-08-09 19:15:20,162 - INFO - Processing: ROKU_INC/2025/output_0001428439_25_000023.txt
+2025-08-09 19:15:35,888 - INFO - Progress: 318/363 (87.6%) - Success: 318, Failed: 0
+2025-08-09 19:15:35,888 - INFO - Processing: ROKU_INC/2025/output_0001428439_25_000035.txt
+2025-08-09 19:15:59,477 - INFO - Progress: 319/363 (87.9%) - Success: 319, Failed: 0
+2025-08-09 19:15:59,477 - INFO - Processing: Zoom_Communications_Inc/2020/output_0001585521_20_000231.txt
+2025-08-09 19:16:29,517 - INFO - Progress: 320/363 (88.2%) - Success: 320, Failed: 0
+2025-08-09 19:16:29,517 - INFO - Processing: Zoom_Communications_Inc/2020/output_0001585521_20_000233.txt
+2025-08-09 19:16:50,198 - INFO - Progress: 321/363 (88.4%) - Success: 321, Failed: 0
+2025-08-09 19:16:50,198 - INFO - Processing: Zoom_Communications_Inc/2020/output_0001585521_20_000280.txt
+2025-08-09 19:17:11,588 - INFO - Progress: 322/363 (88.7%) - Success: 322, Failed: 0
+2025-08-09 19:17:11,588 - INFO - Processing: Zoom_Communications_Inc/2020/output_0001585521_20_000294.txt
+2025-08-09 19:17:34,087 - INFO - Progress: 323/363 (89.0%) - Success: 323, Failed: 0
+2025-08-09 19:17:34,087 - INFO - Processing: Zoom_Communications_Inc/2020/output_0001585521_20_000307.txt
+2025-08-09 19:17:51,568 - INFO - Progress: 324/363 (89.3%) - Success: 324, Failed: 0
+2025-08-09 19:17:51,568 - INFO - Processing: Zoom_Communications_Inc/2021/output_0001193125_21_008156.txt
+2025-08-09 19:18:10,049 - INFO - Progress: 325/363 (89.5%) - Success: 325, Failed: 0
+2025-08-09 19:18:10,049 - INFO - Processing: Zoom_Communications_Inc/2021/output_0001193125_21_218004.txt
+2025-08-09 19:18:34,727 - INFO - Progress: 326/363 (89.8%) - Success: 326, Failed: 0
+2025-08-09 19:18:34,727 - INFO - Processing: Zoom_Communications_Inc/2021/output_0001193125_21_288643.txt
+2025-08-09 19:19:06,393 - INFO - Progress: 327/363 (90.1%) - Success: 327, Failed: 0
+2025-08-09 19:19:06,393 - INFO - Processing: Zoom_Communications_Inc/2021/output_0001585521_21_000011.txt
+2025-08-09 19:19:25,468 - INFO - Progress: 328/363 (90.4%) - Success: 328, Failed: 0
+2025-08-09 19:19:25,469 - INFO - Processing: Zoom_Communications_Inc/2021/output_0001585521_21_000123.txt
+2025-08-09 19:19:41,486 - INFO - Progress: 329/363 (90.6%) - Success: 329, Failed: 0
+2025-08-09 19:19:41,486 - INFO - Processing: Zoom_Communications_Inc/2021/output_0001585521_21_000178.txt
+2025-08-09 19:19:58,636 - INFO - Progress: 330/363 (90.9%) - Success: 330, Failed: 0
+2025-08-09 19:19:58,636 - INFO - Processing: Zoom_Communications_Inc/2021/output_0001585521_21_000230.txt
+2025-08-09 19:20:00,583 - INFO - Progress: 331/363 (91.2%) - Success: 330, Failed: 1
+2025-08-09 19:20:00,583 - INFO - Processing: Zoom_Communications_Inc/2021/output_0001585521_21_000292.txt
+2025-08-09 19:20:17,486 - INFO - Progress: 332/363 (91.5%) - Success: 331, Failed: 1
+2025-08-09 19:20:17,486 - INFO - Processing: Zoom_Communications_Inc/2022/output_0001193125_22_168345.txt
+2025-08-09 19:20:34,398 - INFO - Progress: 333/363 (91.7%) - Success: 332, Failed: 1
+2025-08-09 19:20:34,398 - INFO - Processing: Zoom_Communications_Inc/2022/output_0001585521_22_000024.txt
+2025-08-09 19:20:55,537 - INFO - Progress: 334/363 (92.0%) - Success: 333, Failed: 1
+2025-08-09 19:20:55,537 - INFO - Processing: Zoom_Communications_Inc/2022/output_0001585521_22_000026.txt
+2025-08-09 19:21:19,645 - INFO - Progress: 335/363 (92.3%) - Success: 334, Failed: 1
+2025-08-09 19:21:19,645 - INFO - Processing: Zoom_Communications_Inc/2022/output_0001585521_22_000101.txt
+2025-08-09 19:21:39,899 - INFO - Progress: 336/363 (92.6%) - Success: 335, Failed: 1
+2025-08-09 19:21:39,899 - INFO - Processing: Zoom_Communications_Inc/2022/output_0001585521_22_000139.txt
+2025-08-09 19:21:59,830 - INFO - Progress: 337/363 (92.8%) - Success: 336, Failed: 1
+2025-08-09 19:21:59,830 - INFO - Processing: Zoom_Communications_Inc/2022/output_0001585521_22_000177.txt
+2025-08-09 19:22:19,216 - INFO - Progress: 338/363 (93.1%) - Success: 337, Failed: 1
+2025-08-09 19:22:19,216 - INFO - Processing: Zoom_Communications_Inc/2022/output_0001585521_22_000209.txt
+2025-08-09 19:22:39,859 - INFO - Progress: 339/363 (93.4%) - Success: 338, Failed: 1
+2025-08-09 19:22:39,859 - INFO - Processing: Zoom_Communications_Inc/2023/output_0001193125_23_026913.txt
+2025-08-09 19:23:07,920 - INFO - Progress: 340/363 (93.7%) - Success: 339, Failed: 1
+2025-08-09 19:23:07,921 - INFO - Processing: Zoom_Communications_Inc/2023/output_0001193125_23_058354.txt
+2025-08-09 19:23:35,699 - INFO - Progress: 341/363 (93.9%) - Success: 340, Failed: 1
+2025-08-09 19:23:35,699 - INFO - Processing: Zoom_Communications_Inc/2023/output_0001193125_23_191465.txt
+2025-08-09 19:23:47,353 - INFO - Progress: 342/363 (94.2%) - Success: 341, Failed: 1
+2025-08-09 19:23:47,353 - INFO - Processing: Zoom_Communications_Inc/2023/output_0001585521_23_000002.txt
+2025-08-09 19:24:13,640 - INFO - Progress: 343/363 (94.5%) - Success: 342, Failed: 1
+2025-08-09 19:24:13,640 - INFO - Processing: Zoom_Communications_Inc/2023/output_0001585521_23_000023.txt
+2025-08-09 19:24:31,077 - INFO - Progress: 344/363 (94.8%) - Success: 343, Failed: 1
+2025-08-09 19:24:31,077 - INFO - Processing: Zoom_Communications_Inc/2023/output_0001585521_23_000025.txt
+2025-08-09 19:24:43,381 - INFO - Progress: 345/363 (95.0%) - Success: 344, Failed: 1
+2025-08-09 19:24:43,381 - INFO - Processing: Zoom_Communications_Inc/2023/output_0001585521_23_000031.txt
+2025-08-09 19:25:00,454 - INFO - Progress: 346/363 (95.3%) - Success: 345, Failed: 1
+2025-08-09 19:25:00,454 - INFO - Processing: Zoom_Communications_Inc/2023/output_0001585521_23_000125.txt
+2025-08-09 19:25:23,428 - INFO - Progress: 347/363 (95.6%) - Success: 346, Failed: 1
+2025-08-09 19:25:23,428 - INFO - Processing: Zoom_Communications_Inc/2023/output_0001585521_23_000164.txt
+2025-08-09 19:25:37,829 - INFO - Progress: 348/363 (95.9%) - Success: 347, Failed: 1
+2025-08-09 19:25:37,829 - INFO - Processing: Zoom_Communications_Inc/2023/output_0001585521_23_000191.txt
+2025-08-09 19:25:57,548 - INFO - Progress: 349/363 (96.1%) - Success: 348, Failed: 1
+2025-08-09 19:25:57,548 - INFO - Processing: Zoom_Communications_Inc/2023/output_0001585521_23_000246.txt
+2025-08-09 19:26:21,816 - INFO - Progress: 350/363 (96.4%) - Success: 349, Failed: 1
+2025-08-09 19:26:21,816 - INFO - Processing: Zoom_Communications_Inc/2024/output_0001193125_24_207181.txt
+2025-08-09 19:26:40,643 - INFO - Progress: 351/363 (96.7%) - Success: 350, Failed: 1
+2025-08-09 19:26:40,643 - INFO - Processing: Zoom_Communications_Inc/2024/output_0001193125_24_229587.txt
+2025-08-09 19:27:01,228 - INFO - Progress: 352/363 (97.0%) - Success: 351, Failed: 1
+2025-08-09 19:27:01,228 - INFO - Processing: Zoom_Communications_Inc/2024/output_0001585521_24_000025.txt
+2025-08-09 19:27:27,101 - INFO - Progress: 353/363 (97.2%) - Success: 352, Failed: 1
+2025-08-09 19:27:27,101 - INFO - Processing: Zoom_Communications_Inc/2024/output_0001585521_24_000091.txt
+2025-08-09 19:27:43,808 - INFO - Progress: 354/363 (97.5%) - Success: 353, Failed: 1
+2025-08-09 19:27:43,808 - INFO - Processing: Zoom_Communications_Inc/2024/output_0001585521_24_000128.txt
+2025-08-09 19:28:00,156 - INFO - Progress: 355/363 (97.8%) - Success: 354, Failed: 1
+2025-08-09 19:28:00,156 - INFO - Processing: Zoom_Communications_Inc/2024/output_0001585521_24_000178.txt
+2025-08-09 19:28:18,581 - INFO - Progress: 356/363 (98.1%) - Success: 355, Failed: 1
+2025-08-09 19:28:18,581 - INFO - Processing: Zoom_Communications_Inc/2024/output_0001585521_24_000257.txt
+2025-08-09 19:29:00,977 - INFO - Progress: 357/363 (98.3%) - Success: 356, Failed: 1
+2025-08-09 19:29:00,977 - INFO - Processing: Zoom_Communications_Inc/2025/output_0001193125_25_081979.txt
+2025-08-09 19:29:22,045 - INFO - Progress: 358/363 (98.6%) - Success: 357, Failed: 1
+2025-08-09 19:29:22,045 - INFO - Processing: Zoom_Communications_Inc/2025/output_0001193125_25_096694.txt
+2025-08-09 19:29:39,607 - INFO - Progress: 359/363 (98.9%) - Success: 358, Failed: 1
+2025-08-09 19:29:39,607 - INFO - Processing: Zoom_Communications_Inc/2025/output_0001193125_25_142800.txt
+2025-08-09 19:30:02,117 - INFO - Progress: 360/363 (99.2%) - Success: 359, Failed: 1
+2025-08-09 19:30:02,117 - INFO - Processing: Zoom_Communications_Inc/2025/output_0001585521_25_000027.txt
+2025-08-09 19:30:21,523 - INFO - Processing: Zoom_Communications_Inc/2025/output_0001585521_25_000087.txt
+2025-08-09 19:30:21,523 - INFO - Progress: 361/363 (99.4%) - Success: 360, Failed: 1
+2025-08-09 19:30:39,058 - INFO - Progress: 362/363 (99.7%) - Success: 361, Failed: 1
+2025-08-09 19:30:56,913 - INFO - Progress: 363/363 (100.0%) - Success: 362, Failed: 1
+2025-08-09 19:30:56,920 - INFO - ============================================================
+2025-08-09 19:30:56,920 - INFO - PROCESSING COMPLETE - FINAL REPORT
+2025-08-09 19:30:56,920 - INFO - ============================================================
+2025-08-09 19:30:56,921 - INFO - Total processing time: 2:13:07.810486
+2025-08-09 19:30:56,921 - INFO - Total files found: 533
+2025-08-09 19:30:56,921 - INFO - Files processed successfully: 362
+2025-08-09 19:30:56,921 - INFO - Files failed: 1
+2025-08-09 19:30:56,921 - INFO - Files skipped (already processed): 170
+2025-08-09 19:30:56,921 - INFO - Companies processed: 7
+2025-08-09 19:30:56,922 - INFO -   JOHNSON_&_JOHNSON: 1/1 files
+2025-08-09 19:30:56,922 - INFO -   JPMORGAN_CHASE_&_CO: 131/131 files
+2025-08-09 19:30:56,922 - INFO -   MICROSOFT_CORP: 47/47 files
+2025-08-09 19:30:56,922 - INFO -   Meta_Platforms_Inc: 49/49 files
+2025-08-09 19:30:56,922 - INFO -   NVIDIA_CORP: 48/48 files
+2025-08-09 19:30:56,922 - INFO -   ROKU_INC: 44/44 files
+2025-08-09 19:30:56,922 - INFO -   Zoom_Communications_Inc: 42/43 files
+2025-08-09 19:30:56,923 - INFO - 
+FAILED FILES:
+2025-08-09 19:30:56,923 - ERROR -   C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies\Zoom_Communications_Inc\2021\8-K\output_0001585521_21_000178.txt: Error processing with Gemini: 500 An internal error has occurred. Please retry or report in https://developers.generativeai.google/guide/troubleshooting
+2025-08-09 19:30:56,929 - INFO - Detailed report saved to: 8k_processing_report_20250809_193056.json

@@ -1,0 +1,84 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 Form 8-K CURRENT REPORT Pursuant to Section
+13 or 15(d) of the Securities Exchange Act of 1934 Date of Report (Date of earliest event reported): June 10, 2021 
+ROKU, INC. (Exact name of Registrant as Specified in Its Charter)                                                  
+                                                                                                  
+  Delaware                           001-38211                  26-2087865                        
+  (State or Other Jurisdiction of    -Commission File Number    -IRS Employer Identification No.  
+  Incorporation)                                                                                  
+                                                                                                  
+                                                         
+  1155 Coleman Avenue San Jose, California        95110  
+  (Address of Principal Executive Offices)    -Zip Code  
+                                                         
+(408) 556-9040 (Registrant’s Telephone Number, Including Area Code) Not Applicable (Former Name or Former Address, 
+if Changed Since Last Report) Check the appropriate box below if the Form 8-K filing is intended to simultaneously 
+satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions    
+A.2. below):                                                                                                       
+                                                                                            
+  ☐  Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)  
+                                                                                            
+                                                                                             
+  ☐  Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  
+                                                                                             
+                                                                                                             
+  ☐  Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  
+                                                                                                             
+                                                                                                             
+  ☐  Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  
+                                                                                                             
+Securities registered pursuant to Section 12(b) of the Act:                                                        
+                                                                                                             
+  Title of each class                        Trading Symbol(s)    Name of each exchange on which registered  
+  Class A Common Stock, $0.0001 par value    “ROKU”               The Nasdaq Global Select Market            
+                                                                                                             
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the          
+Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 
+of this chapter). Emerging growth company ☐ If an emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying with any new or revised financial accounting   
+standards provided pursuant to Section 13(a) of the Exchange Act. ☐                                                
+                                                                   
+  Item 5.07  Submission of Matters to a Vote of Security Holders.  
+                                                                   
+On June 10, 2021, Roku, Inc. (“Roku”) held its annual meeting of stockholders via a live webcast (the “Annual      
+Meeting”). At the Annual Meeting, Roku’s stockholders voted on three proposals, each of which is described in more 
+detail in Roku’s definitive proxy statement filed with the U.S. Securities and Exchange Commission on April 28,    
+2021 (the “Proxy Statement”). The following is a brief description of each matter voted on and the certified       
+results, including the number of votes cast for and against each matter, and if applicable, the number of          
+abstentions and broker non-voteswith respect to each matter.                                                       
+                                                                                                                   
+      The Class I director nominees were elected to serve until Roku’s 2024 annual meeting of stockholders and in  
+  1.  each case until their successors are elected and qualified or until their earlier death, resignation or      
+      removal. The voting results were as follows:                                                                 
+                                                                                                                   
+                                                                                                             
+  Director Name             Votes For    Votes Withheld    Broker Non-Votes    Percentage of Votes in Favor  
+  Ravi Ahuja              214,062,339        23,906,701          23,752,595    90.0%                         
+  Mai Fyfield             217,933,224        20,035,816          23,752,595    91.6%                         
+  Laurie Simon Hodrick    237,740,662           228,378          23,752,595    99.9%                         
+                                                                                                             
+                                                                                                                   
+  2.  Stockholders approved, on an advisory basis, Roku’s executive compensation as described in the Proxy         
+      Statement. The voting results were as follows:                                                               
+                                                                                                                   
+                                                                                                   
+  Votes For      Votes Against    Abstentions    Broker Non-Votes    Percentage of Votes in Favor  
+  213,493,161       24,355,473        120,406          23,752,595    89.7%                         
+                                                                                                   
+                                                                                                                   
+      Stockholders ratified the appointment of Deloitte & Touche LLP as Roku’s independent registered accounting   
+  3.  firm for the fiscal year ending December 31, 2021. The voting results were as follows:                       
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
+                                                                                                                   
+                                                                               
+  Votes For      Votes Against    Abstentions    Percentage of Votes in Favor  
+  261,046,968          512,259        162,408    99.7%                         
+                                                                               
+SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this
+report to be signed on its behalf by the undersigned hereunto duly authorized.                                     
+                                                                                      
+  Dated: June 11, 2021         Roku, Inc.                                             
+ ──────────────────────────────────────────────────────────────────────────────────── 
+                          By:              /s/ Stephen H. Kay                         
+                                           Stephen H. Kay                             
+                                           Senior Vice President and General Counsel  
+                                                                                      

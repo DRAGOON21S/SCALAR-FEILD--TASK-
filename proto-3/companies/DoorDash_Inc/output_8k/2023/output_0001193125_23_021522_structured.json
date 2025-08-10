@@ -1,0 +1,31 @@
+{
+  "DoorDash, Inc.": {
+    "2023": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.03 - Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year": {
+              "content": "On January 30, 2023, the Board of Directors (the “Board”) of DoorDash, Inc. (the “Company”) approved the Company’s Amended and Restated Bylaws (the “Amended Bylaws”), effective January 30, 2023.",
+              "subsections": {
+                "delaware_law_alignment": "The Amended Bylaws incorporate certain amendments to align the Amended Bylaws with changes to the Delaware General Corporation Law and the laws of the state of Delaware, including: provisions relating to the delivery of notices of stockholder meetings and communications regarding adjourned stockholder meetings; provisions related to notice of an adjourned stockholder meeting (particularly in the event of a technical failure at a virtual meeting); and provisions regarding the preparation of a stockholder list and provision of such list at the annual meeting of stockholders.",
+                "other_amendments": "The Amended Bylaws also incorporate certain other amendments, including: changing certain provisions relating to stockholder nominations for election as a director to address the universal proxy rules adopted by the Securities and Exchange Commission; adjusting language concerning delegation of authority to appoint officers and authority of officers; clarifying the Company’s exclusive forum provisions; and making certain other clarifying, conforming and ministerial changes.",
+                "qualification_statement": "The foregoing description of the Amended Bylaws is qualified in its entirety by reference to the full text of the Amended Bylaws filed as Exhibit 3.1 to this Current Report on Form 8-K, which is incorporated by reference into this Item 5.03."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits:",
+              "subsections": {
+                "exhibit_list": "Exhibit No. 3.1: Amended and Restated Bylaws of DoorDash, Inc.\nExhibit No. 104: Cover Page Interactive Data File (embedded within the Inline XBRL document)"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

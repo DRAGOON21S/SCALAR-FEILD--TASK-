@@ -1,0 +1,31 @@
+{
+  "JPMorgan Chase & Co.": {
+    "2023": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "On October 23, 2023, JPMorgan Chase & Co. closed public offerings of (i) $2,000,000,000 aggregate principal amount of Fixed-to-FloatingRate Notes due 2027 (the “2027 Notes”) and (ii) $2,250,000,000 aggregate principal amount of Fixed-to-FloatingRate Notes due 2029 (the “2029 Notes”) and $3,000,000,000 aggregate principal amount of Fixed-to-FloatingRate Notes due 2034 (the “2034 Notes” and, together with the 2027 Notes and the 2029 Notes, the “Notes”). The Notes were registered under the Securities Act of 1933, as amended, pursuant to a registration statement on Form S-3(File No. 333-263304),as amended. In connection with these offerings, the legal opinion as to the legality of the 2027 Notes is being filed as Exhibit 5.1 to this report and the legal opinion as to the legality of the 2029 Notes and 2034 Notes is being filed as Exhibit 5.2 to this report.",
+              "subsections": {
+                "offerings_closed": "On October 23, 2023, JPMorgan Chase & Co. closed public offerings of (i) $2,000,000,000 aggregate principal amount of Fixed-to-FloatingRate Notes due 2027 (the “2027 Notes”) and (ii) $2,250,000,000 aggregate principal amount of Fixed-to-FloatingRate Notes due 2029 (the “2029 Notes”) and $3,000,000,000 aggregate principal amount of Fixed-to-FloatingRate Notes due 2034 (the “2034 Notes”).",
+                "registration_details": "The Notes were registered under the Securities Act of 1933, as amended, pursuant to a registration statement on Form S-3(File No. 333-263304),as amended.",
+                "related_exhibits": "In connection with these offerings, the legal opinion as to the legality of the 2027 Notes is being filed as Exhibit 5.1 to this report and the legal opinion as to the legality of the 2029 Notes and 2034 Notes is being filed as Exhibit 5.2 to this report."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits",
+              "subsections": {
+                "exhibits_list": "5.1 Opinion of Simpson Thacher & Bartlett LLP as to the legality of the 2027 Notes.\n5.2 Opinion of Simpson Thacher & Bartlett LLP as to the legality of the 2029 Notes and 2034 Notes.\n23.1 Consent of Simpson Thacher & Bartlett LLP (included as part of Exhibit 5.1).\n23.2 Consent of Simpson Thacher & Bartlett LLP (included as part of Exhibit 5.2).\n101 Pursuant to Rule 406 of Regulation S-T, the cover page is formatted in Inline XBRL (Inline eXtensible Business Reporting Language).\n104 Cover Page Interactive Data File (embedded within the Inline XBRL document and included in Exhibit 101)."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

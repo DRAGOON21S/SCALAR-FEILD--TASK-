@@ -1,0 +1,30 @@
+{
+  "Johnson & Johnson": {
+    "2025": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "On February 20, 2025, Johnson & Johnson (the “Company”) completed the previously announced public offerings of several series of notes under the Company’s Registration Statement on Form S-3, Reg. No. 333-269836.",
+              "subsections": {
+                "notes_offering_details": "The completed public offerings consist of: (1) $750,000,000 aggregate principal amount of 4.500% Notes due 2027 (the “2027 Notes”); (2) $750,000,000 aggregate principal amount of 4.550% Notes due 2028 (the “2028 Notes”); (3) $1,000,000,000 aggregate principal amount of 4.700% Notes due 2030 (the “2030 Notes”); (4) $1,250,000,000 aggregate principal amount of 4.850% Notes due 2032 (the “2032 Notes”); and (5) $1,250,000,000 aggregate principal amount of 5.000% Notes due 2035 (the “2035 Notes”).",
+                "underwriting_agreement": "In connection with the offering, the Company entered into an underwriting agreement on February 18, 2025 (filed as Exhibit 1.1), with Citigroup Global Markets Inc., BofA Securities, Inc. and J.P. Morgan Securities LLC, as representatives of the several Underwriters named therein. The Company agreed to issue and sell the Notes to the Underwriters. The Underwriting Agreement incorporates the Underwriting Agreement Standard Provisions (Debt), dated February 18, 2025, which is filed as Exhibit 1.2."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits.",
+              "subsections": {
+                "exhibits_list": "Exhibit 1.1: Underwriting Agreement, dated February 18, 2025, among Johnson & Johnson and Citigroup Global Markets Inc., BofA Securities, Inc., and J.P. Morgan Securities LLC, as representatives of the several Underwriters named therein.\nExhibit 1.2: Underwriting Agreement Standard Provisions (Debt) dated February 18, 2025.\nExhibit 4.1: Company Order establishing the terms of the Notes.\nExhibit 4.2: Form of 4.500% Notes due 2027.\nExhibit 4.3: Form of 4.550% Notes due 2028.\nExhibit 4.4: Form of 4.700% Notes due 2030.\nExhibit 4.5: Form of 4.850% Notes due 2032.\nExhibit 4.6: Form of 5.000% Notes due 2035.\nExhibit 5.1: Opinion of Weil, Gotshal & Manges LLP.\nExhibit 5.2: Opinion of Troutman Pepper Locke LLP.\nExhibit 23.1: Consent of Weil, Gotshal & Manges LLP (included in Exhibit 5.1 of this Current Report on Form 8-K).\nExhibit 23.2: Consent of Troutman Pepper Locke LLP (included in Exhibit 5.2 of this Current Report on Form 8-K).\nExhibit 104: The cover page of this Current Report on Form 8-K, formatted in Inline XBRL."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

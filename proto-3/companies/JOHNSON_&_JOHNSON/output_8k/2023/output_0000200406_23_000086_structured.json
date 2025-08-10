@@ -1,0 +1,27 @@
+{
+  "Johnson & Johnson": {
+    "2023": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 2 - Financial Information": {
+          "ITEMS": {
+            "Item 2.01 - Completion of Acquisition or Disposition of Assets": {
+              "content": "On August 23, 2023, Johnson & Johnson completed its previously announced split-off exchange offer of 1,533,830,450 shares of common stock of Kenvue Inc. (“Kenvue”), pursuant to which Johnson & Johnson accepted an aggregate of 190,955,435 shares of Johnson & Johnson common stock from its shareholders in exchange for 1,533,830,450 shares of Kenvue common stock owned by Johnson & Johnson.",
+              "subsections": {}
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits.",
+              "subsections": {
+                "Exhibit 104": "The cover page from this Current Report on Form 8-K, formatted in Inline XBRL."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

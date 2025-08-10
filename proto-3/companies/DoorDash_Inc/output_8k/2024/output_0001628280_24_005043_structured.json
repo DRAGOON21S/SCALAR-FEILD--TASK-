@@ -1,0 +1,48 @@
+{
+  "DOORDASH, INC.": {
+    "2024": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 2 - Financial Information": {
+          "ITEMS": {
+            "Item 2.02 - Results of Operations and Financial Condition": {
+              "content": "On February 15, 2024, DoorDash, Inc. (\"DoorDash\" or the “Company”) issued a press release announcing its financial results for the quarter ended December 31, 2023. DoorDash also issued a Letter to Shareholders to provide additional information about DoorDash and its performance. Copies of the press release and Letter to Shareholders are attached as Exhibit 99.1 and Exhibit 99.2, respectively, to this Current Report on Form 8-K and are incorporated herein by reference.",
+              "subsections": {}
+            }
+          }
+        },
+        "Section 7 - Regulation FD": {
+          "ITEMS": {
+            "Item 7.01 - Regulation FD Disclosure": {
+              "content": "On February 15, 2024, DoorDash posted supplemental investor materials on the investor relations section of its website (ir.doordash.com). DoorDash announces material information to the public about DoorDash, its products and services, and other matters through a variety of means, including filings with the Securities and Exchange Commission, press releases, public conference calls, webcasts, the investor relations section of its website (ir.doordash.com), its blog (doordash.news) and its X account (@DoorDash) in order to achieve broad, non-exclusionary distribution of information to the public and for complying with its disclosure obligations under Regulation FD.",
+              "subsections": {
+                "filing_status_disclaimer": "The information in Item 2.02 and Item 7.01 of this Current Report on Form 8-K, and Exhibit 99.1 and Exhibit 99.2 attached hereto, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”) or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing."
+              }
+            }
+          }
+        },
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "On February 15, 2024, DoorDash announced the authorization of a share repurchase program for the repurchase of shares of its Class A common stock, in an aggregate amount of up to $1.1 billion.",
+              "subsections": {
+                "program_details": "This program is in addition to the prior repurchase program for the repurchase of $750 million shares of Class A common stock, which was completed in the fourth quarter of fiscal 2023. The Company’s board of directors expects to assess any future repurchase programs based on its balance sheet, expected free cash flow, and alternative investment opportunities at the time. Any future authorization will be approved and executed consistent with the the Company’s capital allocation strategy.",
+                "repurchase_mechanics": "Repurchases may be made from time to time through open market repurchases or through privately negotiated transactions subject to market conditions, applicable legal requirements and other relevant factors. Open market repurchases may be structured to occur in accordance with the requirements of Rule 10b-18 of the Exchange Act. DoorDash may also, from time to time, enter into Rule 10b5-1 plans to facilitate repurchases of its shares under this authorization. The repurchase program does not obligate the Company to acquire any particular amount of its Class A common stock, and it may be suspended at any time at the Company’s discretion. The timing and actual number of shares repurchased may depend on a variety of factors, including price, general business and market conditions, and alternative investment opportunities."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits.",
+              "subsections": {
+                "exhibit_list": "Exhibit No. 99.1: Press Release dated February 15, 2024. Exhibit No. 99.2: Letter to Shareholders dated February 15, 2024. Exhibit No. 104: Cover Page Interactive Data File (embedded within the Inline XBRL document)."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

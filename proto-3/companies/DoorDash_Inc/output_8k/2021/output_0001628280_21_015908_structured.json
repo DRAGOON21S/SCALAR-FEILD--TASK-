@@ -1,0 +1,29 @@
+{
+  "DoorDash, Inc.": {
+    "2021": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.03 - Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year": {
+              "content": "On July 30, 2021, the Board of Directors of DoorDash, Inc. (the “Company”) approved amendments to the Amended and Restated Bylaws (the “Bylaws”) of the Company to update the duties and responsibilities of the Company’s officers, as well as to clarify certain procedural matters.",
+              "subsections": {
+                "summary_qualification": "The foregoing summary is qualified in its entirety by reference to the full text of the Bylaws, a copy of which is included as Exhibit 3.1 to this report and incorporated by reference."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits.",
+              "subsections": {
+                "exhibit_list": "Exhibit 3.1: Amended and Restated Bylaws of DoorDash, Inc., dated July 30, 2021. Exhibit 104: Cover Page Interactive Data File (embedded within the Inline XBRL document)."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

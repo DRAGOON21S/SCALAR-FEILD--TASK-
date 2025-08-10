@@ -1,0 +1,348 @@
+2025-08-09 15:39:54,976 - INFO - Scanning for 8-K files in: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies
+2025-08-09 15:39:54,977 - INFO - Processing company: Apple_Inc
+2025-08-09 15:39:54,979 - INFO - Processing company: DoorDash_Inc
+2025-08-09 15:39:54,983 - INFO - Processing company: JOHNSON_&_JOHNSON
+2025-08-09 15:39:54,986 - INFO - Processing company: JPMORGAN_CHASE_&_CO
+2025-08-09 15:39:54,991 - INFO - Processing company: Meta_Platforms_Inc
+2025-08-09 15:39:54,994 - INFO - Processing company: MICROSOFT_CORP
+2025-08-09 15:39:54,998 - INFO - Processing company: NVIDIA_CORP
+2025-08-09 15:39:55,001 - INFO - Processing company: ROKU_INC
+2025-08-09 15:39:55,005 - INFO - Processing company: UNITEDHEALTH_GROUP_INC
+2025-08-09 15:39:55,006 - INFO - Processing company: Zoom_Communications_Inc
+2025-08-09 15:39:55,010 - INFO - Found 533 8-K files to process
+2025-08-09 15:39:55,093 - INFO - Skipping 7 already processed files
+2025-08-09 15:39:55,093 - INFO - Starting processing of 526 files with 2 workers
+2025-08-09 15:39:55,094 - INFO - Processing: Apple_Inc/2020/output_0001193125_20_225672.txt
+2025-08-09 15:39:55,094 - INFO - Processing: Apple_Inc/2021/output_0001193125_21_054710.txt
+2025-08-09 15:40:26,167 - INFO - Progress: 1/526 (0.2%) - Success: 1, Failed: 0
+2025-08-09 15:40:26,167 - INFO - Processing: Apple_Inc/2021/output_0001193125_21_237787.txt
+2025-08-09 15:40:46,577 - INFO - Progress: 2/526 (0.4%) - Success: 2, Failed: 0
+2025-08-09 15:40:46,577 - INFO - Processing: Apple_Inc/2021/output_0001193125_21_328151.txt
+2025-08-09 15:41:36,720 - INFO - Progress: 3/526 (0.6%) - Success: 3, Failed: 0
+2025-08-09 15:41:36,720 - INFO - Processing: Apple_Inc/2022/output_0000320193_22_000006.txt
+2025-08-09 15:41:55,704 - INFO - Progress: 4/526 (0.8%) - Success: 4, Failed: 0
+2025-08-09 15:41:55,704 - INFO - Processing: Apple_Inc/2022/output_0000320193_22_000058.txt
+2025-08-09 15:42:11,571 - INFO - Progress: 5/526 (1.0%) - Success: 5, Failed: 0
+2025-08-09 15:42:11,571 - INFO - Processing: Apple_Inc/2022/output_0000320193_22_000069.txt
+2025-08-09 15:42:29,397 - INFO - Progress: 6/526 (1.1%) - Success: 6, Failed: 0
+2025-08-09 15:42:29,397 - INFO - Processing: Apple_Inc/2022/output_0000320193_22_000107.txt
+2025-08-09 15:42:44,605 - INFO - Progress: 7/526 (1.3%) - Success: 7, Failed: 0
+2025-08-09 15:42:44,605 - INFO - Processing: Apple_Inc/2022/output_0001193125_22_066169.txt
+2025-08-09 15:42:59,142 - INFO - Progress: 8/526 (1.5%) - Success: 8, Failed: 0
+2025-08-09 15:42:59,142 - INFO - Processing: Apple_Inc/2022/output_0001193125_22_214914.txt
+2025-08-09 15:43:37,076 - INFO - Progress: 9/526 (1.7%) - Success: 9, Failed: 0
+2025-08-09 15:43:37,077 - INFO - Processing: Apple_Inc/2022/output_0001193125_22_225365.txt
+2025-08-09 15:43:58,994 - INFO - Progress: 10/526 (1.9%) - Success: 10, Failed: 0
+2025-08-09 15:43:58,995 - INFO - Processing: Apple_Inc/2022/output_0001193125_22_278435.txt
+2025-08-09 15:44:28,321 - INFO - Progress: 11/526 (2.1%) - Success: 11, Failed: 0
+2025-08-09 15:44:28,321 - INFO - Processing: Apple_Inc/2023/output_0000320193_23_000005.txt
+2025-08-09 15:44:45,639 - INFO - Progress: 12/526 (2.3%) - Success: 12, Failed: 0
+2025-08-09 15:44:45,639 - INFO - Processing: Apple_Inc/2023/output_0000320193_23_000063.txt
+2025-08-09 15:45:02,765 - INFO - Progress: 13/526 (2.5%) - Success: 13, Failed: 0
+2025-08-09 15:45:02,765 - INFO - Processing: Apple_Inc/2023/output_0000320193_23_000075.txt
+2025-08-09 15:45:17,791 - INFO - Progress: 14/526 (2.7%) - Success: 14, Failed: 0
+2025-08-09 15:45:17,791 - INFO - Processing: Apple_Inc/2023/output_0000320193_23_000104.txt
+2025-08-09 15:45:36,678 - INFO - Progress: 15/526 (2.9%) - Success: 15, Failed: 0
+2025-08-09 15:45:36,678 - INFO - Processing: Apple_Inc/2023/output_0001140361_23_011192.txt
+2025-08-09 15:45:53,722 - INFO - Progress: 16/526 (3.0%) - Success: 16, Failed: 0
+2025-08-09 15:45:53,722 - INFO - Processing: Apple_Inc/2023/output_0001140361_23_023909.txt
+2025-08-09 15:46:21,492 - INFO - Progress: 17/526 (3.2%) - Success: 17, Failed: 0
+2025-08-09 15:46:21,493 - INFO - Processing: Apple_Inc/2024/output_0000320193_24_000005.txt
+2025-08-09 15:46:48,562 - INFO - Progress: 18/526 (3.4%) - Success: 18, Failed: 0
+2025-08-09 15:46:48,562 - INFO - Processing: Apple_Inc/2024/output_0000320193_24_000067.txt
+2025-08-09 15:47:05,646 - INFO - Progress: 19/526 (3.6%) - Success: 19, Failed: 0
+2025-08-09 15:47:05,646 - INFO - Processing: Apple_Inc/2024/output_0000320193_24_000080.txt
+2025-08-09 15:47:19,073 - INFO - Progress: 20/526 (3.8%) - Success: 20, Failed: 0
+2025-08-09 15:47:19,073 - INFO - Processing: Apple_Inc/2024/output_0000320193_24_000120.txt
+2025-08-09 15:47:35,384 - INFO - Progress: 21/526 (4.0%) - Success: 21, Failed: 0
+2025-08-09 15:47:35,385 - INFO - Processing: Apple_Inc/2024/output_0001140361_24_010155.txt
+2025-08-09 15:47:52,107 - INFO - Progress: 22/526 (4.2%) - Success: 22, Failed: 0
+2025-08-09 15:47:52,108 - INFO - Processing: Apple_Inc/2024/output_0001140361_24_024352.txt
+2025-08-09 15:48:16,834 - INFO - Progress: 23/526 (4.4%) - Success: 23, Failed: 0
+2025-08-09 15:48:16,834 - INFO - Processing: Apple_Inc/2024/output_0001140361_24_038403.txt
+2025-08-09 15:48:38,306 - INFO - Progress: 24/526 (4.6%) - Success: 24, Failed: 0
+2025-08-09 15:48:38,306 - INFO - Processing: Apple_Inc/2024/output_0001140361_24_038601.txt
+2025-08-09 15:48:55,338 - INFO - Processing: Apple_Inc/2024/output_0001140361_24_040659.txt
+2025-08-09 15:48:55,338 - INFO - Progress: 25/526 (4.8%) - Success: 25, Failed: 0
+2025-08-09 15:49:07,708 - INFO - Progress: 26/526 (4.9%) - Success: 26, Failed: 0
+2025-08-09 15:49:07,708 - INFO - Processing: Apple_Inc/2025/output_0000320193_25_000007.txt
+2025-08-09 15:49:27,699 - INFO - Progress: 27/526 (5.1%) - Success: 27, Failed: 0
+2025-08-09 15:49:27,700 - INFO - Processing: Apple_Inc/2025/output_0000320193_25_000055.txt
+2025-08-09 15:49:45,291 - INFO - Progress: 28/526 (5.3%) - Success: 28, Failed: 0
+2025-08-09 15:49:45,291 - INFO - Processing: Apple_Inc/2025/output_0000320193_25_000071.txt
+2025-08-09 15:50:00,534 - INFO - Progress: 29/526 (5.5%) - Success: 29, Failed: 0
+2025-08-09 15:50:00,534 - INFO - Processing: Apple_Inc/2025/output_0001140361_25_000228.txt
+2025-08-09 15:50:18,381 - INFO - Progress: 30/526 (5.7%) - Success: 30, Failed: 0
+2025-08-09 15:50:18,381 - INFO - Processing: Apple_Inc/2025/output_0001140361_25_005876.txt
+2025-08-09 15:50:38,330 - INFO - Progress: 31/526 (5.9%) - Success: 31, Failed: 0
+2025-08-09 15:50:38,330 - INFO - Processing: Apple_Inc/2025/output_0001140361_25_018400.txt
+2025-08-09 15:51:07,376 - INFO - Progress: 32/526 (6.1%) - Success: 32, Failed: 0
+2025-08-09 15:51:07,376 - INFO - Processing: Apple_Inc/2025/output_0001140361_25_025275.txt
+2025-08-09 15:51:38,145 - INFO - Progress: 33/526 (6.3%) - Success: 33, Failed: 0
+2025-08-09 15:51:38,145 - INFO - Processing: Apple_Inc/2025/output_0001140361_25_027340.txt
+2025-08-09 15:51:51,359 - INFO - Progress: 34/526 (6.5%) - Success: 34, Failed: 0
+2025-08-09 15:51:51,359 - INFO - Processing: DoorDash_Inc/2021/output_0001628280_21_003294.txt
+2025-08-09 15:52:05,392 - INFO - Progress: 35/526 (6.7%) - Success: 35, Failed: 0
+2025-08-09 15:52:05,392 - INFO - Processing: DoorDash_Inc/2021/output_0001628280_21_003542.txt
+2025-08-09 15:52:26,806 - INFO - Progress: 36/526 (6.8%) - Success: 36, Failed: 0
+2025-08-09 15:52:26,806 - INFO - Processing: DoorDash_Inc/2021/output_0001628280_21_010151.txt
+2025-08-09 15:52:47,003 - INFO - Progress: 37/526 (7.0%) - Success: 37, Failed: 0
+2025-08-09 15:52:47,003 - INFO - Processing: DoorDash_Inc/2021/output_0001628280_21_011498.txt
+2025-08-09 15:53:10,371 - INFO - Progress: 38/526 (7.2%) - Success: 38, Failed: 0
+2025-08-09 15:53:10,372 - INFO - Processing: DoorDash_Inc/2021/output_0001628280_21_012838.txt
+2025-08-09 15:53:32,115 - INFO - Progress: 39/526 (7.4%) - Success: 39, Failed: 0
+2025-08-09 15:53:32,115 - INFO - Processing: DoorDash_Inc/2021/output_0001628280_21_015908.txt
+2025-08-09 15:54:01,555 - INFO - Progress: 40/526 (7.6%) - Success: 40, Failed: 0
+2025-08-09 15:54:01,555 - INFO - Processing: DoorDash_Inc/2021/output_0001628280_21_016820.txt
+2025-08-09 15:54:19,673 - INFO - Progress: 41/526 (7.8%) - Success: 41, Failed: 0
+2025-08-09 15:54:19,673 - INFO - Processing: DoorDash_Inc/2021/output_0001628280_21_022561.txt
+2025-08-09 15:54:43,889 - INFO - Progress: 42/526 (8.0%) - Success: 42, Failed: 0
+2025-08-09 15:54:43,889 - INFO - Processing: DoorDash_Inc/2021/output_0001628280_21_022563.txt
+2025-08-09 15:55:03,638 - INFO - Progress: 43/526 (8.2%) - Success: 43, Failed: 0
+2025-08-09 15:55:03,638 - INFO - Processing: DoorDash_Inc/2021/output_0001628280_21_023000.txt
+2025-08-09 15:55:28,733 - INFO - Progress: 44/526 (8.4%) - Success: 44, Failed: 0
+2025-08-09 15:55:28,733 - INFO - Processing: DoorDash_Inc/2021/output_0001628280_21_025319.txt
+2025-08-09 15:55:59,748 - INFO - Progress: 45/526 (8.6%) - Success: 45, Failed: 0
+2025-08-09 15:55:59,748 - INFO - Processing: DoorDash_Inc/2022/output_0001193125_22_105587.txt
+2025-08-09 15:56:13,621 - INFO - Progress: 46/526 (8.7%) - Success: 46, Failed: 0
+2025-08-09 15:56:13,622 - INFO - Processing: DoorDash_Inc/2022/output_0001628280_22_001248.txt
+2025-08-09 15:56:59,739 - INFO - Progress: 47/526 (8.9%) - Success: 47, Failed: 0
+2025-08-09 15:56:59,739 - INFO - Processing: DoorDash_Inc/2022/output_0001628280_22_002851.txt
+2025-08-09 15:57:18,991 - INFO - Progress: 48/526 (9.1%) - Success: 48, Failed: 0
+2025-08-09 15:57:18,991 - INFO - Processing: DoorDash_Inc/2022/output_0001628280_22_009211.txt
+2025-08-09 15:57:43,255 - INFO - Progress: 49/526 (9.3%) - Success: 49, Failed: 0
+2025-08-09 15:57:43,255 - INFO - Processing: DoorDash_Inc/2022/output_0001628280_22_012679.txt
+2025-08-09 15:57:56,279 - INFO - Progress: 50/526 (9.5%) - Success: 50, Failed: 0
+2025-08-09 15:57:56,279 - INFO - Processing: DoorDash_Inc/2022/output_0001628280_22_014870.txt
+2025-08-09 15:58:16,651 - INFO - Progress: 51/526 (9.7%) - Success: 51, Failed: 0
+2025-08-09 15:58:16,651 - INFO - Processing: DoorDash_Inc/2022/output_0001628280_22_015815.txt
+2025-08-09 15:58:31,083 - INFO - Progress: 52/526 (9.9%) - Success: 52, Failed: 0
+2025-08-09 15:58:31,083 - INFO - Processing: DoorDash_Inc/2022/output_0001628280_22_018053.txt
+2025-08-09 15:59:06,024 - INFO - Progress: 53/526 (10.1%) - Success: 53, Failed: 0
+2025-08-09 15:59:06,024 - INFO - Processing: DoorDash_Inc/2022/output_0001628280_22_018923.txt
+2025-08-09 15:59:26,504 - INFO - Progress: 54/526 (10.3%) - Success: 54, Failed: 0
+2025-08-09 15:59:26,504 - INFO - Processing: DoorDash_Inc/2022/output_0001628280_22_021127.txt
+2025-08-09 15:59:50,179 - INFO - Progress: 55/526 (10.5%) - Success: 55, Failed: 0
+2025-08-09 15:59:50,179 - INFO - Processing: DoorDash_Inc/2022/output_0001628280_22_028194.txt
+2025-08-09 16:00:11,671 - INFO - Progress: 56/526 (10.6%) - Success: 56, Failed: 0
+2025-08-09 16:00:11,671 - INFO - Processing: DoorDash_Inc/2022/output_0001628280_22_031141.txt
+2025-08-09 16:00:36,015 - INFO - Progress: 57/526 (10.8%) - Success: 57, Failed: 0
+2025-08-09 16:00:36,015 - INFO - Processing: DoorDash_Inc/2023/output_0001193125_23_021522.txt
+2025-08-09 16:01:09,505 - INFO - Progress: 58/526 (11.0%) - Success: 58, Failed: 0
+2025-08-09 16:01:09,505 - INFO - Processing: DoorDash_Inc/2023/output_0001628280_23_003889.txt
+2025-08-09 16:01:30,898 - INFO - Progress: 59/526 (11.2%) - Success: 59, Failed: 0
+2025-08-09 16:01:30,899 - INFO - Processing: DoorDash_Inc/2023/output_0001628280_23_014178.txt
+2025-08-09 16:02:06,430 - INFO - Progress: 60/526 (11.4%) - Success: 60, Failed: 0
+2025-08-09 16:02:06,430 - INFO - Processing: DoorDash_Inc/2023/output_0001628280_23_015716.txt
+2025-08-09 16:02:21,342 - INFO - Progress: 61/526 (11.6%) - Success: 61, Failed: 0
+2025-08-09 16:02:21,342 - INFO - Processing: DoorDash_Inc/2023/output_0001628280_23_017599.txt
+2025-08-09 16:02:49,893 - INFO - Progress: 62/526 (11.8%) - Success: 62, Failed: 0
+2025-08-09 16:02:49,893 - INFO - Processing: DoorDash_Inc/2023/output_0001628280_23_023293.txt
+2025-08-09 16:03:28,844 - INFO - Progress: 63/526 (12.0%) - Success: 63, Failed: 0
+2025-08-09 16:03:28,844 - INFO - Processing: DoorDash_Inc/2023/output_0001628280_23_024849.txt
+2025-08-09 16:03:48,283 - INFO - Progress: 64/526 (12.2%) - Success: 64, Failed: 0
+2025-08-09 16:03:48,283 - INFO - Processing: DoorDash_Inc/2023/output_0001628280_23_026753.txt
+2025-08-09 16:04:12,934 - INFO - Progress: 65/526 (12.4%) - Success: 65, Failed: 0
+2025-08-09 16:04:12,934 - INFO - Processing: DoorDash_Inc/2023/output_0001628280_23_032295.txt
+2025-08-09 16:04:31,382 - INFO - Progress: 66/526 (12.5%) - Success: 66, Failed: 0
+2025-08-09 16:04:31,382 - INFO - Processing: DoorDash_Inc/2023/output_0001628280_23_035962.txt
+2025-08-09 16:04:51,169 - INFO - Progress: 67/526 (12.7%) - Success: 67, Failed: 0
+2025-08-09 16:04:51,169 - INFO - Processing: DoorDash_Inc/2024/output_0001193125_24_127459.txt
+2025-08-09 16:05:18,047 - INFO - Progress: 68/526 (12.9%) - Success: 68, Failed: 0
+2025-08-09 16:05:18,047 - INFO - Processing: DoorDash_Inc/2024/output_0001628280_24_002922.txt
+2025-08-09 16:05:56,538 - INFO - Progress: 69/526 (13.1%) - Success: 69, Failed: 0
+2025-08-09 16:05:56,538 - INFO - Processing: DoorDash_Inc/2024/output_0001628280_24_005043.txt
+2025-08-09 16:06:14,219 - INFO - Progress: 70/526 (13.3%) - Success: 70, Failed: 0
+2025-08-09 16:06:14,220 - INFO - Processing: DoorDash_Inc/2024/output_0001628280_24_016953.txt
+2025-08-09 16:06:40,899 - INFO - Progress: 71/526 (13.5%) - Success: 71, Failed: 0
+2025-08-09 16:06:40,899 - INFO - Processing: DoorDash_Inc/2024/output_0001628280_24_019602.txt
+2025-08-09 16:07:29,123 - INFO - Progress: 72/526 (13.7%) - Success: 72, Failed: 0
+2025-08-09 16:07:29,123 - INFO - Processing: DoorDash_Inc/2024/output_0001628280_24_029315.txt
+2025-08-09 16:07:54,396 - INFO - Progress: 73/526 (13.9%) - Success: 73, Failed: 0
+2025-08-09 16:07:54,396 - INFO - Processing: DoorDash_Inc/2024/output_0001628280_24_034129.txt
+2025-08-09 16:08:16,646 - INFO - Progress: 74/526 (14.1%) - Success: 74, Failed: 0
+2025-08-09 16:08:16,646 - INFO - Processing: DoorDash_Inc/2024/output_0001628280_24_044309.txt
+2025-08-09 16:08:38,387 - INFO - Progress: 75/526 (14.3%) - Success: 75, Failed: 0
+2025-08-09 16:08:38,387 - INFO - Processing: DoorDash_Inc/2025/output_0001140361_25_017438.txt
+2025-08-09 16:08:59,270 - INFO - Progress: 76/526 (14.4%) - Success: 76, Failed: 0
+2025-08-09 16:08:59,270 - INFO - Processing: DoorDash_Inc/2025/output_0001140361_25_020407.txt
+2025-08-09 16:09:31,830 - INFO - Progress: 77/526 (14.6%) - Success: 77, Failed: 0
+2025-08-09 16:09:31,830 - INFO - Processing: DoorDash_Inc/2025/output_0001140361_25_020546.txt
+2025-08-09 16:10:03,511 - INFO - Progress: 78/526 (14.8%) - Success: 78, Failed: 0
+2025-08-09 16:10:03,511 - INFO - Processing: DoorDash_Inc/2025/output_0001140361_25_021020.txt
+2025-08-09 16:10:32,436 - INFO - Progress: 79/526 (15.0%) - Success: 79, Failed: 0
+2025-08-09 16:10:32,436 - INFO - Processing: DoorDash_Inc/2025/output_0001628280_25_004877.txt
+2025-08-09 16:11:00,243 - INFO - Progress: 80/526 (15.2%) - Success: 80, Failed: 0
+2025-08-09 16:11:00,243 - INFO - Processing: DoorDash_Inc/2025/output_0001628280_25_022396.txt
+2025-08-09 16:11:28,830 - INFO - Progress: 81/526 (15.4%) - Success: 81, Failed: 0
+2025-08-09 16:11:28,830 - INFO - Processing: DoorDash_Inc/2025/output_0001628280_25_033048.txt
+2025-08-09 16:11:46,769 - INFO - Progress: 82/526 (15.6%) - Success: 82, Failed: 0
+2025-08-09 16:11:46,769 - INFO - Processing: DoorDash_Inc/2025/output_0001792789_25_000011.txt
+2025-08-09 16:12:06,342 - INFO - Progress: 83/526 (15.8%) - Success: 83, Failed: 0
+2025-08-09 16:12:06,342 - INFO - Processing: JOHNSON_&_JOHNSON/2020/output_0000200406_20_000052.txt
+2025-08-09 16:12:29,545 - INFO - Progress: 84/526 (16.0%) - Success: 84, Failed: 0
+2025-08-09 16:12:29,545 - INFO - Processing: JOHNSON_&_JOHNSON/2020/output_0000200406_20_000054.txt
+2025-08-09 16:12:46,793 - INFO - Progress: 85/526 (16.2%) - Success: 85, Failed: 0
+2025-08-09 16:12:46,793 - INFO - Processing: JOHNSON_&_JOHNSON/2020/output_0000200406_20_000059.txt
+2025-08-09 16:12:58,869 - INFO - Progress: 86/526 (16.3%) - Success: 86, Failed: 0
+2025-08-09 16:12:58,869 - INFO - Processing: JOHNSON_&_JOHNSON/2020/output_0000200406_20_000061.txt
+2025-08-09 16:13:21,818 - INFO - Progress: 87/526 (16.5%) - Success: 87, Failed: 0
+2025-08-09 16:13:21,818 - INFO - Processing: JOHNSON_&_JOHNSON/2020/output_0001193125_20_229970.txt
+2025-08-09 16:13:37,048 - INFO - Progress: 88/526 (16.7%) - Success: 88, Failed: 0
+2025-08-09 16:13:37,048 - INFO - Processing: JOHNSON_&_JOHNSON/2020/output_0001193125_20_261326.txt
+2025-08-09 16:14:22,920 - INFO - Progress: 89/526 (16.9%) - Success: 89, Failed: 0
+2025-08-09 16:14:22,920 - INFO - Processing: JOHNSON_&_JOHNSON/2021/output_0000200406_21_000006.txt
+2025-08-09 16:14:40,583 - INFO - Progress: 90/526 (17.1%) - Success: 90, Failed: 0
+2025-08-09 16:14:40,583 - INFO - Processing: JOHNSON_&_JOHNSON/2021/output_0000200406_21_000024.txt
+2025-08-09 16:14:54,376 - INFO - Progress: 91/526 (17.3%) - Success: 91, Failed: 0
+2025-08-09 16:14:54,376 - INFO - Processing: JOHNSON_&_JOHNSON/2021/output_0000200406_21_000030.txt
+2025-08-09 16:15:08,069 - INFO - Progress: 92/526 (17.5%) - Success: 92, Failed: 0
+2025-08-09 16:15:08,069 - INFO - Processing: JOHNSON_&_JOHNSON/2021/output_0000200406_21_000040.txt
+2025-08-09 16:15:33,628 - INFO - Progress: 93/526 (17.7%) - Success: 93, Failed: 0
+2025-08-09 16:15:33,628 - INFO - Processing: JOHNSON_&_JOHNSON/2021/output_0000200406_21_000053.txt
+2025-08-09 16:15:48,961 - INFO - Progress: 94/526 (17.9%) - Success: 94, Failed: 0
+2025-08-09 16:15:48,961 - INFO - Processing: JOHNSON_&_JOHNSON/2021/output_0000200406_21_000061.txt
+2025-08-09 16:16:01,784 - INFO - Progress: 95/526 (18.1%) - Success: 95, Failed: 0
+2025-08-09 16:16:01,784 - INFO - Processing: JOHNSON_&_JOHNSON/2021/output_0000200406_21_000063.txt
+2025-08-09 16:16:20,043 - INFO - Progress: 96/526 (18.3%) - Success: 96, Failed: 0
+2025-08-09 16:16:20,043 - INFO - Processing: JOHNSON_&_JOHNSON/2021/output_0000200406_21_000067.txt
+2025-08-09 16:16:32,387 - INFO - Progress: 97/526 (18.4%) - Success: 97, Failed: 0
+2025-08-09 16:16:32,388 - INFO - Processing: JOHNSON_&_JOHNSON/2021/output_0000200406_21_000072.txt
+2025-08-09 16:16:58,360 - INFO - Progress: 98/526 (18.6%) - Success: 98, Failed: 0
+2025-08-09 16:16:58,360 - INFO - Processing: JOHNSON_&_JOHNSON/2022/output_0000200406_22_000004.txt
+2025-08-09 16:17:12,059 - INFO - Progress: 99/526 (18.8%) - Success: 99, Failed: 0
+2025-08-09 16:17:12,059 - INFO - Processing: JOHNSON_&_JOHNSON/2022/output_0000200406_22_000012.txt
+2025-08-09 16:17:29,694 - INFO - Progress: 100/526 (19.0%) - Success: 100, Failed: 0
+2025-08-09 16:17:29,694 - INFO - Processing: JOHNSON_&_JOHNSON/2022/output_0000200406_22_000015.txt
+2025-08-09 16:17:43,322 - INFO - Progress: 101/526 (19.2%) - Success: 101, Failed: 0
+2025-08-09 16:17:43,322 - INFO - Processing: JOHNSON_&_JOHNSON/2022/output_0000200406_22_000017.txt
+2025-08-09 16:18:18,719 - INFO - Progress: 102/526 (19.4%) - Success: 102, Failed: 0
+2025-08-09 16:18:18,720 - INFO - Processing: JOHNSON_&_JOHNSON/2022/output_0000200406_22_000038.txt
+2025-08-09 16:18:32,990 - INFO - Progress: 103/526 (19.6%) - Success: 103, Failed: 0
+2025-08-09 16:18:32,990 - INFO - Processing: JOHNSON_&_JOHNSON/2022/output_0000200406_22_000047.txt
+2025-08-09 16:18:45,712 - INFO - Progress: 104/526 (19.8%) - Success: 104, Failed: 0
+2025-08-09 16:18:45,712 - INFO - Processing: JOHNSON_&_JOHNSON/2022/output_0000200406_22_000063.txt
+2025-08-09 16:19:55,817 - INFO - Progress: 105/526 (20.0%) - Success: 104, Failed: 1
+2025-08-09 16:19:55,818 - INFO - Processing: JOHNSON_&_JOHNSON/2022/output_0000200406_22_000076.txt
+2025-08-09 16:20:11,510 - INFO - Progress: 106/526 (20.2%) - Success: 105, Failed: 1
+2025-08-09 16:20:11,510 - INFO - Processing: JOHNSON_&_JOHNSON/2022/output_0000200406_22_000081.txt
+2025-08-09 16:21:02,520 - INFO - Progress: 107/526 (20.3%) - Success: 106, Failed: 1
+2025-08-09 16:21:02,520 - INFO - Processing: JOHNSON_&_JOHNSON/2022/output_0000200406_22_000089.txt
+2025-08-09 16:21:14,639 - INFO - Progress: 108/526 (20.5%) - Success: 107, Failed: 1
+2025-08-09 16:21:14,639 - INFO - Processing: JOHNSON_&_JOHNSON/2022/output_0001193125_22_274491.txt
+2025-08-09 16:21:32,878 - INFO - Progress: 109/526 (20.7%) - Success: 108, Failed: 1
+2025-08-09 16:21:32,878 - INFO - Processing: JOHNSON_&_JOHNSON/2022/output_0001193125_22_311072.txt
+2025-08-09 16:22:08,798 - INFO - Progress: 110/526 (20.9%) - Success: 109, Failed: 1
+2025-08-09 16:22:08,798 - INFO - Processing: JOHNSON_&_JOHNSON/2023/output_0000200406_23_000005.txt
+2025-08-09 16:22:51,669 - INFO - Progress: 111/526 (21.1%) - Success: 110, Failed: 1
+2025-08-09 16:22:51,669 - INFO - Processing: JOHNSON_&_JOHNSON/2023/output_0000200406_23_000008.txt
+2025-08-09 16:23:05,450 - INFO - Progress: 112/526 (21.3%) - Success: 111, Failed: 1
+2025-08-09 16:23:05,451 - INFO - Processing: JOHNSON_&_JOHNSON/2023/output_0000200406_23_000032.txt
+2025-08-09 16:23:29,756 - INFO - Progress: 113/526 (21.5%) - Success: 112, Failed: 1
+2025-08-09 16:23:29,756 - INFO - Processing: JOHNSON_&_JOHNSON/2023/output_0000200406_23_000037.txt
+2025-08-09 16:23:48,436 - INFO - Progress: 114/526 (21.7%) - Success: 113, Failed: 1
+2025-08-09 16:23:48,436 - INFO - Processing: JOHNSON_&_JOHNSON/2023/output_0000200406_23_000043.txt
+2025-08-09 16:24:02,790 - INFO - Progress: 115/526 (21.9%) - Success: 114, Failed: 1
+2025-08-09 16:24:02,790 - INFO - Processing: JOHNSON_&_JOHNSON/2023/output_0000200406_23_000059.txt
+2025-08-09 16:24:20,551 - INFO - Progress: 116/526 (22.1%) - Success: 115, Failed: 1
+2025-08-09 16:24:20,551 - INFO - Processing: JOHNSON_&_JOHNSON/2023/output_0000200406_23_000073.txt
+2025-08-09 16:24:50,454 - INFO - Progress: 117/526 (22.2%) - Success: 116, Failed: 1
+2025-08-09 16:24:50,454 - INFO - Processing: JOHNSON_&_JOHNSON/2023/output_0000200406_23_000086.txt
+2025-08-09 16:25:06,542 - INFO - Progress: 118/526 (22.4%) - Success: 117, Failed: 1
+2025-08-09 16:25:06,542 - INFO - Processing: JOHNSON_&_JOHNSON/2023/output_0000200406_23_000091.txt
+2025-08-09 16:25:20,437 - INFO - Progress: 119/526 (22.6%) - Success: 118, Failed: 1
+2025-08-09 16:25:20,437 - INFO - Processing: JOHNSON_&_JOHNSON/2023/output_0000200406_23_000094.txt
+2025-08-09 16:25:34,781 - INFO - Progress: 120/526 (22.8%) - Success: 119, Failed: 1
+2025-08-09 16:25:34,781 - INFO - Processing: JOHNSON_&_JOHNSON/2023/output_0000200406_23_000096.txt
+2025-08-09 16:25:47,833 - INFO - Progress: 121/526 (23.0%) - Success: 120, Failed: 1
+2025-08-09 16:25:47,833 - INFO - Processing: JOHNSON_&_JOHNSON/2023/output_0000200406_23_000105.txt
+2025-08-09 16:26:01,499 - INFO - Progress: 122/526 (23.2%) - Success: 121, Failed: 1
+2025-08-09 16:26:01,499 - INFO - Processing: JOHNSON_&_JOHNSON/2023/output_0000200406_23_000109.txt
+2025-08-09 16:26:18,738 - INFO - Progress: 123/526 (23.4%) - Success: 122, Failed: 1
+2025-08-09 16:26:18,738 - INFO - Processing: JOHNSON_&_JOHNSON/2023/output_0000200406_23_000112.txt
+2025-08-09 16:26:45,772 - INFO - Progress: 124/526 (23.6%) - Success: 123, Failed: 1
+2025-08-09 16:26:45,772 - INFO - Processing: JOHNSON_&_JOHNSON/2023/output_0000200406_23_000115.txt
+2025-08-09 16:27:00,031 - INFO - Progress: 125/526 (23.8%) - Success: 124, Failed: 1
+2025-08-09 16:27:00,031 - INFO - Processing: JOHNSON_&_JOHNSON/2023/output_0001193125_23_138287.txt
+2025-08-09 16:27:14,866 - INFO - Progress: 126/526 (24.0%) - Success: 125, Failed: 1
+2025-08-09 16:27:14,866 - INFO - Processing: JOHNSON_&_JOHNSON/2023/output_0001628280_23_025388.txt
+2025-08-09 16:27:45,607 - INFO - Progress: 127/526 (24.1%) - Success: 126, Failed: 1
+2025-08-09 16:27:45,607 - INFO - Processing: JOHNSON_&_JOHNSON/2023/output_0001628280_23_026095.txt
+2025-08-09 16:27:57,326 - INFO - Processing: JOHNSON_&_JOHNSON/2024/output_0000200406_24_000004.txt
+2025-08-09 16:27:57,326 - INFO - Progress: 128/526 (24.3%) - Success: 127, Failed: 1
+2025-08-09 16:28:21,422 - INFO - Progress: 129/526 (24.5%) - Success: 128, Failed: 1
+2025-08-09 16:28:21,422 - INFO - Processing: JOHNSON_&_JOHNSON/2024/output_0000200406_24_000031.txt
+2025-08-09 16:28:35,029 - INFO - Progress: 130/526 (24.7%) - Success: 129, Failed: 1
+2025-08-09 16:28:35,029 - INFO - Processing: JOHNSON_&_JOHNSON/2024/output_0000200406_24_000043.txt
+2025-08-09 16:28:52,579 - INFO - Progress: 131/526 (24.9%) - Success: 130, Failed: 1
+2025-08-09 16:28:52,579 - INFO - Processing: JOHNSON_&_JOHNSON/2024/output_0000200406_24_000048.txt
+2025-08-09 16:29:24,281 - INFO - Progress: 132/526 (25.1%) - Success: 131, Failed: 1
+2025-08-09 16:29:24,281 - INFO - Processing: JOHNSON_&_JOHNSON/2024/output_0000200406_24_000053.txt
+2025-08-09 16:29:46,684 - INFO - Progress: 133/526 (25.3%) - Success: 132, Failed: 1
+2025-08-09 16:29:46,685 - INFO - Processing: JOHNSON_&_JOHNSON/2024/output_0000200406_24_000071.txt
+2025-08-09 16:30:05,701 - INFO - Progress: 134/526 (25.5%) - Success: 133, Failed: 1
+2025-08-09 16:30:05,701 - INFO - Processing: JOHNSON_&_JOHNSON/2024/output_0000200406_24_000079.txt
+2025-08-09 16:30:21,234 - INFO - Progress: 135/526 (25.7%) - Success: 134, Failed: 1
+2025-08-09 16:30:21,234 - INFO - Processing: JOHNSON_&_JOHNSON/2024/output_0000200406_24_000081.txt
+2025-08-09 16:30:35,583 - INFO - Progress: 136/526 (25.9%) - Success: 135, Failed: 1
+2025-08-09 16:30:35,583 - INFO - Processing: JOHNSON_&_JOHNSON/2024/output_0000200406_24_000083.txt
+2025-08-09 16:30:47,278 - INFO - Progress: 137/526 (26.0%) - Success: 136, Failed: 1
+2025-08-09 16:30:47,278 - INFO - Processing: JOHNSON_&_JOHNSON/2024/output_0000200406_24_000088.txt
+2025-08-09 16:31:02,826 - INFO - Progress: 138/526 (26.2%) - Success: 137, Failed: 1
+2025-08-09 16:31:02,826 - INFO - Processing: JOHNSON_&_JOHNSON/2024/output_0001193125_24_142828.txt
+2025-08-09 16:31:15,649 - INFO - Progress: 139/526 (26.4%) - Success: 138, Failed: 1
+2025-08-09 16:31:15,649 - INFO - Processing: JOHNSON_&_JOHNSON/2025/output_0000200406_25_000003.txt
+2025-08-09 16:31:55,926 - INFO - Progress: 140/526 (26.6%) - Success: 139, Failed: 1
+2025-08-09 16:31:55,926 - INFO - Processing: JOHNSON_&_JOHNSON/2025/output_0000200406_25_000106.txt
+2025-08-09 16:32:14,165 - INFO - Progress: 141/526 (26.8%) - Success: 140, Failed: 1
+2025-08-09 16:32:14,165 - INFO - Processing: JOHNSON_&_JOHNSON/2025/output_0000200406_25_000110.txt
+2025-08-09 16:32:32,803 - INFO - Progress: 142/526 (27.0%) - Success: 141, Failed: 1
+2025-08-09 16:32:32,803 - INFO - Processing: JOHNSON_&_JOHNSON/2025/output_0000200406_25_000141.txt
+2025-08-09 16:32:57,989 - INFO - Progress: 143/526 (27.2%) - Success: 142, Failed: 1
+2025-08-09 16:32:57,989 - INFO - Processing: JOHNSON_&_JOHNSON/2025/output_0000200406_25_000152.txt
+2025-08-09 16:33:26,383 - INFO - Progress: 144/526 (27.4%) - Success: 143, Failed: 1
+2025-08-09 16:33:26,384 - INFO - Processing: JOHNSON_&_JOHNSON/2025/output_0000200406_25_000170.txt
+2025-08-09 16:33:41,433 - INFO - Progress: 145/526 (27.6%) - Success: 144, Failed: 1
+2025-08-09 16:33:41,433 - INFO - Processing: JOHNSON_&_JOHNSON/2025/output_0001193125_25_030851.txt
+2025-08-09 16:34:03,939 - INFO - Progress: 146/526 (27.8%) - Success: 145, Failed: 1
+2025-08-09 16:34:03,939 - INFO - Processing: JOHNSON_&_JOHNSON/2025/output_0001193125_25_036773.txt
+2025-08-09 16:34:44,080 - INFO - Progress: 147/526 (27.9%) - Success: 146, Failed: 1
+2025-08-09 16:34:44,080 - INFO - Processing: JPMORGAN_CHASE_&_CO/2020/output_0000019617_20_000422.txt
+2025-08-09 16:35:09,679 - INFO - Progress: 148/526 (28.1%) - Success: 147, Failed: 1
+2025-08-09 16:35:09,679 - INFO - Processing: JPMORGAN_CHASE_&_CO/2020/output_0000019617_20_000427.txt
+2025-08-09 16:35:24,163 - INFO - Progress: 149/526 (28.3%) - Success: 148, Failed: 1
+2025-08-09 16:35:24,163 - INFO - Processing: JPMORGAN_CHASE_&_CO/2020/output_0000019617_20_000429.txt
+2025-08-09 16:35:47,867 - INFO - Progress: 150/526 (28.5%) - Success: 149, Failed: 1
+2025-08-09 16:35:47,867 - INFO - Processing: JPMORGAN_CHASE_&_CO/2020/output_0000019617_20_000431.txt
+2025-08-09 16:36:08,344 - INFO - Progress: 151/526 (28.7%) - Success: 150, Failed: 1
+2025-08-09 16:36:08,344 - INFO - Processing: JPMORGAN_CHASE_&_CO/2020/output_0000019617_20_000532.txt
+2025-08-09 16:36:31,083 - INFO - Progress: 152/526 (28.9%) - Success: 151, Failed: 1
+2025-08-09 16:36:31,083 - INFO - Processing: JPMORGAN_CHASE_&_CO/2020/output_0000019617_20_000533.txt
+2025-08-09 16:36:46,276 - INFO - Progress: 153/526 (29.1%) - Success: 152, Failed: 1
+2025-08-09 16:36:46,276 - INFO - Processing: JPMORGAN_CHASE_&_CO/2020/output_0001193125_20_244800.txt
+2025-08-09 16:37:13,270 - INFO - Progress: 154/526 (29.3%) - Success: 153, Failed: 1
+2025-08-09 16:37:13,270 - INFO - Processing: JPMORGAN_CHASE_&_CO/2020/output_0001193125_20_247167.txt
+2025-08-09 16:37:34,897 - INFO - Progress: 155/526 (29.5%) - Success: 154, Failed: 1
+2025-08-09 16:37:34,897 - INFO - Processing: JPMORGAN_CHASE_&_CO/2020/output_0001193125_20_257478.txt
+2025-08-09 16:37:51,211 - INFO - Progress: 156/526 (29.7%) - Success: 155, Failed: 1
+2025-08-09 16:37:51,211 - INFO - Processing: JPMORGAN_CHASE_&_CO/2020/output_0001193125_20_298117.txt
+2025-08-09 16:38:13,329 - INFO - Progress: 157/526 (29.8%) - Success: 156, Failed: 1
+2025-08-09 16:38:13,329 - INFO - Processing: JPMORGAN_CHASE_&_CO/2020/output_0001193125_20_302262.txt
+2025-08-09 16:38:36,298 - INFO - Progress: 158/526 (30.0%) - Success: 157, Failed: 1
+2025-08-09 16:38:36,299 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0000019617_21_000071.txt
+2025-08-09 16:39:09,102 - INFO - Progress: 159/526 (30.2%) - Success: 158, Failed: 1
+2025-08-09 16:39:09,102 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0000019617_21_000073.txt
+2025-08-09 16:39:27,274 - INFO - Progress: 160/526 (30.4%) - Success: 159, Failed: 1
+2025-08-09 16:39:27,274 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0000019617_21_000123.txt
+2025-08-09 16:53:52,428 - INFO - Progress: 161/526 (30.6%) - Success: 159, Failed: 2
+2025-08-09 16:53:52,428 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0000019617_21_000243.txt
+2025-08-09 16:54:43,673 - INFO - Progress: 162/526 (30.8%) - Success: 160, Failed: 2
+2025-08-09 16:54:43,673 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0000019617_21_000281.txt
+2025-08-09 16:55:00,725 - INFO - Progress: 163/526 (31.0%) - Success: 161, Failed: 2
+2025-08-09 16:55:00,725 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0000019617_21_000283.txt
+2025-08-09 16:55:21,614 - INFO - Progress: 164/526 (31.2%) - Success: 162, Failed: 2
+2025-08-09 16:55:21,614 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0000019617_21_000343.txt
+2025-08-09 16:55:48,059 - INFO - Progress: 165/526 (31.4%) - Success: 163, Failed: 2
+2025-08-09 16:55:48,059 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0000019617_21_000352.txt
+2025-08-09 17:12:34,505 - INFO - Progress: 166/526 (31.6%) - Success: 163, Failed: 3
+2025-08-09 17:12:34,505 - INFO - Processing: JPMORGAN_CHASE_&_CO/2021/output_0000019617_21_000354.txt

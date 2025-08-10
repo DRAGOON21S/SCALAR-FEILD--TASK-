@@ -1,0 +1,34 @@
+{
+  "JPMorgan Chase & Co.": {
+    "2021": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.02 - Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers": {
+              "content": "On July 20, 2021, the independent members of the Board of Directors (the “Board”) of JPMorgan Chase & Co. (the “Firm”) awarded Chairman and Chief Executive Officer James Dimon 1,500,000 options in the form of stock appreciation rights.",
+              "subsections": {
+                "board_rationale": "This special award reflects the Board’s desire for Mr. Dimon to continue to lead the Firm for a further significant number of years. In making the special award, the Board considered the importance of Mr. Dimon's continuing, long-term stewardship of the Firm, leadership continuity, and management succession planning amidst a highly competitive landscape for executive leadership talent. The Board also took into account other factors, including the Firm's strong performance under Mr. Dimon’s stewardship since 2005, his exemplary leadership, and his significant contributions to the Firm’s success during his tenure.",
+                "award_nature": "The options are not part of Mr. Dimon's regular annual compensation and will not be awarded on a regularly recurring basis.",
+                "grant_terms": "The terms of the grant are distinct from, and are generally more restrictive than, other equity grants regularly awarded by the Firm. The options will have an exercise price equal to the average of the high and low prices of JPMorgan Chase & Co. common stock on July 20, 2021 (the “Effective Date”). The options have a ten-year term, will become exercisable no earlier than July 20, 2026, or five years after the Effective Date, and are subject to clawback and recovery provisions. Vesting is subject to continuous leadership of the Firm, with certain limited exceptions.",
+                "holding_requirements": "Moreover, net shares delivered from the exercise of the options must be held until July 20, 2031, which coincides with the end of the ten-year term of the options. Net shares received from exercise are also subject to the Firm’s stock ownership guideline and retention requirements applicable to the Firm’s Operating Committee members.",
+                "recoupment_and_cancellation_policy": "Equity incentives are subject to the JPMorgan Chase Bonus Recoupment Policy which applies in the event of a material restatement of the Firm's financial results. In addition, all equity awards granted in 2021 contain recapture provisions that enable the Firm to cancel outstanding awards and/or recover the value of certain stock distributed under the award in specified circumstances. In addition to recapture provisions, portions of equity awards awarded to the Chairman and Chief Executive Officer are also subject to Protection-based Vesting provisions under which awards may be cancelled as determined by the Compensation & Management Development Committee of the Board of Directors and ratified by the Board of Directors.",
+                "exhibit_reference": "A copy of the Terms and Conditions of the award is attached as Exhibit 99. The information set forth in Exhibit 99 shall be deemed to be “filed” for purposes of the Securities Exchange Act of 1934, as amended."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibit",
+              "subsections": {
+                "exhibits_list": "Exhibit No. 99: Terms and Conditions of July 20, 2021 Stock Appreciation Rights - Chairman/Chief Executive Officer. Exhibit No. 101: Pursuant to Rule 406 of Regulation S-T, the cover page is formatted in Inline XBRL (Inline eXtensible Business Reporting Language). Exhibit No. 104: Cover Page Interactive Data File (embedded within the Inline XBRL document and included in Exhibit 101)."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

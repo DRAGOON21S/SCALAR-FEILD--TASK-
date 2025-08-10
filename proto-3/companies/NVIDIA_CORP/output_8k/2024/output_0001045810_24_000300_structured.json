@@ -1,0 +1,21 @@
+{
+  "NVIDIA CORPORATION": {
+    "2024": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.02 - Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers": {
+              "content": "On November 7, 2024, the Board of Directors of NVIDIA Corporation appointed Ellen Ochoa as a new member of the Board.",
+              "subsections": {
+                "appointment_of_director": "On November 7, 2024, the Board of Directors appointed Ellen Ochoa as a member of the Board. Concurrently, the number of directors constituting the full Board was increased from twelve to thirteen. Dr. Ochoa is expected to be appointed to serve as a member of the Nominating and Corporate Governance Committee of the Board.",
+                "compensatory_arrangements": "In connection with her appointment, Dr. Ochoa will be granted compensation pursuant to the Amended and Restated 2007 Equity Incentive Plan. This includes: (a) an initial equity grant of 1,848 restricted stock units, vesting approximately semi-annually over three years, and (b) a pro-rated annual equity grant of 1,321 restricted stock units, all of which will vest on May 21, 2025. Additionally, she was granted a pro-rated annual cash retainer of $53,800, payable starting on November 7, 2024.",
+                "indemnity_agreement": "The company has entered into an indemnity agreement with Dr. Ochoa in connection with her service as a member of the Board. The form of indemnity agreement is filed as Exhibit 10.1 to the company's Current Report on Form 8-K filed with the SEC on March 7, 2006."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

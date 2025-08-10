@@ -1,0 +1,21 @@
+{
+  "NVIDIA CORPORATION": {
+    "2022": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "The U.S. government has authorized exports, reexports, and in-country transfers needed to continue NVIDIA Corporation’s, or the Company’s, development of H100 integrated circuits after the Company filed its Current Report on Form 8-K with the U.S. Securities and Exchange Commission on August 31, 2022. The authorization also allows the Company to perform exports needed to provide support for U.S. customers of A100 through March 1, 2023. Additionally, the U.S. government authorized A100 and H100 order fulfillment and logistics through the Company’s Hong Kong facility through September 1, 2023.",
+              "subsections": {
+                "h100_development_authorization": "The U.S. government has authorized exports, reexports, and in-country transfers needed to continue NVIDIA Corporation’s, or the Company’s, development of H100 integrated circuits after the Company filed its Current Report on Form 8-K with the U.S. Securities and Exchange Commission on August 31, 2022.",
+                "a100_support_authorization": "The authorization also allows the Company to perform exports needed to provide support for U.S. customers of A100 through March 1, 2023.",
+                "hong_kong_logistics_authorization": "Additionally, the U.S. government authorized A100 and H100 order fulfillment and logistics through the Company’s Hong Kong facility through September 1, 2023."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

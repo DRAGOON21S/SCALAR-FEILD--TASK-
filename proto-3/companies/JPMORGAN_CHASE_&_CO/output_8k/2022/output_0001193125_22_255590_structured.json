@@ -1,0 +1,29 @@
+{
+  "JPMorgan Chase & Co.": {
+    "2022": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "On September 30, 2022, JPMorgan Chase & Co. issued a press release announcing the redemption on October 31, 2022 of all of the 2,933,750 outstanding depositary shares, each representing a one-tenth interest in a share of JPMorgan Chase & Co.’s Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series I, par value $1.00 per share and with a liquidation preference of $10,000 (the “Series I Preferred Stock”), pursuant to the optional redemption provisions in the documents governing such depositary shares and the Series I Preferred Stock. A copy of the press release referenced above is attached hereto as Exhibit 99.",
+              "subsections": {}
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits",
+              "subsections": {
+                "Exhibit 99": "JPMorgan Chase & Co. press release dated September 30, 2022.",
+                "Exhibit 101": "Pursuant to Rule 406 of Regulation S-T, the cover page is formatted in Inline XBRL (Inline eXtensible Business Reporting Language).",
+                "Exhibit 104": "Cover Page Interactive Data File (embedded within the Inline XBRL document and included in Exhibit 101)."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

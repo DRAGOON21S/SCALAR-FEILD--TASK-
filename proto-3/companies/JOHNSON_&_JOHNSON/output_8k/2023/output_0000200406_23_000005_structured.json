@@ -1,0 +1,27 @@
+{
+  "Johnson & Johnson": {
+    "2023": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 2 - Financial Information": {
+          "ITEMS": {
+            "Item 2.02 - Results of Operations and Financial Condition": {
+              "content": "On January 24, 2023, Johnson & Johnson issued the attached press release announcing its sales and earnings for the fourth quarter and full year ended January 1, 2023.",
+              "subsections": {}
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits.",
+              "subsections": {
+                "exhibits_list": "Exhibit No. 99.1: Press Release dated January 24, 2023 for the period ended January 1, 2023. Exhibit No. 99.2: Unaudited Comparative Supplementary Sales Data and Condensed Consolidated Statement of Earnings for the fourth quarter and full year. Exhibit No. 104: The cover page from this Current Report on Form 8-K, formatted in Inline XBRL."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

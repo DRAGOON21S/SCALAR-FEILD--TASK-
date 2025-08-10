@@ -1,0 +1,30 @@
+{
+  "Johnson & Johnson": {
+    "2020": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "On October 1, 2020, Johnson & Johnson, a New Jersey corporation (“ Johnson & Johnson”) announced that it has completed the acquisition of Momenta Pharmaceuticals, Inc., a Delaware corporation, a company that discovers and develops novel therapies for immune-mediated diseases, in an all-cashtransaction for approximately $6.5 billion. A copy of the press release issued by Johnson & Johnson on October 1, 2020 announcing the acquisition filed as Exhibit (a)(5)(E) to the Schedule TO-T/Afiled by Johnson & Johnson with the U.S. Securities and Exchange Commission (the “ SEC”) on October 1, 2020 is incorporated herein by reference as Exhibit 99.1.",
+              "subsections": {
+                "acquisition_announcement": "On October 1, 2020, Johnson & Johnson, a New Jersey corporation (“ Johnson & Johnson”) announced that it has completed the acquisition of Momenta Pharmaceuticals, Inc., a Delaware corporation, a company that discovers and develops novel therapies for immune-mediated diseases, in an all-cashtransaction for approximately $6.5 billion.",
+                "press_release_reference": "A copy of the press release issued by Johnson & Johnson on October 1, 2020 announcing the acquisition filed as Exhibit (a)(5)(E) to the Schedule TO-T/Afiled by Johnson & Johnson with the U.S. Securities and Exchange Commission (the “ SEC”) on October 1, 2020 is incorporated herein by reference as Exhibit 99.1."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits. Exhibit No. 99.1: Press Release, dated October 1, 2020, incorporated herein by reference to Exhibit (a)(5)(E) of the Schedule TO-T/A filed by Johnson & Johnson with the SEC on October 1, 2020.",
+              "subsections": {
+                "exhibit_list": "Exhibit No. 99.1: Press Release, dated October 1, 2020, incorporated herein by reference to Exhibit (a)(5)(E) of the Schedule TO-T/A filed by Johnson & Johnson with the SEC on October 1, 2020."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

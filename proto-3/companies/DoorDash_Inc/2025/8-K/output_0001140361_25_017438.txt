@@ -1,0 +1,225 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to Section
+13 or 15(d) of the Securities Exchange Act of 1934 Date of Report (Date of earliest event reported): May 5, 2025
+DOORDASH, INC. (Exact name of registrant as specified in its charter)
+                                                                                                 
+  Delaware                         001-39759                46-2852392                           
+  (State or other jurisdiction of  -Commission File Number  -I.R.S. Employer Identification No.  
+  incorporation or organization)                                                                 
+                                                                                                 
+303 2nd Street, South Tower, 8th Floor San Francisco, California 94107 (Address of principal executive offices)
+(Zip Code) ( 650) 487-3970 (Registrant’s telephone number, including area code) Not Applicable (Former name or
+former address, if changed since last report) Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+                                                                                            
+  ☐  Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)  
+                                                                                            
+                                                                                             
+  ☐  Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  
+                                                                                             
+                                                                                                             
+  ☐  Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  
+                                                                                                             
+                                                                                                             
+  ☐  Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  
+                                                                                                             
+Securities registered pursuant to Section 12(b) of the Act:
+                                                                                              
+  Title of each class                              Trading    Name of each exchange on which  
+                                                   Symbol(s)  registered                      
+  Class A common stock, par value of $0.00001 per  DASH       The Nasdaq Stock Market         
+  share                                                                                       
+                                                                                              
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the
+Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2
+of this chapter). Emerging growth company ☐ If an emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+                                                           
+  Item 1.01.  Entry into a Material Definitive Agreement.  
+                                                           
+On May 6, 2025, DoorDash, Inc. (“DoorDash” or the “Company”) issued an announcement (the “Rule 2.7 Announcement”)
+pursuant to Rule 2.7 of the UK City Code on Takeovers and Mergers (the “Code”), disclosing that the board of
+directors of the Company (the “Company Board”) and the board of directors of Deliveroo plc (the “Deliveroo Board”),
+a company incorporated in England and Wales (“Deliveroo”), had reached agreement on the terms of a recommended
+final cash offer by the Company for the entire issued and to be issued share capital of Deliveroo (the
+“Transaction”). In connection with the Transaction, (i) the Company and Deliveroo entered into a Co-operation
+Agreement, dated as of May 6, 2025 (the “Co-operation Agreement”); (ii) the Company, as borrower, entered into a
+Bridge Term Loan Credit and Guaranty Agreement, dated as of May 6, 2025 (as amended, restated, supplemented or
+modified from time to time, the “Bridge Credit Agreement”), with JPMorgan Chase Bank, N.A., as administrative
+agent, the guarantors party thereto and the lenders party thereto; and (iii) in connection with the Transaction and
+prior to the Rule 2.7 Announcement, the Company, JPMorgan Chase Bank, N.A., as escrow agent (the “Escrow Agent”),
+and J.P. Morgan Securities plc entered into an Escrow Agreement (the “Escrow Agreement”). Rule 2.7 Announcement On
+May 6, 2025, the Company issued the Rule 2.7 Announcement disclosing that the Company Board and the Deliveroo Board
+had reached agreement on the terms of the Transaction. The Transaction will be implemented by means of a court-
+sanctioned scheme of arrangement (the “Scheme”) under Part 26 of the United Kingdom Companies Act 2006, as amended
+(the “UK Companies Act”). Under the terms of the Transaction, Deliveroo shareholders will be entitled to receive
+180 pence in cash for each Deliveroo share held. The Transaction will be subject to conditions and certain further
+terms, including, among others: (i) the approval of the Scheme by a majority in number of Deliveroo shareholders
+also representing not less than 75% in value of the Deliveroo shares, in each case present and voting, either in
+person or by proxy, at the Deliveroo shareholders’ meeting; (ii) the sanction of the Scheme by the High Court of
+Justice in England and Wales; (iii) the Scheme becoming effective no later than May 6, 2026 (the “Long-Stop Date”);
+and (iv) the receipt of regulatory approvals. The conditions to the Transaction are set out in full in the Rule 2.7
+Announcement. Subject to the satisfaction or waiver of all relevant conditions, it is expected that the Transaction
+will be completed in the fourth calendar quarter of 2025. The Company has reserved the right, subject to the prior
+consent of the UK Panel on Takeovers and Mergers (and to the terms of the Co-operation Agreement), to elect to
+implement the Transaction by way of a takeover offer (as such term is defined in the UK Companies Act) (a “Takeover
+Offer”). The financial terms of the Transaction are final and will not be increased, except that the Company
+reserves the right to increase the consideration payable under the Transaction and/or otherwise improve the terms
+of the Transaction if there is an announcement on or after the date of the Rule 2.7 Announcement of a possible
+offer or a firm intention to make an offer for Deliveroo by any third party. The Company reserves the right (with
+the consent of the Takeover Panel, if required), and while the Co-operation Agreement is continuing, subject to the
+terms of the Co-operation Agreement, to implement the Transaction by way of a Takeover Offer. The foregoing summary
+of the Rule 2.7 Announcement is subject to, and qualified in its entirety by, the text of the Rule 2.7
+Announcement, which is filed as Exhibit 2.1 hereto and incorporated herein by reference. Co-operation Agreement On
+May 6, 2025, the Company and Deliveroo entered into the Co-operation Agreement in connection with the Transaction.
+Pursuant to the Co-operation Agreement, the Company and Deliveroo agreed to use all reasonable endeavors for the
+purposes of obtaining any regulatory authorizations which are required to implement the Transaction, and to
+cooperate with each other in preparing required offering documents and other matters. In addition, the Co-operation
+Agreement contains provisions that will apply in respect of certain employee-related matters and Deliveroo’s
+employee equity plans. The foregoing summary of the Co-operation Agreement is subject to, and qualified in its
+entirety by, the text of the Co-operation Agreement, which is filed as Exhibit 2.2 hereto and incorporated herein
+by reference. Irrevocable Undertakings On May 5, 2025, and May, 6 2025, respectively, Greenoaks Capital
+Opportunities Fund, L.P. and DST Managers V Limited each delivered to the Company a deed of irrevocable undertaking
+(collectively, the “Shareholder Undertakings”) under which each such shareholder agrees, among other things, to
+vote its Deliveroo shares in favor of the Scheme and against any proposal that would impede or frustrate the
+Transaction. The Shareholder Undertakings represent an aggregate of 134,215,341 Deliveroo shares, or approximately
+8.967% of Deliveroo’s outstanding shares as of May 2, 2025. In addition, on May 6, 2025, each member of the
+Deliveroo Board that holds Deliveroo shares delivered to the Company a deed of irrevocable undertaking
+(collectively, the “Director Undertakings” and, together with the Shareholder Undertakings, the “Irrevocable
+Undertakings”) under which each such director agrees, among other things, to vote his or her Deliveroo shares in
+favor of the Scheme and against any proposal that would impede or frustrate the Transaction. The Director
+Undertakings represent an aggregate of 96,727,659 Deliveroo shares, or approximately 6.462% of Deliveroo’s
+outstanding shares as of May 2, 2025. The Shareholder Undertakings and the Director Undertakings will remain in
+effect if the Company and Deliveroo elect to effect the Transaction by way of a Takeover Offer and will cease to be
+binding in certain circumstances, in each case as further described therein. The foregoing summary of the
+Irrevocable Undertakings is subject to, and qualified in its entirety by, the text of (i) the Form of Deed of
+Director Irrevocable Undertaking, which is filed as Exhibit 2.3 hereto and incorporated herein by reference, (ii)
+the Deed of Irrevocable Undertaking, dated as of May 5, 2025, by and between the Company and Greenoaks Capital
+Opportunities Fund, L.P., which is filed as Exhibit 2.4 hereto and incorporated herein by reference, and (iii) the
+Deed of Irrevocable Undertaking, dated as of May 6, 2025, by and between the Company and DST Managers V Limited,
+which is filed as Exhibit 2.5 hereto and incorporated herein by reference. Bridge Credit Agreement The information
+set forth in Item 2.0 3regarding the Bridge Credit Agreement is incorporated by reference into this Item 1.0 1.
+Escrow Agreement Pursuant to the Escrow Agreement, the Company deposited in escrow an amount in cash with the
+Escrow Agent in order to partially fund the cash consideration payable by the Company in connection with the
+Transaction and to satisfy certain requirements pursuant to the Code to evidence certainty of funding for the
+Transaction, which may be converted from United States Dollars (“USD”) into Pounds Sterling (“GBP”) pursuant to a
+deal-contingent foreign exchange forward transaction entered into by the Company.
+                                                                                                                   
+  Item 2.03.  Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement    
+              of a Registrant.                                                                                     
+                                                                                                                   
+Bridge Credit Agreement Pursuant to the Bridge Credit Agreement, the lenders agreed to provide the Company certain
+borrowings in an aggregate amount of up to $2.85 billion on the terms and conditions set forth in the Bridge Credit
+Agreement in order to, among other things, partially finance the cash consideration payable by the Company in
+connection with the Transaction. Such amount in USD, or a portion of such USD amount, may be converted into GBP,
+being the currency in which the cash consideration payable by the Company in connection with the Transaction is
+required to be made, pursuant to a deal-contingent foreign exchange forward transaction entered into by the
+Company, which forward transaction (or similar transaction) will be maintained by the Company through the
+consummation of the Transaction. From the date on which the Bridge Credit Agreement is signed until the Long-Stop
+Date or, if earlier, the occurrence of certain customary draw-stop triggers consistent with the requirements of the
+Code, the lenders under the Bridge Credit Agreement shall not be entitled to (among other things) cancel their
+commitments, terminate the Bridge Credit Agreement, exercise any right of netting, set-off or counterclaim, refuse
+to make available a loan under the Bridge Credit Agreement or take any other action or step to the extent to do so
+would prevent or limit the making of such loan on the closing date of the Transaction. The Bridge Credit Agreement
+contains customary representations and warranties, events of default and affirmative and negative covenants for
+transactions of this type. The Company’s obligations under the Bridge Credit Agreement are guaranteed by certain of
+its domestic subsidiaries meeting materiality thresholds set forth in the Bridge Credit Agreement. To the extent
+any borrowings are made under the Bridge Credit Agreement, such loans will mature on the date that is 364 days
+after the closing date of the Transaction and bear interest, at the Company’s option, at a per annum rate equal to
+(i) the base rate plus a spread of either 0.625% or 0.750% or (ii) an adjusted term Secured Overnight Financing
+Rate (“SOFR”) plus a spread of either 1.625% or 1.750%, in each case, with the spread determined based on the
+Company’s senior, unsecured debt ratings. Interest is due and payable in arrears quarterly for loans bearing
+interest at the base rate and at the end of an interest period (or at each three-month interval in the case of
+loans with interest periods greater than three months) in the case of loans bearing interest at the adjusted term
+SOFR. The Company is also obligated to pay customary administration fees, syndication fees, commitment fees,
+ticking fees, and duration fees for a credit facility of this size and type. The foregoing summary of the Bridge
+Credit Agreement is subject to, and qualified in its entirety by, the text of the Bridge Credit Agreement, which is
+filed as Exhibit 10.1 hereto and incorporated herein by reference.
+                                         
+  Item 7.01.  Regulation FD Disclosure.  
+                                         
+On May 6, 2025, the Company issued a press release announcing the Transaction. A copy of the press release is
+furnished herewith as Exhibit 99.1 and is incorporated into this Item 7.01 by reference. The information furnished
+pursuant to Item 7.01, including Exhibit 99.1, shall not be deemed to be “filed” for purposes of Section 18 of the
+Securities Exchange Act of 1934, as amended (the “Exchange Act”), shall not otherwise be subject to the liabilities
+of that section and shall not be deemed incorporated by reference in any filing under the Securities Act of 1933,
+as amended, unless specifically identified therein as being incorporated therein by reference.
+                                                  
+  Item 9.01.  Financial Statements and Exhibits.  
+                                                  
+                  
+  (d)  Exhibits.  
+                  
+                                                                                                                   
+  Exhibit No.  Description                                                                                         
+  2.1          Rule 2.7 Announcement                                                                               
+  2.2          Co-operation Agreement                                                                              
+  2.3          Form of Deed of Director Irrevocable Undertaking                                                    
+  2.4          Deed of Irrevocable Undertaking, dated as of May 5, 2025, by and between the Company and Greenoaks  
+               Capital Opportunities Fund, L.P.                                                                    
+  2.5          Deed of Irrevocable Undertaking, dated as of May 6, 2025, by and between the Company and DST        
+               Managers V Limited                                                                                  
+               Bridge Term Loan Credit and Guaranty Agreement, dated as of May 6, 2025, among the Company, the     
+  10.1*        guarantors party thereto, the lenders party thereto and JPMorgan Chase Bank, N.A., as               
+               administrative agent, sole lead arranger and sole bookrunner                                        
+  99.1         Press Release issued May 6, 2025 by the Company                                                     
+  104          Cover Page Interactive Data File (embedded within the Inline XBRL document)                         
+                                                                                                                   
+*Certain annexes, schedules and exhibits to this Exhibit have been omitted pursuant to Item 601(a)(5) of Regulation
+S-K. The registrant hereby agrees to furnish supplementally a copy of any omitted annex, schedule or exhibit to the
+U.S. Securities and Exchange Commission upon request. Further Information; No Offer or Solicitation This Form 8-K
+is for information purposes only and is not intended to and does not constitute, or form any part of, an offer to
+sell or subscribe for or any invitation or the solicitation of an offer to purchase or subscribe for or otherwise
+acquire, sell or otherwise dispose of any securities or the solicitation of any vote or approval in any
+jurisdiction pursuant to the Transaction or otherwise. The Transaction will be implemented solely through and on
+the terms set out in the Scheme document and the accompanying forms of proxy (or, in the event that the Transaction
+is to be implemented by means of a Takeover Offer, the offer document and accompanying form of acceptance), which
+will contain the full terms and conditions of the Transaction, including details of how to vote in respect of, or
+to accept, the Transaction. Any approval, decision, vote or other response to the Transaction should be made only
+on the basis of the information in the Scheme document (or if the Transaction is implemented by way of a Takeover
+Offer, the offer document). Deliveroo shareholders are strongly advised to read the formal documentation in
+relation to the Transaction once it has been despatched. Cautionary Statement Concerning Forward-Looking Statements
+This Form 8-K (including information incorporated by reference in this Form 8-K) may contain certain “forward-
+looking statements” with respect to the Company and Deliveroo. These forward-looking statements can be identified
+by the fact that they do not relate only to historical or current facts. Forward-looking statements often use words
+such as “anticipate”, “target”, “forecast”, “aim”, “expect”, “estimate”, “intend”, “plan”, “goal”, “believe”,
+“will”, “may”, “should”, “would”, “could” or other words or terms of similar meaning or the negative thereof.
+Forward-looking statements include, but are not limited to, statements relating to the following: (i) future
+capital expenditures, expenses, revenues, earnings, synergies, economic performance, indebtedness, financial
+condition, dividend policy, losses and future prospects; (ii) business and management strategies of the Company and
+the expansion and growth of Deliveroo and potential synergies resulting from the Transaction; and (iii) the effects
+of global economic conditions and governmental regulation on the Company or Deliveroo’s business. These forward-
+looking statements involve known and unknown risks, uncertainties and other factors which may cause actual results,
+performance or developments to differ materially from those expressed in or implied by such forward-looking
+statements. These factors include, but are not limited to: the ability to complete the Transaction, the ability to
+obtain requisite regulatory and shareholder approvals, the ability to obtain funding under the Bridge Credit
+Agreement, changes in the global political, economic, business and competitive environments and in market and
+regulatory forces, changes in future exchange and interest rates, changes in tax rates, future business
+combinations or disposals, changes in general economic and market conditions in the countries in which the Company
+and Deliveroo operate, weak, volatile or illiquid capital and/or credit markets, interest rate and currency value
+fluctuations, the degree of competition in the geographic and business areas in which the Company and Deliveroo
+operate, changes in laws or in other supervisory expectations or requirements and other risks and uncertainties
+more fully described under the section entitled “Risk Factors” in the Company’s filings with the Securities and
+Exchange Commission, including its Annual Report on Form 10-K for the year ended December 31, 2024 and its
+quarterly reports on Form 10-Q. Other unknown or unpredictable factors could cause actual results to differ
+materially from those expected, estimated or projected in the forward-looking statements. These forward-looking
+statements are based on numerous assumptions regarding present and future strategies and environments. None of the
+Company, Deliveroo nor any of their respective associates, directors, officers, employees or advisers, provides any
+representation, assurance or guarantee that the occurrence of the events expressed or implied in any forward-
+looking statements in this Form 8-K will actually occur. Due to such uncertainties and risks, readers are cautioned
+not to place undue reliance on such forward-looking statements, which speak only as of the date hereof. All
+subsequent oral or written forward-looking statements attributable to the Company or Deliveroo or any person acting
+on their behalf are expressly qualified in their entirety by the cautionary statement above. Should one or more of
+these risks or uncertainties materialise, or should underlying assumptions prove incorrect, actual results may vary
+materially from those described in this Form 8-K. The Company and Deliveroo assume no obligation to update publicly
+or revise forward-looking or other statements contained in this Form 8-K, whether as a result of new information,
+future events or otherwise, except to the extent legally required. SIGNATURE Pursuant to the requirements of the
+Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+                                                            
+                             DOORDASH, INC.                 
+  Date: May 6, 2025  By:     /s/ Tia Sherringham            
+ ────────────────────────────────────────────────────────── 
+                     Name:   Tia Sherringham                
+                     Title:  General Counsel and Secretary  
+                                                            

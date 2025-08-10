@@ -1,0 +1,27 @@
+{
+  "JPMorgan Chase & Co.": {
+    "2025": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "On April 10, 2025, JPMorgan Chase & Co. (the “Company”) filed with the Securities and Exchange Commission a prospectus supplement dated April 10, 2025 (the “Prospectus Supplement”) related to the JPMorgan Chase & Co. Dividend Reinvestment Plan (the “Plan”). In connection with the filing of the Prospectus Supplement, Morgan, Lewis & Bockius LLP delivered a legality opinion, a copy of which is attached hereto as Exhibit 5.1, with respect to the shares of common stock, par value $1.00 per share, of the Company that may be offered and sold from time to time under the Plan.",
+              "subsections": {}
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "Financial Statements and Exhibits.",
+              "subsections": {
+                "(d) Exhibits": "5.1 Opinion of Morgan, Lewis & Bockius LLP.\n23.1 Consent of Morgan, Lewis & Bockius LLP (included as part of Exhibit 5.1).\n101 Pursuant to Rule 406 of Regulation S-T, the cover page is formatted in Inline XBRL (eXtensible Business Reporting Language).\n104 Cover Page Interactive Data File (embedded within the Inline XBRL document and included in Exhibit 101)."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "ROKU, INC.": {
+    "2022": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.02 - Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers": {
+              "content": "On October 31, 2022, Steve Louden, Chief Financial Officer of Roku, Inc. (the “Company”), advised us that after helping us recruit and transition his role to a successor he plans to leave the Company. We expect this transition to take place sometime in 2023, and will commence an executive search to identify Mr. Louden’s successor.",
+              "subsections": {}
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits.",
+              "subsections": {
+                "exhibit_list": "Exhibit Number: 104, Description: Cover Page Interactive Data File (embedded within the Inline XBRL document)"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

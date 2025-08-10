@@ -1,0 +1,44 @@
+{
+  "Facebook, Inc.": {
+    "2021": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 2 - Financial Information": {
+          "ITEMS": {
+            "Item 2.02 - Results of Operations and Financial Condition": {
+              "content": "On January 27, 2021, Facebook, Inc. (\"Facebook\") issued a press release and will hold a conference call regarding its financial results for the quarter and full year ended December 31, 2020. A copy of the press release is furnished as Exhibit 99.1 to this report. The information furnished with this Item 2.02, including Exhibit 99.1, shall not be deemed \"filed\" for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the \"Exchange Act\"), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any other filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing. Facebook is making reference to non-GAAP financial information in both the press release and the conference call. A reconciliation of GAAP to non-GAAP results is provided in the attached Exhibit 99.1 press release. Facebook uses the investor.fb.com and newsroom.fb.com websites as well as Mark Zuckerberg's Facebook Page (https://www.facebook.com/zuck) as means of disclosing material non-public information and for complying with its disclosure obligations under Regulation FD.",
+              "subsections": {
+                "announcement_details": "On January 27, 2021, Facebook, Inc. (\"Facebook\") issued a press release and will hold a conference call regarding its financial results for the quarter and full year ended December 31, 2020. A copy of the press release is furnished as Exhibit 99.1 to this report.",
+                "filing_status": "The information furnished with this Item 2.02, including Exhibit 99.1, shall not be deemed \"filed\" for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the \"Exchange Act\"), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any other filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing.",
+                "non_gaap_disclosure": "Facebook is making reference to non-GAAP financial information in both the press release and the conference call. A reconciliation of GAAP to non-GAAP results is provided in the attached Exhibit 99.1 press release.",
+                "regulation_fd_compliance": "Facebook uses the investor.fb.com and newsroom.fb.com websites as well as Mark Zuckerberg's Facebook Page (https://www.facebook.com/zuck) as means of disclosing material non-public information and for complying with its disclosure obligations under Regulation FD."
+              }
+            }
+          }
+        },
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "Facebook's board of directors has authorized a share repurchase program of its Class A common stock, which commenced in 2017 and does not have an expiration date. As of December 31, 2020, $8.6 billion remained available and authorized for repurchases under the program. On January 27, 2021, Facebook announced an increase of $25 billion in the amount authorized for repurchases under the program. The timing and actual number of shares repurchased under the program depend on a variety of factors, including price, general business and market conditions, and other investment opportunities. Shares may be repurchased through open market purchases or privately negotiated transactions, including through the use of trading plans intended to qualify under Rule 10b5-1 under the Exchange Act.",
+              "subsections": {
+                "program_authorization": "Facebook's board of directors has authorized a share repurchase program of its Class A common stock, which commenced in 2017 and does not have an expiration date.",
+                "program_status_and_increase": "As of December 31, 2020, $8.6 billion remained available and authorized for repurchases under the program. On January 27, 2021, Facebook announced an increase of $25 billion in the amount authorized for repurchases under the program.",
+                "repurchase_conditions": "The timing and actual number of shares repurchased under the program depend on a variety of factors, including price, general business and market conditions, and other investment opportunities. Shares may be repurchased through open market purchases or privately negotiated transactions, including through the use of trading plans intended to qualify under Rule 10b5-1 under the Exchange Act."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits",
+              "subsections": {
+                "exhibits_list": "Exhibit 99.1: Press release dated January 27, 2021. Exhibit 104: Cover Page Interactive Data File (the cover page XBRL tags are embedded within the inline XBRL document)."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

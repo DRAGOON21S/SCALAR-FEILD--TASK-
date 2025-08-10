@@ -1,0 +1,233 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to Section
+13 or 15(d) of the Securities Exchange Act of 1934 Date of Report (Date of earliest event reported): July 19, 2021 
+( July 16, 2021) Zoom Video Communications, Inc. (Exact name of Registrant as Specified in Its Charter)            
+                                                                                 
+  Delaware                        001-38865                  61-1648780          
+  (State or Other Jurisdiction    -Commission File Number    -IRS Employer       
+  of Incorporation)                                          Identification No.  
+                                                                                 
+55 Almaden Boulevard, 6th Floor San Jose, California 95113 (Address of principal executive offices and Zip Code)   
+(888) 799-9666 (Registrant’s Telephone Number, Including Area Code) Not Applicable (Former Name or Former Address, 
+if Changed Since Last Report) Check the appropriate box below if the Form 8-Kfiling is intended to simultaneously  
+satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2.
+below):                                                                                                            
+                                                                                            
+  ☒  Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)  
+                                                                                            
+                                                                                             
+  ☐  Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  
+                                                                                             
+                                                                                                             
+  ☐  Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  
+                                                                                                             
+                                                                                                             
+  ☐  Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  
+                                                                                                             
+Securities registered pursuant to Section 12(b) of the Act:                                                        
+                                                                                                            
+  Title of each class                       Trading Symbol(s)    Name of each exchange on which registered  
+  Class A Common Stock, $0.001 par value    ZM                   The Nasdaq Global Select Market            
+  per share                                                                                                 
+                                                                                                            
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the          
+Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2of the Securities Exchange Act of 1934 (§240.12b-2of
+this chapter). Emerging growth company ☐ If an emerging growth company, indicate by check mark if the registrant   
+has elected not to use the extended transition period for complying with any new or revised financial accounting   
+standards provided pursuant to Section 13(a) of the Exchange Act. ☐                                                
+                                                           
+  Item 1.01.  Entry into a Material Definitive Agreement.  
+                                                           
+Merger Agreement with Five9, Inc. On July 16, 2021, Zoom Video Communications, Inc., a Delaware corporation        
+(“Zoom”) entered into an Agreement and Plan of Merger (the “Merger Agreement”) by and among Zoom, Five9, Inc., a   
+Delaware corporation (“Five9”) and Summer Merger Sub, Inc., a Delaware corporation and a direct, wholly owned      
+subsidiary of Zoom (“Merger Sub”). Pursuant to the Merger Agreement, and upon the terms and subject to the         
+conditions therein, at the effective time of the Merger (the “Effective Time”), Merger Sub will merge with and into
+Five9 (the “Merger”), with Five9 surviving the Merger and continuing as a wholly owned subsidiary of Zoom (Five9,  
+as the surviving entity of the Merger, the “Surviving Corporation”). The Merger Agreement and the consummation of  
+the transactions contemplated thereby have been approved by each of the Five9 board of directors and the Zoom board
+of directors, and the Five9 board of directors has resolved to recommend to the stockholders of Five9 to approve   
+the transactions contemplated by the Merger Agreement, including the Merger, and adopt the Merger Agreement,       
+subject to its terms and conditions. Consideration to Five9 Stockholders. Subject to the terms and conditions of   
+the Merger Agreement, at the Effective Time, each issued and outstanding share of common stock, par value $0.001   
+per share, of Five9 (“Five9 Common Stock”) (other than shares of Five9 Common Stock held by Zoom, Five9 or their   
+respective subsidiaries immediately prior to the Effective Time) will be cancelled and automatically converted into
+the right to receive 0.5533 shares of class A common stock, par value $0.001 per share of Zoom (“Zoom Class A      
+Common Stock”), without interest (the “Merger Consideration”) and, if applicable, an amount in cash, rounded down  
+to the nearest cent, in lieu of any fractional share interest in Zoom Class A Common Stock to which such holder    
+otherwise would have been entitled. The shares of Zoom Class A Common Stock to be issued in connection with the    
+Merger will be listed on The Nasdaq Global Select Market (“Nasdaq”). The Merger is intended to qualify as a        
+reorganization for U.S. federal income tax purposes. Treatment of Five9 Equity Awards.The Merger Agreement provides
+that, at the Effective Time:                                                                                       
+                                                                                                                   
+       Each option (whether vested or unvested) to purchase Five9 Common Stock held by any former employee of      
+       Five9 or a subsidiary of Five9 or any non-employee director of Five9 will be automatically cancelled and    
+  •    such holders will be entitled to receive the Merger Consideration in respect of each “net share” covered    
+       by such option (as determined in accordance with the formula in the Merger Agreement), less applicable      
+       withholding of taxes.                                                                                       
+                                                                                                                   
+                                                                                                                   
+       Each restricted stock unit award relating to shares of Five9 common stock held by any non-employee          
+  •    director of Five9 will vest and be automatically cancelled and such holders will be entitled to receive     
+       the Merger Consideration in respect of each share of Five9 Common Stock covered by such restricted stock    
+       unit.                                                                                                       
+                                                                                                                   
+                                                                                                                   
+       All other options and restricted stock units relating to Five9 Common Stock other than those held by        
+  •    former employees and non-employee directors of Five9 or a subsidiary of Five9 will be assumed by Zoom and   
+       converted automatically into corresponding awards relating to Zoom Class A Common Stock in accordance with  
+       the terms set forth in the Merger Agreement.                                                                
+                                                                                                                   
+Conditions to Closing. Under the terms of the Merger Agreement, the completion of the Merger is subject to certain 
+customary closing conditions, including, among others: (i) the approval of the Merger and adoption of the Merger   
+Agreement by the affirmative vote of the holders of at least a majority of the outstanding shares of Five9 Common  
+Stock entitled to vote thereon; (ii) the approval for listing on Nasdaq of the Zoom Class A Common Stock to be     
+issued in the Merger; (iii) the effectiveness of a registration statement on Form S-4filed by Zoom registering the 
+Zoom Class A Common Stock to be issued in connection with the Merger; (iv) the accuracy of the parties’ respective 
+representations and warranties in the Merger Agreement, subject to specified materiality qualifications; (v)       
+compliance by the parties with their respective covenants in the Merger Agreement in all material respects; (vi)   
+the absence of any law or order restraining, enjoining or otherwise prohibiting the consummation of the Merger;    
+(vii) the expiration or termination of the required waiting period applicable to the Merger under the Hart-Scott-  
+Rodino Antitrust Improvements Act of 1976, as amended, and the receipt of all other required pre-closingapprovals, 
+consents or clearances under antitrust laws of certain specified jurisdictions or in connection with certain       
+telecommunications laws; (viii) the receipt by each party of opinions to the effect that the Merger will qualify as
+a reorganization for U.S. federal income tax purposes; and (ix) the absence of a material adverse effect with      
+respect to Five9 and its subsidiaries on or after the date of the Merger Agreement that is continuing as of        
+immediately prior to the closing.                                                                                  
+                                                                                                                   
+Representations, Warranties and Covenants. The Merger Agreement contains customary representations, warranties and 
+covenants made by each of Zoom, Merger Sub and Five9, including, among others, the covenants regarding the conduct 
+of their respective businesses during the pendency of the transactions contemplated by the Merger Agreement, public
+disclosures and other matters. Five9 is required, among other things, not to solicit alternative business          
+combination transactions and, subject to certain exceptions, not to engage in discussions or negotiations regarding
+an alternative business combination transaction. Termination Rights. Each of Zoom and Five9 may terminate the      
+Merger Agreement under certain specified circumstances, including (i) if the Merger is not consummated on or before
+January 16, 2022, subject to two extensions of three months each in order to obtain required regulatory (including 
+telecommunications-related) approvals and one additional extension of three months in order to obtain certain      
+required telecommunications-related approvals, (ii) if the approval of the Five9 stockholders is not obtained, and 
+(iii) if Five9’s board of directors makes an adverse recommendation change with respect to the proposed transaction
+or to enter into a superior acquisition proposal. In certain circumstances in connection with the termination of   
+the Merger Agreement, including if Five9’s board of directors changes or withdraws its recommendation of the Merger
+to its stockholders or terminates the Merger Agreement to enter into an agreement with respect to a “superior      
+proposal,” Five9 will be required to pay Zoom a termination fee of $450 million in cash. The foregoing description 
+of the Merger Agreement does not purport to be complete and is qualified in its entirety by the full text of the   
+Merger Agreement, a copy of which is filed as Exhibit 2.1 hereto and is incorporated by reference herein. The      
+Merger Agreement has been attached to provide investors with information regarding its terms. It is not intended to
+provide any other factual information about Zoom, Merger Sub or Five9. In particular, the representations,         
+warranties and covenants of each party set forth in the Merger Agreement have been made only for the purposes of,  
+and were and are solely for the benefit of the parties to, the Merger Agreement, may be subject to limitations     
+agreed upon by the contracting parties, including being qualified by confidential disclosure letters made for the  
+purposes of allocating contractual risk between the parties to the Merger Agreement instead of establishing these  
+matters as facts, and may be subject to standards of materiality applicable to the contracting parties that differ 
+from those applicable to investors. Accordingly, the Merger Agreement is included with this filing only to provide 
+investors with information regarding the terms of the Merger Agreement and not to provide investors with any other 
+factual information regarding the parties or their respective businesses. These confidential disclosure letters    
+contain information that modifies, qualifies and creates exceptions to the representations and warranties and      
+certain covenants set forth in the Merger Agreement.                                                               
+                             
+  Item 8.01.  Other Events.  
+                             
+On July 18, 2021, Zoom and Five9 issued a joint press release announcing the execution of the Merger Agreement. A  
+copy of the press release is furnished as Exhibit 99.1 hereto and is incorporated herein by reference. Additional  
+Information and Where to Find It In connection with the proposed merger, Zoom intends to file with the SEC a       
+registration statement on Form S-4,which will include a document that serves as a prospectus of Zoom and a proxy   
+statement of Five9 (the “proxy statement/prospectus”). After the registration statement has been declared effective
+by the SEC, the proxy statement/prospectus will be delivered to stockholders of Five9. BEFORE MAKING ANY VOTING OR 
+INVESTMENT DECISION, SECURITY HOLDERS OF ZOOM AND FIVE9 ARE URGED TO READ THE PROXY STATEMENT/PROSPECTUS (INCLUDING
+ALL AMENDMENTS AND SUPPLEMENTS THERETO) AND OTHER DOCUMENTS RELATING TO THE MERGER THAT WILL BE FILED WITH THE SEC 
+WHEN THEY BECOME AVAILABLE BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION ABOUT THE PROPOSED MERGER. Investors and
+security holders will be able to obtain copies of the proxy statement/prospectus (when available) and other        
+documents filed by Zoom and Five9 with the SEC, without charge, through the website maintained by the SEC at       
+http://www.sec.gov. Copies of the documents filed with the SEC by Zoom will be available free of charge under the  
+SEC Filings heading of the Investor Relations section of Zoom’s website at https://investors.Zoom.us/. Copies of   
+the documents filed with the SEC by Five9 will be available free of charge under the Financials & Filings heading  
+of the Investor Relations section of Five9’s website at https://investors.Five9.com/. Forward-Looking Statements   
+This communication contains forward-looking information related to Zoom, Five9 and the acquisition of Five9 by Zoom
+that involves substantial risks, uncertainties and assumptions that could cause actual results to differ materially
+from those expressed or implied by such statements. Forward-looking statements in this communication include, among
+other things, statements about the potential benefits of the proposed transaction for Zoom, Five9 and their        
+respective customers, Zoom’s plans, objectives, expectations and intentions with respect to the combined company,  
+the size of the opportunity for Zoom in contact centers, the financial condition, results of operations and        
+business of Zoom or Five9, and the anticipated timing of closing of the proposed transaction.                      
+                                                                                                                   
+Risks and uncertainties include, among other things, risks related to the ability of Zoom to consummate the        
+proposed transaction on a timely basis or at all; Zoom’s ability to successfully integrate Five9’s operations and  
+personnel; Zoom’s ability to implement its plan, forecasts and other expectations with respect to Five9’s business 
+after the completion of the transaction and realize expected synergies; the satisfaction of the conditions         
+precedent to consummation of the proposed transaction; Zoom’s ability to secure regulatory approvals on the terms  
+expected in a timely manner or at all, especially in light of recent regulatory developments in the United States  
+and elsewhere; the ability to realize the anticipated benefits of the proposed transaction, including the          
+possibility that the expected benefits from the proposed transaction will not be realized or will not be realized  
+within the expected time period; disruption from the transaction making it more difficult to maintain business and 
+operational relationships; any negative effects of the announcement or the consummation of the proposed transaction
+on the market price of Zoom’s Class A common stock or on Zoom’s operating results; the impact of significant       
+transaction costs and unknown liabilities on Zoom’s operating results; the risk of litigation and/or regulatory    
+actions related to the proposed transaction; the exertion of management’s time and Zoom’s resources, and other     
+expenses incurred in connection with any regulatory or governmental consents or approvals for the transaction; the 
+possibility that competing offers will be made to acquire Five9; the effect of the announcement or pendency of the 
+transaction on Zoom and Five9’s business relationships, operating results, and business generally; the impact of   
+the COVID-19 pandemic and related public health measures on Zoom and Five9’s businesses and general economic       
+conditions; the impact of geopolitical events; Zoom’s service performance and security, including the resources and
+costs required to avoid unanticipated downtime and prevent, detect and remediate potential security breaches;      
+cyberattacks and security vulnerabilities that could lead to reduced revenue, increased costs, liability claims, or
+harm to Zoom’s reputation or competitive position; excessive outages and disruptions to Zoom’s online services if  
+Zoom fails to maintain an adequate operations infrastructure; competitive factors, including new market entrants   
+and changes in the competitive environment and increased competition; customer demand for Zoom’s products and      
+services; Zoom and Five9’s ability to attract, integrate and retain qualified personnel; Zoom’s ability to protect 
+its intellectual property rights and develop its brand; Zoom’s ability to develop new services and product         
+features; Zoom’s operating results and cash flow; the impact of the transaction on Zoom’s strategy of acquiring or 
+making investments in complementary businesses, joint ventures, services, technologies and intellectual property   
+rights; changes in tax and other laws, regulations, rates and policies; and the impact of new accounting           
+pronouncements.                                                                                                    
+                                                                                                                   
+These risks, as well as other risks related to the proposed transaction, will be described in the registration     
+statement on Form S-4 and proxy statement/prospectus that will be filed with the SEC in connection with the        
+proposed transaction. While the list of factors presented here is, and the list of factors to be presented in the  
+registration statement on Form S-4 are, considered representative, no such list should be considered to be a       
+complete statement of all potential risks and uncertainties. For additional information about other factors that   
+could cause actual results to differ materially from those described in the forward-looking statements, please     
+refer to Zoom’s and Five9’s respective periodic reports and other filings with the SEC, including the risk factors 
+identified in Zoom’s and Five9’s most recent Quarterly Reports on Form 10-Q and Annual Reports on Form 10-K.       
+                                                                                                                   
+The forward-looking statements included in this communication are made only as of the date hereof. Zoom assumes no 
+obligation and does not intend to update these forward-looking statements, except as required by law.              
+                                                                                                                   
+Participants in the Solicitation                                                                                   
+                                                                                                                   
+Zoom and Five9 and their respective directors and executive officers may be deemed to be participants in the       
+solicitation of proxies in respect of the proposed transaction. Information about Zoom’s directors and executive   
+officers is set forth in Zoom’s Form 10-K for the year ended January 31, 2021 and the proxy statement for Zoom’s   
+2021 Annual Meeting of Stockholders, which were filed with the SEC on March 18, 2021 and May 5, 2021, respectively.
+Information about Five9’s directors and executive officers is set forth in Five9’s Form 10-K for the year ended    
+December 31, 2020 and the proxy statement for Five9’s 2021 Annual Meeting of Stockholders, which were filed with   
+the SEC on March 1, 2021 and March 29, 2021, respectively. Stockholders may obtain additional information regarding
+the interests of such participants by reading the registration statement and the proxy statement/prospectus and    
+other relevant materials to be filed with the SEC regarding the proposed merger when they become available.        
+Investors should read the proxy statement/prospectus carefully when it becomes available before making any voting  
+or investment decisions.                                                                                           
+                                                                                                                   
+No Offer or Solicitation                                                                                           
+                                                                                                                   
+This communication shall not constitute an offer to sell or the solicitation of an offer to buy any securities or a
+solicitation of any vote or approval, nor shall there be any sale of securities in any jurisdiction in which such  
+offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of  
+any such jurisdiction. No offering of securities shall be made except by means of a prospectus meeting the         
+requirements of Section 10 of the Securities Act of 1933, as amended.                                              
+                                                                                                                   
+  Item 9.01Financial Statements and Exhibits.(d) ExhibitsExhibitNumberDescription2.1*Agreement and Plan of         
+  Merger, dated as of July 16, 2021, by and among Zoom Video Communications, Inc., Five9, Inc. and Summer Merger   
+  Sub, Inc.99.1Joint Press Release dated July 18, 2021104Cover Page Interactive Data File (embedded within the     
+  Inline XBRL document)*Schedules omitted pursuant to Item 601(b)(2) of RegulationS-K.Zoom Video Communications,   
+  Inc. agrees to furnish supplementally a copy of any omitted schedule to the SEC upon request; provided,          
+  however, that Zoom Video Communications, Inc. may request confidential treatment pursuant to Rule24b-2of the     
+  Securities Exchange Act of 1934, as amended, for any schedules so furnished.                                     
+                                                                                                                   
+SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly
+caused this report to be signed on its behalf by the undersigned hereunto duly authorized.                         
+                                                                                    
+                               Zoom Video Communications,  /s/ Kelly S.             
+  Dated: July 19, 2021    By:  Inc.                        Steckelberg              
+ ────────────────────────────────────────────────────────────────────────────────── 
+                                                           Kelly Steckelberg        
+                                                           Chief Financial Officer  
+                                                                                    
+[ Signature Page to Signing 8-K]                                                                                   

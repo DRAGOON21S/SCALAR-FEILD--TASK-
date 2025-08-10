@@ -1,0 +1,94 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to Section
+13 or 15(d) of the Securities Exchange Act of 1934 Date of Report (Date of earliest event reported): September 16,
+2024 Roku, Inc. (Exact Name of Registrant as Specified in its Charter)
+                                                                                              
+  Delaware                         001-38211                26-2087865                        
+  (State or Other Jurisdiction of  -Commission File Number  -IRS Employer Identification No.  
+  Incorporation)                                                                              
+                                                                                              
+                                                         
+  1173 Coleman Ave                                95110  
+  San Jose,California                                    
+  (Address of Principal Executive Offices)    -Zip Code  
+                                                         
+( 408) 556-9040 Registrant’s Telephone Number, Including Area Code Not Applicable (Former Name or Former Address,
+if Changed Since Last Report) Check the appropriate box below if the Form 8-K filing is intended to simultaneously
+satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions
+A.2. below):
+                                                                                            
+  ☐  Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)  
+                                                                                            
+                                                                                             
+  ☐  Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  
+                                                                                             
+                                                                                                             
+  ☐  Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  
+                                                                                                             
+                                                                                                             
+  ☐  Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  
+                                                                                                             
+Securities registered pursuant to Section 12(b) of the Act:
+                                                                                                         
+  Title of each class                      Trading Symbol(s)  Name of each exchange on which registered  
+  Class A Common Stock, $0.0001 par value  ROKU               The Nasdaq Global Select Market            
+                                                                                                         
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the
+Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§
+240.12b-2 of this chapter). Emerging growth company ☐ If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+                                                          
+  Item 1.01  Entry into a Material Definitive Agreement.  
+                                                          
+Credit Agreement On September 16, 2024, Roku, Inc. (“ Roku ”) entered into a credit agreement (the “ Credit
+Agreement”), by and among Roku, as borrower, Purple Tag Enterprises, LLC, Purple Tag Originals, LLC, This Old House
+Productions, LLC and This Old House Ventures, LLC, as guarantors, the lenders and issuing banks party thereto, and
+Citibank N.A., as administrative agent. The Credit Agreement provides for a five-year revolving credit facility in
+an aggregate principal amount of up to $300 million, and includes an uncommitted increase option of up to an
+additional $300 million exercisable upon the satisfaction of certain customary conditions. The Credit Agreement
+provides for a $100 million sub-facility for the issuance of letters of credit and certain existing letters of
+credit will be deemed outstanding under this facility. The Credit Agreement will mature on September 16, 2029 (the
+“ Termination Date”). Extensions of credit under the Credit Agreement may be used for general corporate purposes,
+including to finance working capital requirements. The Credit Agreement contains financial covenants requiring the
+maintenance of a minimum interest coverage ratio and a maximum total net leverage ratio, as well as customary
+events of default, the occurrence of which could result in amounts borrowed under the Credit Agreement becoming due
+and payable and remaining commitments terminated prior to the Termination Date. The Credit Agreement also contains
+a number of customary affirmative and negative covenants that, among other things, impose restrictions, subject to
+certain exceptions, on indebtedness, liens, fundamental changes, investments, asset dispositions, restricted
+payments, dividends and distributions, prepayment of other indebtedness, transactions with affiliates, restrictive
+agreements, amendments of material documents, and the abandonment of intellectual property. The obligations under
+the Credit Agreement, along with certain swap and banking services obligations, are secured by substantially all
+the assets of Roku and its subsidiaries that are guarantors under the Credit Agreement, except for certain
+customary excluded assets. Certain lenders under the Credit Agreement and their affiliates have, from time to time,
+provided investment banking, commercial banking, advisory and other services to Roku and/or its affiliates for
+which they have received customary fees and commissions and such lenders and their affiliates may provide these
+services from time to time in the future. A copy of the Credit Agreement is attached hereto as Exhibit 10.1 and is
+incorporated herein by reference. The description of the Credit Agreement in this report is a summary and is
+qualified in its entirety by the terms of the Credit Agreement attached hereto.
+                                                                                                                   
+  Item 2.03  Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of  
+             a Registrant.                                                                                         
+                                                                                                                   
+(a) Creation of a Direct Financial Obligation. The information set forth under Item 1.01 of this Current Report on
+Form 8-K is incorporated herein by reference.
+                                                 
+  Item 9.01  Financial Statements and Exhibits.  
+                                                 
+                                                                                                                   
+                  Exhibits.                                                                                        
+                  Description                                                                                      
+  (d)             Credit Agreement, dated as of                                                                    
+  Exhibit Number  September 16, 2024, amongRoku, Inc., as borrower, Citibank N.A., as administrative agent, and    
+  10.1            the other credit parties and lenders party thereto                                               
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
+  104             Cover Page Interactive Data File (embedded within the Inline XBRL document)                      
+                                                                                                                   
+SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this
+report to be signed on its behalf by the undersigned hereunto duly authorized.
+                                                          
+                                 Roku, Inc.               
+  Date: September 17, 2024  By:  /s/ Dan Jedda            
+ ──────────────────────────────────────────────────────── 
+                                 Dan Jedda                
+                                 Chief Financial Officer  
+                                                          

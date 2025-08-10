@@ -1,0 +1,49 @@
+{
+  "DOORDASH, INC.": {
+    "2021": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 2 - Financial Information": {
+          "ITEMS": {
+            "Item 2.02 - Results of Operations and Financial Condition": {
+              "content": "On May 13, 2021, DoorDash, Inc. ('DoorDash') released its financial results for the quarter ended March 31, 2021 by its Letter to Shareholders. A copy of the Letter to Shareholders is attached as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference.",
+              "subsections": {
+                "Non-Filing Status": "The information in Item 2.02 and Item 7.01 of this Current Report on Form 8-K, and Exhibit 99.1 attached hereto, shall not be deemed 'filed' for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the 'Exchange Act') or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing."
+              }
+            }
+          }
+        },
+        "Section 7 - Regulation FD": {
+          "ITEMS": {
+            "Item 7.01 - Regulation FD Disclosure": {
+              "content": "On May 13, 2021, DoorDash posted supplemental investor materials on the investor relations section of its website (ir.doordash.com). DoorDash announces material information to the public about DoorDash, its products and services, and other matters through a variety of means, including filings with the Securities and Exchange Commission, press releases, public conference calls, webcasts, the investor relations section of its website (ir.doordash.com), its blog (blog.doordash.com) and its Twitter account (@DoorDash) in order to achieve broad, non-exclusionary distribution of information to the public and for complying with its disclosure obligations under Regulation FD.",
+              "subsections": {
+                "Non-Filing Status": "The information in Item 2.02 and Item 7.01 of this Current Report on Form 8-K, and Exhibit 99.1 attached hereto, shall not be deemed 'filed' for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the 'Exchange Act') or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing."
+              }
+            }
+          }
+        },
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "In connection with the initial public offering of shares of DoorDash’s Class A common stock (the 'Common Stock'), DoorDash’s executive officers, directors, and holders of a substantial majority of the Common Stock and securities convertible into the Common Stock (collectively, the 'Shares') entered into lock-up agreements with the underwriters that restrict their ability to sell or transfer their Shares, or otherwise engage in certain transactions related to their Shares, for a period of 180 days after December 8, 2020, subject to certain exceptions (such period, the 'restricted period').",
+              "subsections": {
+                "End of Restricted Period": "In accordance with DoorDash’s release of its financial results for the quarter ended March 31, 2021 on May 13, 2021, the restricted period shall end as to all Shares at the opening of trading on May 18, 2021 (subject to trading limitations on Shares held by affiliates of DoorDash, continued vesting of any unvested equity awards as of such date, and DoorDash’s insider trading policy)."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits.",
+              "subsections": {
+                "Exhibit List": "Exhibit 99.1: Letter to Shareholders dated May 13, 2021"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

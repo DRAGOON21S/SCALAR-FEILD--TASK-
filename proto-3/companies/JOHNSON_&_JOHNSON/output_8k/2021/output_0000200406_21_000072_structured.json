@@ -1,0 +1,28 @@
+{
+  "Johnson & Johnson": {
+    "2021": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "On November 12, 2021, Johnson & Johnson (the “Company”) issued a press release announcing its intent to separate the Company's Consumer Health business. A copy of the Company's press release is attached to this Current Report on Form 8-K as Exhibit 99.1.",
+              "subsections": {}
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits.",
+              "subsections": {
+                "Exhibit 99.1": "Press Release dated November 12, 2021",
+                "Exhibit 104": "The cover page from this Current Report on Form 8-K, formatted in Inline XBRL."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

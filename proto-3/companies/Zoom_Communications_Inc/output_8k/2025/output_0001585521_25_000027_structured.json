@@ -1,0 +1,29 @@
+{
+  "Zoom Communications, Inc.": {
+    "2025": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 2 - Financial Information": {
+          "ITEMS": {
+            "Item 2.02 - Results of Operations and Financial Condition": {
+              "content": "On February 24, 2025, Zoom Communications, Inc. (the “Company”) issued a press release announcing its financial results for the three months and the fiscal year ended January 31, 2025. A copy of the press release is furnished as Exhibit 99.1 to this report and is incorporated by reference.",
+              "subsections": {
+                "filing_status": "The information contained in this report, including Exhibit 99.1 attached hereto, is furnished and shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or subject to the liabilities of that section. The information shall not be deemed incorporated by reference into any other filing with the Securities and Exchange Commission made by the Company regardless of any general incorporation language in such filing, except as shall be expressly set forth by specific reference in such filing."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits",
+              "subsections": {
+                "exhibits_list": "Exhibit No. 99.1: Press release dated February 24, 2025of ZoomCommunications, Inc.\nExhibit No. 104: Cover Page Interactive Data File (embedded within the Inline XBRL document)"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

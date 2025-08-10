@@ -1,0 +1,18 @@
+2025-08-09 17:59:30,414 - INFO - Scanning for 10-K files in: C:\Users\shrey\Desktop\ScalerField-Quant\proto-3\companies
+2025-08-09 17:59:30,415 - INFO - Processing company: Apple_Inc
+2025-08-09 17:59:30,416 - INFO - Processing company: DoorDash_Inc
+2025-08-09 17:59:30,418 - INFO - Processing company: JOHNSON_&_JOHNSON
+2025-08-09 17:59:30,419 - INFO - Processing company: JPMORGAN_CHASE_&_CO
+2025-08-09 17:59:30,421 - INFO - Processing company: Meta_Platforms_Inc
+2025-08-09 17:59:30,422 - INFO - Processing company: MICROSOFT_CORP
+2025-08-09 17:59:30,423 - INFO - Processing company: NVIDIA_CORP
+2025-08-09 17:59:30,425 - INFO - Processing company: ROKU_INC
+2025-08-09 17:59:30,426 - INFO - Processing company: UNITEDHEALTH_GROUP_INC
+2025-08-09 17:59:30,427 - INFO - Processing company: Zoom_Communications_Inc
+2025-08-09 17:59:30,429 - INFO - Found 45 10-K files to process
+2025-08-09 17:59:30,430 - INFO - Starting processing of 45 files with 1 workers
+2025-08-09 17:59:30,430 - INFO - Processing: Apple_Inc/2020/output_0000320193_20_000096.txt
+2025-08-09 18:05:51,894 - INFO - Progress: 1/45 (2.2%) - Success: 0, Failed: 1
+2025-08-09 18:05:51,894 - INFO - Processing: Apple_Inc/2021/output_0000320193_21_000105.txt
+2025-08-09 18:12:44,513 - INFO - Progress: 2/45 (4.4%) - Success: 0, Failed: 2
+2025-08-09 18:12:44,513 - INFO - Processing: Apple_Inc/2022/output_0000320193_22_000108.txt

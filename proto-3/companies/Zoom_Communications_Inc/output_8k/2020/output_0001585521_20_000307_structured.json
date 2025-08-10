@@ -1,0 +1,27 @@
+{
+  "Zoom Video Communications, Inc.": {
+    "2020": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "On December 18, 2020, Zoom Video Communications, Inc. (the “Company”) issued a blog post regarding the announcement by the United States Department of Justice that a former employee of the Company has been charged with conspiracy to commit interstate harassment and unlawful conspiracy to transfer a means of identification in connection with an alleged scheme to disrupt video meetings commemorating Tiananmen Square . The Company also released its December 18, 2020 transparency report. Copies of the blog post and transparency report are attached hereto as Exhibits 99.1 and 99.2, respectively.",
+              "subsections": {}
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "",
+              "subsections": {
+                "Exhibits": "Exhibit No. 99.1: Blog post dated December 18, 2020. Exhibit No. 99.2: Transparency report dated December18, 2020."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Zoom Communications, Inc.": {
+    "2025": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "As previously reported, certain current and former officers and directors of Zoom Communications, Inc. (“Zoom” or the “Company”) have been named as defendants in a consolidated stockholder derivative action pending in the United States District Court for the District of Delaware (“Delaware District Court”), captioned In re Zoom Video Communications Inc. Stockholder Derivative Litigation, Case No. 1:20-cv-00797-GBW (“Consolidated Derivative Action”). On January 14, 2025, the parties in the Consolidated Derivative Action entered into a Stipulation of Settlement (“Stipulation”) to resolve the Consolidated Derivative Action (“Settlement”). The proposed Settlement of the Consolidated Derivative Action was filed in the Delaware District Court on January 16, 2025, and on April 16, 2025, the Delaware District Court entered an order preliminarily approving the Settlement. The Settlement remains subject to final approval by the Delaware District Court. Subject to final approval of the Settlement by the Delaware District Court, and in exchange for a release of all derivative claims and dismissal with prejudice of the Consolidated Derivative Action, the Company has agreed, without admission of wrongdoing or liability, (i) to enact certain corporate governance reforms as set forth in Exhibit A to the Stipulation, and (ii) not to oppose plaintiff’s counsel’s request for a fee award not to exceed $1.35 million. The foregoing summary description of the Stipulation is qualified in its entirety by the full text of the Stipulation, including all exhibits thereto, a copy of which is filed herewith as Exhibit 99.1.",
+              "subsections": {
+                "Use of Forward-Looking Statements": "This Current Report on Form 8-K contains forward-looking statements made pursuant to the “safe harbor” provisions of the Private Securities Litigation Reform Act of 1995. Such statements, include, without limitation, those regarding: (i) the Stipulation resolving the Consolidated Derivative Action; (ii) the ability to secure final approval of the Settlement from the Delaware District Court and to satisfy all conditions of the Settlement; and (iii) other statements that are not historical facts, and instead constitute forward-looking statements. These forward-looking statements involve risks and uncertainties that can cause actual results to differ materially from those in such forward-looking statements. These risks and uncertainties, include, without limitation, risks and uncertainties related to: (a) the Stipulation not having the expected impact, including resolving the Consolidated Derivative Action; (b) Zoom’s ability to satisfy all the conditions of the Settlement on the anticipated timeline or at all; (c) the Delaware District Court’s final approval of the Settlement on the anticipated timeline or at all; (d) the Settlement requiring more activity or expense than expected; (e) Zoom’s ability to overcome any objections or appeals regarding the Settlement; (f) the sufficiency of Zoom’s cash resources to enable it to satisfy its obligations under the Settlement; (g) Zoom’s ability to successfully implement the corporate governance reforms set forth in the Stipulation; and (h) satisfactory resolution of pending and any future litigation or other disagreements with others. Additional information on the above risks and uncertainties and additional risks, uncertainties and factors that could cause actual results to differ materially from those in the forward-looking statements are contained in Zoom’s filings and periodic reports filed with the Securities and Exchange Commission under the heading “Risk Factors” and elsewhere in such filings and reports, including Zoom’s Annual Report on Form 10-K for the fiscal year ended January 31, 2025, and future filings and reports by Zoom. Undue reliance should not be placed on forward-looking statements, which speak only as of the date they are made, and the facts and assumptions underlying the forward-looking statements may change. Except as required by law, Zoom disclaims any obligation to update these forward-looking statements to reflect future information, events, or circumstances."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits",
+              "subsections": {
+                "Exhibits": "Exhibit No. 99.1: Stipulation of Settlement\nExhibit No. 104: Cover Page Interactive Data File (embedded within the Inline XBRL document)"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

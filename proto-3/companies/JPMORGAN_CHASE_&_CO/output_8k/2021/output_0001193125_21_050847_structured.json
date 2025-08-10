@@ -1,0 +1,30 @@
+{
+  "JPMorgan Chase & Co.": {
+    "2021": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.02 - Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers": {
+              "content": "On February 22, 2021, JPMorgan Chase & Co. (“JPMorgan Chase” or the “Firm”) announced that, effective March 1, 2021, Elena Korablina, 47, has been appointed Corporate Controller (Principal Accounting Officer), replacing Nicole Giles, currently Corporate Controller of the Firm.",
+              "subsections": {
+                "New Appointee Background": "Ms. Korablina has worked at JPMorgan Chase for 22 years. Most recently she served, since 2018, as Chief Financial Officer of J.P. Morgan Global Markets. Prior to 2018, Ms. Korablina held a number of senior finance positions at the Firm, including EMEA Chief Financial Officer and EMEA Regional Controller.",
+                "Related Role Change": "Nicole Giles has been appointed Chief Financial Officer of the Corporate & Investment Bank."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "This section lists the financial statements and exhibits filed with this report.",
+              "subsections": {
+                "Exhibits": "(d) Exhibits. 101: Pursuant to Rule 406 of Regulation S-T, the cover page is formatted in Inline XBRL (Inline eXtensible Business Reporting Language). 104: Cover Page Interactive Data File (embedded within the Inline XBRL document and included in Exhibit 101)."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

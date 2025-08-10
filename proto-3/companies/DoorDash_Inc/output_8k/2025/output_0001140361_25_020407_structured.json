@@ -1,0 +1,32 @@
+{
+  "DOORDASH, INC.": {
+    "2025": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "On May 27, 2025, DoorDash, Inc. (the “Company”) issued a press release announcing its intention to offer, subject to market conditions and other factors, $2.0 billion aggregate principal amount of convertible senior notes due 2030 (the “notes”) in a private offering to qualified institutional buyers pursuant to Rule 144A under the U.S. Securities Act of 1933, as amended. A copy of the press release is attached hereto as Exhibit 99.1 and is incorporated herein by reference. Neither this Current Report on Form 8-K nor the press release attached hereto as Exhibit 99.1 constitutes an offer to sell, or the solicitation of an offer to buy, the notes or the shares of the Company’s Class A common stock, if any, issuable upon conversion of the notes.",
+              "subsections": {
+                "offering_announcement": "On May 27, 2025, DoorDash, Inc. announced its intention to offer, subject to market conditions and other factors, $2.0 billion aggregate principal amount of convertible senior notes due 2030 in a private offering to qualified institutional buyers pursuant to Rule 144A under the U.S. Securities Act of 1933, as amended.",
+                "exhibit_reference": "A copy of the press release is attached hereto as Exhibit 99.1 and is incorporated herein by reference.",
+                "disclaimer": "Neither this Current Report on Form 8-K nor the press release attached hereto as Exhibit 99.1 constitutes an offer to sell, or the solicitation of an offer to buy, the notes or the shares of the Company’s Class A common stock, if any, issuable upon conversion of the notes."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits. Exhibit No. Description 99.1 Press Release issued by DoorDash, Inc., dated May 27, 2025. 104 Cover Page Interactive Data File (embedded within the Inline XBRL document).",
+              "subsections": {
+                "exhibit_99_1": "Press Release issued by DoorDash, Inc., dated May 27, 2025.",
+                "exhibit_104": "Cover Page Interactive Data File (embedded within the Inline XBRL document)."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

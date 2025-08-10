@@ -1,0 +1,30 @@
+{
+  "ROKU, INC.": {
+    "2023": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 2 - Financial Information": {
+          "ITEMS": {
+            "Item 2.02 - Results of Operations and Financial Condition": {
+              "content": "On July 27, 2023, Roku, Inc. (the “Company”) announced its financial results for the quarter ended June 30, 2023. The Company’s Shareholder Letter, which is attached hereto as Exhibit 99.1, is incorporated herein by reference.",
+              "subsections": {
+                "Filing_Status": "The information in this report shall not be treated as “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, nor shall it be deemed incorporated by reference into any registration statement or other document pursuant to the Securities Act of 1933 or the Securities Exchange Act of 1934, except as expressly stated by specific reference in such filing."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits.",
+              "subsections": {
+                "Exhibits_List": "Exhibit Number 99.1*: Shareholder Letter dated July 27, 2023. Exhibit Number 104: Cover Page Interactive Data File (embedded within the Inline XBRL document).",
+                "Exhibit_Footnote": "* This exhibit is intended to be furnished and shall not be deemed “filed” for purposes of the Securities and Exchange Act of 1934."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

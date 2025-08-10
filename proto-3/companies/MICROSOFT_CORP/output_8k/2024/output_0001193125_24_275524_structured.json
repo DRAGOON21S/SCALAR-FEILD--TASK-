@@ -1,0 +1,40 @@
+{
+  "Microsoft Corporation": {
+    "2024": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.07 - Submission of Matters to a Vote of Security Holders": {
+              "content": "On December 10, 2024, Microsoft Corporation (the “Company” or “Microsoft”) held its 2024 Annual Shareholders Meeting (the “Annual Meeting”). The Company’s inspector of election certified the vote tabulations.",
+              "subsections": {
+                "Meeting Details": "There were 7,434,436,393 shares of common stock entitled to be voted at the Annual Meeting, of which 6,417,206,480 were voted in person or by proxy.",
+                "Summary of Voting Results": "The shareholders: (1) Voted to elect each of the 12 nominees for director. (2) Approved, on an advisory basis, the compensation of the Company’s named executive officers. (3) Voted to ratify the appointment of Deloitte & Touche LLP as the Company’s independent registered public accounting firm for fiscal year 2025. (4) Did not approve a shareholder proposal concerning a report on risks of weapons development. (5) Did not approve a shareholder proposal concerning an assessment of investing in bitcoin. (6) Did not approve a shareholder proposal concerning a report on data operations in human rights hotspots. (7) Did not approve a shareholder proposal concerning a report on artificial intelligence and machine learning tools for oil and gas development and production. (8) Did not approve a shareholder proposal concerning a report on artificial intelligence (“AI”) misinformation and disinformation. (9) Did not approve a shareholder proposal concerning a report on AI data sourcing accountability.",
+                "Election of Directors": "Reid G. Hoffman: Re-elected, 99.20% For, For: 5,148,624,453, Against: 41,556,212, Abstain: 8,911,649, Broker Non-Votes: 1,218,114,166. Hugh F. Johnston: Re-elected, 91.89% For, For: 4,768,792,470, Against: 420,605,495, Abstain: 9,694,349, Broker Non-Votes: 1,218,114,166. Teri L. List: Re-elected, 98.68% For, For: 5,120,774,949, Against: 68,560,265, Abstain: 9,757,100, Broker Non-Votes: 1,218,114,166. Catherine MacGregor: Re-elected, 99.83% For, For: 5,180,667,633, Against: 8,873,170, Abstain: 9,551,511, Broker Non-Votes: 1,218,114,166. Mark A. L. Mason: Re-elected, 99.59% For, For: 5,167,419,348, Against: 21,404,525, Abstain: 10,268,441, Broker Non-Votes: 1,218,114,166. Satya Nadella: Re-elected, 94.35% For, For: 4,878,901,541, Against: 291,907,066, Abstain: 28,283,707, Broker Non-Votes: 1,218,114,166. Sandra E. Peterson: Re-elected, 98.14% For, For: 5,092,981,786, Against: 96,435,357, Abstain: 9,675,171, Broker Non-Votes: 1,218,114,166. Penny S. Pritzker: Re-elected, 99.60% For, For: 5,170,315,477, Against: 20,548,862, Abstain: 8,227,975, Broker Non-Votes: 1,218,114,166. Carlos A. Rodriguez: Re-elected, 98.18% For, For: 5,094,003,865, Against: 94,407,242, Abstain: 10,681,207, Broker Non-Votes: 1,218,114,166. Charles W. Scharf: Re-elected, 98.26% For, For: 5,098,538,567, Against: 90,405,839, Abstain: 10,147,908, Broker Non-Votes: 1,218,114,166. John W. Stanton: Re-elected, 99.40% For, For: 5,158,411,139, Against: 30,890,450, Abstain: 9,790,725, Broker Non-Votes: 1,218,114,166. Emma N. Walmsley: Re-elected, 99.07% For, For: 5,141,345,085, Against: 48,471,729, Abstain: 9,275,500, Broker Non-Votes: 1,218,114,166.",
+                "Advisory Vote to Approve Named Executive Officer Compensation": "Vote result: Approved. % Votes For: 91.34. For: 4,727,655,048. Against: 448,256,975. Abstain: 23,180,291. Broker Non-Votes: 1,218,114,166.",
+                "Ratification of Appointment of Independent Auditor for Fiscal Year 2025": "Vote result: Approved. % Votes For: 94.32. For: 6,042,000,471. Against: 364,022,603. Abstain: 11,183,406. Broker Non-Votes: 0.",
+                "Shareholder Proposal: Report on Risks of Weapons Development": "Vote result: Not approved. % Votes For: 15.26. For: 783,837,170. Against: 4,353,192,956. Abstain: 62,062,188. Broker Non-Votes: 1,218,114,166.",
+                "Shareholder Proposal: Assessment of Investing in Bitcoin": "Vote result: Not approved. % Votes For: 0.55. For: 28,234,424. Against: 5,148,248,368. Abstain: 22,609,522. Broker Non-Votes: 1,218,114,166.",
+                "Shareholder Proposal: Report on Data Operations in Human Rights Hotspots": "Vote result: Not approved. % Votes For: 32.03. For: 1,647,287,434. Against: 3,495,428,268. Abstain: 56,376,612. Broker Non-Votes: 1,218,114,166.",
+                "Shareholder Proposal: Report on Artificial Intelligence and Machine Learning Tools for Oil and Gas Development and Production": "Vote result: Not approved. % Votes For: 9.71. For: 498,928,539. Against: 4,641,011,840. Abstain: 59,151,935. Broker Non-Votes: 1,218,114,166.",
+                "Shareholder Proposal: Report on AI Misinformation and Disinformation": "Vote result: Not approved. % Votes For: 18.67. For: 956,598,432. Against: 4,167,583,544. Abstain: 74,910,338. Broker Non-Votes: 1,218,114,166.",
+                "Shareholder Proposal: Report on AI Data Sourcing Accountability": "Vote result: Not approved. % Votes For: 36.19. For: 1,803,298,481. Against: 3,179,152,976. Abstain: 216,640,857. Broker Non-Votes: 1,218,114,166."
+              }
+            }
+          }
+        },
+        "Section 7 - Regulation FD": {
+          "ITEMS": {
+            "Item 7.01 - Regulation FD Disclosure": {
+              "content": "In January 2021, Microsoft announced a minority investment in Cruise, an autonomous vehicle company which is a majority-owned subsidiary of General Motors Company (“GM”). On December 10, 2024, GM announced its intent to realign its autonomous driving strategy, no longer fund Cruise’s robotaxi development work, and pursue the acquisition of minority investor shares. As a result, we expect to record an impairment charge of approximately $800 million in the second quarter of fiscal year 2025. This charge will be recorded in other income and expense and was not included in our second quarter guidance provided on October 30, 2024. It is estimated to have a negative impact of approximately $0.09 to second quarter diluted earnings per share.",
+              "subsections": {
+                "Forward-Looking Statements": "This Form 8-K contains forward-looking statements, which are any predictions, projections or other statements about future events based on current expectations and assumptions that are subject to risks and uncertainties, which are described in our filings with the Securities and Exchange Commission. Forward-looking statements speak only as of the date they are made. Readers are cautioned not to put undue reliance on forward-looking statements, and Microsoft undertakes no duty to update any forward-looking statement to conform the statement to actual results or changes in the company’s expectations.",
+                "Filing Status": "In accordance with General Instruction B.2 of Form 8-K, the information in Item 7.01 of this Current Report on Form 8-K shall not be deemed to be “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liability of that section, and shall not be incorporated by reference into any registration statement or other document filed under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such filing."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Johnson & Johnson": {
+    "2020": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "On August 20, 2020, Johnson & Johnson, a New Jersey corporation (the “Company”), entered into an underwriting agreement (the “Underwriting Agreement”) with BofA Securities, Inc. and J.P. Morgan Securities LLC, as representatives of the several Underwriters named therein (the “Underwriters”), pursuant to which the Company agreed to issue and sell to the Underwriters: (1) $1,000,000,000 aggregate principal amount of 0.550% Notes due 2025; (2) $1,500,000,000 aggregate principal amount of 0.950% Notes due 2027; (3) $1,750,000,000 aggregate principal amount of 1.300% Notes due 2030; (4) $1,000,000,000 aggregate principal amount of 2.100% Notes due 2040; (5) $1,000,000,000 aggregate principal amount of 2.250% Notes due 2050; and (6) $1,250,000,000 aggregate principal amount of 2.450% Notes due 2060; (collectively, the “Notes”) under the Company’s Registration Statement on Form S-3,Reg. No. 333-236499. The Underwriting Agreement incorporates the Underwriting Agreement Standard Provisions (Debt), dated August 20, 2020, which is filed as Exhibit 1.1 hereto. The issuance and sale of the Notes closed on August 25, 2020.",
+              "subsections": {}
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits.",
+              "subsections": {
+                "exhibits_list": "1.1: Form of Underwriting Agreement—Standard Provisions (Debt) dated as of August 20, 2020.\n4.1: Company Order establishing the terms of the Notes.\n5.1: Opinion of James J. Bergin, Assistant Secretary of the Company.\n5.2: Opinion of Weil, Gotshal & Manges LLP.\n23.1: Consent of James J. Bergin, Assistant Secretary of the Company (included in Exhibit 5.1 of this Current Report on Form 8-K).\n23.2: Consent of Weil, Gotshal & Manges LLP (included in Exhibit 5.2 of this Current Report on Form 8-K).\n104: The cover page of this Current Report on Form 8-K, formatted in Inline XBRL."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

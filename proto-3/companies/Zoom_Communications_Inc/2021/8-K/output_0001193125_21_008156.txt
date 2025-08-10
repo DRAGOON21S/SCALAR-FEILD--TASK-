@@ -1,0 +1,108 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to Section
+13 or 15(d) of the Securities Exchange Act of 1934 Date of Report (Date of earliest event reported): January 12,
+2021 Zoom Video Communications, Inc. (Exact name of Registrant as Specified in Its Charter)
+                                                                                                            
+  Delaware                                                               001-38865              61-1648780  
+  (State or Other Jurisdiction                                           -Commission         -IRS Employer  
+  of Incorporation)                                                      File Number    Identification No.  
+                                55 Almaden Boulevard, 6th Floor                                      95113  
+                                San Jose, California                                                        
+                                -Address of Principal Executive Offices                          -Zip Code  
+                                                                                                            
+(888) 799-9666 (Registrants Telephone Number, Including Area Code) Not Applicable (Former Name or Former Address,
+if Changed Since Last Report) Check the appropriate box below if the Form 8-Kfiling is intended to simultaneously
+satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions
+A.2. below):
+                                                                                            
+  ☐  Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)  
+                                                                                            
+                                                                             
+  ☐  Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17  
+     CFR 240.14a-12)                                                         
+                                                                             
+                                                                                                             
+  ☐  Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  
+                                                                                                             
+                                                                                                             
+  ☐  Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  
+                                                                                                             
+Securities registered pursuant to Section 12(b) of the Act:
+                                                                                          
+  Title of each class                       Trading      Name of each exchange            
+                                            Symbol(s)    on which registered              
+  Class A Common Stock, $0.001 par value    ZM           The Nasdaq Global Select Market  
+  per share                                                                               
+                                                                                          
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the
+Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2of the Securities Exchange Act of 1934 (§240.12b-2of
+this chapter). Emerging growth company ☒ If an emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. ☒
+                             
+  Item 8.01.  Other Events.  
+                             
+Public Offering of Common Stock On January 12, 2021, Zoom Video Communications, Inc. (the  Company) entered into
+an underwriting agreement (the  Underwriting Agreement) with J.P. Morgan Securities LLC (the  Underwriter),
+relating to the public offering, issuance and sale of 5,147,059 shares of its Class A common stock, par value
+$0.001 per share ( Class A Common Stock). The price to the public in the offering is $340.00 per share of Class A
+Common Stock. Under the terms of the Underwriting Agreement, the Company also granted the Underwriter an option
+exercisable for 30 days to purchase up to an additional 735,294 shares of Class A Common Stock at the public
+offering price, less underwriting discounts and commissions. The gross proceeds to the Company from the offering
+are expected to be approximately $1.75 billion, before deducting underwriting discounts and commissions and other
+estimated offering expenses, or approximately $2.0 billion if the Underwriter exercises in full its option to
+purchase additional shares. The offering is expected to close on January 15, 2021, subject to customary closing
+conditions. The Underwriting Agreement contains customary representations, warranties and agreements by the
+Company, customary conditions to closing, indemnification obligations of the Company and the Underwriter, including
+for liabilities under the Securities Act of 1933, as amended, other obligations of the parties and termination
+provisions. The representations, warranties and covenants contained in the Underwriting Agreement were made only
+for purposes of such agreement and as of specific dates, were solely for the benefit of the parties to such
+agreement and may be subject to limitations agreed upon by the contracting parties, including being qualified by
+confidential disclosures exchanged between the parties in connection with the execution of the Underwriting
+Agreement. The offering is being made pursuant to the Companys registration statement on Form S-3(File No.
+333-252035)and an accompanying prospectus previously filed with the Securities and Exchange Commission ( SEC) and
+a preliminary and final prospectus supplement thereunder. The Underwriting Agreement is filed as Exhibit 1.1
+hereto, and the description of the material terms of the Underwriting Agreement is qualified in its entirety by
+reference to such exhibit. A copy of the opinion of Cooley LLP relating to the legality of the issuance and sale of
+the shares in the offering is attached as Exhibit 5.1 hereto. Updated Company Disclosures The Company is filing
+information for the purpose of updating the risk factor disclosure contained in its prior public filings, including
+those discussed under the heading Item 1A. Risk Factors in its Quarterly Report on Form 10-Qfor the quarter ended
+October 31, 2020, filed with the SEC on December 4, 2020 (the  Quarterly Report), as well as the section titled
+Selected Risks Affecting Our Business appearing in the Quarterly Report. The updated Company disclosures are
+filed herewith as Exhibit 99.1 and are incorporated herein by reference.
+                                                 
+  Item 9.01  Financial Statements and Exhibits.  
+                                                 
+                                                                                                                   
+  Exhibit    Description                                                                                           
+  No.        Underwriting Agreement, dated as of January 12, 2021, by and between Zoom Video Communications, Inc.  
+  1.1        and J.P. Morgan Securities LLC.                                                                       
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
+  5.1        Opinion of Cooley LLP.                                                                                
+  23.1       Consent of Cooley LLP (contained in Exhibit 5.1).                                                     
+  99.1       Updated Company Disclosures.                                                                          
+                                                                                                                   
+Forward-Looking Statements This Current Report on Form 8-Kcontains forward-looking statements, including, without
+limitation, statements relating to the closing of the public offering. These forward-looking statements are based
+upon the Companys current expectations. Actual results could differ materially from these forward-looking
+statements as a result of certain factors, including, without limitation, risks related to market conditions and
+the satisfaction of customary closing conditions related to the public offering. There can be no assurance that the
+Company will be able to complete the public offering
+
+on the anticipated terms, or at all. For a discussion of other risks and uncertainties, and other important
+factors, any of which could cause the Companys actual results to differ from
+those contained in the forward-looking statements, see the section titled Risk Factors in Exhibit 99.1 hereto.
+Except as required by law, the Company assumes no obligation to update these forward-looking statements, or to
+update the
+reasons if actual results differ materially from those anticipated in the forward-looking statements.
+
+SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly
+caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+                                                                                       
+                                  ZOOM VIDEO COMMUNICATIONS,                           
+  Dated: January 13, 2021         INC.                                                 
+ ───────────────────────────────────────────────────────────────────────────────────── 
+                             By:                              /s/ Kelly                
+                                                              Steckelberg              
+                                                              Kelly Steckelberg        
+                                                              Chief Financial Officer  
+                                                                                       

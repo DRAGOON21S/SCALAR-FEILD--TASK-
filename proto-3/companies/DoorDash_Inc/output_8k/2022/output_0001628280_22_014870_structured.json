@@ -1,0 +1,22 @@
+{
+  "DoorDash, Inc.": {
+    "2022": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "Stock Repurchase Program",
+              "subsections": {
+                "authorization_and_goal": "On May 18, 2022, the board of directors of DoorDash, Inc. (the “Company”) authorized the repurchase of up to $400 million shares of the Company’s Class A common stock. The goal of the program is to offset a portion of the dilution associated with restricted stock units issued to employees as part of the Company’s overall compensation program.",
+                "future_assessment": "The Company’s board of directors expects to assess any future repurchase programs based on the Company’s balance sheet, expected free cash flow, and alternative investment opportunities at the time. Any future authorization will be approved and executed consistent with the Company’s capital allocation strategy.",
+                "repurchase_methods": "Repurchases may be made from time to time through open market repurchases or through privately negotiated transactions subject to market conditions, applicable legal requirements and other relevant factors. Open market repurchases may be structured to occur in accordance with the requirements of Rule 10b-18. The Company may also, from time to time, enter into Rule 10b5-1 plans to facilitate repurchases of its shares under this authorization.",
+                "program_discretion_and_conditions": "The repurchase program does not obligate the Company to acquire any particular amount of its Class A common stock, and it may be suspended at any time at the Company’s discretion. The timing and actual number of shares repurchased may depend on a variety of factors, including price, general business and market conditions, and alternative investment opportunities."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "Meta Platforms, Inc.": {
+    "2022": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.07 - Submission of Matters to a Vote of Security Holders": {
+              "content": "On May 25, 2022, Meta Platforms, Inc. (the \"Company\") held its annual meeting of shareholders via live audio webcast (the \"Annual Meeting\"). At the Annual Meeting, the Company's shareholders voted on fifteen proposals, each of which is described in more detail in the Company's definitive proxy statement filed with the Securities and Exchange Commission on April 8, 2022 (the \"Proxy Statement\").",
+              "subsections": {
+                "meeting_quorum_and_voting_power": "At the beginning of the Annual Meeting, there were 1,865,970,703 shares of Class A common stock and 366,557,943 shares of Class B common stock present or represented by proxy at the Annual Meeting, which represented 86.02% of the combined voting power of the shares of Class A common stock and Class B common stock entitled to vote at the Annual Meeting (voting together as a single class), and which constituted a quorum for the transaction of business. Holders of the Company's Class A common stock were entitled to one vote for each share held as of the close of business on April 1, 2022 (the \"Record Date\"), and holders of the Company's Class B common stock were entitled to ten votes for each share held as of the Record Date.",
+                "proposals_voted_on": "1. To elect nine directors, each to serve until the next annual meeting of shareholders and until his or her successor has been elected and qualified, or until his or her earlier death, resignation, or removal.\n2. To ratify the appointment of Ernst & Young LLP as the Company's independent registered public accounting firm for the fiscal year ending December 31, 2022.\n3. A non-binding advisory vote on the compensation program for the Company's named executive officers as disclosed in the Proxy Statement.\n4. A shareholder proposal regarding dual class capital structure.\n5. A shareholder proposal regarding an independent chair.\n6. A shareholder proposal regarding concealment clauses.\n7. A shareholder proposal regarding report on external costs of misinformation.\n8. A shareholder proposal regarding report on community standards enforcement.\n9. A shareholder proposal regarding report and advisory vote on the metaverse.\n10. A shareholder proposal regarding human rights impact assessment.\n11. A shareholder proposal regarding child sexual exploitation online.\n12. A shareholder proposal regarding civil rights and non-discrimination audit.\n13. A shareholder proposal regarding report on lobbying.\n14. A shareholder proposal regarding assessment of audit & risk oversight committee.\n15. A shareholder proposal regarding report on charitable donations.",
+                "proposal_1_election_of_directors": "Nominee: Peggy Alford, For: 4,904,494,626, Withheld: 383,611,794, Broker Non-Votes: 244,034,088\nNominee: Marc L. Andreessen, For: 5,056,331,589, Withheld: 231,774,831, Broker Non-Votes: 244,034,088\nNominee: Andrew W. Houston, For: 5,124,400,680, Withheld: 163,705,740, Broker Non-Votes: 244,034,088\nNominee: Nancy Killefer, For: 5,238,099,605, Withheld: 50,006,815, Broker Non-Votes: 244,034,088\nNominee: Robert M. Kimmitt, For: 5,144,345,108, Withheld: 143,761,312, Broker Non-Votes: 244,034,088\nNominee: Sheryl K. Sandberg, For: 5,232,184,350, Withheld: 55,922,070, Broker Non-Votes: 244,034,088\nNominee: Tracey T. Travis, For: 5,212,941,405, Withheld: 75,165,015, Broker Non-Votes: 244,034,088\nNominee: Tony Xu, For: 5,180,691,337, Withheld: 107,415,083, Broker Non-Votes: 244,034,088\nNominee: Mark Zuckerberg, For: 5,116,809,278, Withheld: 171,297,142, Broker Non-Votes: 244,034,088\nEach of the nine nominees for director was elected to serve until the next annual meeting of shareholders and until his or her successor has been elected and qualified, or until his or her earlier death, resignation, or removal.",
+                "proposal_2_ratification_of_auditor": "For: 5,480,892,394, Against: 47,413,306, Abstentions: 3,834,808. There were no broker non-votes on this proposal. The shareholders ratified the appointment of Ernst & Young LLP as the Company's independent registered public accounting firm for the fiscal year ending December 31, 2022.",
+                "proposal_3_advisory_vote_on_executive_compensation": "For: 4,521,652,771, Against: 758,249,438, Abstentions: 8,204,211, Broker Non-Votes: 244,034,088. The shareholders approved, on a non-binding advisory basis, the compensation program for the Company's named executive officers as disclosed in the Proxy Statement.",
+                "proposal_4_shareholder_proposal_dual_class_capital_structure": "For: 1,484,954,936, Against: 3,797,308,327, Abstentions: 5,843,157, Broker Non-Votes: 244,034,088. The shareholders did not approve the shareholder proposal regarding dual class capital structure.",
+                "proposal_5_shareholder_proposal_independent_chair": "For: 882,731,624, Against: 4,400,304,144, Abstentions: 5,070,652, Broker Non-Votes: 244,034,088. The shareholders did not approve the shareholder proposal regarding an independent chair.",
+                "proposal_6_shareholder_proposal_concealment_clauses": "For: 1,000,344,420, Against: 4,271,695,462, Abstentions: 16,066,538, Broker Non-Votes: 244,034,088. The shareholders did not approve the shareholder proposal regarding concealment clauses.",
+                "proposal_7_shareholder_proposal_report_on_misinformation_costs": "For: 143,673,070, Against: 5,118,039,014, Abstentions: 26,394,336, Broker Non-Votes: 244,034,088. The shareholders did not approve the shareholder proposal regarding report on external costs of misinformation.",
+                "proposal_8_shareholder_proposal_report_on_community_standards_enforcement": "For: 1,014,551,386, Against: 4,257,534,514, Abstentions: 16,020,520, Broker Non-Votes: 244,034,088. The shareholders did not approve the shareholder proposal regarding report on community standards enforcement.",
+                "proposal_9_shareholder_proposal_report_on_metaverse": "For: 153,778,067, Against: 5,044,992,196, Abstentions: 89,336,157, Broker Non-Votes: 244,034,088. The shareholders did not approve the shareholder proposal regarding report and advisory vote on the metaverse.",
+                "proposal_10_shareholder_proposal_human_rights_impact_assessment": "For: 1,252,277,259, Against: 4,019,162,296, Abstentions: 16,666,865, Broker Non-Votes: 244,034,088. The shareholders did not approve the shareholder proposal regarding human rights impact assessment.",
+                "proposal_11_shareholder_proposal_child_sexual_exploitation_online": "For: 910,386,444, Against: 4,358,740,887, Abstentions: 18,979,089, Broker Non-Votes: 244,034,088. The shareholders did not approve the shareholder proposal regarding child sexual exploitation online.",
+                "proposal_12_shareholder_proposal_civil_rights_audit": "For: 16,649,419, Against: 5,258,669,739, Abstentions: 12,787,262, Broker Non-Votes: 244,034,088. The shareholders did not approve the shareholder proposal regarding civil rights and non-discrimination audit.",
+                "proposal_13_shareholder_proposal_report_on_lobbying": "For: 1,086,537,695, Against: 4,189,164,211, Abstentions: 12,404,514, Broker Non-Votes: 244,034,088. The shareholders did not approve the shareholder proposal regarding report on lobbying.",
+                "proposal_14_shareholder_proposal_assessment_of_audit_committee": "For: 552,168,187, Against: 4,723,297,839, Abstentions: 12,640,394, Broker Non-Votes: 244,034,088. The shareholders did not approve the shareholder proposal regarding assessment of audit & risk oversight committee.",
+                "proposal_15_shareholder_proposal_report_on_charitable_donations": "For: 488,979,142, Against: 4,785,865,773, Abstentions: 13,261,505, Broker Non-Votes: 244,034,088. The shareholders did not approve the shareholder proposal regarding report on charitable donations."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "Financial Statements and Exhibits.",
+              "subsections": {
+                "(d) Exhibits": "Exhibit Number: 104, Exhibit Title or Description: Cover Page Interactive Data File (the cover page XBRL tags are embedded within the inline XBRL document)"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

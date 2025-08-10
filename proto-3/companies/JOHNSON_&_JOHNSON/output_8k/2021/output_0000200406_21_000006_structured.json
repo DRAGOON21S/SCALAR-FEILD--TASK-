@@ -1,0 +1,29 @@
+{
+  "Johnson & Johnson": {
+    "2021": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 2 - Financial Information": {
+          "ITEMS": {
+            "Item 2.02 - Results of Operations and Financial Condition": {
+              "content": "On January 26, 2021, Johnson & Johnson issued the attached press release announcing its sales and earnings for the fourth quarter and full year ended January 3, 2021.",
+              "subsections": {}
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits.",
+              "subsections": {
+                "Exhibit 99.1": "Press Release dated January 26, 2021 for the period ended January 3, 2021",
+                "Exhibit 99.2": "Unaudited Comparative Supplementary Sales Data and Condensed Consolidated Statement of Earnings for the fourth quarter and full year",
+                "Exhibit 104": "The cover page from this Current Report on Form 8-K, formatted in Inline XBRL."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

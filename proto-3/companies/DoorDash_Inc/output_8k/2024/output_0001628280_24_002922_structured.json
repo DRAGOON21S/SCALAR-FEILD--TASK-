@@ -1,0 +1,29 @@
+{
+  "DOORDASH, INC.": {
+    "2024": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.02 - Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers": {
+              "content": "On January 31, 2024, the Board of Directors of DoorDash, Inc. (\"DoorDash\") approved revised severance benefits in DoorDash’s Executive Change in Control and Severance Plan (the “Severance Plan”) for current and future participants acting as DoorDash’s Chief Executive Officer and members of senior management directly reporting to the Chief Executive Officer. Pursuant to these revisions, participants are eligible for 12 months of accelerated vesting of equity awards that are subject to time-based vesting alone in the event that the applicable participant’s employment is terminated by DoorDash other than for Cause or the participant’s death or Disability, and other than in connection with a Change in Control (as the foregoing capitalized terms are defined in the Severance Plan), subject to the participants entering into new participation agreements in the form attached to the Severance Plan, and such benefits are in addition to the benefits provided under any prior participation agreements entered into. DoorDash will enter into new participation agreements with the participants eligible for the benefits set forth therein.",
+              "subsections": {
+                "qualification": "The foregoing description of the Severance Plan is qualified in its entirety by reference to the full text of the Severance Plan filed as Exhibit 10.1 to this Current Report on Form 8-K, which is incorporated by reference into this Item 5.02."
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibits.",
+              "subsections": {
+                "exhibit_list": "Exhibit No. 10.1: Executive Change in Control and Severance Plan\nExhibit No. 104: Cover Page Interactive Data File (embedded within the Inline XBRL document)"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

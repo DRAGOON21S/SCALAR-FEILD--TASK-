@@ -1,0 +1,27 @@
+{
+  "JPMorgan Chase & Co.": {
+    "2020": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 8 - Other Events": {
+          "ITEMS": {
+            "Item 8.01 - Other Events": {
+              "content": "On September 15, 2020, JPMorgan Chase & Co. issued a press release announcing that the independent directors of the Board of Directors have appointed Stephen B. Burke as Lead Independent Director, effective January 1, 2021. A copy of the press release referenced above is attached hereto as Exhibit 99.1.",
+              "subsections": {}
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "(d) Exhibit",
+              "subsections": {
+                "Exhibits List": "Exhibit No. 99.1: JPMorgan Chase & Co Press Release dated September 15, 2020\nExhibit No. 101: Pursuant to Rule 406 of Regulation S-T, the cover page is formatted in Inline XBRL (Inline eXtensible Business Reporting Language).\nExhibit No. 104: Cover Page Interactive Data File (embedded within the Inline XBRL document and included in Exhibit 101)."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

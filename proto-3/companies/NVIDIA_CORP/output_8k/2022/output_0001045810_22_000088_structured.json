@@ -1,0 +1,45 @@
+{
+  "NVIDIA CORPORATION": {
+    "2022": {
+      "FORM": "8-K",
+      "CATEGORIES": {
+        "Section 5 - Corporate Governance and Management": {
+          "ITEMS": {
+            "Item 5.02 - Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers": {
+              "content": "On June 2, 2022, at the 2022 Annual Meeting of Stockholders of NVIDIA Corporation, or the 2022 Annual Meeting, our stockholders approved an amendment and restatement of our Amended and Restated 2007 Equity Incentive Plan, or the 2007 Plan, to increase the available share reserve by 51,500,000 shares as described in our definitive proxy statement for the 2022 Annual Meeting filed with the Securities and Exchange Commission on April 19, 2022, or the Proxy Statement. The 2007 Plan previously had been approved, subject to stockholder approval, by the Compensation Committee of the Board of Directors of NVIDIA Corporation. A summary of the 2007 Plan is set forth in our Proxy Statement. That summary and the foregoing description of the 2007 Plan are qualified in their entirety by reference to the text of the 2007 Plan, which is filed as Exhibit 10.1 to this Current Report on Form 8-K.",
+              "subsections": {
+                "Amendment and Restatement of Amended and Restated 2007 Equity Incentive Plan": "On June 2, 2022, at the 2022 Annual Meeting of Stockholders of NVIDIA Corporation, stockholders approved an amendment and restatement of the Amended and Restated 2007 Equity Incentive Plan to increase the available share reserve by 51,500,000 shares."
+              }
+            },
+            "Item 5.03 - Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year": {
+              "content": "On June 2, 2022, at the 2022 Annual Meeting, our stockholders approved an amendment to our Restated Certificate of Incorporation, or the Amendment, to increase the number of authorized shares of common stock from 4 billion to 8 billion. The Amendment, which was filed with the Secretary of State of the State of Delaware on June 6, 2022, is filed as Exhibit 3.1 to this Current Report on Form 8-K.",
+              "subsections": {
+                "Amendment to Certificate of Incorporation": "On June 2, 2022, stockholders approved an amendment to the Restated Certificate of Incorporation to increase the number of authorized shares of common stock from 4 billion to 8 billion. The amendment was filed with the Secretary of State of the State of Delaware on June 6, 2022."
+              }
+            },
+            "Item 5.07 - Submission of Matters to a Vote of Security Holders": {
+              "content": "On June 2, 2022, at the 2022 Annual Meeting, the following proposals were adopted by the margin indicated. Proxies for the 2022 Annual Meeting were solicited pursuant to Section 14(a) of the Securities Exchange Act of 1934, as amended, and there was no solicitation in opposition of management’s solicitation.",
+              "subsections": {
+                "Proposal 1: Election of Directors": "Stockholders approved the election of each of our thirteen (13) directors to serve for a one-year term until our 2023 Annual Meeting of Stockholders. The results of the voting were as follows:\na. Robert K. Burgess - For: 1,557,656,916, Against: 25,355,663, Abstaining: 3,017,685, Broker Non-Votes: 363,931,578\nb. Tench Coxe - For: 1,464,863,119, Against: 118,067,881, Abstaining: 3,099,264, Broker Non-Votes: 363,931,578\nc. John O. Dabiri - For: 1,572,940,318, Against: 9,906,378, Abstaining: 3,183,568, Broker Non-Votes: 363,931,578\nd. Persis S. Drell - For: 1,537,139,500, Against: 43,074,541, Abstaining: 5,816,223, Broker Non-Votes: 363,931,578\ne. Jen-Hsun Huang - For: 1,558,030,069, Against: 25,750,474, Abstaining: 2,249,721, Broker Non-Votes: 363,931,578\nf. Dawn Hudson - For: 1,559,460,807, Against: 23,762,969, Abstaining: 2,806,488, Broker Non-Votes: 363,931,578\ng. Harvey C. Jones - For: 1,318,082,151, Against: 254,092,161, Abstaining: 13,855,952, Broker Non-Votes: 363,931,578\nh. Michael G. McCaffery - For: 1,572,269,568, Against: 10,468,897, Abstaining: 3,291,799, Broker Non-Votes: 363,931,578\ni. Stephen C. Neal - For: 1,519,848,673, Against: 60,331,533, Abstaining: 5,850,058, Broker Non-Votes: 363,931,578\nj. Mark L. Perry - For: 1,377,526,033, Against: 202,714,371, Abstaining: 5,789,860, Broker Non-Votes: 363,931,578\nk. A. Brooke Seawell - For: 1,428,618,970, Against: 154,322,851, Abstaining: 3,088,443, Broker Non-Votes: 363,931,578\nl. Aarti Shah - For: 1,574,048,777, Against: 8,864,157, Abstaining: 3,117,330, Broker Non-Votes: 363,931,578\nm. Mark A. Stevens - For: 1,451,553,368, Against: 128,685,619, Abstaining: 5,791,277, Broker Non-Votes: 363,931,578",
+                "Proposal 2: Advisory Vote on Executive Compensation": "Stockholders approved, on an advisory basis, the compensation of our named executive officers as disclosed in the Proxy Statement. The results of the voting were as follows: For: 1,470,420,627, Against: 106,301,854, Abstaining: 9,307,783, Broker Non-Votes: 363,931,578",
+                "Proposal 3: Ratification of Independent Registered Accounting Firm": "Stockholders approved the ratification of the appointment of PricewaterhouseCoopers LLP as our independent registered accounting firm for our fiscal year ending January 29, 2023. The results of the voting were as follows: For: 1,923,274,578, Against: 23,850,761, Abstaining: 2,836,503, Broker Non-Votes: —",
+                "Proposal 4: Approval of Amendment to Certificate of Incorporation": "Stockholders approved the Amendment. The results of the voting were as follows: For: 1,883,628,707, Against: 62,614,633, Abstaining: 3,718,502, Broker Non-Votes: —",
+                "Proposal 5: Approval of the 2007 Equity Incentive Plan": "Stockholders approved the 2007 Plan. The results of the voting were as follows: For: 1,497,320,046, Against: 85,756,953, Abstaining: 2,953,265, Broker Non-Votes: 363,931,578"
+              }
+            }
+          }
+        },
+        "Section 9 - Financial Statements and Exhibits": {
+          "ITEMS": {
+            "Item 9.01 - Financial Statements and Exhibits": {
+              "content": "",
+              "subsections": {
+                "(d) Exhibits": "Exhibit Number 3.1: Amendment to Restated Certificate of Incorporation of NVIDIA Corporation.\nExhibit Number 10.1: Amended and Restated 2007 Equity Incentive Plan.\nExhibit Number 104: The cover page of this Current Report on Form 8-K, formatted in inline XBRL (included as Exhibit 101)."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
